@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PropertyPage Properties</span> {: .heading}
+# PropertyPage Properties
 
 |-------------------------------------------|-----------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Caption](../properties/caption.md)      |[Posn](../properties/posn.md)              |

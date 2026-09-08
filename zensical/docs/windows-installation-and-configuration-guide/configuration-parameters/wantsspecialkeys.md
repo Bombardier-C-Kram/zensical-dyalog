@@ -1,4 +1,4 @@
-# <span class="name">WantsSpecialKeys</span> {: .heading}
+# WantsSpecialKeys
 
 **Unicode Edition only.**
 

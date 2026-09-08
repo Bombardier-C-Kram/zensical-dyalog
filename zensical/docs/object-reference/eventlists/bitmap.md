@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Bitmap Events</span> {: .heading}
+# Bitmap Events
 
 |-----------------------------------|-------------------------------------|-------------------------------------|
 |[Close](../methodorevents/close.md)|[Create](../methodorevents/create.md)|[Select](../methodorevents/select.md)|

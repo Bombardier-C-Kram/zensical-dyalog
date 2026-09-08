@@ -1,4 +1,4 @@
-# <span class="name">Find Objects Tool</span> {: .heading}
+# Find Objects Tool
 
 The *Find Objects* tool is a modeless dialog box that may be toggled on and off by the system action `[WSSearch]`. In a default Session, this action is attached to a MenuItem in the Tools menu and a Button on the session toolbar.
 

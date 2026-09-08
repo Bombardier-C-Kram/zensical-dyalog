@@ -1,4 +1,4 @@
-# <span class="name">Auto Complete Tab</span> {: .heading}
+# Auto Complete Tab
 
 ![configuration dialog auto complete tab](../../img/configuration-dialog-auto-complete-tab.png)
 

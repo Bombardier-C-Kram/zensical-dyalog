@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Repeat Statement</span> <span class="command">:Repeat</span> {: .heading}
+# Repeat Statement
+
+```apl
+:Repeat
+```
 
 
 

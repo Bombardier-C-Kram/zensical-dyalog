@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Italic Property</span> {: .heading}
+# Italic Property
 
 |--------------------------|------|------|
 |[Font](../objects/font.md)|&nbsp;|&nbsp;|

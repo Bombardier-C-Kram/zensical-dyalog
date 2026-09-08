@@ -1,4 +1,4 @@
-# <span class="name">International Day Number</span> {: .heading}
+# International Day Number
 
 
 

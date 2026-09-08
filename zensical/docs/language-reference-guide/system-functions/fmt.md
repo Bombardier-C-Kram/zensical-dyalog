@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Format</span> <span class="command">⎕FMT</span> {: .heading}
+# Format
+
+```apl
+⎕FMT
+```
 
 
 ## Monadic `⎕FMT` means

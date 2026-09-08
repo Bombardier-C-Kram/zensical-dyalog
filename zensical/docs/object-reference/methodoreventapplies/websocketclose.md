@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WebSocketClose Method</span> {: .heading}
+# WebSocketClose Method
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">Circle</span> <span class="right">Object</span> {: .heading}
+# Circle
+
+Object
 
 
 
@@ -41,7 +43,7 @@ If [Start](../properties/start.md) is specified, but not [End](../properties/end
 
 This means that you can draw a pie-chart using either [Start](../properties/start.md) or [End](../properties/end.md) angles; you do not have to specify both.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 A circle whose centre is (50,50) and radius 20

@@ -1,4 +1,4 @@
-# <span class="name">APLAN\_FOR\_OUTPUT</span> {: .heading}
+# APLAN\_FOR\_OUTPUT
 
 This parameter specifies whether (`1`) or not (`0`, the default) to use [array notation](../../../programming-reference-guide/introduction/arrays/array-notation/) for session output when possible.
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Clipboard Children</span> {: .heading}
+# Clipboard Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

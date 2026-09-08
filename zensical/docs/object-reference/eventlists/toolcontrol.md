@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolControl Events</span> {: .heading}
+# ToolControl Events
 
 |---------------------------------------------------|-----------------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)          |[DragDrop](../methodorevents/dragdrop.md)    |

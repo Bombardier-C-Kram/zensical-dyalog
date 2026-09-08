@@ -1,4 +1,6 @@
-# <span class="name">Resolution</span> <span class="right">Property</span> {: .heading}
+# Resolution
+
+Property
 
 
 

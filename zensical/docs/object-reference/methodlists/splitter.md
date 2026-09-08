@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter Methods</span> {: .heading}
+# Splitter Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

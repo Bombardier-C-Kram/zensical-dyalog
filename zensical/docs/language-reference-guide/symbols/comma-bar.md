@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Comma Bar</span> <span class="command">⍪</span> {: .heading}
+# Comma Bar
+
+```apl
+⍪
+```
 
 Monadic Comma Bar means
 [Table](../primitive-functions/table.md)

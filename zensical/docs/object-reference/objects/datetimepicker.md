@@ -1,4 +1,6 @@
-# <span class="name">DateTimePicker</span> <span class="right">Object</span> {: .heading}
+# DateTimePicker
+
+Object
 
 
 

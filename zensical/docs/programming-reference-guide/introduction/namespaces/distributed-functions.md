@@ -1,4 +1,4 @@
-# <span class="name">Distributed Functions</span> {: .heading}
+# Distributed Functions
 
 Namespace ref array expansion syntax applies to functions too.
 ```apl

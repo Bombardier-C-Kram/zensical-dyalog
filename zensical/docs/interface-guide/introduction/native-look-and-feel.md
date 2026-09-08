@@ -1,4 +1,4 @@
-# <span class="name">Native Look and Feel</span> {: .heading}
+# Native Look and Feel
 
 *Native Look and Feel* is a Dyalog option that affects the appearance of the controls provided by the Dyalog GUI Interface and those used by the Dyalog Session. It is implemented by the **XPLookAndFeel** parameter.
 

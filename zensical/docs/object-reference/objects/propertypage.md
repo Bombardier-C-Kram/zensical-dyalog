@@ -1,4 +1,6 @@
-# <span class="name">PropertyPage</span> <span class="right">Object</span> {: .heading}
+# PropertyPage
+
+Object
 
 
 

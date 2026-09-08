@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Print Width</span> <span class="command">⎕PW</span> {: .heading}
+# Print Width
+
+```apl
+⎕PW
+```
 
 
 
@@ -30,7 +34,7 @@ If an attempt is made to display a line wider than `⎕PW`, then the display wil
 
 Note that if the Auto_PW parameter (*Options/Configure/Session/Auto PW*) is set to 1, `⎕PW` is automatically adjusted whenever the Session window is resized. In these circumstances, a value assigned to `⎕PW` will only apply until the Session window is next resized.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕PW←42
  

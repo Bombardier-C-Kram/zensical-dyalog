@@ -7,7 +7,11 @@ search:
   over
 </div>
 
-# <span class="name">Over</span> <span class="command">\{R\}←\{X\}f⍥gY</span> {: .heading}
+# Over
+
+```apl
+{R}←{X}f⍥gY
+```
 
 !!! Info "Information"
     The `⍥` glyph is not available in Classic Edition, and the _behind_ operator is instead represented by `⎕U2365`.
@@ -20,7 +24,7 @@ If `X` is omitted, `f` must be a monadic function. If `X` is specified, `f` must
 
 The derived function is equivalent to `fgY` or `(gX)f(gY)` and need not return a result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2 3 ,⍥⊂ 'text'   ⍝ ,⍥⊂  ←→  {⍺⍵}
 ┌───┬────┐

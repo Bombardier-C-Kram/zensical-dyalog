@@ -1,4 +1,6 @@
-# <span class="name">VScroll</span> <span class="right">Event 38</span> {: .heading}
+# VScroll
+
+Event 38
 
 
 

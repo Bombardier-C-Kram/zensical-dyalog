@@ -7,7 +7,11 @@ search:
   ⎕FRDAC FRDAC
 </div>
 
-# <span class="name">File Read Access</span> <span class="command">R←⎕FRDAC Y</span> {: .heading}
+# File Read Access
+
+```apl
+R←⎕FRDAC Y
+```
 
 ## Access code 4096
 
@@ -15,7 +19,7 @@ search:
 
 For details see [File Access Control](../../../programming-reference-guide/component-files/component-files/#file-access-control).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕FRDAC 1
 28 2105 16385

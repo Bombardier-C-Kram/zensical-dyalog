@@ -1,4 +1,6 @@
-# <span class="name">FormatString</span> <span class="right">Property</span> {: .heading}
+# FormatString
+
+Property
 
 
 

@@ -8,7 +8,11 @@ search:
   2010⌶
 </div>
 
-# <span class="name">Update DataTable</span> <span class="command">R←\{X\}2010⌶Y</span> {: .heading}
+# Update DataTable
+
+```apl
+R←{X}2010⌶Y
+```
 
 !!! note
     **.NET Framework only**
@@ -24,7 +28,7 @@ This function performs a *block update* of an instance of the ADO.NET object Sys
 
 The optional argument `X` is  Boolean vector, where a 1 indicates that the corresponding column of  `Y[2]` is a string from which the new values  should be converted according to that column's data type.
 
-<h2 class="example">Example</h2>
+## Example
 
 Shown firstly for comparison is the type of code that is required to update a DataTable by looping:
 ```apl

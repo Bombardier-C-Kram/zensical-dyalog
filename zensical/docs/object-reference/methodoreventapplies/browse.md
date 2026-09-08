@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Browse Method</span> {: .heading}
+# Browse Method
 
 |----------------------------------|------------------------------------|------|
 |[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|&nbsp;|

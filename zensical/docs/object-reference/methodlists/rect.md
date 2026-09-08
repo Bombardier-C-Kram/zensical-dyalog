@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Rect Methods</span> {: .heading}
+# Rect Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

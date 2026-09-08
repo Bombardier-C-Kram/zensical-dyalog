@@ -1,4 +1,4 @@
-# <span class="name">Object Syntax Tab</span> {: .heading}
+# Object Syntax Tab
 
 ![configuration dialog object syntax tab](../../img/configuration-dialog-object-syntax-tab.png)
 

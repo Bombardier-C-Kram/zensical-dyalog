@@ -1,4 +1,4 @@
-# <span class="name">Keyboard Shortcuts</span> {: .heading}
+# Keyboard Shortcuts
 
 The terms keyboard shortcut (Unicode Edition) and command (Classic Edition) are used herein to describe a keystroke that generates an action, rather than one that produces a symbol.
 

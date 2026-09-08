@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AnimStarted Event</span> {: .heading}
+# AnimStarted Event
 
 |------------------------------------|------|------|
 |[Animation](../objects/animation.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">Session Pop-Up Menu</span> {: .heading}
+# Session Pop-Up Menu
 
 The Session popup menu (`⎕SE.popup`) is displayed by clicking the right mouse button anywhere in the Session or Editor window.
 

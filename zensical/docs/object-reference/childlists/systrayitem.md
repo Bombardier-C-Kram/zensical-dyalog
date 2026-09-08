@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SysTrayItem Children</span> {: .heading}
+# SysTrayItem Children
 
 |--------------------------|--------------------------|----------------------------|
 |[Icon](../objects/icon.md)|[Menu](../objects/menu.md)|[Timer](../objects/timer.md)|

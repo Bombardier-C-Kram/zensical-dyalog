@@ -1,4 +1,6 @@
-# <span class="name">Align</span> <span class="right">Property</span> {: .heading}
+# Align
+
+Property
 
 [**Applies To**](../propertyapplies/align.md)
 

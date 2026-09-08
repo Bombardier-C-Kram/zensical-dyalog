@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Window Create Object</span> <span class="command">\{R\}←\{X\}⎕WC Y</span> {: .heading}
+# Window Create Object
+
+```apl
+{R}←{X}⎕WC Y
+```
 
 
 
@@ -84,7 +88,7 @@ is equivalent to :
       'B1' F1.⎕WC 'Button'
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 ⍝ Create a default Form called F1
  

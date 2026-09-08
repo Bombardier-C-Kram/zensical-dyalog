@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasApply Property</span> {: .heading}
+# HasApply Property
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

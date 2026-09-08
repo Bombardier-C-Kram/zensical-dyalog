@@ -6,7 +6,11 @@ search:
   ⌶
 </div>
 
-# <span class="name">I-Beam</span> <span class="command">R←\{X\}(A⌶)Y</span> {: .heading}
+# I-Beam
+
+```apl
+R←{X}(A⌶)Y
+```
 
 I-Beam is a monadic operator that provides a range of system-related services.
 

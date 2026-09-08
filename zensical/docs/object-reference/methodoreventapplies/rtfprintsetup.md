@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RTFPrintSetup Method</span> {: .heading}
+# RTFPrintSetup Method
 
 |--------------------------------|----------------------------------|------|
 |[Printer](../objects/printer.md)|[RichEdit](../objects/richedit.md)|&nbsp;|

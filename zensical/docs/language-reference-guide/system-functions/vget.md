@@ -7,7 +7,11 @@ search:
   ⎕VGET VGET
 </div>
 
-# <span class="name">Value Get</span> <span class="command">R←\{X\}⎕VGET Y</span> {: .heading}
+# Value Get
+
+```apl
+R←{X}⎕VGET Y
+```
 
 `⎕VGET` enables values to be read for names in a source namespace or source namespaces. Optionally, a fallback value can be used if the name requested is undefined.
 
@@ -51,7 +55,7 @@ The fallback values must be one of the following:
 
 The result `R` is a vector of the values from the corresponding names or fallback values.
 
-<h3 class="example">Examples</h3>
+### Examples
 
 Multiple names without fallback:
 
@@ -114,7 +118,7 @@ Names are specified as character vectors or scalars. `Y` must be one of the foll
 * a single enclosed name-value pair, which is a two-element vector consisting of a character vector name and a fallback value for that name: `R` is the value of the name, or the fallback value in case the name has no value.
 * a nested vector where each item is either a name, or a name value pair: `R` is a vector with the same length as `Y`, with the values from the corresponding names, or fallback values.
 
-<h3 class="example">Examples</h3>
+### Examples
 
 Single name:
 ```apl
@@ -178,7 +182,7 @@ If any of the numbers in `Y` are negative, the result `R` is a vector of name-va
 
 [`⎕NC`](nc.md) always reports the names of fields in a class as having nameclass `2` (`2.2` with the sub-class), even when the name has no value (might expect `0`) or the field is a namespace reference (might expect `9`). [`⎕VGET`](vget.md) with a right argument of `2` will only include fields that have values that are not references, while a right argument of `9` will include fields that are references. With a right argument of `2.2`, [`⎕VGET`](vget.md) will return all fields that are not undefined.
 
-<h3 class="example">Examples</h3>
+### Examples
 Name value pairs:
 
 ```apl

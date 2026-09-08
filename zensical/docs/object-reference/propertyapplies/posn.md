@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Posn Property</span> {: .heading}
+# Posn Property
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Button](../objects/button.md)          |

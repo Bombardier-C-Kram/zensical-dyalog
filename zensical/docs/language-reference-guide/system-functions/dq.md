@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Dequeue Events</span> <span class="command">\{R\}←⎕DQ Y</span> {: .heading}
+# Dequeue Events
+
+```apl
+{R}←⎕DQ Y
+```
 
 
 

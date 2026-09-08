@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Combo Parents</span> {: .heading}
+# Combo Parents
 
 |----------------------------------------------|----------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)                |

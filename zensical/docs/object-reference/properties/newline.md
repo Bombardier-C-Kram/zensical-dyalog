@@ -1,4 +1,6 @@
-# <span class="name">NewLine</span> <span class="right">Property</span> {: .heading}
+# NewLine
+
+Property
 
 
 

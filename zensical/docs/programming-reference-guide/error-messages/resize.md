@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">RESIZE</span> <span class="command">1007</span> {: .heading}
+# RESIZE
+
+```apl
+1007
+```
 
 
 

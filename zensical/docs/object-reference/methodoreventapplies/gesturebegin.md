@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GestureBegin Event</span> {: .heading}
+# GestureBegin Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

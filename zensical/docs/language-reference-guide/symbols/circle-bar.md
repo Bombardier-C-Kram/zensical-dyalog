@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Circle Bar</span> <span class="command">⊖</span> {: .heading}
+# Circle Bar
+
+```apl
+⊖
+```
 
 Monadic Circle Bar means
 [Reverse First](../primitive-functions/reverse-first.md)

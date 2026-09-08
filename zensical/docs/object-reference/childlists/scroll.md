@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Scroll Children</span> {: .heading}
+# Scroll Children
 
 |------------------------------|------------------------------|--------------------------------|
 |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|[Ellipse](../objects/ellipse.md)|

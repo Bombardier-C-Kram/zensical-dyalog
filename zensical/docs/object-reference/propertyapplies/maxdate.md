@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MaxDate Property</span> {: .heading}
+# MaxDate Property
 
 |----------------------------------|----------------------------------------------|------|
 |[Calendar](../objects/calendar.md)|[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|

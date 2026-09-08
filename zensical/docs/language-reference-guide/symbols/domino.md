@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Domino</span> <span class="command">⌹</span> {: .heading}
+# Domino
+
+```apl
+⌹
+```
 
 Monadic Domino means
 [Matrix Inverse Of](../primitive-functions/matrix-inverse.md)

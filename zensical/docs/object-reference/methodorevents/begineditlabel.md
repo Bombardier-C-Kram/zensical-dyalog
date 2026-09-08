@@ -1,4 +1,6 @@
-# <span class="name">BeginEditLabel</span> <span class="right">Event 300</span> {: .heading}
+# BeginEditLabel
+
+Event 300
 
 
 

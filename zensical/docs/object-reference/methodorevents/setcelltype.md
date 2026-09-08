@@ -1,4 +1,6 @@
-# <span class="name">SetCellType</span> <span class="right">Method 156</span> {: .heading}
+# SetCellType
+
+Method 156
 
 
 

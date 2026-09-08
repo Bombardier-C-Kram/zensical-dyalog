@@ -1,4 +1,6 @@
-# <span class="name">HasTicks</span> <span class="right">Property</span> {: .heading}
+# HasTicks
+
+Property
 
 
 

@@ -8,7 +8,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment (Indexed)</span> <span class="command">\{R\}←X\[I\]←Y</span> {: .heading}
+# Assignment (Indexed)
+
+```apl
+{R}←X[I]←Y
+```
 
 Indexed Assignment is the Assignment function modified by the Indexing function.  The phrase `[I]←` is treated as the function for descriptive purposes.
 
@@ -24,7 +28,7 @@ Three forms of indexing are permitted.
 
 For vector `X`, `I` is a simple integer array whose items are from the set `⍳⍴R`.  Elements of `X` identified by index positions `I` are replaced by corresponding elements of `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +A←⍳5
 1 2 3 4 5
@@ -42,7 +46,7 @@ The last-most element of `Y` is assigned when an index is repeated in `I`:
 
 For matrix `X`, `I` is composed of two simple integer arrays separated by the semicolon character (`;`).  The arrays select indices from the rows and columns of `X` respectively.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +B←2 3⍴'REDSUN'
 RED
@@ -55,7 +59,7 @@ SON
 
 For higher-rank array `X`, `I` is a series of simple integer arrays with adjacent arrays separated by a single semicolon character (`;`).  Each array selects indices from an axis of `X` taken in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       C
 11 12 13
@@ -93,7 +97,7 @@ An indexing array may be ELIDED.  That is, if an indexing array is omitted from 
 
 The index specification `I` is a non-simple integer array. Each item identifies a single element of `X` by a set of indices with one element per axis of `X` in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       C
 11 12 13 14
@@ -145,7 +149,7 @@ Choose Indexed Assignment may be used very effectively in conjunction with Index
 
 The index specification `I` is a non-simple integer array, each of whose items reach down to a nested element of `X`.  The items of an item of `I` are simple vectors (or scalars) forming sets of indices that index arrays at successive levels of `X` starting at the top-most level.  A set of indices has one element per axis at the respective level of nesting of `X` in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       D←(2 3⍴⍳6)(2 2⍴'SMITH' 'JONES' 'SAM' 'BILL')
  

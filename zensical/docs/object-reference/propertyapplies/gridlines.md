@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridLines Property</span> {: .heading}
+# GridLines Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

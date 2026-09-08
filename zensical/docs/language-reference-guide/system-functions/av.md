@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Atomic Vector</span> <span class="command">R←⎕AV</span> {: .heading}
+# Atomic Vector
+
+```apl
+R←⎕AV
+```
 
 
 
@@ -27,7 +31,7 @@ In the Classic Edition the contents of `⎕AV` are defined by the Output Transla
 
 In the Unicode Edition, the contents of `⎕AV` are defined by the system variable `⎕AVU`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕AV[48+⍳10]
 0123456789

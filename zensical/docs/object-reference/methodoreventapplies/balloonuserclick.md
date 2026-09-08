@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BalloonUserClick Event</span> {: .heading}
+# BalloonUserClick Event
 
 |----------------------------------------|------|------|
 |[SysTrayItem](../objects/systrayitem.md)|&nbsp;|&nbsp;|

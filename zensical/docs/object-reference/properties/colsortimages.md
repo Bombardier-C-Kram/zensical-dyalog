@@ -1,4 +1,6 @@
-# <span class="name">ColSortImages</span> <span class="right">Property</span> {: .heading}
+# ColSortImages
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridKeyPress Event</span> {: .heading}
+# GridKeyPress Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:Hold Statement</span> {: .heading}
+# :Hold Statement
 
 ```
  

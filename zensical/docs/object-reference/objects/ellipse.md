@@ -1,4 +1,6 @@
-# <span class="name">Ellipse</span> <span class="right">Object</span> {: .heading}
+# Ellipse
+
+Object
 
 
 
@@ -83,7 +85,7 @@ specifying a standard fill pattern, or the name of a [Bitmap](bitmap.md) object 
 representing standard colours, or 3-element vectors which specify colours
 explicitly in terms of their RGB values.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 First make a [Form](form.md) :
@@ -177,7 +179,7 @@ The [Coord](../properties/coord.md), [Dragable](../properties/dragable.md) and [
 object as a whole, and may not be allocated different values for each individual
 ellipse, circle or arc that is drawn.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 First make a [Form](form.md) :

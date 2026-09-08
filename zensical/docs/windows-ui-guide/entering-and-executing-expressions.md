@@ -1,4 +1,4 @@
-# <span class="name">Entering and Executing Expressions</span> {: .heading}
+# Entering and Executing Expressions
 
 ## Introduction
 

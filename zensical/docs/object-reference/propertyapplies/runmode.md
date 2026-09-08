@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RunMode Property</span> {: .heading}
+# RunMode Property
 
 |------------------------------------|------|------|
 |[OLEServer](../objects/oleserver.md)|&nbsp;|&nbsp;|

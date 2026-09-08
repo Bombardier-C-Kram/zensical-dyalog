@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:Select Statement</span> {: .heading}
+# :Select Statement
 
 ```
  

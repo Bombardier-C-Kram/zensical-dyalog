@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasToday Property</span> {: .heading}
+# HasToday Property
 
 |----------------------------------|----------------------------------------------|------|
 |[Calendar](../objects/calendar.md)|[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|

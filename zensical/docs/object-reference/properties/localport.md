@@ -1,4 +1,6 @@
-# <span class="name">LocalPort</span> <span class="right">Property</span> {: .heading}
+# LocalPort
+
+Property
 
 
 

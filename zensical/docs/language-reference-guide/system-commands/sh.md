@@ -1,4 +1,8 @@
-# <span class="name">Execute (UNIX) Command</span> <span class="command">)SH \{cmd\}</span> {: .heading}
+# Execute (UNIX) Command
+
+```apl
+)SH {cmd}
+```
 
 This command allows WINDOWS or UNIX shell commands to be given from APL.  `)SH` is a synonym of `)CMD`. Either command may be given in either environment (Windows or UNIX) with exactly the same effect.  `)SH` is probably more natural for the UNIX user. This section describes the behaviour of `)SH` and `)CMD` under UNIX. See [Windows Command Processor](cmd.md) for a discussion of their behaviour under Windows.
 
@@ -13,7 +17,7 @@ When the shell is closed, control returns to APL. See *Dyalog for UNIX UI Guide*
 
 The parameters CMD_PREFIX and CMD_POSTFIX may be used to execute a different shell under the shell associated with `system()`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )SH ps -u andys | grep -v ps
    UID      PID    TTY  TIME CMD

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Size Property</span> {: .heading}
+# Size Property
 
 |----------------------------------------------|--------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |[Bitmap](../objects/bitmap.md)                |

@@ -1,4 +1,6 @@
-# <span class="name">Locale</span> <span class="right">Property</span> {: .heading}
+# Locale
+
+Property
 
 
 

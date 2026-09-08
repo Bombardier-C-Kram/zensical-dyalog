@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">LateBind Property</span> {: .heading}
+# LateBind Property
 
 |------------------------------------|------------------------------------|------|
 |[OLEClient](../objects/oleclient.md)|[OLEServer](../objects/oleserver.md)|&nbsp;|

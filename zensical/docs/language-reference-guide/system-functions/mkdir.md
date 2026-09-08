@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Make Directory</span> <span class="command">\{R\}←\{X\}⎕MKDIR Y</span> {: .heading}
+# Make Directory
+
+```apl
+{R}←{X}⎕MKDIR Y
+```
 
 
 
@@ -48,12 +52,12 @@ The **Unique** option specifies whether the base name (see [File Name Parts](npa
 
 | Unique            | Effect on Behaviour  |
 |-------------------|----------------------|
-|` 0`   { .shaded } | The directory named in `Y` will be created. |
+|` 0` (default)| The directory named in `Y` will be created. |
 | `1`               | The name in `Y` is modified by extending the base name with random characters and the directory is created. The name of the directory is returned in the result `R`. |
 
 If a directory cannot be created (for example, if a directory with that name already exists, or write access is denied) then an error is signalled.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕NEXISTS '/Users/Pete/Documents/temp'

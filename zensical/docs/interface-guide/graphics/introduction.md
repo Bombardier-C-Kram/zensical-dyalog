@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 Graphical output is performed using the following objects:
 

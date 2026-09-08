@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BrowseBox Parents</span> {: .heading}
+# BrowseBox Parents
 
 |----------------------------------------------|------------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)  |[Form](../objects/form.md)                |

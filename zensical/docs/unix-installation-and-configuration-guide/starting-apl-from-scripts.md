@@ -1,4 +1,4 @@
-# <span class="name">Miscellaneous</span> {: .heading}
+# Miscellaneous
 
 ## Running from scripts
 

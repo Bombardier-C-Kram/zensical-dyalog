@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SubForm Methods</span> {: .heading}
+# SubForm Methods
 
 |-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)          |[ChooseFont](../methodorevents/choosefont.md)|[GetTextSize](../methodorevents/gettextsize.md)|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locator Methods</span> {: .heading}
+# Locator Methods
 
 |-------------------------------------|---------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[Wait](../methodorevents/wait.md)|&nbsp;|

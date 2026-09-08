@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Image Methods</span> {: .heading}
+# Image Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HotTrack Property</span> {: .heading}
+# HotTrack Property
 
 |--------------------------------------|------|------|
 |[TabControl](../objects/tabcontrol.md)|&nbsp;|&nbsp;|

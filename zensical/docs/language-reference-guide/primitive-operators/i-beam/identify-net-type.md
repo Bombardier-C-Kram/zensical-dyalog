@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Identify .NET Type</span> <span class="command">R←2017⌶Y</span> {: .heading}
+# Identify .NET Type
+
+```apl
+R←2017⌶Y
+```
 
 
 
@@ -29,7 +33,7 @@ Returns the .NET Type of a named .NET class that is loaded in the current AppDom
 
 If the object is identified in the current AppDomain, the result `R` is its Type. If not, the function generates `DOMAIN ERROR`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕USING←'System'
       2017⌶'DateTime'

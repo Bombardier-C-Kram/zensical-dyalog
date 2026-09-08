@@ -1,4 +1,6 @@
-# <span class="name">EditImage</span> <span class="right">Property</span> {: .heading}
+# EditImage
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">FontList</span> <span class="right">Property</span> {: .heading}
+# FontList
+
+Property
 
 
 
@@ -25,7 +27,7 @@ which is as follows :
 |`[7]`|Angle of rotation (integer)               |
 |`[8]`|Character set (see [CharSet](charset.md) )|
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
        ↑'.'⎕WG'FontList'
  System                         16 0 0 0 700 0   0

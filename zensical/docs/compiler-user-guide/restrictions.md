@@ -1,4 +1,4 @@
-# <span class="name">Restrictions</span> {: .heading}
+# Restrictions
 
 There are several restrictions when using the compiler, some of which might be removed in later versions.
 

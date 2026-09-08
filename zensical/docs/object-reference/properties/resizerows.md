@@ -1,4 +1,6 @@
-# <span class="name">ResizeRows</span> <span class="right">Property</span> {: .heading}
+# ResizeRows
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageDeactivate Event</span> {: .heading}
+# PageDeactivate Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

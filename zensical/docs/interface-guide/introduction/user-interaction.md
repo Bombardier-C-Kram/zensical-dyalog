@@ -1,4 +1,4 @@
-# <span class="name">User Interaction &amp; Events</span> {: .heading}
+# User Interaction &amp; Events
 
 ## Giving Control to the User
 

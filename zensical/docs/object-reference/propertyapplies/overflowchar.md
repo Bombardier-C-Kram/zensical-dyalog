@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OverflowChar Property</span> {: .heading}
+# OverflowChar Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

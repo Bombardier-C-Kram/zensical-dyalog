@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WinIniChange Event</span> {: .heading}
+# WinIniChange Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

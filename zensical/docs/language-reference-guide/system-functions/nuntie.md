@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Untie</span> <span class="command">\{R\}←⎕NUNTIE Y</span> {: .heading}
+# Native File Untie
+
+```apl
+{R}←⎕NUNTIE Y
+```
 
 
 

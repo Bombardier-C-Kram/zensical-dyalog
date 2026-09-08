@@ -1,4 +1,6 @@
-# <span class="name">HighlightHeaders</span> <span class="right">Property</span> {: .heading}
+# HighlightHeaders
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDITile Method</span> {: .heading}
+# MDITile Method
 
 |------------------------------------|------|------|
 |[MDIClient](../objects/mdiclient.md)|&nbsp;|&nbsp;|

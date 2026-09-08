@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DeleteItems Method</span> {: .heading}
+# DeleteItems Method
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

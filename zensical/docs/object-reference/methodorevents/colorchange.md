@@ -1,4 +1,6 @@
-# <span class="name">ColorChange</span> <span class="right">Event 430</span> {: .heading}
+# ColorChange
+
+Event 430
 
 
 

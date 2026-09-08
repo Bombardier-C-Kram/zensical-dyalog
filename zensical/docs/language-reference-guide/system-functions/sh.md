@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Unix Shell</span> <span class="command">⎕SH</span> {: .heading}
+# Unix Shell
+
+```apl
+⎕SH
+```
 
 
 ## Monadic `⎕SH` means

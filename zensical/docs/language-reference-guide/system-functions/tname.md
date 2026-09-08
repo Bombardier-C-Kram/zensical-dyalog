@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Current Thread Name</span> <span class="command">⎕TNAME</span> {: .heading}
+# Current Thread Name
+
+```apl
+⎕TNAME
+```
 
 
 
@@ -24,7 +28,7 @@ The default value of `⎕TNAME` is an empty character vector. `⎕TNAME` has wor
 
 You may set `⎕TNAME` to any valid character vector, but it is recommended that control characters (such as `⎕AV[⎕IO]` ) be avoided.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕TNAME←'Dylan'
       ⎕TNAME

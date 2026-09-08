@@ -1,4 +1,6 @@
-# <span class="name">AutoConf</span> <span class="right">Property</span> {: .heading}
+# AutoConf
+
+Property
 
 [**Applies To**](../propertyapplies/autoconf.md)
 

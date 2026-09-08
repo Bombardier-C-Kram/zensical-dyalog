@@ -1,4 +1,6 @@
-# <span class="name">OLERegister</span> <span class="right">Method 530</span> {: .heading}
+# OLERegister
+
+Method 530
 
 **Applies To:** [OLEServer](../objects/oleserver.md)
 

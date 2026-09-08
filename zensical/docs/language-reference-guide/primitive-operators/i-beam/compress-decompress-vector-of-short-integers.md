@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Compress/Decompress Vector of Short Integers</span> <span class="command">R←X(219⌶)Y</span> {: .heading}
+# Compress/Decompress Vector of Short Integers
+
+```apl
+R←X(219⌶)Y
+```
 
 
 

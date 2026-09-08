@@ -1,4 +1,4 @@
-# <span class="name">Drawing Graphics on a Grid</span> {: .heading}
+# Drawing Graphics on a Grid
 
 You may draw graphics on a Grid by creating graphical objects (Circle, Ellipse, Image, Marker, Poly, Rect and text) as *children* of the Grid.
 

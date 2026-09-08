@@ -1,4 +1,4 @@
-# <span class="name">Nested Classes</span> {: .heading}
+# Nested Classes
 
 It is possible to define *Classes within Classes* (Nested Classes).
 

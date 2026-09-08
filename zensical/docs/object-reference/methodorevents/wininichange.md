@@ -1,4 +1,6 @@
-# <span class="name">WinIniChange</span> <span class="right">Event 133</span> {: .heading}
+# WinIniChange
+
+Event 133
 
 
 

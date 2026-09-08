@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Animation Children</span> {: .heading}
+# Animation Children
 
 |--------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)  |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

@@ -6,7 +6,11 @@ search:
   , ravel
 </div>
 
-# <span class="name">Ravel with Axes</span> <span class="command">R←,\[K\]Y</span> {: .heading}
+# Ravel with Axes
+
+```apl
+R←,[K]Y
+```
 
 
 
@@ -33,7 +37,7 @@ If `K` is a fraction, the result `R` is an array of the same shape as `Y`, but w
       ⍴R  ←→ (1,⍴Y)[⍋K,⍳⍴⍴Y]
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       ,[0.5]'ABC'
@@ -69,7 +73,7 @@ Note that if `K` is a scalar or single element vector, `R ←→ Y`.
       ⍴⍴R ←→ 1+(⍴⍴Y)-⍴,K
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       M
@@ -111,7 +115,7 @@ If `K` is an empty vector a new last axis of length 1 is created.
       ⍴R ←→ (⍴Y),1
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       Q1←'January' 'February' 'March'

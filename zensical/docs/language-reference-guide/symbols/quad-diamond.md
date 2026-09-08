@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Quad Diamond</span> <span class="command">⌺</span> {: .heading}
+# Quad Diamond
+
+```apl
+⌺
+```
 
 
 Quad Diamond is a dyadic operator

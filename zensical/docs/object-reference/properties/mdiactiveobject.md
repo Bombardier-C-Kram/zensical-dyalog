@@ -1,4 +1,6 @@
-# <span class="name">MDIActiveObject</span> <span class="right">Property</span> {: .heading}
+# MDIActiveObject
+
+Property
 
 
 

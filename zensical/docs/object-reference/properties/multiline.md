@@ -1,4 +1,6 @@
-# <span class="name">MultiLine</span> <span class="right">Property</span> {: .heading}
+# MultiLine
+
+Property
 
 
 

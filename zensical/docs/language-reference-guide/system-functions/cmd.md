@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Windows Command</span> <span class="command">⎕CMD</span> {: .heading}
+# Windows Command
+
+```apl
+⎕CMD
+```
 
 
 ## Monadic `⎕CMD` means

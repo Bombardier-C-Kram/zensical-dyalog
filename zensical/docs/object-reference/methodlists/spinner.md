@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Spinner Methods</span> {: .heading}
+# Spinner Methods
 
 |-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)          |[ChooseFont](../methodorevents/choosefont.md)|[GetTextSize](../methodorevents/gettextsize.md)|

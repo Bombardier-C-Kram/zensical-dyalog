@@ -4,7 +4,7 @@
 
 
 
-# <span class="name">not saved this ws is name</span> {: .heading}
+# not saved this ws is name
 
 
 
@@ -16,7 +16,7 @@ This report is given in the following situations:
 
 In neither case is the workspace renamed.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       )CLEAR

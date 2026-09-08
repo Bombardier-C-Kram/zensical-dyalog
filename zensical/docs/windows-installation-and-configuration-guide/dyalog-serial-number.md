@@ -1,4 +1,4 @@
-# <span class="name">Dyalog Serial Number</span> {: .heading}
+# Dyalog Serial Number
 
 If you have registered your copy of Dyalog or have a commercial licence then you will have been sent a Dyalog serial number; this serial number is individual to you and corresponds to the type of licence that you are entitled to use.
 

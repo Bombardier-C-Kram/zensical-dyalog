@@ -7,7 +7,11 @@ search:
   ⎕EXCEPTION EXCEPTION
 </div>
 
-# <span class="name">Exception</span> <span class="command">R←⎕EXCEPTION</span> {: .heading}
+# Exception
+
+```apl
+R←⎕EXCEPTION
+```
 
 This is a system object that identifies the most recent *Exception* thrown by a Microsoft .NET object.
 

@@ -1,4 +1,6 @@
-# <span class="name">Spinner</span> <span class="right">Object</span> {: .heading}
+# Spinner
+
+Object
 
 
 

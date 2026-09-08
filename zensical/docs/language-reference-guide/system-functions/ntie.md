@@ -9,7 +9,11 @@ search:
   ⎕NTIE NTIE
 </div>
 
-# <span class="name">Native File Tie</span> <span class="command">\{R\}←X ⎕NTIE Y</span> {: .heading}
+# Native File Tie
+
+```apl
+{R}←X ⎕NTIE Y
+```
 
 `⎕NTIE` opens a native file.
 
@@ -34,7 +38,7 @@ If `Y[2]` is omitted, the system tries to open the file with the default value o
 
 On UNIX systems, the second column has no meaning and only the first code (`16|mode`) is passed to the `open(2)` call as the access parameter. See include file `fcntl.h` for details. See also [Native File Lock](nlock.md) which is not platform dependent.
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     The original objective of value 0 from existing users (granting subsequent users a value of 0) is no longer relevant, and 0 now means the same as 16. The option remains for backwards compatibility purposes.
 
 `R` is the tie number by which the file may subsequently be referred. If `Y[1]` is a negative integer, then `R` is a shy result; if `Y[1]` is 0, `R` is an explicit result.
@@ -55,7 +59,7 @@ to:
       tie←file ⎕NTIE 0     ⍝ Tie with first available no.
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 ntie←{                  ⍝ tie file and return tie no.
     ⍺←2+64              ⍝ default all access.

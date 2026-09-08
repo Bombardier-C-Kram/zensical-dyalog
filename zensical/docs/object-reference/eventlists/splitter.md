@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter Events</span> {: .heading}
+# Splitter Events
 
 |-------------------------------------------|-----------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)        |[Create](../methodorevents/create.md)    |[StartSplit](../methodorevents/startsplit.md)|

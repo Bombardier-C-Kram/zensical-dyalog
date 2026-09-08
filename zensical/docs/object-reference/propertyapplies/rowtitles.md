@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowTitles Property</span> {: .heading}
+# RowTitles Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

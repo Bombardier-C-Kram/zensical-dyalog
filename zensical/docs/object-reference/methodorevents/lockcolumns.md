@@ -1,4 +1,6 @@
-# <span class="name">LockColumns</span> <span class="right">Method 227</span> {: .heading}
+# LockColumns
+
+Method 227
 
 
 
@@ -31,7 +33,7 @@ If the *Lock flag* is 1, the corresponding columns are locked. This is
 the default and may be omitted. If the *Lock flag* is 0, the corresponding
 columns are unlocked
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       F.G.LockColumns 3         ⍝Lock 3rd column
       F.G.LockColumns 3 0       ⍝Unlock 3rd column

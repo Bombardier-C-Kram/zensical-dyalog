@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Target Property</span> {: .heading}
+# Target Property
 
 |------------------------------------|------|------|
 |[BrowseBox](../objects/browsebox.md)|&nbsp;|&nbsp;|

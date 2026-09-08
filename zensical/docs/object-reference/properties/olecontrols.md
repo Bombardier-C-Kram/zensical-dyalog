@@ -1,4 +1,6 @@
-# <span class="name">OLEControls</span> <span class="right">Property</span> {: .heading}
+# OLEControls
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">Transparent</span> <span class="right">Property</span> {: .heading}
+# Transparent
+
+Property
 
 
 

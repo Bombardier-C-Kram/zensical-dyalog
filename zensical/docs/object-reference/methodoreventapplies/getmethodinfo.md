@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetMethodInfo Method</span> {: .heading}
+# GetMethodInfo Method
 
 |----------------------------------|------------------------------------|------|
 |[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PrintRange Property</span> {: .heading}
+# PrintRange Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

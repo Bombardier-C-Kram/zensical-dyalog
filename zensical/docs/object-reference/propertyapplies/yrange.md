@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">YRange Property</span> {: .heading}
+# YRange Property
 
 |----------------------------------------------|------------------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Bitmap](../objects/bitmap.md)      |[Form](../objects/form.md)          |

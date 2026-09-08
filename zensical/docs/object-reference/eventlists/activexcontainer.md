@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActiveXContainer Events</span> {: .heading}
+# ActiveXContainer Events
 
 |-----------------------------------|-------------------------------------|-----------------------------------------------------|
 |[Close](../methodorevents/close.md)|[Create](../methodorevents/create.md)|[AmbientChanged](../methodorevents/ambientchanged.md)|

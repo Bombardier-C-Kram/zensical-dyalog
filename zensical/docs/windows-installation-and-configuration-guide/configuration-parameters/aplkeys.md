@@ -1,4 +1,4 @@
-# <span class="name">APLKeys</span> {: .heading}
+# APLKeys
 
 **Classic Edition only.**
 

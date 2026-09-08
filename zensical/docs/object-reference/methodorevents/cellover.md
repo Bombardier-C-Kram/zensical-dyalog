@@ -1,4 +1,6 @@
-# <span class="name">CellOver</span> <span class="right">Event 160</span> {: .heading}
+# CellOver
+
+Event 160
 
 
 

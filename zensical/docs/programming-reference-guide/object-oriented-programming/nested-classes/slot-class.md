@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Slot Class</span> {: .heading}
+# Slot Class
 
 ```apl
 

@@ -1,4 +1,4 @@
-# <span class="name">Configuring a Console/terminal Window to support Dyalog APL for UNIX</span> {: .heading}
+# Configuring a Console/terminal Window to support Dyalog APL for UNIX
 
 In order to support Dyalog APL for UNIX in a console/terminal window under a Linux window manager, it is necessary to install and configure the Dyalog APL keyboard support. Additionally it is possible to install the APL385 Unicode font, to be used instead of the built in fonts which include APL characters.
 

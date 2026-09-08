@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DateTime Property</span> {: .heading}
+# DateTime Property
 
 |----------------------------------------------|------|------|
 |[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|&nbsp;|

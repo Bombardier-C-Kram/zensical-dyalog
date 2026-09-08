@@ -1,4 +1,4 @@
-# <span class="name">The LOAN Workspace</span> {: .heading}
+# The LOAN Workspace
 
 `LOAN.DWS` contains a single namespace called `Loan` which is used to calculate monthly repayments on a loan. As supplied, LOAN is a pure APL workspace. You will have to turn it into an OLE Server, and declare a method and a property, before you can use it.
 

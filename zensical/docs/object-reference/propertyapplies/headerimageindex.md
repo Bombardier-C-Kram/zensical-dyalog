@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HeaderImageIndex Property</span> {: .heading}
+# HeaderImageIndex Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Primitive Operators</span> {: .heading}
+# Primitive Operators
 
 |Glyph|Glyph Name     |Operator                                                         |Syntax              |
 |-----|---------------|-----------------------------------------------------------------|--------------------|

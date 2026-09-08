@@ -1,4 +1,6 @@
-# <span class="name">VScroll</span> <span class="right">Property</span> {: .heading}
+# VScroll
+
+Property
 
 [**Applies To**](../propertyapplies/vscroll.md)
 

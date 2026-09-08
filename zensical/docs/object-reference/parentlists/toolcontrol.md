@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolControl Parents</span> {: .heading}
+# ToolControl Parents
 
 |----------------------------------------------|----------------------------------|--------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)|

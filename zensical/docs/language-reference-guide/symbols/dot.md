@@ -2,7 +2,12 @@
 search:
   exclude: true
 ---
-# <span class="name">Dot</span> <span class="command">.</span> {: .heading}
+# Dot
+
+```apl
+.
+```
+
 Dot can be used as a dyadic operator with dyadic operands
 
 Operator Dot means

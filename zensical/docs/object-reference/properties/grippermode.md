@@ -1,4 +1,6 @@
-# <span class="name">GripperMode</span> <span class="right">Property</span> {: .heading}
+# GripperMode
+
+Property
 
 
 

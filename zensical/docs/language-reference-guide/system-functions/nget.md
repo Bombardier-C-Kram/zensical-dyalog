@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Read Text File</span> <span class="command">R←\{X\} ⎕NGET Y</span> {: .heading}
+# Read Text File
+
+```apl
+R←{X} ⎕NGET Y
+```
 
 
 

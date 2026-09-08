@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GestureTwoFingerTap Event</span> {: .heading}
+# GestureTwoFingerTap Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

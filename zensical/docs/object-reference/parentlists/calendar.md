@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Calendar Parents</span> {: .heading}
+# Calendar Parents
 
 |----------------------------------------------|--------------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)      |[Group](../objects/group.md)    |

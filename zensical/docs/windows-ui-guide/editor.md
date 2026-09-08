@@ -1,4 +1,4 @@
-# <span class="name">The Editor</span> {: .heading}
+# The Editor
 
 ## Invoking the Editor
 

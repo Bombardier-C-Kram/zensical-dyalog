@@ -1,4 +1,6 @@
-# <span class="name">SetMethodInfo</span> <span class="right">Method 556</span> {: .heading}
+# SetMethodInfo
+
+Method 556
 
 
 

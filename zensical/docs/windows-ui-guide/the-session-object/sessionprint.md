@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">SessionPrint</span> <span class="command">Event 526</span> {: .heading}
+# SessionPrint
+
+```apl
+Event 526
+```
 
 
 
@@ -36,7 +40,7 @@ Note that this event may be extended in future; in particular  the number of ele
 
 When the event is generated, the left argument of the callback function contains the value which was about to be displayed. The callback function may display this or any other value, using default output or by assignment to `⎕`. If so, this output will be processed normally, without generating a subsequent SessionPrint event. If the callback fails to explicitly display anything, nothing will appear in the Session.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕VR'⎕SE.TimeStamp'
      ∇ VAL TimeStamp EV

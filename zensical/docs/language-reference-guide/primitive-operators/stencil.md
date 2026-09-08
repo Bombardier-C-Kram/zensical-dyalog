@@ -7,7 +7,11 @@ search:
   stencil
 </div>
 
-# <span class="name">Stencil</span> <span class="command">R←(f⌺g)Y</span> {: .heading}
+# Stencil
+
+```apl
+R←(f⌺g)Y
+```
 
 !!! note "Classic Edition"
     The symbol `⌺` is not available in Classic Edition, and the Stencil operator is instead represented by `⎕U233A`.
@@ -31,7 +35,7 @@ The first rectangle is centred on the first element of `Y` preceded by the appro
 `f` is invoked dyadically with a vector left argument indicating for each axis the number of fill elements and on what side; positive values mean that the padding precedes the array values,
 negative values mean that the padding follows the array values.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       {⊂⍺ ⍵}⌺3 3⊢3 3⍴⍳12
 ┌────────────┬────────────┬─────────────┐
@@ -73,7 +77,7 @@ In order for the first element of `Y` (1) to be centred, the first rectangle is 
 
 Another way to think about the way Stencil operates is that it portions the array into sections or neighbourhoods in which elements can be analysed with respect to their immediate neighbours. Stencil  has uses in image processing applications.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       {⊂⍺ ⍵}⌺(3 3,[.5]2)⊢3 3⍴⍳12
 ┌────────────┬─────────────┐
@@ -177,7 +181,7 @@ If the movement is greater than one, corresponding portions are skipped as shown
 
 For even rectangle sizes, the "middle" consists of two elements which are moved according to the movement parameter (equal to 1 in these examples).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕←s←{⊂⍵}⌺ 2 ⍳8
 ┌───┬───┬───┬───┬───┬───┬───┐

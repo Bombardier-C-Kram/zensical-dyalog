@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Set Workspace Save Options</span> <span class="command">R←2400⌶Y</span> {: .heading}
+# Set Workspace Save Options
+
+```apl
+R←2400⌶Y
+```
 
 
 
@@ -31,7 +35,7 @@ The result `R` is the previous value of the flag.
 
 This function may be extended in the future and a left-argument may be added.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       (2400⌶)1

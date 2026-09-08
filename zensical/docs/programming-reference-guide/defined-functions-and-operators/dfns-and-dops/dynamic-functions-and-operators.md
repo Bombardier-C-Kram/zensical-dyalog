@@ -1,4 +1,4 @@
-# <span class="name">Dfns &amp; Dops</span> {: .heading}
+# Dfns &amp; Dops
 
 A *dfn* (*dop*)[^1] is an alternative function definition style suitable for defining small to medium sized functions. It bridges the gap between operator expressions: `rank←⍴∘⍴` and full "header style" definitions such as:
 ```apl

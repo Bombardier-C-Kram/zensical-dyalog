@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PropertyPage Parents</span> {: .heading}
+# PropertyPage Parents
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

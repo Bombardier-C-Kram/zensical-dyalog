@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:Repeat Statement</span> {: .heading}
+# :Repeat Statement
 
 ```
  

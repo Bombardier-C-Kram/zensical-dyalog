@@ -1,4 +1,4 @@
-# <span class="name">Example Traps</span> {: .heading}
+# Example Traps
 
 ## Dividing by Zero
 

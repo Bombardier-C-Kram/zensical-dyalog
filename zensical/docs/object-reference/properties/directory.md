@@ -1,4 +1,6 @@
-# <span class="name">Directory</span> <span class="right">Property</span> {: .heading}
+# Directory
+
+Property
 
 
 

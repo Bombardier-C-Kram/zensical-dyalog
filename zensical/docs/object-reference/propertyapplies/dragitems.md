@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DragItems Property</span> {: .heading}
+# DragItems Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

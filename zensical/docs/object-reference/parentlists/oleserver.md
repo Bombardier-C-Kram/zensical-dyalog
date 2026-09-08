@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEServer Parents</span> {: .heading}
+# OLEServer Parents
 
 |----------------------------------------------|--------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)|[OLEServer](../objects/oleserver.md)|

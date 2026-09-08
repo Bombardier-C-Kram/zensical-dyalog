@@ -1,4 +1,6 @@
-# <span class="name">MultiColumn</span> <span class="right">Property</span> {: .heading}
+# MultiColumn
+
+Property
 
 
 

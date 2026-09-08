@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Data Representation (Monadic)</span> <span class="command">R←⎕DR Y</span> {: .heading}
+# Data Representation (Monadic)
+
+```apl
+R←⎕DR Y
+```
 
 
 

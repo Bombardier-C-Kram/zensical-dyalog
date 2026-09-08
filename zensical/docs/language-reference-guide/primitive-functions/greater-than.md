@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Greater Than</span> <span class="command">R←X&gt;Y</span> {: .heading}
+# Greater Than
+
+```apl
+R←X>Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 `⎕CT` and `⎕DCT` are  implicit arguments of Greater Than.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 2 3 4 5 > 2
 0 0 1 1 1

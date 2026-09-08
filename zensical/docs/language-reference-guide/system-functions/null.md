@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Null Item</span> <span class="command">R←⎕NULL</span> {: .heading}
+# Null Item
+
+```apl
+R←⎕NULL
+```
 
 
 
@@ -24,7 +28,7 @@ This is a reference to a null item, such as may be returned across the COM inter
 - As an item of an array.
 - As the argument to those primitive functions that take character data arguments, for example: `=, ≠, ≡, ≢, ,, ⍴, ⊃, ⊂`
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'EX'⎕WC'OLEClient' 'Excel.Application'
       WB←EX.Workbooks.Open 'simple.xls'

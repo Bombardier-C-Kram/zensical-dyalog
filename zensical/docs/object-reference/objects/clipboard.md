@@ -1,4 +1,6 @@
-# <span class="name">Clipboard</span> <span class="right">Object</span> {: .heading}
+# Clipboard
+
+Object
 
 
 

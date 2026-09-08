@@ -1,4 +1,8 @@
-# <span class="name">Enable Compression of Large Components</span> <span class="command">\{R\}←3012⌶Y</span> {: .heading}
+# Enable Compression of Large Components
+
+```apl
+{R}←3012⌶Y
+```
 
 Specifies whether large components (>2GB) may be compressed.
 

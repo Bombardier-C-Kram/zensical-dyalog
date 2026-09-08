@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowBalloonTip Method</span> {: .heading}
+# ShowBalloonTip Method
 
 |----------------------------------------|------|------|
 |[SysTrayItem](../objects/systrayitem.md)|&nbsp;|&nbsp;|

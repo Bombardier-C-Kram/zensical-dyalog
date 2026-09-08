@@ -1,4 +1,4 @@
-# <span class="name">Docking a Form inside another</span> {: .heading}
+# Docking a Form inside another
 
 The following example illustrates the effect of docking one Form in another.
 ```apl

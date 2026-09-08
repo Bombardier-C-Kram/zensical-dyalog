@@ -1,4 +1,6 @@
-# <span class="name">Copies</span> <span class="right">Property</span> {: .heading}
+# Copies
+
+Property
 
 
 

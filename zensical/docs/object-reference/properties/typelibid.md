@@ -1,4 +1,6 @@
-# <span class="name">TypeLibID</span> <span class="right">Property</span> {: .heading}
+# TypeLibID
+
+Property
 
 
 

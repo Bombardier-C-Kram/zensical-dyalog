@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TrackRect Property</span> {: .heading}
+# TrackRect Property
 
 |----------------------------------|------|------|
 |[TrackBar](../objects/trackbar.md)|&nbsp;|&nbsp;|

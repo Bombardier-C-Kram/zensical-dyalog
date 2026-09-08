@@ -1,4 +1,6 @@
-# <span class="name">Fixed</span> <span class="right">Property</span> {: .heading}
+# Fixed
+
+Property
 
 
 

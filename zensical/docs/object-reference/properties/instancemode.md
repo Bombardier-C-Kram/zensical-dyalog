@@ -1,4 +1,6 @@
-# <span class="name">InstanceMode</span> <span class="right">Property</span> {: .heading}
+# InstanceMode
+
+Property
 
 
 

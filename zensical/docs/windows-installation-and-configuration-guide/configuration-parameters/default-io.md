@@ -1,4 +1,4 @@
-# <span class="name">Default\_IO</span> {: .heading}
+# Default\_IO
 
 This parameter specifies the value of `⎕IO` in a clear workspace. Its default value is 1.
 

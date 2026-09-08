@@ -1,4 +1,4 @@
-# <span class="name">Announcements</span> {: .heading}
+# Announcements
 
 ## Supported Versions
 

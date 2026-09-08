@@ -1,4 +1,4 @@
-# <span class="name">Null Values</span> {: .heading}
+# Null Values
 
 COM methods and properties frequently return null values for which there is no direct equivalent in the APL language. Instead, the system constant `⎕NULL` is used to represent a null value.
 

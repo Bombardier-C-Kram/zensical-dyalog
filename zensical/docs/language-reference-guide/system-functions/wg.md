@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Window Get Property</span> <span class="command">R←\{X\}⎕WG Y</span> {: .heading}
+# Window Get Property
+
+```apl
+R←{X}⎕WG Y
+```
 
 
 
@@ -38,7 +42,7 @@ GUI objects are named **relative** to the current namespace. A null value of `X`
       F1.B1.⎕WG 'Caption'
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       'F1' ⎕WC 'Form' 'TEST'

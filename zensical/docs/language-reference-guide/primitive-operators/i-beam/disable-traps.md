@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Disable Traps</span> <span class="command">R←600⌶Y</span> {: .heading}
+# Disable Traps
+
+```apl
+R←600⌶Y
+```
 
 
 

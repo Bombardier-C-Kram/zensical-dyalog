@@ -1,4 +1,6 @@
-# <span class="name">GridSelect</span> <span class="right">Event 165</span> {: .heading}
+# GridSelect
+
+Event 165
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BalloonTimeout Event</span> {: .heading}
+# BalloonTimeout Event
 
 |----------------------------------------|------|------|
 |[SysTrayItem](../objects/systrayitem.md)|&nbsp;|&nbsp;|

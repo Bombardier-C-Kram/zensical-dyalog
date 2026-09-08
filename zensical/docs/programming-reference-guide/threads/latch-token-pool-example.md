@@ -1,4 +1,4 @@
-# <span class="name">Latch Example</span> {: .heading}
+# Latch Example
 
 A *latch* holds back a number of threads until the coast is clear. At a signal from another thread, the latch is opened so that all of the threads are released. The latch may (or may not) then be closed again to hold up subsequently arriving threads.
 

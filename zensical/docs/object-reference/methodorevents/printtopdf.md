@@ -1,4 +1,6 @@
-# <span class="name">PrintToPDF</span> <span class="right">Method 845</span> {: .heading}
+# PrintToPDF
+
+Method 845
 
 
 

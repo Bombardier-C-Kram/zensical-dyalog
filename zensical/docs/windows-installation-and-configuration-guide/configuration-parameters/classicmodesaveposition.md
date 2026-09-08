@@ -1,4 +1,4 @@
-# <span class="name">ClassicModeSavePosition</span> {: .heading}
+# ClassicModeSavePosition
 
 This parameter specifies whether or not the current size and location of the first of the editor and tracer windows are remembered for next time. 
  This applies only if **ClassicMode** is 1.  See [ ClassicMode](./classicmode.md).

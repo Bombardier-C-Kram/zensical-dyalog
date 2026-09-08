@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelRange Property</span> {: .heading}
+# SelRange Property
 
 |----------------------------------|------|------|
 |[TrackBar](../objects/trackbar.md)|&nbsp;|&nbsp;|

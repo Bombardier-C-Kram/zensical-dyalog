@@ -1,4 +1,4 @@
-# <span class="name">Writing Classes based on OLEClient</span> {: .heading}
+# Writing Classes based on OLEClient
 
 You may define APL Classes (See Language Reference) based upon the OLEClient object. For example:
 ```apl

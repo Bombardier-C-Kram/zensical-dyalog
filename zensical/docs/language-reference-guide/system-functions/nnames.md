@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Names</span> <span class="command">R←⎕NNAMES</span> {: .heading}
+# Native File Names
+
+```apl
+R←⎕NNAMES
+```
 
 
 

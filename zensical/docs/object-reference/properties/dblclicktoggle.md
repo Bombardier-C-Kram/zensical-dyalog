@@ -1,4 +1,6 @@
-# <span class="name">DblClickToggle</span> <span class="right">Property</span> {: .heading}
+# DblClickToggle
+
+Property
 
 
 

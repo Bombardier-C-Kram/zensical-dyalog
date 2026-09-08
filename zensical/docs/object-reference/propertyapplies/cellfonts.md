@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellFonts Property</span> {: .heading}
+# CellFonts Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

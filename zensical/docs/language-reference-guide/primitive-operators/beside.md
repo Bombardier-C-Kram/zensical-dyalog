@@ -7,7 +7,11 @@ search:
   beside
 </div>
 
-# <span class="name">Beside</span> <span class="command">\{R\}←\{X\}f∘gY</span> {: .heading}
+# Beside
+
+```apl
+{R}←{X}f∘gY
+```
 
 The _beside_ operator allows functions to be *glued* together to build up more complex functions. For further information, see [Function Composition](./function-composition.md).
 
@@ -17,7 +21,7 @@ If `X` is omitted, `f` must be a monadic function. If `X` is specified, `f` must
 
 The derived function is equivalent to `fgY` or `XfgY` and need not return a result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       RANK ← ⍴∘⍴
       RANK ¨ 'JOANNE' (2 3⍴⍳6)

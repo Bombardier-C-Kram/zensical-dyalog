@@ -1,4 +1,6 @@
-# <span class="name">MethodList</span> <span class="right">Property</span> {: .heading}
+# MethodList
+
+Property
 
 [**Applies To**](../propertyapplies/methodlist.md)
 

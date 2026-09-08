@@ -1,4 +1,4 @@
-# <span class="name">ClassicMode</span> {: .heading}
+# ClassicMode
 
 This parameter specifies whether or not the Session operates in *Dyalog Classic mode* . The default is 0. If this parameter is set to 1, the Editor and Tracer behave in a manner that is consistent with earlier versions of Dyalog APL.
 

@@ -1,4 +1,4 @@
-# <span class="name">User Commands Tab</span> {: .heading}
+# User Commands Tab
 
 ![configuration dialog user commands tab](../../img/configuration-dialog-user-commands-tab.png)
 

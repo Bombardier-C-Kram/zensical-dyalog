@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Greater Than</span> <span class="command">&gt;</span> {: .heading}
+# Greater Than
+
+```apl
+>
+```
 
 Monadic Greater Than is not defined
 

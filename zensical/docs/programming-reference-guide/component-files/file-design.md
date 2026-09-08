@@ -1,4 +1,4 @@
-# <span class="name">File Design</span> {: .heading}
+# File Design
 
 Our personnel database could be termed a *record oriented* system. All the information relating to one person is easily obtained, and information relating to a new person is easily added, but if we wish to find the oldest person, we have to read ALL the records in the file.
 

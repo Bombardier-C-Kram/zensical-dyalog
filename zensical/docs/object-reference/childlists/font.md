@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Font Children</span> {: .heading}
+# Font Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

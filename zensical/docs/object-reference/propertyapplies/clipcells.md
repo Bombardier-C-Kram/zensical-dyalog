@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ClipCells Property</span> {: .heading}
+# ClipCells Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

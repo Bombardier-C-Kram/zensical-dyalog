@@ -1,4 +1,4 @@
-# <span class="name"><span class="command">⎕SE</span>, User Commands and SALT</span> {: .heading}
+# `⎕SE`, User Commands and SALT
 
 ## Summary
 

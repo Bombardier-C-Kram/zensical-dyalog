@@ -1,4 +1,6 @@
-# <span class="name">TipField</span> <span class="right">Object</span> {: .heading}
+# TipField
+
+Object
 
 
 

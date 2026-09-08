@@ -1,4 +1,6 @@
-# <span class="name">GridKeyPress</span> <span class="right">Event 24</span> {: .heading}
+# GridKeyPress
+
+Event 24
 
 
 

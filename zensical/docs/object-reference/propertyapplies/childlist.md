@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ChildList Property</span> {: .heading}
+# ChildList Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

@@ -1,4 +1,6 @@
-# <span class="name">GestureTwoFingerTap</span> <span class="right">Event 496</span> {: .heading}
+# GestureTwoFingerTap
+
+Event 496
 
 [**Applies To**](../methodoreventapplies/gesturetwofingertap.md)
 

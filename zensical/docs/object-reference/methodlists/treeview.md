@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TreeView Methods</span> {: .heading}
+# TreeView Methods
 
 |---------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
 |[Detach](../methodorevents/detach.md)              |[ChooseFont](../methodorevents/choosefont.md)        |[GetItemState](../methodorevents/getitemstate.md)  |

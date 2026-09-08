@@ -1,4 +1,4 @@
-# <span class="name">APLAN\_FOR\_EDITOR</span> {: .heading}
+# APLAN\_FOR\_EDITOR
 
 This parameter specifies whether (`1`) or not (`0`, the default) new **Edit** windows containing arrays should open using [array notation](../../../programming-reference-guide/introduction/arrays/array-notation/) when possible.
 

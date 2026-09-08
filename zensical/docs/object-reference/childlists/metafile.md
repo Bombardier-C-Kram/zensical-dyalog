@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Metafile Children</span> {: .heading}
+# Metafile Children
 
 |------------------------------|--------------------------------|----------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Font](../objects/font.md)  |

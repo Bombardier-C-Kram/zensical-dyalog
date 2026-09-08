@@ -1,4 +1,4 @@
-# <span class="name">Interfaces</span> {: .heading}
+# Interfaces
 
 An Interface is defined by a Script that contains skeleton declarations of Properties and/or Methods. These members are only *place-holders*; they have no specific implementation; this is provided by each of the Classes that support the Interface.
 

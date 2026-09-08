@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolButton Methods</span> {: .heading}
+# ToolButton Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">The APL Command Line</span> {: .heading}
+# The APL Command Line
 
 The command line for Dyalog APL is described below; the command line for non-Windows versions of Dyalog APL is very similar and is also documented in *Dyalog for UNIX UI Guide: Starting APL*.
 
@@ -46,7 +46,7 @@ A parameter name followed by an equals sign (`=`) and a value. The parameter nam
 !!! note
     Instead of  a loading a workspace specified by the **ws** option, APL can be instructed to load a program from a script file. For further information, see [Load](configuration-parameters/load.md).
 
-<h2 class="example">Examples</h2>
+## Examples
 
 Start APL using the configuration file `myconfig.dcfg`:
 ```apl

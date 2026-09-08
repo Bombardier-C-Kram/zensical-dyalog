@@ -1,4 +1,4 @@
-# <span class="name"> Threads &amp; Niladic Functions</span> {: .heading}
+# Threads &amp; Niladic Functions
 
 In common with other operators, the spawn operator `&` may accept monadic or dyadic functions as operands, but not niladic functions. This means that, using spawn, you cannot start a thread that consists only of a niladic function
 

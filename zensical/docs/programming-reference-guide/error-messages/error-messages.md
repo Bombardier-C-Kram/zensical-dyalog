@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 The error messages reported by APL are described in this section.  Standard APL messages that provide information or report error conditions are summarised in ["APL Error Messages"](apl-errors.md) and described later in alphabetical order.
 

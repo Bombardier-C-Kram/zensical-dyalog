@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Text Properties</span> {: .heading}
+# Text Properties
 
 |-------------------------------------------|-------------------------------------------|---------------------------------------|
 |[Type](../properties/type.md)              |[Text](../properties/text.md)              |[Points](../properties/points.md)      |

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Return Statement</span> <span class="command">:Return</span> {: .heading}
+# Return Statement
+
+```apl
+:Return
+```
 
 
 

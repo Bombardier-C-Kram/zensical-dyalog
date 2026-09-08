@@ -1,4 +1,4 @@
-# <span class="name">User Datagram Protocol (UDP)</span> {: .heading}
+# User Datagram Protocol (UDP)
 
 
 

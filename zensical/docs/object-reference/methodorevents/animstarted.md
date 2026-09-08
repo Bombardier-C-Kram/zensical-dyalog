@@ -1,4 +1,6 @@
-# <span class="name">AnimStarted</span> <span class="right">Event 294</span> {: .heading}
+# AnimStarted
+
+Event 294
 
 
 

@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Trace Controls</span> <span class="command">⎕TRACE</span> {: .heading}
+# Trace Controls
+
+```apl
+⎕TRACE
+```
 
 
 ## Dyadic `⎕TRACE` means

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Button Parents</span> {: .heading}
+# Button Parents
 
 |----------------------------------------------|----------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)                |

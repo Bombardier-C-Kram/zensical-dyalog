@@ -1,4 +1,6 @@
-# <span class="name">MinButton</span> <span class="right">Property</span> {: .heading}
+# MinButton
+
+Property
 
 
 

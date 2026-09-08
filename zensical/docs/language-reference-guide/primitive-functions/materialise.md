@@ -7,7 +7,11 @@ search:
 </div>
 
 
-# <span class="name">Materialise</span> <span class="command">R←⌷Y</span> {: .heading}
+# Materialise
+
+```apl
+R←⌷Y
+```
 
 
 
@@ -24,7 +28,7 @@ If  `Y` is a ref to an instance of a COM or .NET Collection object, `⌷` return
 Otherwise, if `Y` is an array, `Y` is returned.
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 The following example uses the sample [ComponentFile Class](../../../programming-reference-guide/object-oriented-programming/class-members/properties/component-file-class-example).

@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Edit Object</span> <span class="command">\{R\}←\{X\}⎕ED Y</span> {: .heading}
+# Edit Object
+
+```apl
+{R}←{X}⎕ED Y
+```
 
 
 
@@ -71,7 +75,7 @@ The `'EditName'` option determines whether or not the user may open another edit
 
 There is no Principal Option.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A←3 11⍴'Hello World'
 ```

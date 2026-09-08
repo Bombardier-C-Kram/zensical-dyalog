@@ -1,4 +1,6 @@
-# <span class="name">MsgBox</span> <span class="right">Object</span> {: .heading}
+# MsgBox
+
+Object
 
 
 

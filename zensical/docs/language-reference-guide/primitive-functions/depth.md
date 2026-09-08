@@ -6,7 +6,11 @@ search:
   ≡ depth
 </div>
 
-# <span class="name">Depth</span> <span class="command">(⎕ML) R←≡Y</span> {: .heading}
+# Depth
+
+```apl
+(⎕ML) R←≡Y
+```
 
 `Y` may be any array. `R` is the maximum number of levels of nesting of `Y`. A simple scalar (rank-0 number, character or namespace-reference) has a depth of 0.
 
@@ -16,7 +20,7 @@ A higher rank array, all of whose items are simple scalars, is termed a *simple 
 
 If `⎕ML<2` and `Y` is not of uniform depth then `R` is negated (therefore, when `⎕ML<2`, a negative value of `R` indicates non-uniform depth).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ≡1
 0

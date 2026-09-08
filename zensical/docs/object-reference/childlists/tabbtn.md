@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabBtn Children</span> {: .heading}
+# TabBtn Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

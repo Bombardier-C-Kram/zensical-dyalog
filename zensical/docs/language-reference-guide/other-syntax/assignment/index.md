@@ -7,7 +7,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment</span> <span class="command">X←Y</span> {: .heading}
+# Assignment
+
+```apl
+X←Y
+```
 
 Assignment  allocates the result of the expression `Y` to the *name* or *names* in `X`.
 
@@ -76,7 +80,7 @@ Pass-through assignments are permitted. The value of `Y` is carried through each
 
 If `Y` is a function expression, `X` must be a single name which is either undefined, or is the name of an existing function or defined operator. `X` may not be the name of a system function, or a primitive symbol.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       PLUS←+

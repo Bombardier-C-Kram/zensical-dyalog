@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">bad ws</span> {: .heading}
+# bad ws
 
 
 

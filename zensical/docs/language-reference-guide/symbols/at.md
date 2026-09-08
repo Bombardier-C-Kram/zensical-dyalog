@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">At</span> <span class="command">@</span> {: .heading}
+# At
+
+```apl
+@
+```
 
 At is a dyadic operator
 

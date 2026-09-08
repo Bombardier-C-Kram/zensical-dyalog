@@ -1,4 +1,6 @@
-# <span class="name">QueueEvents</span> <span class="right">Property</span> {: .heading}
+# QueueEvents
+
+Property
 
 
 

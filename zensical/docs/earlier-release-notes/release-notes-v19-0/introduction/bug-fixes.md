@@ -1,4 +1,4 @@
-# <span class="name">Bug Fixes</span> {: .heading}
+# Bug Fixes
 
 A number of bug fixes implemented in Version {{ version_majmin }} may change the way that existing code operates and are therefore documented in this section.
 

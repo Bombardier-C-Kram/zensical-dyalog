@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetZoomLevel Method</span> {: .heading}
+# SetZoomLevel Method
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

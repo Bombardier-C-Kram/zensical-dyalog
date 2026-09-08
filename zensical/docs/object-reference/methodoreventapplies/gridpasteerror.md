@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridPasteError Event</span> {: .heading}
+# GridPasteError Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

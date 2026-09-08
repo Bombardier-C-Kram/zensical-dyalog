@@ -4,7 +4,11 @@
 
 
 
-# <span class="name">If Statement</span> <span class="command">:If bexp</span> {: .heading}
+# If Statement
+
+```apl
+:If bexp
+```
 
 
 

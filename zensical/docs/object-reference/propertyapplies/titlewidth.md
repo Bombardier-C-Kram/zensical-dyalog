@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TitleWidth Property</span> {: .heading}
+# TitleWidth Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowCueWhenFocused Property</span> {: .heading}
+# ShowCueWhenFocused Property
 
 |--------------------------------------|--------------------------|------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|&nbsp;|

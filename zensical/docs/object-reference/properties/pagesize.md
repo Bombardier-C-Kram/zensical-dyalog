@@ -1,4 +1,6 @@
-# <span class="name">PageSize</span> <span class="right">Property</span> {: .heading}
+# PageSize
+
+Property
 
 
 

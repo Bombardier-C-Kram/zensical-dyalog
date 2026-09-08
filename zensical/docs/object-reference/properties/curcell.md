@@ -1,4 +1,6 @@
-# <span class="name">CurCell</span> <span class="right">Property</span> {: .heading}
+# CurCell
+
+Property
 
 
 

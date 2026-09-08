@@ -1,4 +1,4 @@
-# <span class="name">Idiom List</span> {: .heading}
+# Idiom List
 
 In the following table, arguments to the idiom have types and ranks as follows:
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Font Methods</span> {: .heading}
+# Font Methods
 
 |-------------------------------------|---------------------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[ChooseFont](../methodorevents/choosefont.md)|&nbsp;|

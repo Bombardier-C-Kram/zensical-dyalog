@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIDeactivate Event</span> {: .heading}
+# MDIDeactivate Event
 
 |--------------------------------|------|------|
 |[SubForm](../objects/subform.md)|&nbsp;|&nbsp;|

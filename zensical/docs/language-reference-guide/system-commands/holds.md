@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Display Held Tokens</span> <span class="command">)HOLDS</span> {: .heading}
+# Display Held Tokens
+
+```apl
+)HOLDS
+```
 
 
 
@@ -19,7 +23,7 @@ token:  acq  req  req ...
 Where `acq` is the number of *the* thread that has acquired the token, and `req` is the number of *a* thread which is requesting it. For a token to appear in the display, a thread (and only one thread) must have acquired it, whereas any number of threads can be requesting it.
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 Thread `300`’s attempt to acquire token `'blue'` results in a deadlock:

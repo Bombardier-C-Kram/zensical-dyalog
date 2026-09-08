@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Leave Statement</span> <span class="command">:Leave</span> {: .heading}
+# Leave Statement
+
+```apl
+:Leave
+```
 
 
 

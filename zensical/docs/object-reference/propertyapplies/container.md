@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Container Property</span> {: .heading}
+# Container Property
 
 |----------------------------------------------|------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|&nbsp;|&nbsp;|

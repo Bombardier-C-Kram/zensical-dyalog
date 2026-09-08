@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 1 Not owner</span> <span class="command">101</span> {: .heading}
+# FILE ERROR 1 Not owner
+
+```apl
+101
+```
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MaskCol Property</span> {: .heading}
+# MaskCol Property
 
 |------------------------------|--------------------------|------|
 |[Bitmap](../objects/bitmap.md)|[Form](../objects/form.md)|&nbsp;|

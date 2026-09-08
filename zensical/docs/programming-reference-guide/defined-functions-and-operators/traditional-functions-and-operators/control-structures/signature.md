@@ -8,7 +8,11 @@ search:
 
 
 
-# <span class="name">Signature Statement</span> <span class="command">:Signature</span> {: .heading}
+# Signature Statement
+
+```apl
+:Signature
+```
 
 ```apl
 :Signature <rslttype←><name><arg1type arg1name>,...
@@ -29,7 +33,7 @@ This statement identifies the name and signature by which a function is exported
 
 Argument and result data types are identified by the names of .NET Types which are defined in the .NET Assemblies specified by `⎕USING` or by a `:USING` statement.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 In the following examples, it is assumed that the .NET Search Path (defined by `:Using` or `⎕USING` includes `'System'`.

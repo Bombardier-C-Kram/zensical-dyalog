@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HTMLRenderer Parents</span> {: .heading}
+# HTMLRenderer Parents
 
 |----------------------------------------------|--------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)|[Group](../objects/group.md)    |

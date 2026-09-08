@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Timestamp</span> <span class="command">R←⎕TS</span> {: .heading}
+# Timestamp
+
+```apl
+R←⎕TS
+```
 
 
 
@@ -29,7 +33,7 @@ This is a seven element vector which identifies the clock time set on the partic
 |`⎕TS[7]`|Millisecond|
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕TS
 1989 7 11 10 42 59 123

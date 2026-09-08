@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasHelp Property</span> {: .heading}
+# HasHelp Property
 
 |------------------------------------------|--------------------------------------------|------|
 |[PropertyPage](../objects/propertypage.md)|[PropertySheet](../objects/propertysheet.md)|&nbsp;|

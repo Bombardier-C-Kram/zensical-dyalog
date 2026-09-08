@@ -1,4 +1,6 @@
-# <span class="name">GridLineWidth</span> <span class="right">Property</span> {: .heading}
+# GridLineWidth
+
+Property
 
 
 

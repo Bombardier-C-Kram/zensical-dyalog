@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEServers Property</span> {: .heading}
+# OLEServers Property
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

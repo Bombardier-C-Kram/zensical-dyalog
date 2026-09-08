@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">IsLoading Property</span> {: .heading}
+# IsLoading Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

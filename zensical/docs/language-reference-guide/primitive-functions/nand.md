@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">NAND</span> <span class="command">R←X⍲Y</span> {: .heading}
+# NAND
+
+```apl
+R←X⍲Y
+```
 
 
 
@@ -25,7 +29,7 @@ search:
              1   1     0
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       (0 1)(1 0) ⍲ (0 0)(1 1)
  1 1  0 1

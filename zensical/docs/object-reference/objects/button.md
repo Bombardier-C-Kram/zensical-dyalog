@@ -1,4 +1,6 @@
-# <span class="name">Button</span> <span class="right">Object</span> {: .heading}
+# Button
+
+Object
 
 
 

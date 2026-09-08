@@ -1,4 +1,6 @@
-# <span class="name">GridCut</span> <span class="right">Event 190</span> {: .heading}
+# GridCut
+
+Event 190
 
 
 

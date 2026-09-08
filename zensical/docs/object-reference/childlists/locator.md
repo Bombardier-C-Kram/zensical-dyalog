@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locator Children</span> {: .heading}
+# Locator Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

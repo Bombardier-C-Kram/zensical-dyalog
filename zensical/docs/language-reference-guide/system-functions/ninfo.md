@@ -7,7 +7,11 @@ search:
   ⎕NINFO NINFO
 </div>
 
-# <span class="name">Native File Information</span> <span class="command">R←\{X\}⎕NINFO Y</span> {: .heading}
+# Native File Information
+
+```apl
+R←{X}⎕NINFO Y
+```
 
 This function queries or sets information about one or more files or directories. `Y` may be:
 
@@ -69,13 +73,13 @@ When using the **Wildcard** option, matching of names is done case insensitively
 ### Wildcard Option (Boolean)
 
 |---|---|
-|0 { .shaded } |The name or names in `Y` identifies a specific file name.|
+|`0` (default)|The name or names in `Y` identifies a specific file name.|
 |`1`|The name or names in `Y` that specify the *base name* and *extension* (see [NParts](./nparts.md) ), may also contain the wildcard characters "?" and "*". An asterisk is a substitute for any 0 or more characters in a file name or extension; a question-mark is a substitute for any single character.|
 
 ### Recurse Option
 
 |---|---|
-|0 { .shaded } |the name(s) in `Y` are searched for only in the corresponding specified directory.|
+|`0` (default)|the name(s) in `Y` are searched for only in the corresponding specified directory.|
 |`1`|the name(s) in `Y` are searched for in the corresponding specified directory as well as all sub-directories. If **Wildcard** is also 1, the wild card search is performed recursively.|
 |`1 n`|the name(s) in `Y` are searched for in the corresponding specified directory as well as its sub-directories to the n <sup>th</sup> -level sub-directory. If n is 0, no sub-directories are searched. If n is `¯1` all sub-directories are searched.|
 |`2 (n)`|same as 1 but if any unreadable directories are encountered they are skipped (whereas if **Recurse** is `1 (n)` , `⎕NINFO` stops and generates an error).|
@@ -84,7 +88,7 @@ When using the **Wildcard** option, matching of names is done case insensitively
 
 |---|----------------------------------------------------------------------------------------|
 |`0`|the properties reported are those of the symbolic link itself                           |
-|1 { .shaded } |the properties reported for a symbolic link are those of the target of the symbolic link|
+|`1` (default)|the properties reported for a symbolic link are those of the target of the symbolic link|
 
 
 ### ProgressCallback Option
@@ -102,7 +106,7 @@ In the Unicode Edition, if the UTF-8 encoding is invalid, Dyalog replaces each o
 
 In the Classic Edition, offending bytes are replaced by the `?` symbol, which means that the names reported do not accurately identify the files.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       (0 1 2) ⎕NINFO 'c:/Users/Pete/Documents'

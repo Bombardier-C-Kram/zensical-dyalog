@@ -1,4 +1,6 @@
-# <span class="name">Justify</span> <span class="right">Property</span> {: .heading}
+# Justify
+
+Property
 
 
 

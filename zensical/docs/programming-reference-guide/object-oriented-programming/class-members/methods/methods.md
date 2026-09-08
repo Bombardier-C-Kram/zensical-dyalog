@@ -1,4 +1,4 @@
-# <span class="name">Methods</span> {: .heading}
+# Methods
 
 Methods are implemented as regular defined functions, but with some special attributes that control how they are called and where they are executed.
 

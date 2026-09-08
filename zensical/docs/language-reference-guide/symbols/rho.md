@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Rho</span> <span class="command">⍴</span> {: .heading}
+# Rho
+
+```apl
+⍴
+```
 
 Monadic Rho means
 [Shape](../primitive-functions/shape.md)

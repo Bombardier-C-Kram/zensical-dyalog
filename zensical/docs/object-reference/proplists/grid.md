@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Grid Properties</span> {: .heading}
+# Grid Properties
 
 |-----------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|
 |[Type](../properties/type.md)                              |[Values](../properties/values.md)                            |[Posn](../properties/posn.md)                        |

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DockRequest Event</span> {: .heading}
+# DockRequest Event
 
 |----------------------------------|----------------------------------------|--------------------------|
 |[CoolBand](../objects/coolband.md)|[CoolBar](../objects/coolbar.md)        |[Form](../objects/form.md)|

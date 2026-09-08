@@ -7,7 +7,11 @@ search:
 </div>
 
 
-# <span class="name">Left</span> <span class="command">R←X⊣Y</span> {: .heading}
+# Left
+
+```apl
+R←X⊣Y
+```
 
 
 
@@ -16,7 +20,7 @@ search:
 
 The result `R` is the left argument `X`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       42⊣'abc' 1 2 3
 42
@@ -26,7 +30,7 @@ The result `R` is the left argument `X`.
 Note that when `⊣` is applied using reduction, the derived function selects the first sub-array of the array along the specified dimension. This is implemented as an idiom.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊣/1 2 3
 1

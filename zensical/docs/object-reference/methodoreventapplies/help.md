@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Help Event</span> {: .heading}
+# Help Event
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Button](../objects/button.md)          |

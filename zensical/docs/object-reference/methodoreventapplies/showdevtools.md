@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowDevTools Method</span> {: .heading}
+# ShowDevTools Method
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

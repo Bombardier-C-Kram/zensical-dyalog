@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">List Properties</span> {: .heading}
+# List Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Items](../properties/items.md)            |[Posn](../properties/posn.md)              |

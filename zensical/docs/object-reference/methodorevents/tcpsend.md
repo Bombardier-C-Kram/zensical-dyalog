@@ -1,4 +1,6 @@
-# <span class="name">TCPSend</span> <span class="right">Method 375</span> {: .heading}
+# TCPSend
+
+Method 375
 
 
 

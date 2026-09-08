@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Commute</span> <span class="command">\{R\}←\{X\}f⍨Y</span> {: .heading}
+# Commute
+
+```apl
+{R}←{X}f⍨Y
+```
 
 
 
@@ -28,7 +32,7 @@ If left argument `X` is omitted, the right argument `Y` is duplicated in its pla
 ```
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       N
 3 2 5 4 6 1 3

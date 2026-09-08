@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MsgBox Events</span> {: .heading}
+# MsgBox Events
 
 |---------------------------------------|---------------------------------------|---------------------------------------|
 |[Close](../methodorevents/close.md)    |[Create](../methodorevents/create.md)  |[MsgBtn1](../methodorevents/msgbtn1.md)|

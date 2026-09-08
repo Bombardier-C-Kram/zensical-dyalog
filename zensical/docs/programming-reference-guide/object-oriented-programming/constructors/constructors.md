@@ -1,4 +1,4 @@
-# <span class="name">Constructors</span> {: .heading}
+# Constructors
 
 A Constructor is a special function defined in the Class script that is to be run when an Instance of the Class is created by `⎕NEW`. Typically, the job of a Constructor is to initialise the new Instance in some way.
 
@@ -20,7 +20,7 @@ The niladic (default) Constructor is called when `⎕NEW` is executed with a 1-i
 
 Note that `⎕NEW` first creates a new instance of the specified Class, and then executes the Constructor inside the instance.
 
-<h2 class="example">Example</h2>
+## Example
 
 The `DomesticParrot` Class defines a Constructor function `egg` that initialises the Instance by storing its name (supplied as the 2<sup>nd</sup> item of the argument to `⎕NEW`) in a Public Field called `Name`.
 ```apl

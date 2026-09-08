@@ -1,4 +1,4 @@
-# <span class="name">Class Members</span> {: .heading}
+# Class Members
 
 A Class may contain *Methods*, *Fields* and *Properties* (commonly referred to together as *Members*) which are defined within the body of the Class script or are inherited from other Classes.
 

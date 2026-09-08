@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Unique</span> <span class="command">R←∪Y</span> {: .heading}
+# Unique
+
+```apl
+R←∪Y
+```
 
 
 
@@ -21,7 +25,7 @@ search:
 `⎕CT` and `⎕DCT` are  implicit arguments of Unique.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ∪ 22 10 22 22 21 10 5 10

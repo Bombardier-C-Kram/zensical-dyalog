@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Grid Methods</span> {: .heading}
+# Grid Methods
 
 |---------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|
 |[Detach](../methodorevents/detach.md)              |[ChooseFont](../methodorevents/choosefont.md)    |[GetTextSize](../methodorevents/gettextsize.md)              |

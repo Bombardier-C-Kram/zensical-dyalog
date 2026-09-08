@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Menu Events</span> {: .heading}
+# Menu Events
 
 |-------------------------------------|-------------------------------------|-----------------------------------------|
 |[Close](../methodorevents/close.md)  |[Create](../methodorevents/create.md)|[DropDown](../methodorevents/dropdown.md)|

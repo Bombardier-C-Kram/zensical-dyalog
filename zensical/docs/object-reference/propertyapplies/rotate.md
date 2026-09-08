@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Rotate Property</span> {: .heading}
+# Rotate Property
 
 |--------------------------|------|------|
 |[Font](../objects/font.md)|&nbsp;|&nbsp;|

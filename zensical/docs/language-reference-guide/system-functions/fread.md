@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Read Components</span> <span class="command">R←⎕FREAD Y</span> {: .heading}
+# File Read Components
+
+```apl
+R←⎕FREAD Y
+```
 
 
 ## Access code 1
@@ -41,7 +45,7 @@ will return the same result as:
 
 However, the first statement will, in the case of a share-tied file,  prevent any potential intervening file access from another user (without the need for a  `⎕FHOLD`). It will also perform slightly faster, especially when reading from a share-tied file.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍴SALES←⎕FREAD 1 241
 3 2 12

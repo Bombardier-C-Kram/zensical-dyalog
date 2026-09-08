@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RTFPrint Method</span> {: .heading}
+# RTFPrint Method
 
 |----------------------------------|------|------|
 |[RichEdit](../objects/richedit.md)|&nbsp;|&nbsp;|

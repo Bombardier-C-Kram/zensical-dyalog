@@ -1,4 +1,4 @@
-# <span class="name">Inheritance</span> {: .heading}
+# Inheritance
 
 If you want a Class to derive from another Class, you simply add the name of that Class to the `:Class` statement using colon+space as a separator.
 
@@ -27,7 +27,7 @@ See [Dependent Objects](../../../../language-reference-guide/system-commands/cop
 
 You may define a Class that derives from any of the .NET Types by specifying the name of the .NET Type and including a `:USING` statement that provides a path to the .NET Assembly in which the .NET Type is located.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
 :Class APLGreg: GregorianCalendar
 :Using System.Globalization

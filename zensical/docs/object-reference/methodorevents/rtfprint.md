@@ -1,4 +1,6 @@
-# <span class="name">RTFPrint</span> <span class="right">Method 461</span> {: .heading}
+# RTFPrint
+
+Method 461
 
 
 

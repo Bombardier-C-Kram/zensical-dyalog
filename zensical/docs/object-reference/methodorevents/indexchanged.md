@@ -1,4 +1,6 @@
-# <span class="name">IndexChanged</span> <span class="right">Event 210</span> {: .heading}
+# IndexChanged
+
+Event 210
 
 
 

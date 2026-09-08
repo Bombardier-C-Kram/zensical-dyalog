@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Less Than</span> <span class="command">&lt;</span> {: .heading}
+# Less Than
+
+```apl
+<
+```
 
 Monadic Less Than is not defined
 

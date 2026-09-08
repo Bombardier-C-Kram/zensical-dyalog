@@ -1,4 +1,6 @@
-# <span class="name">TCPGotAddr</span> <span class="right">Event 377</span> {: .heading}
+# TCPGotAddr
+
+Event 377
 
 
 

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 20 Not a directory</span> <span class="command">120</span> {: .heading}
+# FILE ERROR 20 Not a directory
+
+```apl
+120
+```
 
 
 

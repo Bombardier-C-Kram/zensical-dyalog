@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridDropSel Event</span> {: .heading}
+# GridDropSel Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

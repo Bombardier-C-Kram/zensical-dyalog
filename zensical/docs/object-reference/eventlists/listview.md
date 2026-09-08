@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ListView Events</span> {: .heading}
+# ListView Events
 
 |-------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------|
 |[Close](../methodorevents/close.md)                          |[Create](../methodorevents/create.md)                |[FontOK](../methodorevents/fontok.md)                          |

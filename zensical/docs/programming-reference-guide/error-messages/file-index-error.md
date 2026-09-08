@@ -3,13 +3,17 @@
 
 
 
-# <span class="name">FILE INDEX ERROR</span> <span class="command">20</span> {: .heading}
+# FILE INDEX ERROR
+
+```apl
+20
+```
 
 
 
 This report is given when an attempt is made to reference a non-existent component.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕FSIZE 1
 1 21 16578 4294967295

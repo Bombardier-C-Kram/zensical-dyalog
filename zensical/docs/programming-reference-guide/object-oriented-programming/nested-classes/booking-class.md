@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Booking Class</span> {: .heading}
+# Booking Class
 
 ```apl
     :Class Booking

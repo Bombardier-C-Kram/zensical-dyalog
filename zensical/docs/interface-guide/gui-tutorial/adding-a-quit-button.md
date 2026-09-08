@@ -1,4 +1,4 @@
-# <span class="name">Adding a Quit Button</span> {: .heading}
+# Adding a Quit Button
 
 Finally, we will add a "Quit" button, attaching the same `QUIT` function as a callback, but this time to the Select event which occurs when the user presses it.
 

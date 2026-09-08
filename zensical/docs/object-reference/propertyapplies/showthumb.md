@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowThumb Property</span> {: .heading}
+# ShowThumb Property
 
 |----------------------------------|------|------|
 |[TrackBar](../objects/trackbar.md)|&nbsp;|&nbsp;|

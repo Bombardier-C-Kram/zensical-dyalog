@@ -1,4 +1,4 @@
-# <span class="name">Dyalog\_NETCore</span> {: .heading}
+# Dyalog\_NETCore
 
 This Boolean parameter specifies whether the .NET interface is enabled. On Windows the default is 0 which disables the  .NET interface in favour of the .NET Framework interface. If it is set to 1, Dyalog uses .NET  instead of the .NET Framework.
 

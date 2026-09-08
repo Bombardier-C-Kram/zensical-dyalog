@@ -1,4 +1,6 @@
-# <span class="name">ShowCueWhenFocused</span> <span class="right">Property</span> {: .heading}
+# ShowCueWhenFocused
+
+Property
 
 
 

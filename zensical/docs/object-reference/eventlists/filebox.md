@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileBox Events</span> {: .heading}
+# FileBox Events
 
 |---------------------------------------------------|-------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)|[FileBoxOK](../methodorevents/fileboxok.md)|

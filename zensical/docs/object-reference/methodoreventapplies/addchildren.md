@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AddChildren Method</span> {: .heading}
+# AddChildren Method
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

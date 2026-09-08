@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">New Instance</span> <span class="command">R←⎕NEW Y</span> {: .heading}
+# New Instance
+
+```apl
+R←⎕NEW Y
+```
 
 
 

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">KEY CODE TYPE ERROR</span> <span class="command">63</span> {: .heading}
+# KEY CODE TYPE ERROR
+
+```apl
+63
+```
 
 
 

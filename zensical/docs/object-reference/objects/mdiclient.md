@@ -1,4 +1,6 @@
-# <span class="name">MDIClient</span> <span class="right">Object</span> {: .heading}
+# MDIClient
+
+Object
 
 
 

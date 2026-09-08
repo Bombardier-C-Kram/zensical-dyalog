@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FStyle Property</span> {: .heading}
+# FStyle Property
 
 |------------------------------|--------------------------------|--------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Poly](../objects/poly.md)|

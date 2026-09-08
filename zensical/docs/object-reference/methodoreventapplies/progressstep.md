@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ProgressStep Method</span> {: .heading}
+# ProgressStep Method
 
 |----------------------------------------|------|------|
 |[ProgressBar](../objects/progressbar.md)|&nbsp;|&nbsp;|

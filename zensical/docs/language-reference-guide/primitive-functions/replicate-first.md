@@ -6,6 +6,10 @@ search:
   ⌿ replicate
 </div>
 
-# <span class="name">Replicate First</span> <span class="command">R←X⌿\[K\]Y</span> {: .heading}
+# Replicate First
+
+```apl
+R←X⌿[K]Y
+```
 
 The form `R←X⌿Y` implies replication along the first axis of `Y`.  See [Replicate](replicate.md).

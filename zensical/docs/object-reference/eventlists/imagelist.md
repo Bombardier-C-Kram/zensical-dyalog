@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ImageList Events</span> {: .heading}
+# ImageList Events
 
 |-----------------------------------|-------------------------------------|------|
 |[Close](../methodorevents/close.md)|[Create](../methodorevents/create.md)|&nbsp;|

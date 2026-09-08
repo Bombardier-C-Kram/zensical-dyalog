@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Array Property</span> {: .heading}
+# Array Property
 
 |------------------------------------|------|------|
 |[Clipboard](../objects/clipboard.md)|&nbsp;|&nbsp;|

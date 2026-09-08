@@ -1,4 +1,8 @@
-# <span class="name">Memory Manager Statistics</span> <span class="command">R←\{X\}(2000⌶)Y</span> {: .heading}
+# Memory Manager Statistics
+
+```apl
+R←{X}(2000⌶)Y
+```
 
 This function returns information about the state of the workspace and provides a means to reset certain statistics and to control workspace allocation. This I-Beam is provided for performance tuning and is VERY LIKELY to change in the next release. See also [Workspace Management](https://help.dyalog.com/19.0/index.htm#UserGuide/Installation%20and%20Configuration/Workspace%20Management.htm).
 
@@ -31,7 +35,7 @@ Note: While all other operations are relatively fast, the operation to count the
 
 See also [Specify Workspace Available](https://help.dyalog.com/19.0/index.htm#Language/I%20Beam%20Functions/Specify%20Workspace%20Available.htm).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2000⌶0
 55414796
@@ -57,7 +61,7 @@ If `X` is specified, it must be either a simple integer scalar, or a vector of t
 - Limiting the maximum workspace allocation can be used to prevent code that reserves as much workspace as it can from skewing the peak usage result.
 - Limiting the minimum workspace allocation can avoid repeatedly committing and releasing memory to the Operating System when memory usage is fluctuating.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2000⌶2 3
 6 0 33216252

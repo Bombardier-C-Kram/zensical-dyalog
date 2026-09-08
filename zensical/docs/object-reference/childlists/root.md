@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Root Children</span> {: .heading}
+# Root Children
 
 |----------------------------------------|------------------------------------------|--------------------------------------------|
 |[Bitmap](../objects/bitmap.md)          |[BrowseBox](../objects/browsebox.md)      |[Clipboard](../objects/clipboard.md)        |

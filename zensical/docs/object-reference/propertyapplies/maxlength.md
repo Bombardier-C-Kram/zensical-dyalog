@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MaxLength Property</span> {: .heading}
+# MaxLength Property
 
 |--------------------------------------|--------------------------|--------------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|[Spinner](../objects/spinner.md)|

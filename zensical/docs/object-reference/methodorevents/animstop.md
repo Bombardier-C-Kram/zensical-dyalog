@@ -1,4 +1,6 @@
-# <span class="name">AnimStop</span> <span class="right">Method 293</span> {: .heading}
+# AnimStop
+
+Method 293
 
 
 

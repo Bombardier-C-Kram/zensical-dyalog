@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# <span class="name">System Functions (by Category)</span> {: .heading}
+# System Functions (by Category)
 
 ## System Functions by Subject
 
@@ -390,7 +390,7 @@ A system variable can never be undefined. Default values are assigned to all sys
 
 Note that the value assigned to a system variable must be appropriate, otherwise an error will be reported immediately.
 
-<h2 class="example">Example</h2>
+## Example
 
 ```apl
       ⎕IO←3

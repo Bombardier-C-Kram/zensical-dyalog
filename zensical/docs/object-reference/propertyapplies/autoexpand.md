@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AutoExpand Property</span> {: .heading}
+# AutoExpand Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

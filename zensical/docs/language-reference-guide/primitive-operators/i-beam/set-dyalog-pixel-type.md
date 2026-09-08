@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Set Dyalog Pixel Type</span> <span class="command">R←2035⌶Y</span> {: .heading}
+# Set Dyalog Pixel Type
+
+```apl
+R←2035⌶Y
+```
 
 
 
@@ -30,7 +34,7 @@ Determines how Coord `'Pixel'` is interpreted. This is determined initially by t
 The result `R` is the previous value.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       2035⌶'ScaledPixel'
 RealPixel

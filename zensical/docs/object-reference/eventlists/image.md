@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Image Events</span> {: .heading}
+# Image Events
 
 |---------------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)  |[DragDrop](../methodorevents/dragdrop.md)  |

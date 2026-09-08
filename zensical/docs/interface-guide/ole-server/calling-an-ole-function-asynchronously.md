@@ -1,4 +1,4 @@
-# <span class="name">Calling an OLE Function Asynchronously</span> {: .heading}
+# Calling an OLE Function Asynchronously
 
 ## Introduction
 

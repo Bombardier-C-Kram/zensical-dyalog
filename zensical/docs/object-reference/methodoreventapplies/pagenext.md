@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageNext Event</span> {: .heading}
+# PageNext Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

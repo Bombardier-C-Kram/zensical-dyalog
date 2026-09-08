@@ -1,4 +1,6 @@
-# <span class="name">IDNToDate</span> <span class="right">Method 263</span> {: .heading}
+# IDNToDate
+
+Method 263
 
 
 
@@ -22,7 +24,7 @@ The result is a 4-element integer vector containing the year, month, day, and we
 
 The value of the 4<sup>th</sup> element, weekday, is an integer in the range 0-6 that specifies on which day of the week the specified date falls (0=Monday).
 
-<h2 class="example">Example</h2>
+## Example
 
 ```apl
       F.C.IDNToDate 36048

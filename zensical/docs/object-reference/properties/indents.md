@@ -1,4 +1,6 @@
-# <span class="name">Indents</span> <span class="right">Property</span> {: .heading}
+# Indents
+
+Property
 
 
 

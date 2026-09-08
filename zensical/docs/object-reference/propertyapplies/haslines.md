@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasLines Property</span> {: .heading}
+# HasLines Property
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

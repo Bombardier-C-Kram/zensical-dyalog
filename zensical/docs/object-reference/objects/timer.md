@@ -1,4 +1,6 @@
-# <span class="name">Timer</span> <span class="right">Object</span> {: .heading}
+# Timer
+
+Object
 
 [Parents](../parentlists/timer.md), [Properties](../proplists/timer.md), [Methods](../methodlists/timer.md), [Events](../eventlists/timer.md)
 

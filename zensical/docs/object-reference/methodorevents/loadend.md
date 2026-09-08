@@ -1,4 +1,6 @@
-# <span class="name">LoadEnd</span> <span class="right">Event 836</span> {: .heading}
+# LoadEnd
+
+Event 836
 
 
 

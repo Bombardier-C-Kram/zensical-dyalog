@@ -28,7 +28,7 @@ Dyalog v21.0 is the last major version that will support workspaces saved using 
 
 To update workspaces that were saved using Dyalog v11.0 or v12.0 so that they can be loaded using a future version of Dyalog, you can use `)XLOAD` and `)SAVE` in any version of Dyalog from v12.1 to v21.0 inclusive. 
 
-!!! Hint "Hints and Recommendations"  
+!!! tip "Hints and Recommendations"  
     Dyalog Ltd recommends that workspaces are saved without any suspended functions on the stack before loading them into a newer interpreter. To achieve this, run `)RESET` before `)SAVE`.
 
 ### Small-span Component Files

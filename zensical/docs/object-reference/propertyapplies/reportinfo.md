@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ReportInfo Property</span> {: .heading}
+# ReportInfo Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

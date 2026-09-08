@@ -7,7 +7,11 @@ search:
   reduce
 </div>
 
-# <span class="name">Reduce</span> <span class="command">R←f/\[K\]Y</span> {: .heading}
+# Reduce
+
+```apl
+R←f/[K]Y
+```
 
 `f` must be a dyadic function.  `Y` may be any array whose items in the sub-arrays along the `K`<sup>th</sup> axis are appropriate to function `f`.
 
@@ -64,7 +68,7 @@ Table: Identity Elements {: #IdentityElements }
 
 In [](#IdentityElements), `M` represents the largest representable value. Typically this is 1.7E308, unless [`⎕FR`](../../system-functions/fr.md) is `1287`, in which case it becomes 1E6145
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ∨/0 0 1 0 0 1 0
 1

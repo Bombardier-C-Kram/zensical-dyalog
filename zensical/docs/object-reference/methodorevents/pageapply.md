@@ -1,4 +1,6 @@
-# <span class="name">PageApply</span> <span class="right">Event 350</span> {: .heading}
+# PageApply
+
+Event 350
 
 
 

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Base Class</span> <span class="command">R←⎕BASE.Y</span> {: .heading}
+# Base Class
+
+```apl
+R←⎕BASE.Y
+```
 
 
 

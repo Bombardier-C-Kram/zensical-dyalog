@@ -8,7 +8,11 @@ search:
   2011⌶
 </div>
 
-# <span class="name">Read DataTable</span> <span class="command">R←\{X\}2011⌶Y</span> {: .heading}
+# Read DataTable
+
+```apl
+R←{X}2011⌶Y
+```
 
 !!! note
     **.NET Framework only**
@@ -36,7 +40,7 @@ The optional left argument `X` is a numeric vector with the same length as the n
 |4|Specifies that if the type of the corresponding column is `System.String` the entire column should be returned as a character matrix rather than a vector of character vectors. Any nulls will be replaced with a row of spaces. This applies only when **Invert** is 1.|
 |5|Combines 1 and 4.|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕USING←'' 'System.Data,system.data.dll'
       

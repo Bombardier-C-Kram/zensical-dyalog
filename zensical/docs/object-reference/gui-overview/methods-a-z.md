@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Methods A-Z</span> {: .heading}
+# Methods A-Z
 
 |Method|Num|Description|
 |---|---|---|

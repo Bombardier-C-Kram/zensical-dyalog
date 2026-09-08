@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Index Origin</span> <span class="command">⎕IO</span> {: .heading}
+# Index Origin
+
+```apl
+⎕IO
+```
 
 
 
@@ -24,7 +28,7 @@ search:
 
 `⎕IO` is an implicit argument of any function derived from the bracket axis (`[K]`), of the monadic functions Fix (`⎕FX`), Grade Down (`⍒`), Grade Up (`⍋`), Index Generator (`⍳`), Roll (`?`), and Where (`⍸`), and of the dyadic functions Deal (`?`), Grade Down (`⍒`), Grade Up (`⍋`), Index (`⌷`), Index Of (`⍳`), Indexed Assignment, Indexing, Pick (`⊃`), Transpose (`⍉`), Interval Index (`⍸`), and Dyadic Format (`⎕FMT`).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
         ⎕IO←1
         ⍳5

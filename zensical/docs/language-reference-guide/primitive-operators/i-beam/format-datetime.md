@@ -7,7 +7,11 @@ search:
   1200⌶
 </div>
 
-# <span class="name">Format Date-time</span><span class="command">R←X(1200⌶)Y</span> {: .heading}
+# Format Date-time
+
+```apl
+R←X(1200⌶)Y
+```
 
 `Y` is a numeric array of any shape, where every element contains a Dyalog Date Number that represents a date between 1
 January 0001 and 31 December 9999 in the [Proleptic Gregorian Calendar](https://en.wikipedia.org/wiki/Proleptic_Gregorian_calendar).
@@ -29,246 +33,246 @@ more times to indicate format. As noted below, some sequences allow the first ch
 <table>
     <thead>
         <tr>
-            <th class="text-left">Format letter</th>
-            <th class="text-left">Length</th>
-            <th class="text-left">Meaning</th>
-            <th class="text-left">Variations</th>
-            <th class="text-left">Example</th>
+            <th>Format letter</th>
+            <th>Length</th>
+            <th>Meaning</th>
+            <th>Variations</th>
+            <th>Example</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>Y</ins>ear</td>
-            <td class="Dyalog">YY</td>
+            <td class="apl">YY</td>
             <td>Without century</td>
-            <td class="Dyalog">YY</td>
-            <td class="Dyalog">19</td>
+            <td class="apl">YY</td>
+            <td class="apl">19</td>
         </tr>
         <tr>
-            <td class="Dyalog">YYYY</td>
+            <td class="apl">YYYY</td>
             <td>With century</td>
-            <td class="Dyalog">YYYY</td>
-            <td class="Dyalog">2019</td>
+            <td class="apl">YYYY</td>
+            <td class="apl">2019</td>
         </tr>
         <tr>
             <td rowspan="4" style="vertical-align: middle;">
                 <ins>M</ins>onth</td>
-            <td class="Dyalog">M</td>
+            <td class="apl">M</td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">M</td>
-            <td class="Dyalog">3</td>
+            <td class="apl">M</td>
+            <td class="apl">3</td>
         </tr>
         <tr>
-            <td class="Dyalog">MM</td>
+            <td class="apl">MM</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">MM<br />_M</td>
-            <td class="Dyalog">03<br />&nbsp;3</td>
+            <td class="apl">MM<br />_M</td>
+            <td class="apl">03<br />&nbsp;3</td>
         </tr>
         <tr>
-            <td class="Dyalog">MMM</td>
+            <td class="apl">MMM</td>
             <td>Abbreviated name</td>
-            <td class="Dyalog">MMM<br />Mmm<br />mmm<br />_mm<sup>1</sup></td>
-            <td class="Dyalog">MAR<br />Mar<br />mar<br />Mar</td>
+            <td class="apl">MMM<br />Mmm<br />mmm<br />_mm<sup>1</sup></td>
+            <td class="apl">MAR<br />Mar<br />mar<br />Mar</td>
         </tr>
         <tr>
-            <td class="Dyalog">MMMM </td>
+            <td class="apl">MMMM </td>
             <td>Full name </td>
-            <td class="Dyalog">MMMM<br />Mmmm<br />mmmm<br />_mmm<sup>1</sup></td>
-            <td class="Dyalog">MARCH<br />March<br />march<br />March</td>
+            <td class="apl">MMMM<br />Mmmm<br />mmmm<br />_mmm<sup>1</sup></td>
+            <td class="apl">MARCH<br />March<br />march<br />March</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>D</ins>ay of month</td>
-            <td class="Dyalog">D</td>
+            <td class="apl">D</td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">D</td>
-            <td class="Dyalog">4</td>
+            <td class="apl">D</td>
+            <td class="apl">4</td>
         </tr>
         <tr>
-            <td class="Dyalog">DD</td>
+            <td class="apl">DD</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">DD<br />_D</td>
-            <td class="Dyalog">04<br />&nbsp;4</td>
+            <td class="apl">DD<br />_D</td>
+            <td class="apl">04<br />&nbsp;4</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>h</ins>ours</td>
-            <td class="Dyalog">h</td>
+            <td class="apl">h</td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">h</td>
-            <td class="Dyalog">8</td>
+            <td class="apl">h</td>
+            <td class="apl">8</td>
         </tr>
         <tr>
-            <td class="Dyalog">hh</td>
+            <td class="apl">hh</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">hh<br />_h</td>
-            <td class="Dyalog">08<br />&nbsp;8</td>
+            <td class="apl">hh<br />_h</td>
+            <td class="apl">08<br />&nbsp;8</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>m</ins>inutes</td>
-            <td class="Dyalog">m </td>
+            <td class="apl">m </td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">m</td>
-            <td class="Dyalog">5</td>
+            <td class="apl">m</td>
+            <td class="apl">5</td>
         </tr>
         <tr>
-            <td class="Dyalog">mm</td>
+            <td class="apl">mm</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">mm<br />_m</td>
-            <td class="Dyalog">05<br />&nbsp;5</td>
+            <td class="apl">mm<br />_m</td>
+            <td class="apl">05<br />&nbsp;5</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>s</ins>econds</td>
-            <td class="Dyalog">s</td>
+            <td class="apl">s</td>
             <td>1 or 2 digit numeric </td>
-            <td class="Dyalog">s</td>
-            <td class="Dyalog">0</td>
+            <td class="apl">s</td>
+            <td class="apl">0</td>
         </tr>
         <tr>
-            <td class="Dyalog">ss </td>
+            <td class="apl">ss </td>
             <td>2 character numeric </td>
-            <td class="Dyalog">ss<br />_s</td>
-            <td class="Dyalog">00<br />&nbsp;0</td>
+            <td class="apl">ss<br />_s</td>
+            <td class="apl">00<br />&nbsp;0</td>
         </tr>
         <tr>
             <td rowspan="6" style="vertical-align: middle;">
                 <ins>f</ins>ractional seconds</td>
-            <td class="Dyalog">f</td>
+            <td class="apl">f</td>
             <td>1 digit precision</td>
-            <td class="Dyalog">f</td>
-            <td class="Dyalog">5</td>
+            <td class="apl">f</td>
+            <td class="apl">5</td>
         </tr>
         <tr>
-            <td class="Dyalog">ff</td>
+            <td class="apl">ff</td>
             <td>2 digit precision</td>
-            <td class="Dyalog">ff</td>
-            <td class="Dyalog">55</td>
+            <td class="apl">ff</td>
+            <td class="apl">55</td>
         </tr>
         <tr>
-            <td class="Dyalog">fff</td>
+            <td class="apl">fff</td>
             <td>3 digit precision</td>
-            <td class="Dyalog">fff</td>
-            <td class="Dyalog">555</td>
+            <td class="apl">fff</td>
+            <td class="apl">555</td>
         </tr>
         <tr>
-            <td class="Dyalog">ffff</td>
+            <td class="apl">ffff</td>
             <td>4 digit precision</td>
-            <td class="Dyalog">ffff</td>
-            <td class="Dyalog">5555</td>
+            <td class="apl">ffff</td>
+            <td class="apl">5555</td>
         </tr>
         <tr>
-            <td class="Dyalog">fffff</td>
+            <td class="apl">fffff</td>
             <td>5 digit precision</td>
-            <td class="Dyalog">fffff</td>
-            <td class="Dyalog">55555</td>
+            <td class="apl">fffff</td>
+            <td class="apl">55555</td>
         </tr>
         <tr>
-            <td class="Dyalog">ffffff</td>
+            <td class="apl">ffffff</td>
             <td>6 digit precision</td>
-            <td class="Dyalog">ffffff</td>
-            <td class="Dyalog">555555</td>
+            <td class="apl">ffffff</td>
+            <td class="apl">555555</td>
         </tr>
         <tr>
             <td rowspan="3" style="vertical-align: middle;">
                 <ins>d</ins>ay of week</td>
-            <td class="Dyalog">d </td>
+            <td class="apl">d </td>
             <td>Numeric (1-7)</td>
-            <td class="Dyalog">d</td>
-            <td class="Dyalog">1</td>
+            <td class="apl">d</td>
+            <td class="apl">1</td>
         </tr>
         <tr>
-            <td class="Dyalog">ddd</td>
+            <td class="apl">ddd</td>
             <td>Abbreviated name</td>
-            <td class="Dyalog">DDD<br />Ddd<br />ddd<br />_dd<sup>1</sup></td>
-            <td class="Dyalog">MON<br />Mon<br />mon<br />Mon</td>
+            <td class="apl">DDD<br />Ddd<br />ddd<br />_dd<sup>1</sup></td>
+            <td class="apl">MON<br />Mon<br />mon<br />Mon</td>
         </tr>
         <tr>
-            <td class="Dyalog">dddd</td>
+            <td class="apl">dddd</td>
             <td>Full name</td>
-            <td class="Dyalog">DDDD<br />Dddd<br />dddd<br />_ddd<sup>1</sup></td>
-            <td class="Dyalog">MONDAY<br />Monday<br />monday<br />Monday</td>
+            <td class="apl">DDDD<br />Dddd<br />dddd<br />_ddd<sup>1</sup></td>
+            <td class="apl">MONDAY<br />Monday<br />monday<br />Monday</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">ISO <ins>w</ins>eek number</td>
-            <td class="Dyalog">w</td>
+            <td class="apl">w</td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">w</td>
-            <td class="Dyalog">10</td>
+            <td class="apl">w</td>
+            <td class="apl">10</td>
         </tr>
         <tr>
-            <td class="Dyalog">ww</td>
+            <td class="apl">ww</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">ww<br />_w</td>
-            <td class="Dyalog">10<br />10</td>
+            <td class="apl">ww<br />_w</td>
+            <td class="apl">10<br />10</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">year of ISO<br /><ins>W</ins>eek<br />number<sup>2</sup></td>
-            <td class="Dyalog">WW</td>
+            <td class="apl">WW</td>
             <td>Without century</td>
-            <td class="Dyalog">WW</td>
-            <td class="Dyalog">19</td>
+            <td class="apl">WW</td>
+            <td class="apl">19</td>
         </tr>
         <tr>
-            <td class="Dyalog">WWWW</td>
+            <td class="apl">WWWW</td>
             <td>With century</td>
-            <td class="Dyalog">WWWW</td>
-            <td class="Dyalog">2019</td>
+            <td class="apl">WWWW</td>
+            <td class="apl">2019</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">day of <ins>y</ins>ear</td>
-            <td class="Dyalog">y</td>
+            <td class="apl">y</td>
             <td>1 to 3 digit numeric</td>
-            <td class="Dyalog">y</td>
-            <td class="Dyalog">63</td>
+            <td class="apl">y</td>
+            <td class="apl">63</td>
         </tr>
         <tr>
-            <td class="Dyalog">yy</td>
+            <td class="apl">yy</td>
             <td>3 character numeric</td>
-            <td class="Dyalog">yy<br />_y</td>
-            <td class="Dyalog">063<br />&nbsp;63</td>
+            <td class="apl">yy<br />_y</td>
+            <td class="apl">063<br />&nbsp;63</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">
                 <ins>O</ins>rdinal indicator<sup>3</sup><br />for day of month</td>
-            <td class="Dyalog">O</td>
+            <td class="apl">O</td>
             <td>Short</td>
-            <td class="Dyalog">O<br />o</td>
-            <td class="Dyalog">T<br />t</td>
+            <td class="apl">O<br />o</td>
+            <td class="apl">T<br />t</td>
         </tr>
         <tr>
-            <td class="Dyalog">OO</td>
+            <td class="apl">OO</td>
             <td>Full</td>
-            <td class="Dyalog">OO<br />Oo<br />oo</td>
-            <td class="Dyalog">TH<br />Th<br />th</td>
+            <td class="apl">OO<br />Oo<br />oo</td>
+            <td class="apl">TH<br />Th<br />th</td>
         </tr>
         <tr>
             <td rowspan="2" style="vertical-align: middle;">hours in <ins>t</ins>welve<br />hour clock</td>
-            <td class="Dyalog">t</td>
+            <td class="apl">t</td>
             <td>1 or 2 digit numeric</td>
-            <td class="Dyalog">t</td>
-            <td class="Dyalog">8</td>
+            <td class="apl">t</td>
+            <td class="apl">8</td>
         </tr>
         <tr>
-            <td class="Dyalog">tt</td>
+            <td class="apl">tt</td>
             <td>2 character numeric</td>
-            <td class="Dyalog">tt<br />_t</td>
-            <td class="Dyalog">08<br />&nbsp;8</td>
+            <td class="apl">tt<br />_t</td>
+            <td class="apl">08<br />&nbsp;8</td>
         </tr>
         <tr>
             <td rowspan="2">AM/<ins>P</ins>M Indicator</td>
-            <td class="Dyalog">P</td>
+            <td class="apl">P</td>
             <td>Short</td>
-            <td class="Dyalog">P<br />p</td>
-            <td class="Dyalog">A<br />a</td>
+            <td class="apl">P<br />p</td>
+            <td class="apl">A<br />a</td>
         </tr>
         <tr>
-            <td class="Dyalog">PP</td>
+            <td class="apl">PP</td>
             <td>Full</td>
-            <td class="Dyalog">PP<br />pp</td>
-            <td class="Dyalog">AM<br />am<br /></td>
+            <td class="apl">PP<br />pp</td>
+            <td class="apl">AM<br />am<br /></td>
         </tr>
     </tbody>
 </table>

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Protected Event</span> {: .heading}
+# Protected Event
 
 |----------------------------------|------|------|
 |[RichEdit](../objects/richedit.md)|&nbsp;|&nbsp;|

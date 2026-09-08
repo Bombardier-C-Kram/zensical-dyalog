@@ -1,4 +1,8 @@
-# <span class="name">Windows Command Processor</span> <span class="command">)CMD cmd</span> {: .heading}
+# Windows Command Processor
+
+```apl
+)CMD cmd
+```
 
 This command allows Windows Command Processor or UNIX shell commands to be given from APL.  `)CMD` is a synonym of `)SH`.  Either command may be given in either environment (Windows or UNIX) with exactly the same effect.  `)CMD` is probably more natural for the Windows user.  This section describes the behaviour of `)CMD` and `)SH` under Windows.  See [Execute (UNIX) Command](sh.md) for a discussion of the behaviour of these commands under UNIX.
 
@@ -6,7 +10,7 @@ The system functions [`⎕SH`](../system-functions/execute-unix-command.md) and 
 
 Note that under Windows, you may not execute `)CMD` without a command.  If you wish to, you can easily open a new Command Prompt window outside APL.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      )CMD dir
  Volume in drive C is OS
@@ -26,7 +30,7 @@ Note that under Windows, you may not execute `)CMD` without a command.  If you 
 
 If **cmd** issues prompts and expects user input, it is **ESSENTIAL** to explicitly redirect input and output to the console.  If this is done, APL detects the presence of a "`>`" in the command line and runs the command processor in a visible window and does not direct output to the pipe.  If you fail to do this your system will appear to hang because there is no mechanism for you to receive or respond to the prompt.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )CMD DATE <CON >CON
 ```

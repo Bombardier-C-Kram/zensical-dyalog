@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DblClickToggle Property</span> {: .heading}
+# DblClickToggle Property
 
 |--------------------------------|------|------|
 |[CoolBar](../objects/coolbar.md)|&nbsp;|&nbsp;|

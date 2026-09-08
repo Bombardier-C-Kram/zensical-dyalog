@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEUnregister Method</span> {: .heading}
+# OLEUnregister Method
 
 |------------------------------------|------|------|
 |[OLEServer](../objects/oleserver.md)|&nbsp;|&nbsp;|

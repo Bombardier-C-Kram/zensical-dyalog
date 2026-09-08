@@ -1,4 +1,6 @@
-# <span class="name">Btns</span> <span class="right">Property</span> {: .heading}
+# Btns
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">StartSplit</span> <span class="right">Event 280</span> {: .heading}
+# StartSplit
+
+Event 280
 
 
 

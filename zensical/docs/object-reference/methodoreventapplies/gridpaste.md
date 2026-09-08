@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridPaste Event</span> {: .heading}
+# GridPaste Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

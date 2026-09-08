@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColumnWidth Property</span> {: .heading}
+# ColumnWidth Property
 
 |--------------------------|------|------|
 |[List](../objects/list.md)|&nbsp;|&nbsp;|

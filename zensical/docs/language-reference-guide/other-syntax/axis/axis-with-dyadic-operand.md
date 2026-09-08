@@ -1,5 +1,9 @@
 
-# <span class="name">Axis (with Dyadic Operand)</span> <span class="command">R←Xf\[B\]Y</span> {: .heading}
+# Axis (with Dyadic Operand)
+
+```apl
+R←Xf[B]Y
+```
 
 
 `f` must be a dyadic primitive scalar function, or a dyadic primitive mixed function taken from [](#DyadicMixed) below. `B` must be a numeric scalar or vector. `X` and `Y` may be any arrays whose items are appropriate to function `f`.
@@ -30,7 +34,7 @@ Exceptionally, `B` must be a fractional value for the Laminate function (`,`) wh
 
 `⎕IO` is an implicit argument of the derived function which determines the meaning of `B`.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       1 4 5 =[1] 3 2⍴⍳6
@@ -69,7 +73,7 @@ For example, if `H` is the higher rank array, `L` the lower rank one, `X` is an 
 
 In the special case where both arguments have the same rank, the right one will play the role of the higher rank array. If `R` is the right argument, `L` the left argument, `X` is an axis specification and `f` a scalar dyadic function, then the expression `Lf[X]R` is conformable if `(⍴L)←→(⍴R)[X]`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       mat
 10 20 30

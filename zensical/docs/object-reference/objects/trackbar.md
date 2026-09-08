@@ -1,4 +1,6 @@
-# <span class="name">TrackBar</span> <span class="right">Object</span> {: .heading}
+# TrackBar
+
+Object
 
 
 

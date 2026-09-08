@@ -1,4 +1,4 @@
-# <span class="name">Error Trapping Concepts</span> {: .heading}
+# Error Trapping Concepts
 
 The purpose of this section is to show some of the ways in which the ideas of error trapping can be used to great effect to change the flow of control in a system.
 

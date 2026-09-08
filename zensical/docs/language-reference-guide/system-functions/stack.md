@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">State Indicator Stack</span> <span class="command">R←⎕STACK</span> {: .heading}
+# State Indicator Stack
+
+```apl
+R←⎕STACK
+```
 
 
 
@@ -34,7 +38,7 @@ Column 2 :Indication of the type of the item on the stack.
 |`other`|primitive operator               |
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       )SI
@@ -64,7 +68,7 @@ Column 2 :Indication of the type of the item on the stack.
 
 Pendent defined functions and operators may be edited in Dyalog APL with no resulting SI damage.  However, only the visible definition is changed; the pendent version on the stack is retained until its execution is complete.  When the function or operator is displayed, only the visible version is seen.  Hence `⎕STACK` is a tool which allows the user to display the form of the actual function or operator being executed.
 
-<h2 class="example">Example</h2>
+## Example
 
 
 To display the version of `MATDIV` currently pendent on the stack:

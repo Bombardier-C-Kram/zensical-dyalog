@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Mark Thread as Uninterruptible</span> <span class="command">R←2503⌶Y</span> {: .heading}
+# Mark Thread as Uninterruptible
+
+```apl
+R←2503⌶Y
+```
 
 
 

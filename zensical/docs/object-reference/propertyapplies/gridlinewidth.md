@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridLineWidth Property</span> {: .heading}
+# GridLineWidth Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

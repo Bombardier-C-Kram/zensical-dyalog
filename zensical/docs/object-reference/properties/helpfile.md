@@ -1,4 +1,6 @@
-# <span class="name">HelpFile</span> <span class="right">Property</span> {: .heading}
+# HelpFile
+
+Property
 
 
 

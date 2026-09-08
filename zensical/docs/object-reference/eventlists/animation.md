@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Animation Events</span> {: .heading}
+# Animation Events
 
 |---------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)                          |[DragDrop](../methodorevents/dragdrop.md)                    |

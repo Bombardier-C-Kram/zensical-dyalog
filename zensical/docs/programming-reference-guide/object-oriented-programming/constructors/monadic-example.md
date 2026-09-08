@@ -1,4 +1,4 @@
-# <span class="name">Monadic Example</span> {: .heading}
+# Monadic Example
 
 In the following example, `DomesticParrot` is derived from `Parrot` which is derived from `Bird`. They all share the Field `Species` (inherited from `Bird`) but only a `DomesticParrot` has a Field `Name`. Each of the 3 Classes has its own Constructor called `egg`.
 ```apl

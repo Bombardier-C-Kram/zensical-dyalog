@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Set Shell Script Debug Options</span> <span class="command">R←\{X\}(1010⌶)Y</span> {: .heading}
+# Set Shell Script Debug Options
+
+```apl
+R←{X}(1010⌶)Y
+```
 
 
 

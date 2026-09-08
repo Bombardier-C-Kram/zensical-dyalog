@@ -1,10 +1,10 @@
-# <span class="name">APL Source Files</span> {: .heading}
+# APL Source Files
 
 APL Source files contain definitions (the "source") of one or more named APL objects, that is, functions, operators, namespaces, classes, interfaces and arrays. They cannot contain anything else. They are not workspace-oriented (although you can call workspaces from them) but are simply character files containing function bodies and expressions. This means that they would be valid right arguments to `2 ⎕FIX`.
 
 APL Source files employ Unicode encoding, so you need a Unicode font with APL symbols, such as APL385 Unicode, to create or view them. They can be viewed and edited using any character-based editor that supports Unicode text files.
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     To enter Dyalog APL symbols into an APL Source file, you need the Dyalog Input Method Editor (IME) or other APL compatible keyboard. The Dyalog IME can be configured from the **Dyalog Configuration** dialog box. You can change the associated **.DIN** file or there are various other options. APL Source files can also be edited using Microsoft Word, although they must be saved as text files without any Word formatting.
 
 APL Source files can be identified by the **.apl** file extension. This can either specify .NET classes or represent an APL application in a text source format (as opposed to a workspace format). Such applications do not necessarily require .NET. The **.apl** file extension can, optionally, be further categorised. For example:
@@ -23,7 +23,7 @@ APL Source files are compiled into executable code by the Dyalog .NET Compiler, 
 !!! Info "Information"
     By default, **dyalogc.exe** compiles to .NET. If the `-framework` option is set, it will instead compile to .NET Framework.
 	
-!!! Legacy "Legacy"
+!!! note "Legacy"
     For backwards compatibility, the Dyalog .NET Compiler is also distributed on Microsoft Windows with the names identified in the table below.
         
     |&nbsp;|Unicode Edition      |Classic Edition|
@@ -75,7 +75,7 @@ dyalogc.exe command line options:
 -i:Local                (.NET Framework only) Set the isolation mode of a .NET Assembly
 ```
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     The <code class="language-nonAPL">-a</code> option specifies the name of a JSON file that contains assembly information. For example:
     ```nonAPL
     dyalogc.exe -t:library j:/ws/attributetest.dws -a:c:/tmp/atts.json
@@ -135,12 +135,12 @@ Function bodies are defined between opening and closing del (`∇`) characters. 
 
 ## Creating Programs (.exe) with APL Source Files
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     This section is specific to the Microsoft Windows operating system only.
 
 The following examples, which illustrate how you can create an executable program (**.exe**) directly from an APL Source file, can be found in the **[DYALOG]/Samples/bound_exe** directory. The examples require write access to successfully build the samples, therefore Dyalog Ltd recommends copying the **[DYALOG]/Samples/bound_exe** directory to somewhere you have write access.
 
-<h4 class="example">Example: Simple GUI</h4>
+#### Example: Simple GUI
 
 The **eg1.apln** APL Source file illustrates the simplest possible GUI application that displays a message box containing the string "Hello World":
 ```apl
@@ -163,7 +163,7 @@ This is compiled to a Windows executable (**.exe**) using **make.bat** and run f
 
 The resulting executable can be associated with a desktop icon, and will run without a command prompt window. Any default APL output that would normally be displayed in the session window will be ignored.
 
-<h4 class="example">Example: Simple Console</h4>
+#### Example: Simple Console
 
 The **eg2.apln** APL Source file illustrates the simplest possible application that displays the text "Hello World".:
 ```apl

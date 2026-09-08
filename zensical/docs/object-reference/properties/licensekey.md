@@ -1,4 +1,6 @@
-# <span class="name">LicenseKey</span> <span class="right">Property</span> {: .heading}
+# LicenseKey
+
+Property
 
 
 

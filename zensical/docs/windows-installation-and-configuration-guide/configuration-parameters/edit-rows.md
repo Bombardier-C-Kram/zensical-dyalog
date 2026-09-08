@@ -1,4 +1,4 @@
-# <span class="name">Edit\_Rows</span> {: .heading}
+# Edit\_Rows
 
 This parameter specifies the initial height of an edit window in character units.
 

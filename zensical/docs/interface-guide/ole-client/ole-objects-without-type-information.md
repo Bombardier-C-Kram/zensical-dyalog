@@ -1,4 +1,4 @@
-# <span class="name">Using OLE Objects without Type Information</span> {: .heading}
+# Using OLE Objects without Type Information
 
 Even if an OLE Object fails to provide Type Information, either using early or late binding, you will still be able to access its methods and properties using a secondary form of late binding  or SetMethodInfo and SetPropertyInfo as follows.
 

@@ -1,4 +1,6 @@
-# <span class="name">Posn</span> <span class="right">Property</span> {: .heading}
+# Posn
+
+Property
 
 [**Applies To**](../propertyapplies/posn.md)
 

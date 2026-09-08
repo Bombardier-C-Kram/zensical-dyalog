@@ -1,4 +1,6 @@
-# <span class="name">AutoPlay</span> <span class="right">Property</span> {: .heading}
+# AutoPlay
+
+Property
 
 
 

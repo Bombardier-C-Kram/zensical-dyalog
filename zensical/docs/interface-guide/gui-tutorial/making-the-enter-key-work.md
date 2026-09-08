@@ -1,4 +1,4 @@
-# <span class="name">Making the Enter Key Work</span> {: .heading}
+# Making the Enter Key Work
 
 Ok, so the basic application works. Let's look at what we can do to improve it.
 

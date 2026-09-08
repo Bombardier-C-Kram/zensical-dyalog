@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Rename</span> <span class="command">\{R\}←X ⎕FRENAME Y</span> {: .heading}
+# File Rename
+
+```apl
+{R}←X ⎕FRENAME Y
+```
 
 
 ## Access code 128
@@ -30,7 +34,7 @@ The file being renamed must be tied exclusively.
 
 The shy result of `⎕FRENAME` is the tie number of the file.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'SALES' ⎕FTIE 1
       'PROFIT' ⎕FTIE 2

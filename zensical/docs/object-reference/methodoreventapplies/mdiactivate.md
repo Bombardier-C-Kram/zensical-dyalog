@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIActivate Event</span> {: .heading}
+# MDIActivate Event
 
 |--------------------------------|------|------|
 |[SubForm](../objects/subform.md)|&nbsp;|&nbsp;|

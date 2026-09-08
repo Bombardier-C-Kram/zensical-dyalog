@@ -1,4 +1,4 @@
-# <span class="name">Default\_PP</span> {: .heading}
+# Default\_PP
 
 This parameter specifies the value of `⎕PP` in a clear workspace. Its default value is 10.
 

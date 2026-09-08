@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OCXClass Methods</span> {: .heading}
+# OCXClass Methods
 
 |-----------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
 |[Detach](../methodorevents/detach.md)                      |[GetPropertyInfo](../methodorevents/getpropertyinfo.md)|[GetEventInfo](../methodorevents/geteventinfo.md)            |

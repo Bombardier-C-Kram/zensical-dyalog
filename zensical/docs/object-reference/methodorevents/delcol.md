@@ -1,4 +1,6 @@
-# <span class="name">DelCol</span> <span class="right">Method 155</span> {: .heading}
+# DelCol
+
+Method 155
 
 
 

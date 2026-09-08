@@ -1,4 +1,6 @@
-# <span class="name">DoPopup</span> <span class="right">Event 846</span> {: .heading}
+# DoPopup
+
+Event 846
 
 **Applies To:** [HTMLRenderer](../objects/htmlrenderer.md)
 
@@ -30,7 +32,7 @@ The event message reported as the result of [`⎕DQ`](../../../language-referenc
 
 To respond to the request for a new window, the callback function should open the requested URL as appropriate, for example, in a newly created [HTMLRenderer](../objects/htmlrenderer.md) object.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'h'⎕WC  'HTMLRenderer'
       'h'⎕WS  ('Event' 'DoPopUp' 'DoPopUpCB')
@@ -51,7 +53,7 @@ To respond to the request for a new window, the callback function should open th
 
 ```
 
-<h2 class="example">Extended Example</h2>
+## Extended Example
 ```apl
      ∇ {r}←DoPopupDemo args;html;h;c;s;e;p;d
 [1]    →EndHTML

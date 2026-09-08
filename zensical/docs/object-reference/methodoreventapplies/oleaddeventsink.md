@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEAddEventSink Method</span> {: .heading}
+# OLEAddEventSink Method
 
 |----------------------------------|------------------------------------|------|
 |[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|&nbsp;|

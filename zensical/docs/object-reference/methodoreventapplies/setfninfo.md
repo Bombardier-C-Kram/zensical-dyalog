@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetFnInfo Method</span> {: .heading}
+# SetFnInfo Method
 
 |----------------------------------------------|------------------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OLEServer](../objects/oleserver.md)|&nbsp;|

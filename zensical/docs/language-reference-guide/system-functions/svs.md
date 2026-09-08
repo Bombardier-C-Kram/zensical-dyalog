@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Shared Variable State</span> <span class="command">R←⎕SVS Y</span> {: .heading}
+# Shared Variable State
+
+```apl
+R←⎕SVS Y
+```
 
 
 
@@ -35,7 +39,7 @@ There are four possible shared variable states:
 |`0101`|means that your partner has reset the shared variable but that you have not yet used it.     |
 |`0000`|the name is not that of a shared variable   |
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕SVS 'X'
 0 1 0 1

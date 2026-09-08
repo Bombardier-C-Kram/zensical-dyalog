@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Class</span> <span class="command">R←\{X\}⎕CLASS Y</span> {: .heading}
+# Class
+
+```apl
+R←{X}⎕CLASS Y
+```
 
 
 ## Monadic Case

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Combo Methods</span> {: .heading}
+# Combo Methods
 
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)        |[GetTextSize](../methodorevents/gettextsize.md)|[Animate](../methodorevents/animate.md)        |

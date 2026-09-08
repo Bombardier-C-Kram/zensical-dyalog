@@ -1,4 +1,6 @@
-# <span class="name">KeepOnClose</span> <span class="right">Property</span> {: .heading}
+# KeepOnClose
+
+Property
 
 [**Applies To**](../propertyapplies/keeponclose.md)
 

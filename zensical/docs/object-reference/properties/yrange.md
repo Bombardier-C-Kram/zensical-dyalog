@@ -1,4 +1,6 @@
-# <span class="name">YRange</span> <span class="right">Property</span> {: .heading}
+# YRange
+
+Property
 
 [**Applies To**](../propertyapplies/yrange.md)
 

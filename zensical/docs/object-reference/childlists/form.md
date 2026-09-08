@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Form Children</span> {: .heading}
+# Form Children
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Bitmap](../objects/bitmap.md)                |

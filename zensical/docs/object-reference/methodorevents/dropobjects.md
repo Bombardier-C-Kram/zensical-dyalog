@@ -1,4 +1,6 @@
-# <span class="name">DropObjects</span> <span class="right">Event 455</span> {: .heading}
+# DropObjects
+
+Event 455
 
 [**Applies To**](../methodoreventapplies/dropobjects.md)
 

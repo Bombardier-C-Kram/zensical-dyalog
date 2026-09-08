@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TipField Properties</span> {: .heading}
+# TipField Properties
 
 |---------------------------------------|-------------------------------------------|-----------------------------------------|
 |[Type](../properties/type.md)          |[Event](../properties/event.md)            |[FontObj](../properties/fontobj.md)      |

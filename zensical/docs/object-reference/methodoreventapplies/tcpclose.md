@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPClose Event</span> {: .heading}
+# TCPClose Event
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

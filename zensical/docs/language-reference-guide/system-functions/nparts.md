@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Name Parts</span> <span class="command">R←\{X\} ⎕NPARTS Y</span> {: .heading}
+# File Name Parts
+
+```apl
+R←{X} ⎕NPARTS Y
+```
 
 
 
@@ -53,7 +57,7 @@ The *extension* is the file extension including the leading ".".
 
 If `Y` is a vector of character vectors, `R` is a vector of 3-element character vectors and is the same length as `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕CMD 'CD'⍝ Current working directory
 c:\Users\Pete

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FormatString Property</span> {: .heading}
+# FormatString Property
 
 |--------------------------------------|--------------------------------|--------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)      |[Grid](../objects/grid.md)|

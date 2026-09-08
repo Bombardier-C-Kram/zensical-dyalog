@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">INTERNAL ERROR</span> <span class="command">99</span> {: .heading}
+# INTERNAL ERROR
+
+```apl
+99
+```
 
 
 

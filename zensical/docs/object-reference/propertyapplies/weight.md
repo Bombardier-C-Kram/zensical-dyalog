@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Weight Property</span> {: .heading}
+# Weight Property
 
 |--------------------------|------|------|
 |[Font](../objects/font.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBar Properties</span> {: .heading}
+# CoolBar Properties
 
 |-------------------------------------------|-------------------------------------------------|-------------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)                    |[Size](../properties/size.md)                    |

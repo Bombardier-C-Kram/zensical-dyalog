@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Note Property</span> {: .heading}
+# Note Property
 
 |------------------------------|------|------|
 |[Button](../objects/button.md)|&nbsp;|&nbsp;|

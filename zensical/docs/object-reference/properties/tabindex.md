@@ -1,4 +1,6 @@
-# <span class="name">TabIndex</span> <span class="right">Property</span> {: .heading}
+# TabIndex
+
+Property
 
 [**Applies To**](../propertyapplies/tabindex.md)
 

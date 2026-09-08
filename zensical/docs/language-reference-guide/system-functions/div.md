@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Division Method</span> <span class="command">⎕DIV</span> {: .heading}
+# Division Method
+
+```apl
+⎕DIV
+```
 
 
 
@@ -28,7 +32,7 @@ If `⎕DIV=1`, division by 0 returns 0.
 `⎕DIV` is an implicit argument of the monadic function Reciprocal (`÷`) and the dyadic function Divide (`÷`). `⎕DIV` has Namespace scope.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕DIV←0
  

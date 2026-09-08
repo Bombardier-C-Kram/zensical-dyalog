@@ -1,4 +1,4 @@
-# <span class="name">Advanced Techniques</span> {: .heading}
+# Advanced Techniques
 
 ## Shared Members
 
@@ -6,7 +6,7 @@ Certain .NET classes provide methods, fields, and properties that can be called 
 
 The methods <code class="language-nonAPL">Now</code> and <code class="language-nonAPL">IsLeapYear</code> exported by <code class="language-nonAPL">System.DateTime</code> fall into this category.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
      ⎕USING←,⊂'System'
 			 
@@ -142,7 +142,7 @@ Occasionally it might be desirable to override this mechanism and explicitly spe
 
 These requirements can be met by calling the function and specifying the _variant_ operator (`⍠`) with the `OverloadTypes` or the `CastToTypes` option respectively. Each option takes an array of references to .NET types, of the same length as the number of parameters to the function.
 
-<h4 class="example">Example (using OverloadTypes option)</h4>
+#### Example (using OverloadTypes option)
 
 To force APL to call the double version of function `foo()` irrespective of the type of the argument `val`, enter:
 ```apl
@@ -182,7 +182,7 @@ The following statements will call the `niladic`, `double`, `double,int`, and `d
 !!! Info "Information"
     In the niladic case, an enclosed empty vector is used to represent a null reference to a .NET type.
 
-<h4 class="example">Example (using CastToTypes option)</h4>
+#### Example (using CastToTypes option)
 
 The .NET function <code class="language-nonAPL">Array.SetValue()</code> sets the value of a specified element (or elements) of an array. The first argument, the new value, is declared as <code class="language-nonAPL">System.Object</code>, but the value supplied must correspond to the type of the array. APL cannot determine what this is and passes the value unchanged, that is, in whatever internal format it happens to be. For example:
 ```apl

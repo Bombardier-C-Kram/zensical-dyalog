@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HighlightHeaders Property</span> {: .heading}
+# HighlightHeaders Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

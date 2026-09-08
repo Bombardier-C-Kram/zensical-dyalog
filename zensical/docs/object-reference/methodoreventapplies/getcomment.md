@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetComment Method</span> {: .heading}
+# GetComment Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">EXCEPTION</span> <span class="command">90</span> {: .heading}
+# EXCEPTION
+
+```apl
+90
+```
 
 
 

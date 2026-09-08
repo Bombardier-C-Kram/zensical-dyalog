@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SysMenu Property</span> {: .heading}
+# SysMenu Property
 
 |--------------------------|------------------------------------------|--------------------------------|
 |[Form](../objects/form.md)|[HTMLRenderer](../objects/htmlrenderer.md)|[SubForm](../objects/subform.md)|

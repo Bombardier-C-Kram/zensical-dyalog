@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ProgressStyle Property</span> {: .heading}
+# ProgressStyle Property
 
 |----------------------------------------|------|------|
 |[ProgressBar](../objects/progressbar.md)|&nbsp;|&nbsp;|

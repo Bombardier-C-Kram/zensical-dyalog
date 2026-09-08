@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetEnvironment Method</span> {: .heading}
+# GetEnvironment Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

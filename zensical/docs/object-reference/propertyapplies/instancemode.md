@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">InstanceMode Property</span> {: .heading}
+# InstanceMode Property
 
 |------------------------------------|------|------|
 |[OLEClient](../objects/oleclient.md)|&nbsp;|&nbsp;|

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Equal</span> <span class="command">=</span> {: .heading}
+# Equal
+
+```apl
+=
+```
 
 Monadic Equal is not defined
 

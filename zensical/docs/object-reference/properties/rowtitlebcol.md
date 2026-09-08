@@ -1,4 +1,6 @@
-# <span class="name">RowTitleBCol</span> <span class="right">Property</span> {: .heading}
+# RowTitleBCol
+
+Property
 
 
 

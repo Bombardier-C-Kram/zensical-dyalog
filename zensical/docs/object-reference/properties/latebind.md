@@ -1,4 +1,6 @@
-# <span class="name">LateBind</span> <span class="right">Property</span> {: .heading}
+# LateBind
+
+Property
 
 
 

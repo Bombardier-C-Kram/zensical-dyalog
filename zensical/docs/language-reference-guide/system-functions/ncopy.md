@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Copy</span> <span class="command">\{R\}←X ⎕NCOPY Y</span> {: .heading}
+# Native File Copy
+
+```apl
+{R}←X ⎕NCOPY Y
+```
 
 
 
@@ -43,7 +47,7 @@ The shy result `R` contains count(s) of top-level items copied. If `Y` is a sing
 
 
 |---|---|
-|0 { .shaded } |The name or names in `Y` identifies a specific file name.|
+|`0` (default)|The name or names in `Y` identifies a specific file name.|
 |`1`|The name or names in `Y` that specify the *base name* and *extension* (see [NParts](./nparts.md) ), may also contain the wildcard characters "?" and "*". An asterisk is a substitute for any 0 or more characters in a file name or extension; a question-mark is a substitute for any single character.|
 
 
@@ -58,7 +62,7 @@ The **IfExists** variant option determines what happens when a source file is to
 
 |Value             |Description                                                                                        |
 |------------------|---------------------------------------------------------------------------------------------------|
-|'Error' { .shaded } |Existing files will not be overwritten and an error will be signalled. This is the default                                                                        |
+|`'Error'` (default)|Existing files will not be overwritten and an error will be signalled. This is the default                                                                        |
 |`'Skip'`          |Existing files will not be overwritten but the corresponding copy operation will be skipped (ignored).                                                            |
 |`'Replace'`       |Existing files will be overwritten.                                                                                                                               |
 |`'ReplaceIfNewer'`|Existing files may be overwritten if, and only if, the corresponding source file is newer (more recently modified) than the existing one, otherwise it is skipped.|
@@ -77,14 +81,14 @@ The **PreserveAttributes** variant option determines whether or not file attribu
 
 
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|0 { .shaded } |file attributes are not preserved.                                                                                                                                                         |
+|`0` (default)|file attributes are not preserved.                                                                                                                                                         |
 |`1`|where possible, copied files will be given at least the same modification time as the source. Other file attributes will be preserved as permitted by the operating system and file system.|
 
 
 Note also that when files are copied across file systems, the different file systems may have different timestamp granularity and the timestamps may not be exactly the same.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 There are a number of possibilities which are illustrated below. In all cases,  if the source is a file, a copy of the file is created. If the source is a directory, a copy of the directory and all its contents is created.

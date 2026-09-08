@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Poly Methods</span> {: .heading}
+# Poly Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

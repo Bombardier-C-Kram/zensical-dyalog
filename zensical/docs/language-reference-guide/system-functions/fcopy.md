@@ -7,7 +7,11 @@ search:
   ⎕FCOPY FCOPY
 </div>
 
-# <span class="name">File Copy</span> <span class="command">R←X ⎕FCOPY Y</span> {: .heading}
+# File Copy
+
+```apl
+R←X ⎕FCOPY Y
+```
 
 ## Access Code: 4609
 
@@ -27,7 +31,7 @@ Note that the Access Code is 4609, which is the sum of the Access Codes for `⎕
 
 Note also that although the file need not be tied exclusively, the `⎕FCOPY` function will not yield the file to other APL processes while it is running, and it may take some considerable time to run in the case of a large component file.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       told←'oldfile32'⎕FTIE 0
       'S' ⎕FPROPS told
@@ -61,7 +65,7 @@ The Principal Option is  as follows:
 - 2 - sets `('J' 2) ('C' 1)`
 - 3 - sets `('J' 3) ('C' 1)`
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       newfid←'newfile' (⎕FCOPY ⍠3) 1
 

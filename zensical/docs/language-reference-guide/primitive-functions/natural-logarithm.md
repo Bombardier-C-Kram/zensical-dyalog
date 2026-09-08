@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Natural Logarithm</span> <span class="command">R←⍟Y</span> {: .heading}
+# Natural Logarithm
+
+```apl
+R←⍟Y
+```
 
 
 
 `Y` must be a numeric array. `R` is numeric.  `R` is the natural (or Napierian) logarithm of `Y` whose base is the mathematical constant *e=2.71828...*.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍟1 2
 0 0.6931471806

@@ -1,4 +1,6 @@
-# <span class="name">Static</span> <span class="right">Object</span> {: .heading}
+# Static
+
+Object
 
 
 

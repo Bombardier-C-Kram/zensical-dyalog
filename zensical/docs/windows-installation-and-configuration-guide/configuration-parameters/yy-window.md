@@ -1,4 +1,4 @@
-# <span class="name">yy\_window</span> {: .heading}
+# yy\_window
 
 This parameter defines how Dyalog APL is to interpret a 2-digit year number. If **yy_window** is not set (the default) then under Windows, Version 13.2 onwards will adhere to the rules specified in the Windows Region and Language 2-digit year settings.
 

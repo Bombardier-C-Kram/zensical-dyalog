@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Where</span> <span class="command">R←⍸Y</span> {: .heading}
+# Where
+
+```apl
+R←⍸Y
+```
 
 
 
@@ -30,7 +34,7 @@ If `Y` is Boolean, `R` is a vector of the indices of all the 1s in `Y`. If `Y` i
 `⎕IO` is an implicit argument of Where.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕IO
 1

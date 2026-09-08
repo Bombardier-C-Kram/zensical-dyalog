@@ -1,4 +1,6 @@
-# <span class="name">Depth</span> <span class="right">Property</span> {: .heading}
+# Depth
+
+Property
 
 
 

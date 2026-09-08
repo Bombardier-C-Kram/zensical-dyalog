@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPSendPicture Method</span> {: .heading}
+# TCPSendPicture Method
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

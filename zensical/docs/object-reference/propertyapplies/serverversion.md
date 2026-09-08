@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ServerVersion Property</span> {: .heading}
+# ServerVersion Property
 
 |------------------------------------|------|------|
 |[OLEServer](../objects/oleserver.md)|&nbsp;|&nbsp;|

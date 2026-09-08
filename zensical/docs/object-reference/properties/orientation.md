@@ -1,4 +1,6 @@
-# <span class="name">Orientation</span> <span class="right">Property</span> {: .heading}
+# Orientation
+
+Property
 
 
 

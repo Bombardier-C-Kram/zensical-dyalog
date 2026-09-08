@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">List Global Namespaces</span> <span class="command">)OBJECTS \{nm\}</span> {: .heading}
+# List Global Namespaces
+
+```apl
+)OBJECTS {nm}
+```
 
 
 
@@ -12,7 +16,7 @@ This command displays the names of global **namespaces** in the active workspace
 
 Note:  [`)OBS`](obs.md) can be used as an **alternative** to `)OBJECTS`
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )OBJECTS
 FORM1   UTIL    WSDOC   XREF

@@ -8,7 +8,11 @@ search:
 
 
 
-# <span class="name">Access Statement</span> <span class="command">:Access</span> {: .heading}
+# Access Statement
+
+```apl
+:Access
+```
 
 
 

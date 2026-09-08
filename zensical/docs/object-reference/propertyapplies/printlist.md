@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PrintList Property</span> {: .heading}
+# PrintList Property
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

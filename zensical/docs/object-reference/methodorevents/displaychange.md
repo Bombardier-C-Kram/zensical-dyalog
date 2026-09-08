@@ -1,4 +1,6 @@
-# <span class="name">DisplayChange</span> <span class="right">Event 137</span> {: .heading}
+# DisplayChange
+
+Event 137
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">FireOnce</span> <span class="right">Property</span> {: .heading}
+# FireOnce
+
+Property
 
 
 

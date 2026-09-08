@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ButtonEdit Methods</span> {: .heading}
+# ButtonEdit Methods
 
 |-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)          |[ChooseFont](../methodorevents/choosefont.md)|[GetTextSize](../methodorevents/gettextsize.md)|

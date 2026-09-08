@@ -1,4 +1,6 @@
-# <span class="name">ButtonsAcceptFocus</span> <span class="right">Property</span> {: .heading}
+# ButtonsAcceptFocus
+
+Property
 
 
 

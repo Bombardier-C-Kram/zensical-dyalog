@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetParentItem Method</span> {: .heading}
+# GetParentItem Method
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

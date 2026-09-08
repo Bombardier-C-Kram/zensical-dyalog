@@ -1,4 +1,6 @@
-# <span class="name">ShowDevTools</span> <span class="right">Method 849</span> {: .heading}
+# ShowDevTools
+
+Method 849
 
 
 

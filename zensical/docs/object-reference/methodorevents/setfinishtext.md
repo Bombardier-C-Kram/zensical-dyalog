@@ -1,4 +1,6 @@
-# <span class="name">SetFinishText</span> <span class="right">Method 366</span> {: .heading}
+# SetFinishText
+
+Method 366
 
 
 

@@ -13,13 +13,17 @@ search:
 
 
 
-# <span class="name">Canonical Representation</span> <span class="command">R←180⌶Y</span> {: .heading}
+# Canonical Representation
+
+```apl
+R←180⌶Y
+```
 
 
 
 This function is the same as the system function `⎕CR` except that it can be used to obtain the canonical representation of methods in classes. `180⌶` is used by `]PROFILE`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       )LOAD ComponentFile

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Set Access</span> <span class="command">\{R\}←X ⎕FSTAC Y</span> {: .heading}
+# File Set Access
+
+```apl
+{R}←X ⎕FSTAC Y
+```
 
 
 ## Access code 8192
@@ -26,7 +30,7 @@ search:
 
 The shy result of `⎕FSTAC` is the tie number of the file.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       'SALES' ⎕FCREATE 1

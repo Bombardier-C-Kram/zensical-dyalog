@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Retracting Event</span> {: .heading}
+# Retracting Event
 
 |--------------------------|----------------------------------|------|
 |[Grid](../objects/grid.md)|[TreeView](../objects/treeview.md)|&nbsp;|

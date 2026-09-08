@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Static Events</span> {: .heading}
+# Static Events
 
 |---------------------------------------------------|-----------------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)          |[DragDrop](../methodorevents/dragdrop.md)    |

@@ -1,4 +1,4 @@
-# <span class="name">Introduction to DDE</span> {: .heading}
+# Introduction to DDE
 
 Dynamic Data Exchange (DDE) is a protocol supported by Microsoft Windows that enables two applications to communicate with one another and to exchange data.
 

@@ -1,4 +1,6 @@
-# <span class="name">StartIn</span> <span class="right">Property</span> {: .heading}
+# StartIn
+
+Property
 
 
 

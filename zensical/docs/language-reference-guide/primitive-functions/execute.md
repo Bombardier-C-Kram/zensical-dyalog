@@ -6,7 +6,11 @@ search:
   ⍎ execute
 </div>
 
-# <span class="name">Execute</span> <span class="command">R←⍎Y</span> {: .heading}
+# Execute
+
+```apl
+R←⍎Y
+```
 
 !!! Warning "Warning"
     If the argument to _execute_ could include user input, then there is a risk to data and systems. To reduce this risk, a system function might be more appropriate than the _execute_ function. For example:
@@ -26,7 +30,7 @@ If the expression is an empty vector or a vector containing only blanks or one t
 
 If `Y` contains a branch expression, the branch is effected in the environment from which _execute_ was invoked, and `⍎Y` does not return.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       ⍎'2+2'

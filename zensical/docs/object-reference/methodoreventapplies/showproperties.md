@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowProperties Method</span> {: .heading}
+# ShowProperties Method
 
 |----------------------------------|------|------|
 |[OCXClass](../objects/ocxclass.md)|&nbsp;|&nbsp;|

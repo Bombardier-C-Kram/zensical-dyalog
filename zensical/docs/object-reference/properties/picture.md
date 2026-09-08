@@ -1,4 +1,6 @@
-# <span class="name">Picture</span> <span class="right">Property</span> {: .heading}
+# Picture
+
+Property
 
 [**Applies To**](../propertyapplies/picture.md)
 

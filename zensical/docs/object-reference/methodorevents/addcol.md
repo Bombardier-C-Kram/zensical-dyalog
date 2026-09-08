@@ -1,4 +1,6 @@
-# <span class="name">AddCol</span> <span class="right">Event 153</span> {: .heading}
+# AddCol
+
+Event 153
 
 
 

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Exclamation Mark</span> <span class="command">!</span> {: .heading}
+# Exclamation Mark
+
+```apl
+!
+```
 
 Monadic Exclamation Mark means
 [Factorial](../primitive-functions/factorial.md)

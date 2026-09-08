@@ -1,4 +1,4 @@
-# <span class="name">Using Windows Forms</span> {: .heading}
+# Using Windows Forms
 
 <code class="language-nonAPL">System.Windows.Forms</code> is a .NET namespace that provides a set of classes for creating the GUI for Microsoft Windows applications.
 
@@ -38,7 +38,7 @@ A modal dialog box has a <code class="language-nonAPL">DialogResult</code> prope
 
 The examples in this section can be found in the **[DYALOG]\Samples\winforms\WINFORMS.dws** workspace.
 
-<h4 class="example">Example 1</h4>
+#### Example 1
 
 This example illustrates a simple modal dialog box.
 
@@ -143,7 +143,7 @@ Function `EG1` illustrates how to create and use a simple modal dialog box. Much
     [53]   :While form1.Visible ⋄ :endwhile
     ```
 
-<h4 class="example">Example 2</h4>
+#### Example 2
 
 Functions `EG2` and `EG2A` illustrate how the _each_ operator (`¨`) and the extended namespace reference syntax in Dyalog can be used to produce more succinct, and no less readable, code:
 ```apl

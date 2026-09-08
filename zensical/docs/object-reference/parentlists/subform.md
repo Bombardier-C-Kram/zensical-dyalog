@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SubForm Parents</span> {: .heading}
+# SubForm Parents
 
 |----------------------------------------------|--------------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)    |[Form](../objects/form.md)                |

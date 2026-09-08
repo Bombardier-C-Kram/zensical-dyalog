@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">NetType Children</span> {: .heading}
+# NetType Children
 
 |------------------------------|------------------------------------|------------------------------------|
 |[Bitmap](../objects/bitmap.md)|[NetClient](../objects/netclient.md)|[TCPSocket](../objects/tcpsocket.md)|

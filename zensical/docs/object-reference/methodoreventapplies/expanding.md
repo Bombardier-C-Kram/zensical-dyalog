@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Expanding Event</span> {: .heading}
+# Expanding Event
 
 |--------------------------|----------------------------------|------|
 |[Grid](../objects/grid.md)|[TreeView](../objects/treeview.md)|&nbsp;|

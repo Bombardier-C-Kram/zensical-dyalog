@@ -1,4 +1,6 @@
-# <span class="name">ExitApp</span> <span class="right">Event 132</span> {: .heading}
+# ExitApp
+
+Event 132
 
 
 

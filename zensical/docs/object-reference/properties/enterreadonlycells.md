@@ -1,4 +1,6 @@
-# <span class="name">EnterReadOnlyCells</span> <span class="right">Property</span> {: .heading}
+# EnterReadOnlyCells
+
+Property
 
 
 

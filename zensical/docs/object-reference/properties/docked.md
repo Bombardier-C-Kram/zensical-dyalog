@@ -1,4 +1,6 @@
-# <span class="name">Docked</span> <span class="right">Property</span> {: .heading}
+# Docked
+
+Property
 
 
 

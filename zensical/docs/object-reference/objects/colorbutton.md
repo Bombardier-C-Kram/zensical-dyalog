@@ -1,4 +1,6 @@
-# <span class="name">ColorButton</span> <span class="right">Object</span> {: .heading}
+# ColorButton
+
+Object
 
 [Parents](../parentlists/colorbutton.md), [Properties](../proplists/colorbutton.md), [Methods](../methodlists/colorbutton.md), [Events](../eventlists/colorbutton.md)
 

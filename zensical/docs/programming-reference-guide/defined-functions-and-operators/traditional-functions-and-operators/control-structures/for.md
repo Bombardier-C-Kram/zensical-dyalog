@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">For Statement</span> <span class="command">:For var :In\[Each\] aexp</span> {: .heading}
+# For Statement
+
+```apl
+:For var :In[Each] aexp
+```
 
 
 

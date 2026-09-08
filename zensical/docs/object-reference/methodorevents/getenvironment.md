@@ -1,4 +1,6 @@
-# <span class="name">GetEnvironment</span> <span class="right">Method 510</span> {: .heading}
+# GetEnvironment
+
+Method 510
 
 
 
@@ -25,7 +27,7 @@ The argument to GetEnvironment is a single item as follows:
 
 The result is a simple character vector or a vector of character vectors.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       GetEnvironment 'MAXWS'
 2G

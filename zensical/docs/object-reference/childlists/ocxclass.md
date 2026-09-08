@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OCXClass Children</span> {: .heading}
+# OCXClass Children
 
 |----------------------------------------------|----------------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)      |[Form](../objects/form.md)                |

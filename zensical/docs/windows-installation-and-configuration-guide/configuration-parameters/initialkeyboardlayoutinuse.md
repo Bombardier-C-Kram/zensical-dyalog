@@ -1,4 +1,4 @@
-# <span class="name">InitialKeyboardLayoutInUse</span> {: .heading}
+# InitialKeyboardLayoutInUse
 
 **Unicode Edition only.**
 

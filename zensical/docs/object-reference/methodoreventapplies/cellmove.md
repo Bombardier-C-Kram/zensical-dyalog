@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellMove Event</span> {: .heading}
+# CellMove Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

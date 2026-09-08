@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Name Classification</span> <span class="command">R←⎕NC Y</span> {: .heading}
+# Name Classification
+
+```apl
+R←⎕NC Y
+```
 
 
 
@@ -390,7 +394,7 @@ Derived operators include:
 - A dyadic operator curried with its right-operand. 
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
        each←¨
        each

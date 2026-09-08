@@ -1,4 +1,4 @@
-# <span class="name">Display of Arrays</span> {: .heading}
+# Display of Arrays
 
 Simple scalars and vectors are displayed in a single line beginning at the left margin. A number is separated from the next adjacent element by a single space.
 

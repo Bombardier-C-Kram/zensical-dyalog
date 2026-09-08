@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE COMPONENT DAMAGED</span> <span class="command">38</span> {: .heading}
+# FILE COMPONENT DAMAGED
+
+```apl
+38
+```
 
 
 

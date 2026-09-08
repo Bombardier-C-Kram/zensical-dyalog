@@ -1,4 +1,4 @@
-# <span class="name">UCMDCacheFile</span> {: .heading}
+# UCMDCacheFile
 
 This parameter specifies the name of the User Command cache file.
 

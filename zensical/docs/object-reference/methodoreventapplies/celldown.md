@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellDown Event</span> {: .heading}
+# CellDown Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

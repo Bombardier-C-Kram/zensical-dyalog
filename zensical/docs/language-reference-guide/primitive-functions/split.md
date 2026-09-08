@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Split</span> <span class="command">R←↓\[K\]Y</span> {: .heading}
+# Split
+
+```apl
+R←↓[K]Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 The items of `R` are the sub-arrays of `Y` along the `K`th axis.  `R` is a scalar if `Y` is a scalar.  Otherwise `R` is an array whose rank is `¯1+⍴⍴Y` and whose shape is `(K≠⍳⍴⍴Y)/⍴Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ↓3 4⍴'MINDTHATSTEP'
  MIND  THAT  STEP

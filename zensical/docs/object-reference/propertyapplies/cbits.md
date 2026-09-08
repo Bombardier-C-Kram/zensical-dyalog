@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CBits Property</span> {: .heading}
+# CBits Property
 
 |------------------------------|------------------------------------|--------------------------|
 |[Bitmap](../objects/bitmap.md)|[Clipboard](../objects/clipboard.md)|[Icon](../objects/icon.md)|

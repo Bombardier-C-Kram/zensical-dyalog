@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File System Available</span> <span class="command">R←⎕FAVAIL</span> {: .heading}
+# File System Available
+
+```apl
+R←⎕FAVAIL
+```
 
 
 

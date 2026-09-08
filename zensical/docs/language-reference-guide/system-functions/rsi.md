@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Space Indicator</span> <span class="command">R←⎕RSI</span> {: .heading}
+# Space Indicator
+
+```apl
+R←⎕RSI
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 Note that `⎕RSI` returns refs to the spaces *from which* functions were called not those *in which* they are currently running.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )OBJECTS
 xx      yy

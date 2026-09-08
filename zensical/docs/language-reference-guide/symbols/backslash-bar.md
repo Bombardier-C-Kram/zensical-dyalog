@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Backslash Bar</span> <span class="command">⍀</span> {: .heading}
+# Backslash Bar
+
+```apl
+⍀
+```
 
 
 # Used as a Function

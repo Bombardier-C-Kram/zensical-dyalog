@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Name List</span> <span class="command">R←\{X\}⎕NL Y</span> {: .heading}
+# Name List
+
+```apl
+R←{X}⎕NL Y
+```
 
 
 
@@ -32,7 +36,7 @@ If `X` is supplied, `R` contains only those names which begin with any character
 
 If an element of `Y` is an integer, the names of all of the corresponding sub-name-classes are included in `R`. For example, if `Y` contains the value 2, the names of all variables (name-class 2.1), fields (2.2), properties (2.3) and external or shared variables (2.6) are obtained. Otherwise, only the names of members of the corresponding sub-name-class are obtained.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕NL 2 3

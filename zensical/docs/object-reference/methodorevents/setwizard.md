@@ -1,4 +1,6 @@
-# <span class="name">SetWizard</span> <span class="right">Event 365</span> {: .heading}
+# SetWizard
+
+Event 365
 
 
 

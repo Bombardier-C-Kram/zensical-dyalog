@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CalendarDown Event</span> {: .heading}
+# CalendarDown Event
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

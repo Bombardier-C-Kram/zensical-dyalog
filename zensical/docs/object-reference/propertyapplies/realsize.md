@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RealSize Property</span> {: .heading}
+# RealSize Property
 
 |----------------------------------|------|------|
 |[Metafile](../objects/metafile.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CurrentState Property</span> {: .heading}
+# CurrentState Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MenuBar Methods</span> {: .heading}
+# MenuBar Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

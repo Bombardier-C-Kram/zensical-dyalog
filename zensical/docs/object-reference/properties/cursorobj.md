@@ -1,4 +1,6 @@
-# <span class="name">CursorObj</span> <span class="right">Property</span> {: .heading}
+# CursorObj
+
+Property
 
 [**Applies To**](../propertyapplies/cursorobj.md)
 

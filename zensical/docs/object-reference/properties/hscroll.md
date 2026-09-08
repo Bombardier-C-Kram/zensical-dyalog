@@ -1,4 +1,6 @@
-# <span class="name">HScroll</span> <span class="right">Property</span> {: .heading}
+# HScroll
+
+Property
 
 [**Applies To**](../propertyapplies/hscroll.md)
 

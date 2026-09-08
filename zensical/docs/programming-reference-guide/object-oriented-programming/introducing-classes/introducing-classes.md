@@ -1,4 +1,4 @@
-# <span class="name">Introducing Classes</span> {: .heading}
+# Introducing Classes
 
 A Class is a blueprint from which one or more *Instances* of the Class can be created (instances are sometimes also referred to as *Objects).*
 

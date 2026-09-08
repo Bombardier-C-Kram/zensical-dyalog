@@ -1,4 +1,6 @@
-# <span class="name">AutoArrange</span> <span class="right">Property</span> {: .heading}
+# AutoArrange
+
+Property
 
 
 

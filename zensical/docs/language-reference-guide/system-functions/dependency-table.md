@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Dependency Table</span> {: .heading}
+# Dependency Table
 
 The following table describes the dependencies that exist between functions, operators and system variables.
 

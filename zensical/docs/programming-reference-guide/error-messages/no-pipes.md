@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">NO PIPES</span> <span class="command">72</span> {: .heading}
+# NO PIPES
+
+```apl
+72
+```
 
 
 
@@ -19,7 +23,7 @@ This message is given when the limit on the number of pipes communicating betwee
 
 It is necessary to release pipes by terminating sufficient tasks before proceeding with the required activity.  In practice, the error is most likely to occur when using the system function `⎕SH`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'via' ⎕SH 'via'
 NO PIPES

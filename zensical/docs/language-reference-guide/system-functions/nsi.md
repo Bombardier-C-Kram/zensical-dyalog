@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Namespace Indicator</span> <span class="command">R←⎕NSI</span> {: .heading}
+# Namespace Indicator
+
+```apl
+R←⎕NSI
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 Note that `⎕NSI` contains the names of spaces *from which* functions were called not those *in which* they are currently running.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )OBJECTS
 xx      yy

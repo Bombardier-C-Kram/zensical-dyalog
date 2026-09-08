@@ -1,4 +1,4 @@
-# <span class="name">Native Files</span> {: .heading}
+# Native Files
 
 ## Introduction
 

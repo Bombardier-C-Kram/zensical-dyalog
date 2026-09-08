@@ -1,4 +1,6 @@
-# <span class="name">Accelerator</span> <span class="right">Property</span> {: .heading}
+# Accelerator
+
+Property
 
 [**Applies To**](../propertyapplies/accelerator.md)
 

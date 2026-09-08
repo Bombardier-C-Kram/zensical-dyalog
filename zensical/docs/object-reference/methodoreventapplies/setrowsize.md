@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetRowSize Event</span> {: .heading}
+# SetRowSize Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

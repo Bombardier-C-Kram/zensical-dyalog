@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActiveXControl Events</span> {: .heading}
+# ActiveXControl Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)                |

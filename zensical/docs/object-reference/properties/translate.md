@@ -1,4 +1,6 @@
-# <span class="name">Translate</span> <span class="right">Property</span> {: .heading}
+# Translate
+
+Property
 
 [**Applies To**](../propertyapplies/translate.md)
 

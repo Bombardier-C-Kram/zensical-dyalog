@@ -1,4 +1,6 @@
-# <span class="name">Idle</span> <span class="right">Event 130</span> {: .heading}
+# Idle
+
+Event 130
 
 
 

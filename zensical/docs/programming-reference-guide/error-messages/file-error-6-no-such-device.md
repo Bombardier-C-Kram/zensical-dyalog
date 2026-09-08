@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">FILE ERROR 6 No such device</span> {: .heading}
+# FILE ERROR 6 No such device
 
 
 

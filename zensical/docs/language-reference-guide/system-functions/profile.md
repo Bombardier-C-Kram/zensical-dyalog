@@ -7,7 +7,11 @@ search:
   ⎕PROFILE PROFILE
 </div>
 
-# <span class="name">Profile Application</span> <span class="command">\{R\}←\{X\}⎕PROFILE Y</span> {: .heading}
+# Profile Application
+
+```apl
+{R}←{X}⎕PROFILE Y
+```
 
 `⎕PROFILE` facilitates the profiling of CPU consumption, code coverage, or elapsed time for a workspace. It does so by retaining time measurements collected for APL functions/operators and function/operator lines. `⎕PROFILE` is used to both control the state of profiling and retrieve the collected profiling data.
 
@@ -52,7 +56,7 @@ Turns profiling on using the specified timer, or resumes profiling if it was sto
 
 The first time a particular timer is chosen, `⎕PROFILE` will spend 1,000 milliseconds (1 second) to approximate the call time bias and granularity for that timer.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ⊢⎕PROFILE 'start' 'CPU'
  active  CPU  0.000489407284 0
@@ -64,7 +68,7 @@ Suspends the collection of profiling data
 
 Syntax: `{state}←⎕PROFILE 'stop'`
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ⊢⎕PROFILE 'stop'
  inactive  CPU  0.000489407284 0
@@ -76,7 +80,7 @@ Syntax: `{state}←⎕PROFILE 'clear'`
 
 Clears any collected profiling data and, if profiling is active, places profiling into an inactive state.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ⊢⎕PROFILE 'clear'
  inactive    0 0
@@ -93,7 +97,7 @@ Causes `⎕PROFILE` to perform a 1,000 millisecond calibration to approximate th
 
 `⎕PROFILE` will retain the lesser of the current timer values compared to the new values computed by the calibration. This ensures that the smallest possible values of which we can be certain is used.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ⊢⎕PROFILE'calibrate'
  active  CPU  0.000489407284 0
@@ -105,7 +109,7 @@ Syntax: `state←⎕PROFILE 'state'`
 
 Queries and returns the current profiling state.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       )CLEAR
 clear ws
@@ -133,7 +137,7 @@ Retrieves the collected profiling data and returns it in flat form. If the `X` i
 - `[;6]` – number of times the timer function was called for the exclusive time
 - `[;7]` – number of times the timer function was called for the inclusive time
 
-<h3 class="example">Example</h3>
+### Example
 Numbers in this example have been truncated for formatting purposes.
 ```apl
       ⎕PROFILE 'data'
@@ -170,7 +174,7 @@ Retrieves the collected profiling data and returns it in tree form. If the `X` i
 - `[;7]` – number of times the timer function was called for the exclusive time
 - `[;8]` – number of times the timer function was called for the inclusive time
 
-<h2 class="example">Example</h2>
+## Example
 Numbers in this example have been truncated for formatting purposes.
 ```apl
       ⎕PROFILE 'tree'
@@ -200,7 +204,7 @@ X ⎕PROFILE 'tree' ←→ ↓[⎕IO](⎕PROFILE 'tree')[;X]
 
 The results of `⎕PROFILE 'data'` and `⎕PROFILE 'tree'` have two types of entries; function summary entries and function line entries. Function summary entries contain `⍬` in the line number column, whereas function line entries contain the line number. Line entries for dfns start with 0 as, unlike tradfns, they do not have a header line. The timer data and timer call counts in function summary entries represent the aggregate of the function line entries plus any time spent that cannot be directly attributed to a function line entry. This could include time spent during function initialisation, and so on.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
  #.foo         1  1.04406 39347.649450   503 4080803
  #.foo    1    1  0.12488     0.124887     1       1
@@ -244,7 +248,7 @@ To identify items that take more than 1% of the run time, or to focus on elapsed
 
 The timing data collected by `⎕PROFILE` is not adjusted for the timer's call time bias; this means that the times reported by `⎕PROFILE` include the time spent calling the timer function. One effect of this is that "cheap" lines that are called many times appear to consume more resource. If you require more accurate profiling measurements, or if your application takes a short amount of time to run, you might want to adjust for the timer call time bias. To do so, subtract from the timing data the timer's' call time bias multiplied by the number of times the timer was called.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
       CallTimeBias←3⊃⎕PROFILE 'state'
       RawTimes←⎕PROFILE 'data'

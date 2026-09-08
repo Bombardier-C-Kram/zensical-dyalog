@@ -1,4 +1,6 @@
-# <span class="name">GetItemPosition</span> <span class="right">Method 323</span> {: .heading}
+# GetItemPosition
+
+Method 323
 
 
 

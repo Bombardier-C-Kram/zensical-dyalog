@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Protected Copy</span> <span class="command">)PCOPY \{ws \{nms\}\}</span> {: .heading}
+# Protected Copy
+
+```apl
+)PCOPY {ws {nms}}
+```
 
 
 
@@ -29,7 +33,7 @@ If the list of names is excluded, all global defined objects (functions and vari
 For further information, see [Copy Workspace](../system-functions/cy.md).
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )PCOPY WS/UTILITY
 WS/UTILITY saved Mon Nov  1 13:11:19 1993

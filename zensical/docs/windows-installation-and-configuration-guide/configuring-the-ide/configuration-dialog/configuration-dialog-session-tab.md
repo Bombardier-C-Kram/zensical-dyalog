@@ -1,4 +1,4 @@
-# <span class="name">Session Tab</span> {: .heading}
+# Session Tab
 
 ![configuration dialog session tab](../../img/configuration-dialog-session-tab.png)
 

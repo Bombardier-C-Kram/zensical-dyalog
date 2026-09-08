@@ -6,13 +6,17 @@ search:
   ∊ enlist
 </div>
 
-# <span class="name">Enlist</span> <span class="command">(⎕ML≥1) R←∊Y</span> {: .heading}
+# Enlist
+
+```apl
+(⎕ML≥1) R←∊Y
+```
 
 Migration level must be such that `⎕ML≥1` (otherwise see [Type](type.md)).
 
 `Y` may be any array, `R` is a simple vector created from all the elements of `Y` in ravel order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕ML←1         ⍝  Migration level 1

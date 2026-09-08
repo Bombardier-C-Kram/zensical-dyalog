@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowLineTypes Property</span> {: .heading}
+# RowLineTypes Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

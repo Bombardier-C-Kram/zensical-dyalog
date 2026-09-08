@@ -1,4 +1,6 @@
-# <span class="name">DateTime</span> <span class="right">Property</span> {: .heading}
+# DateTime
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DDE Event</span> {: .heading}
+# DDE Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

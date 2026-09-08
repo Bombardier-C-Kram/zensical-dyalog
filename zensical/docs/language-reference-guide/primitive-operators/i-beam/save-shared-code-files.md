@@ -8,7 +8,11 @@ search:
   8667⌶
 </div>
 
-# <span class="name">Save Shared Code Files</span> <span class="command">\{R\}←\{X\} (8667⌶) Y</span> {: .heading}
+# Save Shared Code Files
+
+```apl
+{R}←{X} (8667⌶) Y
+```
 
 **Restriction**: 64-bit Unicode only
 
@@ -21,10 +25,10 @@ This creates/saves a [shared code file](../../../../shared-code-files-user-guide
 
 Optionally, `X` is a vector of character vectors or a matrix specifying the names of names of functions, operators and variables to save in the shared code file. If `X` is omitted, all functions, operators, and variables in the active workspace are saved in the shared code file.
 
-<p class="example">Example</p>
+**Example**
 ```apl
       8667⌶ 1 'scf.dwx' 
 ```
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     A multi-user development team might need a strategy for creating (and [attaching](../attach-assimilate-detach-shared-code-files/#attach-shared-code-files) cycles of shared code files as shared code files could remain in use for some time by members of the development team. This should not be an issue with distributed applications.

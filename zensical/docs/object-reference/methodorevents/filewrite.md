@@ -1,4 +1,6 @@
-# <span class="name">FileWrite</span> <span class="right">Method 91</span> {: .heading}
+# FileWrite
+
+Method 91
 
 
 

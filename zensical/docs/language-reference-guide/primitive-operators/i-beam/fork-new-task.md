@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Fork New Task</span> <span class="command">R←4000⌶Y</span> {: .heading}
+# Fork New Task
+
+```apl
+R←4000⌶Y
+```
 
 
 

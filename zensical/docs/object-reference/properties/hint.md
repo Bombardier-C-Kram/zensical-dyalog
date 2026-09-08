@@ -1,4 +1,6 @@
-# <span class="name">Hint</span> <span class="right">Property</span> {: .heading}
+# Hint
+
+Property
 
 [**Applies To**](../propertyapplies/hint.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">Text</span> <span class="right">Object</span> {: .heading}
+# Text
+
+Object
 
 [Parents](../parentlists/text.md), [Children](../childlists/text.md), [Properties](../proplists/text.md), [Methods](../methodlists/text.md), [Events](../eventlists/text.md)
 
@@ -48,7 +50,7 @@ When one or more of [FCol](../properties/fcol.md), [BCol](../properties/bcol.md)
 The value of the [Dragable](../properties/dragable.md) property specifies whether or not the Text object can be dragged by the user. The value
 of the [AutoConf](../properties/autoconf.md) property determines whether or not the Text object is repositioned when its parent is resized.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 Write `'A'` at (10,20)
 ```apl

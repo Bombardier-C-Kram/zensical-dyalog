@@ -1,4 +1,6 @@
-# <span class="name">DelRow</span> <span class="right">Method 154</span> {: .heading}
+# DelRow
+
+Method 154
 
 
 

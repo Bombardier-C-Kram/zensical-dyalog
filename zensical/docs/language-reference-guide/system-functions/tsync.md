@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Wait for Threads to Terminate</span> <span class="command">R←⎕TSYNC Y</span> {: .heading}
+# Wait for Threads to Terminate
+
+```apl
+R←⎕TSYNC Y
+```
 
 
 
@@ -24,7 +28,7 @@ If `Y` is a simple scalar, `R` is an array, the result (if any) of the thread.
 
 If `Y` is a simple non-scalar, `R` has the same shape as `Y`, and result is an array of enclosed thread results.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       dup←{⍵ ⍵}        ⍝ Duplicate
  

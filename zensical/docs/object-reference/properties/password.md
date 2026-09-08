@@ -1,4 +1,6 @@
-# <span class="name">Password</span> <span class="right">Property</span> {: .heading}
+# Password
+
+Property
 
 
 

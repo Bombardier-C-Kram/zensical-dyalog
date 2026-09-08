@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Ellipse Properties</span> {: .heading}
+# Ellipse Properties
 
 |-------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Points](../properties/points.md)      |[Size](../properties/size.md)              |

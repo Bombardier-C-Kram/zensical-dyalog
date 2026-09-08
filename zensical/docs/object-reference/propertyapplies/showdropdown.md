@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowDropDown Property</span> {: .heading}
+# ShowDropDown Property
 
 |----------------------------------------|----------------------------------------|------|
 |[ColorButton](../objects/colorbutton.md)|[ToolControl](../objects/toolcontrol.md)|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ComboEx Properties</span> {: .heading}
+# ComboEx Properties
 
 |---------------------------------------------------|-------------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)                      |[Items](../properties/items.md)                  |[Text](../properties/text.md)              |

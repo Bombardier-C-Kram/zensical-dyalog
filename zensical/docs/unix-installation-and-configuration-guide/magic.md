@@ -1,4 +1,4 @@
-# <span class="name">The file command and magic</span> {: .heading}
+# The file command and magic
 
 All Dyalog APL binary files have a unique magic number: the first byte is always 0xAA (decimal 170), and the second identifies the type of Dyalog file. Additional bytes may in some cases be used to further identify the type, version and state of the file. UNIX systems include the `file` command which use the information in the magic file to describe the contents of files.
 
@@ -16,7 +16,7 @@ or catenate the contents of /opt/mdyalog/{{ version_majmin }}/32/classic/p5/magi
 file *
 ```
 
-<h3 class="example">Example</h3>
+### Example
 ```
 $ file -m /opt/mdyalog/{{ version_majmin }}/32/classic/p6/magic *
 1_apl_j1: Dyalog APL component file 64-bit level 1 journaled non-checksummed

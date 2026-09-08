@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TreeView Children</span> {: .heading}
+# TreeView Children
 
 |------------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)      |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

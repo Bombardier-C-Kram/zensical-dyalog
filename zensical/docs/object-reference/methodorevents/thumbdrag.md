@@ -1,4 +1,6 @@
-# <span class="name">ThumbDrag</span> <span class="right">Event 440</span> {: .heading}
+# ThumbDrag
+
+Event 440
 
 
 

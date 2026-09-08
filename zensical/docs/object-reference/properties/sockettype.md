@@ -1,4 +1,6 @@
-# <span class="name">SocketType</span> <span class="right">Property</span> {: .heading}
+# SocketType
+
+Property
 
 
 

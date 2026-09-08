@@ -1,4 +1,4 @@
-# <span class="name">Web Service (.asmx) Scripts</span> {: .heading}
+# Web Service (.asmx) Scripts
 
 Web services can be written in a variety of languages, including the scripting version of Dyalog APL. For more information on APL source files, see [APL Source Files](../../apl-source-files/).
 
@@ -9,7 +9,7 @@ The first statement in the script file declares the language and the name of the
 
 <code class="language-nonAPL">Language="Dyalog"</code> is specifically connected to the Dyalog .NET Compiler through the application's **web.config** file or through the global **ASP.NET** system file **Machine.config**.
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     Prior to Dyalog v11.0, <code class="language-nonAPL">Language="APL"</code> was used instead.
 
 The syntax of this first line is common to all web services, irrespective of the language in which they are written.

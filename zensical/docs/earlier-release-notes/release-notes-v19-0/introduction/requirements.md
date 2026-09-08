@@ -1,4 +1,4 @@
-# <span class="name">System Requirements</span> {: .heading}
+# System Requirements
 
 ## Microsoft Windows
 

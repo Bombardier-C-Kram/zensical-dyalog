@@ -1,4 +1,6 @@
-# <span class="name">MaxLength</span> <span class="right">Property</span> {: .heading}
+# MaxLength
+
+Property
 
 
 

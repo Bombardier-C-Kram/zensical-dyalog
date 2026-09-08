@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelectionColor Property</span> {: .heading}
+# SelectionColor Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

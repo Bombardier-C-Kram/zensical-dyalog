@@ -1,4 +1,6 @@
-# <span class="name">KeyError</span> <span class="right">Event 23</span> {: .heading}
+# KeyError
+
+Event 23
 
 
 

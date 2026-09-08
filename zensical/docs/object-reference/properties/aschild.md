@@ -1,4 +1,6 @@
-# <span class="name">AsChild</span> <span class="right">Property</span> {: .heading}
+# AsChild
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">SelDateChange</span> <span class="right">Event 265</span> {: .heading}
+# SelDateChange
+
+Event 265
 
 
 

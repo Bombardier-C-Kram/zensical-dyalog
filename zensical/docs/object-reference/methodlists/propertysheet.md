@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PropertySheet Methods</span> {: .heading}
+# PropertySheet Methods
 
 |---------------------------------------------------|---------------------------------------------------|-------------------------------------------|
 |[Detach](../methodorevents/detach.md)              |[ChooseFont](../methodorevents/choosefont.md)      |[SetWizard](../methodorevents/setwizard.md)|

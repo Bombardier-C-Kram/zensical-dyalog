@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DockEnd Event</span> {: .heading}
+# DockEnd Event
 
 |----------------------------------|----------------------------------------|--------------------------|
 |[CoolBand](../objects/coolband.md)|[CoolBar](../objects/coolbar.md)        |[Form](../objects/form.md)|

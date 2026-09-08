@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Account Information</span> <span class="command">R←⎕AI</span> {: .heading}
+# Account Information
+
+```apl
+R←⎕AI
+```
 
 
 
@@ -28,15 +32,15 @@ This is a simple integer vector, whose four elements are:
 
 Elements beyond 4 are not defined but reserved.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ⎕AI
 52 7396 2924216 2814831
 ```
 
-!!! unix "Dyalog on UNIX"
+!!! info "Dyalog on UNIX"
     Under UNIX, `⎕AI[1]` is the effective UID of the account whereas [`⎕AN`](./an.md) returns the real name.
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     Under Microsoft Windows, `⎕AI[1]` is the aplnid (network ID from configuration dialog box).
 

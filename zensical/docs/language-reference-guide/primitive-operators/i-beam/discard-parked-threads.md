@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Discard Parked Threads</span> <span class="command">R←2502⌶Y</span> {: .heading}
+# Discard Parked Threads
+
+```apl
+R←2502⌶Y
+```
 
 
 

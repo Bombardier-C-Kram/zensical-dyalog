@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Default Property</span> {: .heading}
+# Default Property
 
 |------------------------------|------------------------------|------|
 |[Button](../objects/button.md)|[MsgBox](../objects/msgbox.md)|&nbsp;|

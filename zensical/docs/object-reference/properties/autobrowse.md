@@ -1,4 +1,6 @@
-# <span class="name">AutoBrowse</span> <span class="right">Property</span> {: .heading}
+# AutoBrowse
+
+Property
 
 
 

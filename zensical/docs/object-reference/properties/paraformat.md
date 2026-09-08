@@ -1,4 +1,6 @@
-# <span class="name">ParaFormat</span> <span class="right">Property</span> {: .heading}
+# ParaFormat
+
+Property
 
 
 

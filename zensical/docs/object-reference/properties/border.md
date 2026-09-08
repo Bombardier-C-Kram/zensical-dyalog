@@ -1,4 +1,6 @@
-# <span class="name">Border</span> <span class="right">Property</span> {: .heading}
+# Border
+
+Property
 
 [**Applies To**](../propertyapplies/border.md)
 

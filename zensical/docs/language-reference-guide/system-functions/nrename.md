@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Rename</span> <span class="command">\{R\}←X ⎕NRENAME Y</span> {: .heading}
+# Native File Rename
+
+```apl
+{R}←X ⎕NRENAME Y
+```
 
 
 

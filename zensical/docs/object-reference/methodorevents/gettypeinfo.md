@@ -1,4 +1,6 @@
-# <span class="name">GetTypeInfo</span> <span class="right">Method 553</span> {: .heading}
+# GetTypeInfo
+
+Method 553
 
 
 

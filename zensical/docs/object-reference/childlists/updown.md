@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">UpDown Children</span> {: .heading}
+# UpDown Children
 
 |--------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)  |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

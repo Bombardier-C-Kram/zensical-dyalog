@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellUp Event</span> {: .heading}
+# CellUp Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

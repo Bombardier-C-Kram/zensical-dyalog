@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Floor</span> <span class="command">R←⌊Y</span> {: .heading}
+# Floor
+
+```apl
+R←⌊Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 For real numbers, `R` is the largest integer value less than or equal to `Y` within the comparison tolerance `⎕CT`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⌊¯2.3 0.1 100 3.3
 ¯3 0 100 3

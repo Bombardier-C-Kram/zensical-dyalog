@@ -1,4 +1,6 @@
-# <span class="name">CMap</span> <span class="right">Property</span> {: .heading}
+# CMap
+
+Property
 
 
 

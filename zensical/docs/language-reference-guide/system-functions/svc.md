@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Shared Variable Access Control</span> <span class="command">⎕SVC</span> {: .heading}
+# Shared Variable Access Control
+
+```apl
+⎕SVC
+```
 
 
 ## Dyadic `⎕SVC` means

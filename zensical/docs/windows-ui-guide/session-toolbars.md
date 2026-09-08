@@ -1,4 +1,4 @@
-# <span class="name"> The Session Toolbars</span> {: .heading}
+# The Session Toolbars
 
 The Session toolbars are contained by four separate CoolBand objects, allowing you to configure their order in whichever way you choose. The tool buttons appear differently according to whether or not Native Look and Feel is enabled.
 

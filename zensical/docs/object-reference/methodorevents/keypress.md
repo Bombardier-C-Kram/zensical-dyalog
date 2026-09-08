@@ -1,4 +1,6 @@
-# <span class="name">KeyPress</span> <span class="right">Event 22</span> {: .heading}
+# KeyPress
+
+Event 22
 
 [**Applies To**](../methodoreventapplies/keypress.md)
 
@@ -75,7 +77,7 @@ Thus a Shift State of 3 indicates that the user has pressed the key in
 conjunction with both the Shift and Ctrl keys. A Shift State of 0 indicates that
 the user pressed the key on its own.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ Key;Form1
 [1]    'Form1'⎕WC'Form'('Event' 'KeyPress' 'Keycb')

@@ -1,4 +1,6 @@
-# <span class="name">MDIActivate</span> <span class="right">Event 42</span> {: .heading}
+# MDIActivate
+
+Event 42
 
 
 

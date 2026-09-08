@@ -1,4 +1,6 @@
-# <span class="name">ShowSession</span> <span class="right">Property</span> {: .heading}
+# ShowSession
+
+Property
 
 
 

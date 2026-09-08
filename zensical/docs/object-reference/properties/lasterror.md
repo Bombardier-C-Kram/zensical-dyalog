@@ -1,4 +1,6 @@
-# <span class="name">LastError</span> <span class="right">Property</span> {: .heading}
+# LastError
+
+Property
 
 
 

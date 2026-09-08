@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolControl</span> <span class="right">Example 1</span> {: .heading}
+# ToolControl
+
+Example 1
 
 
 ```apl

@@ -2,7 +2,11 @@
 
 
 
-# <span class="name">PropertyGet Function</span> <span class="command">R←Get \{ipa\}</span> {: .heading}
+# PropertyGet Function
+
+```apl
+R←Get {ipa}
+```
 
 
 

@@ -12,13 +12,17 @@ search:
 
 
 
-# <span class="name">Digits</span> <span class="command">R←⎕D</span> {: .heading}
+# Digits
+
+```apl
+R←⎕D
+```
 
 
 
 This is a simple character vector of the digits from 0 to 9.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕D
 0123456789

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MinButton Property</span> {: .heading}
+# MinButton Property
 
 |--------------------------|------------------------------------------|--------------------------------|
 |[Form](../objects/form.md)|[HTMLRenderer](../objects/htmlrenderer.md)|[SubForm](../objects/subform.md)|

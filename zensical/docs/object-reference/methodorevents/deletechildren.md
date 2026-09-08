@@ -1,4 +1,6 @@
-# <span class="name">DeleteChildren</span> <span class="right">Method 311</span> {: .heading}
+# DeleteChildren
+
+Method 311
 
 
 

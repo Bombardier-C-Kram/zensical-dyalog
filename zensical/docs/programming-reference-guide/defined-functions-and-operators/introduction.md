@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 A defined function is a program that takes 0, 1, or 2 arrays as **arguments** and may produce an array as a result.
 

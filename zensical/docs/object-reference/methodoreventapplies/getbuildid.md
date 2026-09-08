@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetBuildID Method</span> {: .heading}
+# GetBuildID Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

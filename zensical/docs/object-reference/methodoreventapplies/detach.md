@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Detach Method</span> {: .heading}
+# Detach Method
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

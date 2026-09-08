@@ -1,4 +1,4 @@
-# <span class="name">The Threads Tool</span> {: .heading}
+# The Threads Tool
 
 The Threads Tool is used to monitor and debug multi-threaded applications. To display the Threads Tool, select *Show Threads Tool* from the *Session Threads* menu, or *Threads* from the Session pop-up menu.
 

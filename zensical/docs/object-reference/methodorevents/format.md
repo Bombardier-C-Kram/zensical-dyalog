@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">Format</span> <span class="right">Event 821</span> {: .heading}
+# Format
+
+Event 821
 
 
 

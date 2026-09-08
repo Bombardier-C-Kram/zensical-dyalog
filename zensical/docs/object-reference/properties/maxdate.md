@@ -1,4 +1,6 @@
-# <span class="name">MaxDate</span> <span class="right">Property</span> {: .heading}
+# MaxDate
+
+Property
 
 
 

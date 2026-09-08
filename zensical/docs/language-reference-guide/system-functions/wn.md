@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Window Child Names</span> <span class="command">R←\{X\}⎕WN Y</span> {: .heading}
+# Window Child Names
+
+```apl
+R←{X}⎕WN Y
+```
 
 
 
@@ -48,7 +52,7 @@ GUI objects are named **relative** to the current namespace.  The following exa
       F1.B1.⎕WN ''    
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       f←⎕NEW⊂'Form'
       f.n←⎕NS''                  ⍝ A non-GUI object       

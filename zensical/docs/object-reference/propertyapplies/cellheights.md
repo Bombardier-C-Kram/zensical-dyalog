@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellHeights Property</span> {: .heading}
+# CellHeights Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

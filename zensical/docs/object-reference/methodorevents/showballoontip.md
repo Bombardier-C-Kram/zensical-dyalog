@@ -1,4 +1,6 @@
-# <span class="name">ShowBalloonTip</span> <span class="right">Method 860</span> {: .heading}
+# ShowBalloonTip
+
+Method 860
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Interfaces</span> {: .heading}
+# Interfaces
 
 _Interfaces_ define additional sets of functionality that classes can implement; however, interfaces contain no implementation except for static methods and static fields. An interface specifies a contract that a class implementing the interface must follow. Interfaces can contain shared (known as "static" in many compiled languages) or instance methods, shared fields, properties, and events. All interface members must be public. Interfaces cannot define constructors. The .NET runtime allows an interface to require that any class that implements it must also implement one or more other interfaces.
 
@@ -6,7 +6,7 @@ When you define a class, you list the interfaces which it supports following a c
 
 If you specify that your class implements a certain <code class="language-nonAPL">interface</code>, you must provide all of the members (<code class="language-nonAPL">methods</code>, <code class="language-nonAPL">properties</code>, and so on) defined for that <code class="language-nonAPL">interface</code>. However, some interfaces are only marker interfaces and do not specify any members.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
 :Class Names: Object, IEnumerable,IEnumerator
 ```

@@ -1,4 +1,6 @@
-# <span class="name">CellTypes</span> <span class="right">Property</span> {: .heading}
+# CellTypes
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabControl Events</span> {: .heading}
+# TabControl Events
 
 |-----------------------------------|-------------------------------------|------|
 |[Close](../methodorevents/close.md)|[Create](../methodorevents/create.md)|&nbsp;|

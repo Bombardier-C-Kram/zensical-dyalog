@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Marker Events</span> {: .heading}
+# Marker Events
 
 |---------------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)  |[DragDrop](../methodorevents/dragdrop.md)  |

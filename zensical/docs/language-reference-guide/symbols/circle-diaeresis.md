@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Circle Diaeresis</span> <span class="command">⍥</span> {: .heading}
+# Circle Diaeresis
+
+```apl
+⍥
+```
 
 Circle Diaeresis is a dyadic operator with an ambivalent left operand
 

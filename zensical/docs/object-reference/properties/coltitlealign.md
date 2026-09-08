@@ -1,4 +1,6 @@
-# <span class="name">ColTitleAlign</span> <span class="right">Property</span> {: .heading}
+# ColTitleAlign
+
+Property
 
 
 

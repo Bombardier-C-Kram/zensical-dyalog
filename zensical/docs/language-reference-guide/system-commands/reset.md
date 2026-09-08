@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Reset State Indicator</span> <span class="command">)RESET \{n\}</span> {: .heading}
+# Reset State Indicator
+
+```apl
+)RESET {n}
+```
 
 
 
@@ -15,7 +19,7 @@ The optional parameter `n` specifies that only the top `n` suspensions are to be
 
 `)RESET` also performs an internal re-organisation of the workspace and process memory. See [Workspace Available](../system-functions/wa.md)  for details.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )SI
 #.FOO[1]*

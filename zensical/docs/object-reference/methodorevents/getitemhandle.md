@@ -1,4 +1,6 @@
-# <span class="name">GetItemHandle</span> <span class="right">Method 313</span> {: .heading}
+# GetItemHandle
+
+Method 313
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowTitleAlign Property</span> {: .heading}
+# RowTitleAlign Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

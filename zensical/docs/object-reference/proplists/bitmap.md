@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Bitmap Properties</span> {: .heading}
+# Bitmap Properties
 
 |-------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[File](../properties/file.md)          |[Bits](../properties/bits.md)              |

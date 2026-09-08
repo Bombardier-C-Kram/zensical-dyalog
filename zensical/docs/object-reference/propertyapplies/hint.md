@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Hint Property</span> {: .heading}
+# Hint Property
 
 |------------------------------------------|----------------------------------------------|----------------------------------------|
 |[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |[ButtonEdit](../objects/buttonedit.md)  |

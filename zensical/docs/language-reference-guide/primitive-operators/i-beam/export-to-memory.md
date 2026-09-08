@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Export To Memory</span> <span class="command">R←2100⌶Y</span> {: .heading}
+# Export To Memory
+
+```apl
+R←2100⌶Y
+```
 
 
 

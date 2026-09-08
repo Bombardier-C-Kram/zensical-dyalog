@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Equal Underbar</span> <span class="command">≡</span> {: .heading}
+# Equal Underbar
+
+```apl
+≡
+```
 
 Monadic Equal Underbar means
 [Depth](../primitive-functions/depth.md)

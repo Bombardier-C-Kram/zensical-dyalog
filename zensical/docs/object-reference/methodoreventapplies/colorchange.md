@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColorChange Event</span> {: .heading}
+# ColorChange Event
 
 |----------------------------------------|------|------|
 |[ColorButton](../objects/colorbutton.md)|&nbsp;|&nbsp;|

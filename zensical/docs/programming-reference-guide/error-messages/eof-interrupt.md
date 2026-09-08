@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">EOF INTERRUPT</span> <span class="command">1005</span> {: .heading}
+# EOF INTERRUPT
+
+```apl
+1005
+```
 
 
 

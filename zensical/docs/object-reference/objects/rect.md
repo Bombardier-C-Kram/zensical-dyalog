@@ -1,4 +1,6 @@
-# <span class="name">Rect</span> <span class="right">Object</span> {: .heading}
+# Rect
+
+Object
 
 
 
@@ -54,7 +56,7 @@ For a single rectangle, [Points](../properties/points.md) is either a 2-column m
 [FCol](../properties/fcol.md), [BCol](../properties/bcol.md) and [FillCol](../properties/fillcol.md) are each either single numbers representing standard colours, or 3-element vectors which specify colours explicitly in terms of their RGB values.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 First make a [Form](form.md) :
@@ -108,7 +110,7 @@ Likewise, [Size](../properties/size.md) may be a simple 2-element vector (applyi
 Similarly, [FCol](../properties/fcol.md), [BCol](../properties/bcol.md) and [FillCol](../properties/fillcol.md) may each be single numbers or a single (enclosed) 3-element vector applying to all the rectangles. Alternatively, these properties may contain vectors whose elements refer to each of the rectangles in turn. If so, their elements may be single numbers or nested RGB triplets, or a combination of the two.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 First make a [Form](form.md) :

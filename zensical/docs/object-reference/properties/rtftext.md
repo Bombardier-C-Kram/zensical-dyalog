@@ -1,4 +1,6 @@
-# <span class="name">RTFText</span> <span class="right">Property</span> {: .heading}
+# RTFText
+
+Property
 
 
 

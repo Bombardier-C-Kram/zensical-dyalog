@@ -1,4 +1,4 @@
-# <span class="name">Creating .NET Classes within APL Source Files</span> {: .heading}
+# Creating .NET Classes within APL Source Files
 
 New .NET classes can be defined and used within an APL source file. This chapter provides a brief introduction to writing classes, aimed specifically at APL source files – see the _Dyalog APL Language Reference Guide_ for more information on writing classes in Dyalog.
 
@@ -87,7 +87,7 @@ The accessor used to reference the value of the property is represented by a fun
 
 The `get` function is used to retrieve the value of the property and must be a niladic result returning function. The data type of its result determines the `Type` of the property. The `set` function is used to change the value of the property and must be a monadic function with no result. The argument to the function will have a data type `Type` specified by the `:Signature` statement. A property that contains a `get` function but no `set` function is effectively a read-only property.
 
-<h4 class="example">Example</h4>
+#### Example
 
 ```apl
 :Property Name

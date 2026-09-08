@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FirstDay Property</span> {: .heading}
+# FirstDay Property
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

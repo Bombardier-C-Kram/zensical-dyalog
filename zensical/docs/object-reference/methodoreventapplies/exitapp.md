@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ExitApp Event</span> {: .heading}
+# ExitApp Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">WebSocketError</span> <span class="right">Event 844</span> {: .heading}
+# WebSocketError
+
+Event 844
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowSetVisibleDepth Method</span> {: .heading}
+# RowSetVisibleDepth Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

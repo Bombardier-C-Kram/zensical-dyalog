@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Static Children</span> {: .heading}
+# Static Children
 
 |------------------------------|----------------------------------|--------------------------------|
 |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)    |[Ellipse](../objects/ellipse.md)|

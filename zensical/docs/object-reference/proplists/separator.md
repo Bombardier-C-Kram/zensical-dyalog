@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Separator Properties</span> {: .heading}
+# Separator Properties
 
 |-------------------------------------------|-----------------------------------------|---------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)            |[Style](../properties/style.md)        |

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Namespace</span> <span class="command">\{R\}←\{X\}⎕NS Y</span> {: .heading}
+# Namespace
+
+```apl
+{R}←{X}⎕NS Y
+```
 
 The `⎕NS` system function makes it possible to create namespaces, copy elements from one namespace to another, and clone namespaces.
 
@@ -53,7 +57,7 @@ The objects identified in the list `Y` are copied into the namespace `X`.
 
 If `X` is specified, the result `R` is the full name (starting with `#.` or `⎕SE.`) of the namespace `X`. If `X` is omitted, the result `R` is a namespace reference to an unnamed namespace.
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 ```apl
       ⎕←'X'⎕NS''                 ⍝ Create namespace X
@@ -106,7 +110,7 @@ If `Y` does not contain a reference to, or a `⎕OR` of, a *GUI* object, the res
 
 `Y` can also be a vector of namespaces, in which case each item of `Y` is processed as explained above, in ravel order. The effect is that the contents of all the namespaces are merged into the target namespace.
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 ```apl
       original←⎕NS⍬
@@ -155,7 +159,7 @@ If `Y` does not contain a reference to, or a `⎕OR` of, a *GUI* object, the res
 The `Trigger` variant option specifies whether any [triggers](../../../programming-reference-guide/triggers/triggers) should be run for the modified variables in the target namespace that have triggers attached.
 The value must be a Boolean scalar. The default is 0, meaning that triggers are not run.
 
-<h4 class="example">Example</h4>
+#### Example
 
 ```apl
       ⎕VR 'trigger'

@@ -1,4 +1,6 @@
-# <span class="name">PaperSizes</span> <span class="right">Property</span> {: .heading}
+# PaperSizes
+
+Property
 
 
 

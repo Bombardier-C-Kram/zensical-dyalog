@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BaseClass Property</span> {: .heading}
+# BaseClass Property
 
 |--------------------------------|------|------|
 |[NetType](../objects/nettype.md)|&nbsp;|&nbsp;|

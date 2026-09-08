@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Dockable Property</span> {: .heading}
+# Dockable Property
 
 |----------------------------------------|--------------------------|--------------------------------|
 |[CoolBand](../objects/coolband.md)      |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|

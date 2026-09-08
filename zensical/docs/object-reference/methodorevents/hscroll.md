@@ -1,4 +1,6 @@
-# <span class="name">HScroll</span> <span class="right">Event 39</span> {: .heading}
+# HScroll
+
+Event 39
 
 
 

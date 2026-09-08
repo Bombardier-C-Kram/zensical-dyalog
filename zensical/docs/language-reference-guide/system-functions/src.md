@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Source</span> <span class="command">R←⎕SRC Y</span> {: .heading}
+# Source
+
+```apl
+R←⎕SRC Y
+```
 
 
 

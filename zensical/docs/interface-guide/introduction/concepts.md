@@ -1,4 +1,4 @@
-# <span class="name">Concepts</span> {: .heading}
+# Concepts
 
 The Dyalog APL GUI is based upon four important concepts; **objects**, **properties**, **events** and **methods**.
 

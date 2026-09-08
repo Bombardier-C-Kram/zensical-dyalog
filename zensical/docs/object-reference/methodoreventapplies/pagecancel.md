@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageCancel Event</span> {: .heading}
+# PageCancel Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

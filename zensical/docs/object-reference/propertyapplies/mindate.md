@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MinDate Property</span> {: .heading}
+# MinDate Property
 
 |----------------------------------|----------------------------------------------|------|
 |[Calendar](../objects/calendar.md)|[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|

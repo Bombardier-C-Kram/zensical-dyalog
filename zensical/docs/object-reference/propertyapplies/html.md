@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HTML Property</span> {: .heading}
+# HTML Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

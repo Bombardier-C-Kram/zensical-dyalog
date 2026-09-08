@@ -2,7 +2,11 @@
 search:
   boost: 2
 ---
-# <span class="name">Generate UUID</span> <span class="command">R←120⌶Y</span> {: .heading}
+# Generate UUID
+
+```apl
+R←120⌶Y
+```
 
 This function generates a [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) (**U**niversally **U**nique **ID**entifier) according to the [RFC 9562](https://datatracker.ietf.org/doc/html/rfc9562) specification. In this system, the string representation of each UUID comprises multiple groups of hexadecimal characters separated by single dashes/hyphens.
 
@@ -18,7 +22,7 @@ A UUID is a label that uniquely identifies objects in computer systems; it does 
 
 The result `R` is a vector containing the generated 36-character UUID.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       120⌶4
 32cd549f-eb33-4457-bf45-babf26dc2b53

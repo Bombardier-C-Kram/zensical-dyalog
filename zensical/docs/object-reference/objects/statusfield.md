@@ -1,4 +1,6 @@
-# <span class="name">StatusField</span> <span class="right">Object</span> {: .heading}
+# StatusField
+
+Object
 
 
 

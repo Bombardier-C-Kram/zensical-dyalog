@@ -1,4 +1,6 @@
-# <span class="name">BrowseBox</span> <span class="right">Object</span> {: .heading}
+# BrowseBox
+
+Object
 
 
 
@@ -43,7 +45,7 @@ that the appropriate result is returned by the modal `⎕DQ`.
 
 After the user has pressed OK or Cancel, the [Target](../properties/target.md) property contains the name of the chosen folder or other resource.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ DIR←{START_DIR}GetDir CAPTION;BB;MSG
 [1]    ⍝ Ask user for a Directory name

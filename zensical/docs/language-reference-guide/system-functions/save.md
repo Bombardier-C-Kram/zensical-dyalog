@@ -7,7 +7,11 @@ search:
   ⎕SAVE SAVE
 </div>
 
-# <span class="name">Save Workspace</span> <span class="command">\{R\}←\{X\}⎕SAVE Y</span> {: .heading}
+# Save Workspace
+
+```apl
+{R}←{X}⎕SAVE Y
+```
 
 `Y` must be a simple character scalar or vector that identifies a  full or relative path name to the file in which the workspace will be written.
 
@@ -34,7 +38,7 @@ As is the case for `)SAVE` (see [Save Workspace](../system-commands/save.md)), m
 
 Note that the values of all system variables (including `⎕SM`) and all GUI objects are saved.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       (⊃'SAVED' 'ACTIVE' [⎕IO+⎕SAVE'TEMP']),' WS'
 ACTIVE WS

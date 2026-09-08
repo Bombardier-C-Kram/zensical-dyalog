@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DateTimeChange Event</span> {: .heading}
+# DateTimeChange Event
 
 |----------------------------------------------|------|------|
 |[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|&nbsp;|

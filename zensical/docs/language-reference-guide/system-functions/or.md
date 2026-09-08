@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Object Representation</span> <span class="command">R←⎕OR Y</span> {: .heading}
+# Object Representation
+
+```apl
+R←⎕OR Y
+```
 
 
 
@@ -46,7 +50,7 @@ Note that a `⎕OR` object can be transmitted through an 'APL-style' TCP socket.
 
 The object representation forms of namespaces produced by `⎕OR` may not be used as arguments to any primitive functions.  The only operations permitted for such objects (or arrays containing such objects) are `⎕EX`, `⎕FAPPEND`, `⎕FREPLACE`, `⎕NS`, and `⎕WC`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       F←⎕OR ⎕FX'R←FOO' 'R←10'
  
@@ -63,7 +67,7 @@ The object representation forms of namespaces produced by `⎕OR` may not be use
 
 The display of the `⎕OR` form of a function or operator is a listing of the function or operator.  If the `⎕OR` form of a function or operator has been enclosed, then the result will display as the  name preceded by the symbol `∇`.  It is permitted to apply `⎕OR` to a locked function or operator.  In this instance the result will display as for the enclosed form.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
        F
       ∇ R←FOO
@@ -90,7 +94,7 @@ The display of the `⎕OR` form of a function or operator is a listing of the fu
 
 For the `⎕OR` forms of two functions or operators to be considered identical, their unlocked display forms must be the same, they must either both be locked or unlocked, and any monitors, trace and stop vectors must be the same.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       F←⎕OR ⎕FX 'R←A PLUS B' 'R←A+B'
  

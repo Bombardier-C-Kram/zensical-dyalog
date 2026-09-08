@@ -1,4 +1,6 @@
-# <span class="name">GetCommandLineArgs</span> <span class="right">Method 148</span> {: .heading}
+# GetCommandLineArgs
+
+Method 148
 
 
 

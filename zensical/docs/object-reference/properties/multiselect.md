@@ -1,4 +1,6 @@
-# <span class="name">MultiSelect</span> <span class="right">Property</span> {: .heading}
+# MultiSelect
+
+Property
 
 
 

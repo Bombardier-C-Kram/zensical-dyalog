@@ -1,4 +1,4 @@
-# <span class="name">Namespaces</span> {: .heading}
+# Namespaces
 
 Names within namespaces may be referenced *explicitly* or *implicitly*.  An *explicit* reference requires that you identify the object by its full or relative pathname using a `'.'` syntax; for example:
 ```apl
@@ -27,7 +27,7 @@ There are two special space names:
 
 `⎕SE` is a system namespace which is preserved across workspace load and clear.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       WSDOC.PAGE.NO +← 1     ⍝ Increment WSDOC page count
  

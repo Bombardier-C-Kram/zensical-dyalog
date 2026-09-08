@@ -1,4 +1,4 @@
-# <span class="name">The Session Object</span> {: .heading}
+# The Session Object
 
 |---|---|
 |Purpose:|The Session object `⎕SE` is a special system object that represents the session window and acts as a parent for the session menus, tool bar(s) and status bar.|
@@ -102,7 +102,7 @@ The Caption property of the Session may be set dynamically to a character vector
 |{BITS}    |"32" or "64"                         |
 |{TID}     |current thread                       |
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ⎕SE.Caption←'Pete: {WSID} {Product} {VER_A}.{VER_B}'
 ```

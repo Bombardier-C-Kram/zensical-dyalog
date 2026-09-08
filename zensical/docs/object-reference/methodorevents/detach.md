@@ -1,4 +1,6 @@
-# <span class="name">Detach</span> <span class="right">Method 270</span> {: .heading}
+# Detach
+
+Method 270
 
 [**Applies To**](../methodoreventapplies/detach.md)
 

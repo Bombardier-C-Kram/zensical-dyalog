@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Copy Workspace</span> <span class="command">)COPY \{ws \{nms\}\}</span> {: .heading}
+# Copy Workspace
+
+```apl
+)COPY {ws {nms}}
+```
 
 
 
@@ -19,7 +23,7 @@ If the list of names is excluded, all defined objects (including namespaces) are
 If the workspace name identifies a valid, readable workspace, the system reports the workspace name, "`saved`" and the date and time when the workspace was last saved.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )COPY WS/UTILITY
 WS/UTILITY saved Mon Nov  1 13:11:19 1992
@@ -87,7 +91,7 @@ In the latter case, the invisible copy which was brought in by `)COPY` will now 
 
 If you copy a Class or a namespace that is referenced by a Class as its Base Class or via a `:Include` statement, the referring Class will continue to refer to the original definition of the copied name which will be retained for that purpose. The Class can be made to refer to the copied definition of that name by refixing it.
 
-<h2 class="example">Example</h2>
+## Example
 
 
 The current workspace has a class named `pete` whose Base class is called `base`.
@@ -129,7 +133,7 @@ Copied  1
 
 You may also copy objects from session (.dse) files, although with certain restrictions.
 
-<h2 class="example">Example</h2>
+## Example
 ```
         )COPY C:\Users\Pete\Desktop\pete.dse ⎕SE.UCMD
 C:\Users\Pete\Desktop\pete.dse saved Wed Oct 14 ...
@@ -140,7 +144,7 @@ C:\Users\Pete\Desktop\pete.dse saved Wed Oct 14 ...
 - You can copy any namespace without GUI from a saved `⎕SE`, no matter what you current namespace is.
 - You can copy any namespace with GUI from a saved `⎕SE` as long as your current namespace is the same as the parent namespace of the namespace you are trying to copy
 
-<h2 class="example">Examples</h2>
+## Examples
 
 In the following example, the *not copied* cases occur because the current namespace is not an appropriate parent for the object in question.
 ```

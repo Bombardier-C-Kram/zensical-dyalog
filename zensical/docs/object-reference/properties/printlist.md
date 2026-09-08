@@ -1,4 +1,6 @@
-# <span class="name">PrintList</span> <span class="right">Property</span> {: .heading}
+# PrintList
+
+Property
 
 
 
@@ -12,7 +14,7 @@ This property provides a list of the printers that are installed on your compute
 
 PrintList is a vector of character vectors. Each item in PrintList contains the name of an installed printer followed by a comma (,) and then the name of the device to which it is attached. The first item in PrintList is the default system printer.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍴'.'⎕WG'PrintList'
 6

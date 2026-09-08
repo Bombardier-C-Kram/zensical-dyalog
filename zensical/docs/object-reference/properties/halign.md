@@ -1,4 +1,6 @@
-# <span class="name">HAlign</span> <span class="right">Property</span> {: .heading}
+# HAlign
+
+Property
 
 
 

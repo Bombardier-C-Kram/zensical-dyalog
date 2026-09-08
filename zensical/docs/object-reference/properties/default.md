@@ -1,4 +1,6 @@
-# <span class="name">Default</span> <span class="right">Property</span> {: .heading}
+# Default
+
+Property
 
 
 

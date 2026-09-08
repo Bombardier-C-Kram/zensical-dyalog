@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DateTimePicker Methods</span> {: .heading}
+# DateTimePicker Methods
 
 |-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)          |[ChooseFont](../methodorevents/choosefont.md)|[GetTextSize](../methodorevents/gettextsize.md)|

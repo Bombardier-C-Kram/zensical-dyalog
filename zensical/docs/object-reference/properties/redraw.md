@@ -1,4 +1,6 @@
-# <span class="name">Redraw</span> <span class="right">Property</span> {: .heading}
+# Redraw
+
+Property
 
 [**Applies To**](../propertyapplies/redraw.md)
 

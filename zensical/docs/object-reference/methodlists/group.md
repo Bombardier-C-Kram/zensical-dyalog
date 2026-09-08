@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Group Methods</span> {: .heading}
+# Group Methods
 
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)        |[GetTextSize](../methodorevents/gettextsize.md)|[Animate](../methodorevents/animate.md)        |

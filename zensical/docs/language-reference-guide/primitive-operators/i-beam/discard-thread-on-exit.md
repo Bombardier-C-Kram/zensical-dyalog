@@ -8,7 +8,11 @@ search:
   2501⌶
 </div>
 
-# <span class="name">Discard Thread on Exit</span> <span class="command">R←2501⌶Y</span> {: .heading}
+# Discard Thread on Exit
+
+```apl
+R←2501⌶Y
+```
 
 APL threads that Dyalog creates to serve incoming .NET requests are not terminated when their work is done. They persist so that if another call comes in on the same .NET thread the same APL thread can handle it. In effect the thread is *parked* until it is needed again. If the thread is not required, there is a small performance cost in maintaining it in this state.
 

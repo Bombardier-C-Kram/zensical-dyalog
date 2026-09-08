@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Tilde Diaeresis</span> <span class="command">⍨</span> {: .heading}
+# Tilde Diaeresis
+
+```apl
+⍨
+```
 
 Tilde Diaeresis is a monadic operator with a dyadic operand
 

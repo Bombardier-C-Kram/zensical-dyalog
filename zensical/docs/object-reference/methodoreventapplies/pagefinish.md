@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageFinish Event</span> {: .heading}
+# PageFinish Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

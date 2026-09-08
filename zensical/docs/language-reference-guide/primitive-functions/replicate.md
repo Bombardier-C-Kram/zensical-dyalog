@@ -6,7 +6,11 @@ search:
   / replicate
 </div>
 
-# <span class="name">Replicate</span> <span class="command">R←X/\[K\]Y</span> {: .heading}
+# Replicate
+
+```apl
+R←X/[K]Y
+```
 
 `Y` may be any array.  `X` is a simple integer vector or scalar.
 
@@ -18,7 +22,7 @@ If `Y` has length 1 along the `K`<sup>th</sup> (or implied) axis, it is extended
 
 This function is sometimes called Compress when `X` is Boolean.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 0 1 0 1/⍳5
 1 3 5

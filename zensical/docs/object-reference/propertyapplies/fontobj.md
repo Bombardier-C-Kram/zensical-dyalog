@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FontObj Property</span> {: .heading}
+# FontObj Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Bitmap](../objects/bitmap.md)                |

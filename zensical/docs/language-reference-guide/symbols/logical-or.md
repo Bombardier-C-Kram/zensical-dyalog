@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Logical OR</span> <span class="command">∨</span> {: .heading}
+# Logical OR
+
+```apl
+∨
+```
 
 Monadic Logical OR is not defined.
 

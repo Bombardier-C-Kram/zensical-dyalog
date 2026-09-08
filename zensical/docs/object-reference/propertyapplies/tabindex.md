@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabIndex Property</span> {: .heading}
+# TabIndex Property
 
 |----------------------------------------------|----------------------------------------------|--------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Button](../objects/button.md)                |[ButtonEdit](../objects/buttonedit.md)|

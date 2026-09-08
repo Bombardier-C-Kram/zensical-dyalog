@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBand Methods</span> {: .heading}
+# CoolBand Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

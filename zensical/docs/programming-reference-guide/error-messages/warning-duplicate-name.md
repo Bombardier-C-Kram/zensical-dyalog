@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">warning duplicate name</span> {: .heading}
+# warning duplicate name
 
 
 

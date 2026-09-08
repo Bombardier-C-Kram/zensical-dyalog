@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Change User</span> <span class="command">R←4001⌶Y</span> {: .heading}
+# Change User
+
+```apl
+R←4001⌶Y
+```
 
 
 

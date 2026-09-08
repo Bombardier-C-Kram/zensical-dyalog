@@ -1,4 +1,6 @@
-# <span class="name">SubForm</span> <span class="right">Object</span> {: .heading}
+# SubForm
+
+Object
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">CircleToday</span> <span class="right">Property</span> {: .heading}
+# CircleToday
+
+Property
 
 
 

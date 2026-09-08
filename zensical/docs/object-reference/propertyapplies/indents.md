@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Indents Property</span> {: .heading}
+# Indents Property
 
 |--------------------------------|------|------|
 |[ComboEx](../objects/comboex.md)|&nbsp;|&nbsp;|

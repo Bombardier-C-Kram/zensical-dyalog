@@ -7,7 +7,11 @@ search:
   key
 </div>
 
-# <span class="name">Key</span> <span class="command">R←\{X\}f⌸Y</span> {: .heading}
+# Key
+
+```apl
+R←{X}f⌸Y
+```
 
 !!! note "Classic Edition"
     The symbol `⌸` is not available in Classic Edition, and the Key operator is instead represented by `⎕U2338`.
@@ -24,7 +28,7 @@ Key is similar to the GROUP BY clause in SQL.
 
 `⎕CT` and `⎕DCT` are  implicit arguments of the Key operator.
 
-<h2 class="example">Example</h2>
+## Example
 
 In this example, both arrays are vectors so their major cells are their elements. The function `{⍺':'⍵}` is applied between the unique elements in `suits` (`'Spades' 'Hearts' 'Clubs'`) and the elements in `cards` grouped according to their corresponding elements in `suits`, that is, (`'2' 'Ace'`), (`'Queen' 'Jack'`) and (`,'4'`).
 ```apl
@@ -141,7 +145,7 @@ This example appends the data for a stock into a component file named by the sym
 1 1 1 1
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       {⍺ ⍵} ⌸ suits ⍝ indices of unique major cells

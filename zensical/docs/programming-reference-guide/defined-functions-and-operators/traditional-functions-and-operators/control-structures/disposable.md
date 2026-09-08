@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Disposable Statement</span> <span class="command">:Disposable</span> {: .heading}
+# Disposable Statement
+
+```apl
+:Disposable
+```
 
 
 

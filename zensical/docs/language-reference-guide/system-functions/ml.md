@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Migration Level</span> <span class="command">⎕ML</span> {: .heading}
+# Migration Level
+
+```apl
+⎕ML
+```
 
 
 
@@ -32,7 +36,7 @@ search:
 Subsequent versions of Dyalog APL may provide further migration levels.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       X←2(3 4)
 

@@ -6,7 +6,11 @@ search:
   ⍋ grade
 </div>
 
-# <span class="name">Grade Up</span> <span class="command">R←⍋Y</span> {: .heading}
+# Grade Up
+
+```apl
+R←⍋Y
+```
 
 `Y` may be any array of rank greater than 0 but may not contain namespaces. `R` is an integer vector being the permutation of `⍳1↑⍴Y` that places the sub-arrays along the first axis in ascending order. The rules for comparing items of `Y` with one another are as follows:
 
@@ -28,7 +32,7 @@ search:
 
 `⎕IO` is an implicit argument of Grade Up.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍋22.5 1 15 3 ¯4
 5 2 4 3 1

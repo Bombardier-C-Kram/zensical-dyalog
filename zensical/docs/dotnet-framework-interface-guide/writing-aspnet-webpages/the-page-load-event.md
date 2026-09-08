@@ -1,4 +1,4 @@
-# <span class="name">The Page\_Load Event</span> {: .heading}
+# The Page\_Load Event
 
 **[DYALOG]\Samples\asp.net\tutorial\intro3.aspx** illustrates how you can dynamically initialise the contents of a web page using the <code class="language-nonAPL">Page_Load</code> event. This example also introduces another type of web control, the <code class="language-nonAPL">DropDownList</code> object.
 ```nonAPL

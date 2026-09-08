@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Data Representation</span> <span class="command">⎕DR</span> {: .heading}
+# Data Representation
+
+```apl
+⎕DR
+```
 
 
 ## Monadic `⎕DR` means

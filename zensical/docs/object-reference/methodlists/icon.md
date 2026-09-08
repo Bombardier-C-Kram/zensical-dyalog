@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Icon Methods</span> {: .heading}
+# Icon Methods
 
 |-------------------------------------|-----------------------------------------|-------------------------------------------|
 |[Detach](../methodorevents/detach.md)|[FileRead](../methodorevents/fileread.md)|[FileWrite](../methodorevents/filewrite.md)|

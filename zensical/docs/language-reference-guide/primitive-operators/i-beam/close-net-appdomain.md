@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Close .NET AppDomain</span> <span class="command">R←2101⌶Y</span> {: .heading}
+# Close .NET AppDomain
+
+```apl
+R←2101⌶Y
+```
 
 
 !!! note

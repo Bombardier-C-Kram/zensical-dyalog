@@ -1,4 +1,4 @@
-# <span class="name">Appendix A</span> {: .heading}
+# Appendix A
 
 Keycodes, their common keystrokes, and the keystrokes specific to terminal emulators under Linux GUIs.
 

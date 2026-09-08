@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Abort Method</span> {: .heading}
+# Abort Method
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

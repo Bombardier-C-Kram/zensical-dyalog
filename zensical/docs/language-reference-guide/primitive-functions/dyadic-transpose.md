@@ -6,7 +6,11 @@ search:
   ⍉ transpose
 </div>
 
-# <span class="name">Transpose (Dyadic)</span> <span class="command">R←X⍉Y</span> {: .heading}
+# Transpose (Dyadic)
+
+```apl
+R←X⍉Y
+```
 
 `Y` may be any array.  `X` must be a simple scalar or vector whose elements are included in the set `⍳⍴⍴Y`.  Integer values in `X` may be repeated but all integers in the set `⍳⌈/X` must be included.  The length of `X` must equal the rank of `Y`.
 
@@ -17,7 +21,7 @@ search:
 `⎕IO` is an implicit argument of Dyadic Transpose.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A
  1  2  3  4

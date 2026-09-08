@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Called Monadically?</span> <span class="command">R←900⌶Y</span> {: .heading}
+# Called Monadically?
+
+```apl
+R←900⌶Y
+```
 
 
 
@@ -25,7 +29,7 @@ Identifies how the current function was called. It reports whether the nearest t
 
 The result `R` is Boolean. 1 means that the nearest tradfn was called monadically; 0 means that it wasn't. If there is no function on the stack, the result is 0.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ r←{left}foo right
 [1]    r←900⌶⍬

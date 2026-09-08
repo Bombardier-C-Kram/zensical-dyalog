@@ -1,4 +1,4 @@
-# <span class="name">Language Changes</span> {: .heading}
+# Language Changes
 
 The following table summarises the main changes to language features in Version 19.0.
 

@@ -1,4 +1,4 @@
-# <span class="name">General Tab</span> {: .heading}
+# General Tab
 
 ![configuration dialog general tab](../../img/configuration-dialog-general-tab.png)
 

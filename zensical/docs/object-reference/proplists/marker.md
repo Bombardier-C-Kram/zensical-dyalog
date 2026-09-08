@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Marker Properties</span> {: .heading}
+# Marker Properties
 
 |-------------------------------------------|-------------------------------------------|---------------------------------------|
 |[Type](../properties/type.md)              |[Points](../properties/points.md)          |[Style](../properties/style.md)        |

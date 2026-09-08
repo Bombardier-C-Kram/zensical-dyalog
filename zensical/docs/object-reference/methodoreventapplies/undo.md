@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Undo Method</span> {: .heading}
+# Undo Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

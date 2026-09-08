@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusBar Children</span> {: .heading}
+# StatusBar Children
 
 |------------------------------|----------------------------------------|----------------------------------------|
 |[Bitmap](../objects/bitmap.md)|[BrowseBox](../objects/browsebox.md)    |[Circle](../objects/circle.md)          |

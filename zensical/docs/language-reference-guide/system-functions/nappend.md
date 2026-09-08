@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Append</span> <span class="command">\{R\}←X ⎕NAPPEND Y</span> {: .heading}
+# Native File Append
+
+```apl
+{R}←X ⎕NAPPEND Y
+```
 
 
 
@@ -36,7 +40,7 @@ If the data will not fit into the specified character width (bytes) `⎕NAPPEND`
 
 As a consequence of these two rules, you must specify the data type (either 160 or 320) in order to write Unicode characters whose code-point are in the range 256-65535 and >65535 respectively.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
 			

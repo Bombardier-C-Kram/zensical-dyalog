@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GesturePan Event</span> {: .heading}
+# GesturePan Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

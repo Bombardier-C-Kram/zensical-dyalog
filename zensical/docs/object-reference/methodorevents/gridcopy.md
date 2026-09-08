@@ -1,4 +1,6 @@
-# <span class="name">GridCopy</span> <span class="right">Event 191</span> {: .heading}
+# GridCopy
+
+Event 191
 
 
 

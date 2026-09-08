@@ -6,7 +6,11 @@ search:
   ⊥ decode base
 </div>
 
-# <span class="name">Decode</span> <span class="command">R←X⊥Y</span> {: .heading}
+# Decode
+
+```apl
+R←X⊥Y
+```
 
 `Y` must be a simple numeric array.  `X` must be a simple numeric array.  `R` is the numeric array which results from
 the evaluation of `Y` in the number system with radix `X`.
@@ -27,7 +31,7 @@ in `Y`. The first element of `X` has no effect on the result.
 
 This function is also known as Base Value.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       60 60⊥3 13
@@ -96,7 +100,7 @@ If `X` is a scalar and `Y` a vector of length n, decode evaluates the polynomial
     </mrow>
 </math>
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       2⊥1 2 3 4
@@ -110,7 +114,7 @@ If `X` is a scalar and `Y` a vector of length n, decode evaluates the polynomial
 For higher-rank array arguments, each of the vectors along the last axis of `X` is taken as the radix vector for each of
 the vectors along the first axis of `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       M

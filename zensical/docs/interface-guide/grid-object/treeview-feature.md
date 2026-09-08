@@ -1,4 +1,4 @@
-# <span class="name">TreeView Feature</span> {: .heading}
+# TreeView Feature
 
 ## Introduction
 

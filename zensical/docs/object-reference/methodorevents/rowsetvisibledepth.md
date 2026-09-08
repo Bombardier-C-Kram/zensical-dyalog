@@ -1,4 +1,6 @@
-# <span class="name">RowSetVisibleDepth</span> <span class="right">Method 173</span> {: .heading}
+# RowSetVisibleDepth
+
+Method 173
 
 
 
@@ -25,7 +27,7 @@ Note:[ Expanding](./expanding.md) and [Retracting](./retracting.md) events are n
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'F'⎕WC'Form' 'Grid: TreeView Feature'
       'F.G'⎕WC'Grid'(30 2⍴2/⍳30)

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AsChild Property</span> {: .heading}
+# AsChild Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

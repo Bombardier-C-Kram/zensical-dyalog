@@ -1,4 +1,4 @@
-# <span class="name">Saved ResponsesTab</span> {: .heading}
+# Saved ResponsesTab
 
 ![configuration dialog saved responses tab](../../img/configuration-dialog-saved-responses-tab.png)
 

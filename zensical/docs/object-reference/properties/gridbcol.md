@@ -1,4 +1,6 @@
-# <span class="name">GridBCol</span> <span class="right">Property</span> {: .heading}
+# GridBCol
+
+Property
 
 
 

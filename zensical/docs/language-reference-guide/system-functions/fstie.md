@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Share Tie</span> <span class="command">\{R\}←X ⎕FSTIE Y</span> {: .heading}
+# File Share Tie
+
+```apl
+{R}←X ⎕FSTIE Y
+```
 
 
 
@@ -48,7 +52,7 @@ to:
 ```
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'SALES' ⎕FSTIE 1
  
@@ -68,7 +72,7 @@ The **Mode** variant option specifies whether the file that is being tied will o
 
 The **Mode** variant option is independent of any [file access controls managed using an access matrix](../../../programming-reference-guide/component-files/component-files/#file-access-control).
 
-<h3 class="example">Example</h3>
+### Example
 
 ```apl
       'cf' (⎕FSTIE⍠'Mode' 'W') 1

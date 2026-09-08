@@ -1,4 +1,6 @@
-# <span class="name">CurrentState</span> <span class="right">Property</span> {: .heading}
+# CurrentState
+
+Property
 
 
 

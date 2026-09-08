@@ -1,4 +1,6 @@
-# <span class="name">AlignChar</span> <span class="right">Property</span> {: .heading}
+# AlignChar
+
+Property
 
 
 

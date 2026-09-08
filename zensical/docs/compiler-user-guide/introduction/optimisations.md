@@ -1,4 +1,4 @@
-# <span class="name">Optimisations</span> {: .heading}
+# Optimisations
 
 In addition to reducing interpreter overhead, the compiler can also perform certain optimisations on the APL code. These include:
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">EditImageIndent Property</span> {: .heading}
+# EditImageIndent Property
 
 |--------------------------------|------|------|
 |[ComboEx](../objects/comboex.md)|&nbsp;|&nbsp;|

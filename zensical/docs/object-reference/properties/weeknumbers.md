@@ -1,4 +1,6 @@
-# <span class="name">WeekNumbers</span> <span class="right">Property</span> {: .heading}
+# WeekNumbers
+
+Property
 
 
 

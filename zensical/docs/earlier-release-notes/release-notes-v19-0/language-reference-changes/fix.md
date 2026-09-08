@@ -1,4 +1,8 @@
-# <span class="name">Fix Script</span> <span class="command">\{R\}←\{X\}⎕FIX Y</span> {: .heading}
+# Fix Script
+
+```apl
+{R}←{X}⎕FIX Y
+```
 
 `⎕FIX` establishes Namespaces, Classes, Interfaces and functions from the script specified by `Y` in the workspace.
 

@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabControl</span> <span class="right">Example 7</span> {: .heading}
+# TabControl
+
+Example 7
 
 
 

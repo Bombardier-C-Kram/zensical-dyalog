@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Rect Parents</span> {: .heading}
+# Rect Parents
 
 |----------------------------------------------|--------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |[Bitmap](../objects/bitmap.md)          |

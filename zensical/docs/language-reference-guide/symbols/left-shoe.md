@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Left Shoe</span> <span class="command">⊂</span> {: .heading}
+# Left Shoe
+
+```apl
+⊂
+```
 
 Monadic Left Shoe means
 [Enclose](../primitive-functions/enclose/index.md)

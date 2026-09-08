@@ -1,4 +1,6 @@
-# <span class="name">GetItemState</span> <span class="right">Method 306</span> {: .heading}
+# GetItemState
+
+Method 306
 
 **Applies To:** [ListView](../objects/listview.md), [TreeView](../objects/treeview.md)
 

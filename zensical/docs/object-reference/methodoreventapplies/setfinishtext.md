@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetFinishText Method</span> {: .heading}
+# SetFinishText Method
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

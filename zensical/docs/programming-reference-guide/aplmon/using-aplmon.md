@@ -1,10 +1,10 @@
-# <span class="name">Using APLMON</span> {: .heading}
+# Using APLMON
 
 APLMON is enabled and disabled using the APLMON method of Root. It takes a single argument, the name of the file to which the results are to be written. If the file name is empty, APLMON is disabled.
 
 Accumulated data is only actually written to the file when the method is called or when Dyalog terminates. The name of the file to which the results are written is returned as a shy result. This mechanism allows you to log application results in separate files.
 
-<h2 class="example">Example</h2>
+## Example
 
 Run APLMON and output the data to `myapplication.csv`:
 ```apl
@@ -17,7 +17,7 @@ Run APLMON and output the data to `myapplication.csv`:
 
 The empty result indicates that APLMON was disabled prior to this call.
 
-<h2 class="example">Example</h2>
+## Example
 
 Output the data and disable APLMON:
 ```apl

@@ -1,4 +1,4 @@
-# <span class="name">Docking and Undocking a ToolControl</span> {: .heading}
+# Docking and Undocking a ToolControl
 
 Docking and undocking a ToolControl is handled rather differently from docking and undocking a Form or CoolBand.
 

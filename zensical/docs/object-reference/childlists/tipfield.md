@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TipField Children</span> {: .heading}
+# TipField Children
 
 |------------------------------|--------------------------------|--------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Font](../objects/font.md)|

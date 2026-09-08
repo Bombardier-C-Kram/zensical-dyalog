@@ -12,13 +12,17 @@ search:
 
 
 
-# <span class="name">State Indicator</span> <span class="command">R←⎕SI</span> {: .heading}
+# State Indicator
+
+```apl
+R←⎕SI
+```
 
 
 
 `R` is a nested vector of vectors giving the names of the functions or operators in the execution stack.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       )SI

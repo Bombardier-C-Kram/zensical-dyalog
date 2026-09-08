@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridLineFCol Property</span> {: .heading}
+# GridLineFCol Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

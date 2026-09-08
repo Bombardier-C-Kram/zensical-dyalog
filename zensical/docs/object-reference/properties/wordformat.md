@@ -1,4 +1,6 @@
-# <span class="name">WordFormat</span> <span class="right">Property</span> {: .heading}
+# WordFormat
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabFocus Property</span> {: .heading}
+# TabFocus Property
 
 |--------------------------------------|------|------|
 |[TabControl](../objects/tabcontrol.md)|&nbsp;|&nbsp;|

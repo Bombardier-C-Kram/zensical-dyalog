@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name"> Operators Summarised</span> {: .heading}
+# Operators Summarised
 
 [](#monadic-operators) and [](#dyadic-operators) below summarise the Monadic and Dyadic primitive operators whose detailed descriptions  follow in alphabetical order in this section.
 

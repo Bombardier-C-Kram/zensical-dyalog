@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Icon Properties</span> {: .heading}
+# Icon Properties
 
 |-------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[File](../properties/file.md)          |[Bits](../properties/bits.md)              |

@@ -1,4 +1,6 @@
-# <span class="name">TabFocus</span> <span class="right">Property</span> {: .heading}
+# TabFocus
+
+Property
 
 
 

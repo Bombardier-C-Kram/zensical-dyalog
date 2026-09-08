@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CurrentColor Property</span> {: .heading}
+# CurrentColor Property
 
 |----------------------------------------|------|------|
 |[ColorButton](../objects/colorbutton.md)|&nbsp;|&nbsp;|

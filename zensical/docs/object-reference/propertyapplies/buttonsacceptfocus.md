@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ButtonsAcceptFocus Property</span> {: .heading}
+# ButtonsAcceptFocus Property
 
 |----------------------------------------|------|------|
 |[ToolControl](../objects/toolcontrol.md)|&nbsp;|&nbsp;|

@@ -3,13 +3,13 @@
 
 
 
-# <span class="name">warning pendent operation</span> {: .heading}
+# warning pendent operation
 
 
 
 This report is given on opening and closing definition mode when attempting to edit a pendant function or operator.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 [0]   ∇FOO
 [1]    GOO

@@ -1,4 +1,6 @@
-# <span class="name">GetFocusObj</span> <span class="right">Method 509</span> {: .heading}
+# GetFocusObj
+
+Method 509
 
 [**Applies To**](../methodoreventapplies/getfocusobj.md)
 

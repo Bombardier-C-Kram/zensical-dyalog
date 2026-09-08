@@ -6,7 +6,11 @@ search:
   ? deal
 </div>
 
-# <span class="name">Deal</span> <span class="command">R←X?Y</span> {: .heading}
+# Deal
+
+```apl
+R←X?Y
+```
 
 
 
@@ -15,7 +19,7 @@ search:
 
 `R` is an integer  vector obtained by making `X` random selections from `⍳Y` without repetition.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       13?52

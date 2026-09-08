@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TypeLibFile Property</span> {: .heading}
+# TypeLibFile Property
 
 |----------------------------------------------|------------------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OLEServer](../objects/oleserver.md)|&nbsp;|

@@ -1,4 +1,8 @@
-# <span class="name">Clear Workspace</span> <span class="command">)CLEAR</span> {: .heading}
+# Clear Workspace
+
+```apl
+)CLEAR
+```
 
 This command clears the active workspace and gives the report "`clear ws"`. The active workspace is lost. The name of a clear workspace is `CLEAR WS`. [System Variables](../../system-functions/system-functions-by-category/#system-variables) are initialised with their default values.
 

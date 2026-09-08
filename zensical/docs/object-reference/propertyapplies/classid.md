@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ClassID Property</span> {: .heading}
+# ClassID Property
 
 |----------------------------------------------|----------------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|

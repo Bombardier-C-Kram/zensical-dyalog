@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:If Statement</span> {: .heading}
+# :If Statement
 
 ```
  

@@ -1,4 +1,6 @@
-# <span class="name">GridLines</span> <span class="right">Property</span> {: .heading}
+# GridLines
+
+Property
 
 
 

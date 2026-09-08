@@ -7,14 +7,18 @@ search:
 </div>
 
 
-# <span class="name">Conjugate</span> <span class="command">R←+Y</span> {: .heading}
+# Conjugate
+
+```apl
+R←+Y
+```
 
 If `Y` is complex, `R` is `Y` with the imaginary part of all elements negated.
 
 
 If `Y` is real or non-numeric, `R` is the same array unchanged, although `⊢` is faster. See [Same](same.md).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +3j4
 3J¯4

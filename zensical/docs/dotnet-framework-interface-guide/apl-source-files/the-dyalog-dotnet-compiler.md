@@ -1,4 +1,4 @@
-# <span class="name">The Dyalog .NET Compiler</span> {: .heading}
+# The Dyalog .NET Compiler
 
 APL Source files are compiled into executable code by the Dyalog .NET Compiler identified in [](#Compilers).
 

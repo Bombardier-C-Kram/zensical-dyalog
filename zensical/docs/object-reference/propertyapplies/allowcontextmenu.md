@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AllowContextMenu Property</span> {: .heading}
+# AllowContextMenu Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

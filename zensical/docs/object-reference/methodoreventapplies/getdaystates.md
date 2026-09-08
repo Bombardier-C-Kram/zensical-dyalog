@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetDayStates Event</span> {: .heading}
+# GetDayStates Event
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

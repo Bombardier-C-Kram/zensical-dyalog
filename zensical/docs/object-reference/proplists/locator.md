@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locator Properties</span> {: .heading}
+# Locator Properties
 
 |-------------------------------------------|-----------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)            |[Size](../properties/size.md)              |

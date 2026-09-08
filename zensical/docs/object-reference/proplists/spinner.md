@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Spinner Properties</span> {: .heading}
+# Spinner Properties
 
 |-------------------------------------------|---------------------------------------------|---------------------------------------------|
 |[Type](../properties/type.md)              |[Items](../properties/items.md)              |[Text](../properties/text.md)                |

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AlignChar Property</span> {: .heading}
+# AlignChar Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

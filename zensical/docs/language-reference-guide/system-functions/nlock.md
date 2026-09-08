@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Lock</span> <span class="command">\{R\}←X ⎕NLOCK Y</span> {: .heading}
+# Native File Lock
+
+```apl
+{R}←X ⎕NLOCK Y
+```
 
 
 
@@ -42,7 +46,7 @@ Locking enables controlled update of native files by co-operating users. A proce
 
 The shy result `R` is `Y`. To unlock the file, this value should subsequently be supplied in the right argument to `0 ⎕NLOCK`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
     2 ⎕NLOCK ¯1        ⍝ write-lock whole file
     0 ⎕NLOCK ¯1        ⍝ unlock whole file.

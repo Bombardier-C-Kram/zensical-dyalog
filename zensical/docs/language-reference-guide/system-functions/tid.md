@@ -12,13 +12,17 @@ search:
 
 
 
-# <span class="name">Current Thread Identity</span> <span class="command">R←⎕TID</span> {: .heading}
+# Current Thread Identity
+
+```apl
+R←⎕TID
+```
 
 
 
 `R` is a simple integer scalar whose value is the number of the current thread.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕TID     ⍝ Base thread number
 0

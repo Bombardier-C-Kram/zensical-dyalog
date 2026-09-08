@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Set Access Control</span> <span class="command">R←X ⎕SVC Y</span> {: .heading}
+# Set Access Control
+
+```apl
+R←X ⎕SVC Y
+```
 
 
 
@@ -44,7 +48,7 @@ Note that the initial value of your partner's access control vector is normally 
 
 The result `R` is a Boolean vector or matrix, corresponding to the structure of `X`, which contains the new access control settings.  If `Y` refers to a name which is not a shared variable, or if the surrogate name is mis-spelt, the corresponding value in `R` is `4⍴0`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 0 0 1 ⎕SVC 'X'
 1 0 0 1

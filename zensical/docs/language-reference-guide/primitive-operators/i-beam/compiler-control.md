@@ -8,7 +8,11 @@ search:
   400⌶
 </div>
 
-# <span class="name">Compiler Control</span> <span class="command">R←\{X\}(400⌶)Y</span> {: .heading}
+# Compiler Control
+
+```apl
+R←{X}(400⌶)Y
+```
 
 
 

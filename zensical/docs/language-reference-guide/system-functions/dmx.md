@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Extended Diagnostic Message</span> <span class="command">R←⎕DMX</span> {: .heading}
+# Extended Diagnostic Message
+
+```apl
+R←⎕DMX
+```
 
 
 
@@ -48,7 +52,7 @@ OSError is a 3-element vector whose items are as follows:
 
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       1÷0
 DOMAIN ERROR
@@ -95,7 +99,7 @@ The same is true for `⎕TRAP` with Cutback, with the exception that  if the cu
 
 The benefit of the localisation strategy is that code which uses error trapping as a standard operating procedure (such as a file utility which traps `FILE NAME ERROR` and creates missing files when required) will not pollute the environment with irrelevant error information.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ tie←NewFile name
 [1]    :Trap 22
@@ -156,7 +160,7 @@ After exiting the `:Trap` control structure, the shadowed value of `⎕DMX` is d
 
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 The `EraseFile` function also uses a `:Trap` in order to ignore the situation when the file doesn't exist.
@@ -205,7 +209,7 @@ Once again, the local value of `⎕DMX` is discarded on exit from the `:Trap`, r
 
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 In this example only the error number (`EN`) property of `⎕DMX` is displayed in order to simplify the output:

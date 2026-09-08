@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileBoxOK Event</span> {: .heading}
+# FileBoxOK Event
 
 |------------------------------------|--------------------------------|------|
 |[BrowseBox](../objects/browsebox.md)|[FileBox](../objects/filebox.md)|&nbsp;|

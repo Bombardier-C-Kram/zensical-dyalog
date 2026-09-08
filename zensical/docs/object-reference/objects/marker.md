@@ -1,4 +1,6 @@
-# <span class="name">Marker</span> <span class="right">Object</span> {: .heading}
+# Marker
+
+Object
 
 [Parents](../parentlists/marker.md), [Children](../childlists/marker.md), [Properties](../proplists/marker.md), [Methods](../methodlists/marker.md), [Events](../eventlists/marker.md)
 
@@ -11,7 +13,7 @@ The [Points](../properties/points.md) property specifies one or more sets of poi
 The [Style](../properties/style.md) property determines the symbol that is drawn at each of a set of points. Marker styles are specified either by numbers which represent the following symbol shapes.
 
 |---|---|
-|0  |. { .shaded }  |
+|0  |`.` (default)|
 |1  |`+`|
 |2  |`*`|
 |3  |`⎕`|
@@ -35,7 +37,7 @@ For a single set of polymarkers, [Points](../properties/points.md) is either a 2
 
 [FCol](../properties/fcol.md) is either a single number representing a standard colour, or a 3-element vector which specifies the marker colour explicitly in terms of RGB values.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 First make a [Form](form.md):
 ```apl
@@ -77,7 +79,7 @@ To draw multiple sets of polymarkers with a single name, [Points](../properties/
 
 [FCol](../properties/fcol.md) may be a single number or a single (enclosed) 3-element vector applying to all the sets of polymarkers. Alternatively, [FCol](../properties/fcol.md) may be a vector whose elements refer to each of the sets of polymarkers in turn. If so, the elements may be single numbers or nested RGB triplets, or a combination of the two.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 First make a [Form](form.md):
 ```apl

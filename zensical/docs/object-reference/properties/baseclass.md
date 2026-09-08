@@ -1,4 +1,6 @@
-# <span class="name">BaseClass</span> <span class="right">Property</span> {: .heading}
+# BaseClass
+
+Property
 
 
 

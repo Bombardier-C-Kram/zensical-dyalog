@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Group Parents</span> {: .heading}
+# Group Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)      |

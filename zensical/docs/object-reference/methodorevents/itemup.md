@@ -1,4 +1,6 @@
-# <span class="name">ItemUp</span> <span class="right">Event 341</span> {: .heading}
+# ItemUp
+
+Event 341
 
 
 

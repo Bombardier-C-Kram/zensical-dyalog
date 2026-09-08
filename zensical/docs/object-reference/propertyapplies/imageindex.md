@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ImageIndex Property</span> {: .heading}
+# ImageIndex Property
 
 |--------------------------------------|--------------------------------------|----------------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[ComboEx](../objects/comboex.md)      |[CoolBand](../objects/coolband.md)|

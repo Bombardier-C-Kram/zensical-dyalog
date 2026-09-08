@@ -1,4 +1,6 @@
-# <span class="name">IsLoading</span> <span class="right">Property</span> {: .heading}
+# IsLoading
+
+Property
 
 
 

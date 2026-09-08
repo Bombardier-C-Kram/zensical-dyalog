@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Underscored Alphabetic Characters</span> <span class="command">R←⎕Ⓐ</span> {: .heading}
+# Underscored Alphabetic Characters
+
+```apl
+R←⎕Ⓐ
+```
 
 
 

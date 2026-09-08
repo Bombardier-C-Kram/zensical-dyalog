@@ -1,4 +1,6 @@
-# <span class="name">Popup</span> <span class="right">Property</span> {: .heading}
+# Popup
+
+Property
 
 
 

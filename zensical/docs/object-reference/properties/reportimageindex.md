@@ -1,4 +1,6 @@
-# <span class="name">ReportImageIndex</span> <span class="right">Property</span> {: .heading}
+# ReportImageIndex
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">TypeLibFile</span> <span class="right">Property</span> {: .heading}
+# TypeLibFile
+
+Property
 
 
 

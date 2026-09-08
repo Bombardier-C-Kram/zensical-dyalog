@@ -1,4 +1,4 @@
-# <span class="name"> Out-of-process OLE Servers</span> {: .heading}
+# Out-of-process OLE Servers
 
 ## Exporting
 

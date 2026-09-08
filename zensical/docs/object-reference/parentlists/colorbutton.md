@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColorButton Parents</span> {: .heading}
+# ColorButton Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)                |[Grid](../objects/grid.md)      |

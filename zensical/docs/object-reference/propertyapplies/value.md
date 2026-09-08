@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Value Property</span> {: .heading}
+# Value Property
 
 |--------------------------------------|--------------------------|----------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|[Label](../objects/label.md)|

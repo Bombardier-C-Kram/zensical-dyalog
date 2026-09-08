@@ -1,4 +1,6 @@
-# <span class="name">PageChanged</span> <span class="right">Event 356</span> {: .heading}
+# PageChanged
+
+Event 356
 
 
 

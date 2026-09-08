@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Less Than Or Equal To</span> <span class="command">R←X≤Y</span> {: .heading}
+# Less Than Or Equal To
+
+```apl
+R←X≤Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 `⎕CT` and `⎕DCT` are  implicit arguments of Less Than Or Equal To.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2 4 6 8 10 ≤ 6
 1 1 1 0 0

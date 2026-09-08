@@ -8,7 +8,11 @@ search:
   3501⌶
 </div>
 
-# <span class="name">Connected to Ride?</span> <span class="command">R←(3501⌶)Y</span> {: .heading}
+# Connected to Ride?
+
+```apl
+R←(3501⌶)Y
+```
 
 `Y` can be any value and is ignored.
 

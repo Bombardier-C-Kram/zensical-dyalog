@@ -1,4 +1,4 @@
-# <span class="name">Namespaces and Localisation</span> {: .heading}
+# Namespaces and Localisation
 
 The rules for name resolution have been generalised for namespaces.
 

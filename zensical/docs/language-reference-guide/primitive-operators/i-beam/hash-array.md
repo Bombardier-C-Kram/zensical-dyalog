@@ -9,7 +9,11 @@ search:
 </div>
 
 
-# <span class="name">Hash Array</span> <span class="command">R←\{X\}1500⌶Y</span> {: .heading}
+# Hash Array
+
+```apl
+R←{X}1500⌶Y
+```
 
 
 This function creates a hashed array, returns an unhashed copy of an array or reports the state of hashing of an array.
@@ -36,7 +40,7 @@ If `X` is 1, the result `R` returns an indication of whether `Y` has been marked
 If `X` is 2, the result `R` is the unhashed form of `Y`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       R←1500⌶1 2 3    ⍝ R is marked for hashing
@@ -62,7 +66,7 @@ If `R` is a hashed array then certain forms of modified assignment will preserve
       R↓⍨←Y   ⍝ only for negative singleton Y
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       R←1500⌶1 2 3 ⍝ R is hashed
 

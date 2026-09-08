@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TrackBar Properties</span> {: .heading}
+# TrackBar Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)              |

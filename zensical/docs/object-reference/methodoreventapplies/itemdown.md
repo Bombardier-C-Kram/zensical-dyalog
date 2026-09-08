@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ItemDown Event</span> {: .heading}
+# ItemDown Event
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

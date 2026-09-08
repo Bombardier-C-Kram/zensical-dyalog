@@ -1,4 +1,6 @@
-# <span class="name">Coord</span> <span class="right">Property</span> {: .heading}
+# Coord
+
+Property
 
 [**Applies To**](../propertyapplies/coord.md)
 
@@ -64,7 +66,7 @@ cell coordinates will expand and contract when the grid rows and columns are
 resized.
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 This statement creates a button 10 pixels high, 20 pixels wide, and 5 pixels

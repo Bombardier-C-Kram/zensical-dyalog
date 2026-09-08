@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FIELD ATTRIBUTES RANK ERROR</span> <span class="command">58</span> {: .heading}
+# FIELD ATTRIBUTES RANK ERROR
+
+```apl
+58
+```
 
 
 

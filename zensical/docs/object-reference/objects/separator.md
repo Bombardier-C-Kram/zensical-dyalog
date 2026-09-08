@@ -1,4 +1,6 @@
-# <span class="name">Separator</span> <span class="right">Object</span> {: .heading}
+# Separator
+
+Object
 
 
 

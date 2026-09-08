@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OKButton Property</span> {: .heading}
+# OKButton Property
 
 |--------------------------|------|------|
 |[Form](../objects/form.md)|&nbsp;|&nbsp;|

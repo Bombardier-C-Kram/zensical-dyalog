@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">UpDown Properties</span> {: .heading}
+# UpDown Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)              |

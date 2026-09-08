@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Floating-Point Representation</span> <span class="command">⎕FR</span> {: .heading}
+# Floating-Point Representation
+
+```apl
+⎕FR
+```
 
 
 

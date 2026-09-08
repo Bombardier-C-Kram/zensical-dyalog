@@ -1,4 +1,6 @@
-# <span class="name">GetZoomLevel</span> <span class="right">Method 838</span> {: .heading}
+# GetZoomLevel
+
+Method 838
 
 
 

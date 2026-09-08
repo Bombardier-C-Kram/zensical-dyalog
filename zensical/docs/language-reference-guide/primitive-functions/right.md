@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Right</span> <span class="command">R←X⊢Y</span> {: .heading}
+# Right
+
+```apl
+R←X⊢Y
+```
 
 
 
 `X` and `Y` may be any arrays. The result `R` is the right argument `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       42 ⊢'abc' 1 2 3
  abc  1 2 3
@@ -41,7 +45,7 @@ search:
 
 When `⊢` is applied using reduction, the derived function selects the last sub-array of the array along the specified dimension. This is implemented as an idiom.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊢/1 2 3
 3

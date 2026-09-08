@@ -1,4 +1,4 @@
-# <span class="name">Debugging</span> {: .heading}
+# Debugging
 
 Four features are built into the system to assist in developing and debugging GUI applications.
 

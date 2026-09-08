@@ -1,4 +1,6 @@
-# <span class="name">Edit</span> <span class="right">Object</span> {: .heading}
+# Edit
+
+Object
 
 
 

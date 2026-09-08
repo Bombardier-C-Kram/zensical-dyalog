@@ -1,4 +1,6 @@
-# <span class="name">APLVersion</span> <span class="right">Property</span> {: .heading}
+# APLVersion
+
+Property
 
 
 
@@ -18,7 +20,7 @@ a 4-element vector of character vectors as described in the table below. In futu
 |`[3]`|Version Type             |`W` Windows<br/>`S` Server (terminal) version<br/>`M` Motif |
 |`[4]`|Program Type             |Development<br/>Runtime<br/>DLL<br/>DLLRT|
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       '.'⎕WG'APLVersion'
 ┌──────────┬────────────┬─┬───────────┐

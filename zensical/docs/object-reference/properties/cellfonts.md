@@ -1,4 +1,6 @@
-# <span class="name">CellFonts</span> <span class="right">Property</span> {: .heading}
+# CellFonts
+
+Property
 
 
 

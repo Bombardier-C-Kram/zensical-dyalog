@@ -1,4 +1,6 @@
-# <span class="name">ClipChange</span> <span class="right">Event 120</span> {: .heading}
+# ClipChange
+
+Event 120
 
 
 

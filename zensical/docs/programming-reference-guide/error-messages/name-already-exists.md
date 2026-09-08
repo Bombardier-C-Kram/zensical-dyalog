@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">Name already exists</span> {: .heading}
+# Name already exists
 
 
 

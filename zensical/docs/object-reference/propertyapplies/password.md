@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Password Property</span> {: .heading}
+# Password Property
 
 |--------------------------------------|--------------------------|--------------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|[Spinner](../objects/spinner.md)|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AnimClose Method</span> {: .heading}
+# AnimClose Method
 
 |------------------------------------|------|------|
 |[Animation](../objects/animation.md)|&nbsp;|&nbsp;|

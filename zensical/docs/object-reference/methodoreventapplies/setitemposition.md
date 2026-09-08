@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetItemPosition Event</span> {: .heading}
+# SetItemPosition Event
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

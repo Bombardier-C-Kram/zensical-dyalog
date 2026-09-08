@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBar Parents</span> {: .heading}
+# CoolBar Parents
 
 |----------------------------------------------|--------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)|&nbsp;|

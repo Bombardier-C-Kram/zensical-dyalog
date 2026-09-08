@@ -1,4 +1,4 @@
-# <span class="name">Keyed Properties Example 1</span> {: .heading}
+# Keyed Properties Example 1
 
 The Sparse2 Class illustrates the implementation and use of a Keyed Property.
 

@@ -1,4 +1,6 @@
-# <span class="name">TrackRect</span> <span class="right">Property</span> {: .heading}
+# TrackRect
+
+Property
 
 
 

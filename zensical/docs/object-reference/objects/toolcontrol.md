@@ -1,4 +1,6 @@
-# <span class="name">ToolControl</span> <span class="right">Object</span> {: .heading}
+# ToolControl
+
+Object
 
 
 

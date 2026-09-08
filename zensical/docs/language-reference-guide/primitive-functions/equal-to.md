@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Equal To</span> <span class="command">R←X=Y</span> {: .heading}
+# Equal To
+
+```apl
+R←X=Y
+```
 
 
 
@@ -39,7 +43,7 @@ For complex numbers `X=Y` is 1 if the magnitude of `X-Y` does not exceed `⎕CT`
 
 ![comparison](../img/comparison.png)
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       3=3.1 3 ¯2 ¯3
 0 1 0 0

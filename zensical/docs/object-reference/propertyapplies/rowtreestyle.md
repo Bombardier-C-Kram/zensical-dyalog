@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowTreeStyle Property</span> {: .heading}
+# RowTreeStyle Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

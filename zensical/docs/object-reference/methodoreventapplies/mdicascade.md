@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDICascade Method</span> {: .heading}
+# MDICascade Method
 
 |------------------------------------|------|------|
 |[MDIClient](../objects/mdiclient.md)|&nbsp;|&nbsp;|

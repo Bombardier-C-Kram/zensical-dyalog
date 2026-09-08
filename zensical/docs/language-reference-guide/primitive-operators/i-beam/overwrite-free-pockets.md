@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Overwrite Free Pockets</span> <span class="command">R←127⌶Y</span> {: .heading}
+# Overwrite Free Pockets
+
+```apl
+R←127⌶Y
+```
 
 
 
@@ -29,7 +33,7 @@ Some applications (cryptography for example) make use of secure data during exec
 It is the responsibility of the programmer to ensure that there are no USED pockets in the workspace that reference the data.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ foo;a
 [1]    a←'my secure data'

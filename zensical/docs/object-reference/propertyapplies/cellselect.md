@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellSelect Property</span> {: .heading}
+# CellSelect Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

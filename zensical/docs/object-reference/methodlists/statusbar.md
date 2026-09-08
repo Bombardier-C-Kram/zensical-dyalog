@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusBar Methods</span> {: .heading}
+# StatusBar Methods
 
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)        |[GetTextSize](../methodorevents/gettextsize.md)|[Animate](../methodorevents/animate.md)        |

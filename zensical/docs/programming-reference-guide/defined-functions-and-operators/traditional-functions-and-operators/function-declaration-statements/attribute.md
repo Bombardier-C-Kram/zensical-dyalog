@@ -1,4 +1,8 @@
-# <span class="name">Attribute Statement</span> <span class="command">:Attribute</span> {: .heading}
+# Attribute Statement
+
+```apl
+:Attribute
+```
 
 ```apl
 :Attribute <Name> [ConstructorArgs]
@@ -13,7 +17,7 @@ Attributes are descriptive tags that provide additional information about progra
 |`Name`           |The name of a .NET attribute                    |
 |`ConstructorArgs`|Optional arguments for the Attribute constructor|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       :Attribute ObsoleteAttribute
       :Attribute ObsoleteAttribute 'Don''t use' 1

@@ -7,7 +7,11 @@ search:
   ⎕AT
 </div>
 
-# <span class="name">Attributes</span> <span class="command">R←\{X\} ⎕AT Y</span> {: .heading}
+# Attributes
+
+```apl
+R←{X} ⎕AT Y
+```
 
 `Y` can be a simple character scalar, vector or matrix, or a vector of character vectors representing the names of 0 or more defined functions or operators. Used dyadically, this function closely emulates the APL2 implementation. Used monadically, it returns information that is more appropriate for Dyalog APL.
 
@@ -46,7 +50,7 @@ The following values correspond to the syntax shown alongside:
 
 `R[4]` or `R[;4]`: Each item is a character vector - the network ID of the user who last fixed (edited) the function.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
     ∇ {z}←{l}(fn myop)r

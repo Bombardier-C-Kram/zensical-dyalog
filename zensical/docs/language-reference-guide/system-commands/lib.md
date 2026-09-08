@@ -3,13 +3,17 @@
 
 
 
-# <span class="name">List Workspace Library</span> <span class="command">)LIB \{dir\}</span> {: .heading}
+# List Workspace Library
+
+```apl
+)LIB {dir}
+```
 
 
 
 This command lists the names of Dyalog workspaces contained in the given directory.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )LIB WS
 MYWORK TEMP
@@ -18,7 +22,7 @@ MYWORK TEMP
 
 If a directory is not given, the workspaces on the user's APL workspace path (**WSPATH**) are listed.  In this case, the listing is divided into sections identifying the directories concerned.  The current directory is identified as "`.`".
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )LIB
 .

@@ -1,4 +1,4 @@
-# <span class="name">Workspace Management</span> {: .heading}
+# Workspace Management
 
 ## Workspace Size and Compaction
 

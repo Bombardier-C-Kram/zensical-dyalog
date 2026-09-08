@@ -1,4 +1,4 @@
-# <span class="name">DYALOG\_SERIAL</span> {: .heading}
+# DYALOG\_SERIAL
 
 This parameter contains your Dyalog serial number. This must be set to the serial number issued to you. If not set, then the software is unregistered.
 

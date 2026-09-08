@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">name saved date time</span> {: .heading}
+# name saved date time
 
 
 
@@ -12,7 +12,7 @@ This report is given when a workspace is saved, loaded or copied.
 
 `date/time` is the date and time at which the workspace was most recently saved.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )LOAD WS/UTILITY
 WS/UTILITY saved Fri Sep 11 10:34:35 1998

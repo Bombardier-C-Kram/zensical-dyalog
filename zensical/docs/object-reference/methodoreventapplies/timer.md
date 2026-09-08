@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Timer Event</span> {: .heading}
+# Timer Event
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

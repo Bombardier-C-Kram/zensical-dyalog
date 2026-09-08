@@ -1,4 +1,6 @@
-# <span class="name">DuplicateRow</span> <span class="right">Method 177</span> {: .heading}
+# DuplicateRow
+
+Method 177
 
 
 

@@ -1,4 +1,8 @@
-# <span class="name">File Hold</span> <span class="command">\{R\}←\{X\} ⎕FHOLD Y</span> {: .heading}
+# File Hold
+
+```apl
+{R}←{X} ⎕FHOLD Y
+```
 
 ## Access code 2048
 

@@ -1,4 +1,6 @@
-# <span class="name">GetPropertyInfo</span> <span class="right">Method 550</span> {: .heading}
+# GetPropertyInfo
+
+Method 550
 
 
 
@@ -28,7 +30,7 @@ The argument to GetPropertyInfo is a single item as follows:
 
 The result is a nested vector with one element per property name. Each element of this vector is itself a 2-element vector of character vectors containing the data type and help message for the corresponding property.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       CLNAME←'Microsoft Multimedia Control, Version 6.0'
       'MM' ⎕WC 'OCXClass' CLNAME

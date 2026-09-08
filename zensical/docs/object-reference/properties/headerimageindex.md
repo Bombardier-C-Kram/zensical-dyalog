@@ -1,4 +1,6 @@
-# <span class="name">HeaderImageIndex</span> <span class="right">Property</span> {: .heading}
+# HeaderImageIndex
+
+Property
 
 
 

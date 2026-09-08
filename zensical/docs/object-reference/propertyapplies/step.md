@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Step Property</span> {: .heading}
+# Step Property
 
 |----------------------------------|--------------------------------|----------------------------------------|
 |[Form](../objects/form.md)        |[Locator](../objects/locator.md)|[ProgressBar](../objects/progressbar.md)|

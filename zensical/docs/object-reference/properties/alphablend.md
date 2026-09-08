@@ -1,4 +1,6 @@
-# <span class="name">AlphaBlend</span> <span class="right">Property</span> {: .heading}
+# AlphaBlend
+
+Property
 
 
 

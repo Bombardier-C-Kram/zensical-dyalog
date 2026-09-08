@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetVarInfo Method</span> {: .heading}
+# SetVarInfo Method
 
 |----------------------------------------------|------------------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OLEServer](../objects/oleserver.md)|&nbsp;|

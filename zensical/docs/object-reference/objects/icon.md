@@ -1,4 +1,6 @@
-# <span class="name">Icon</span> <span class="right">Object</span> {: .heading}
+# Icon
+
+Object
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Appendix C</span> {: .heading}
+# Appendix C
 
 Keycodes defined for Dyalog APL, but not used or should not be used in the Dyalog APL tty version
 

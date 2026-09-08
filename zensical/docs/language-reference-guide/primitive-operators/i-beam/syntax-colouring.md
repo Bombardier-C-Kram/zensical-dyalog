@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Syntax Colouring</span> <span class="command">R←200⌶Y</span> {: .heading}
+# Syntax Colouring
+
+```apl
+R←200⌶Y
+```
 
 
 

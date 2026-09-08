@@ -6,11 +6,15 @@ search:
   - negate
 </div>
 
-# <span class="name">Negate</span> <span class="command">R←-Y</span> {: #negative .heading}
+# Negate {: #negative}
+
+```apl
+R←-Y
+```
 
 `Y` may be any numeric array. `R` is numeric and is the negative value of `Y`. For complex numbers both the real and imaginary parts are negated.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       -4 2 0 ¯3 ¯5
 ¯4 ¯2 0 3 5

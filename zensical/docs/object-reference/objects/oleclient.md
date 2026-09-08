@@ -1,4 +1,6 @@
-# <span class="name">OLEClient</span> <span class="right">Object</span> {: .heading}
+# OLEClient
+
+Object
 
 
 

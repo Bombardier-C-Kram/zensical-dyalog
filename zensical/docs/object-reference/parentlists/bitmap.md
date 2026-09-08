@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Bitmap Parents</span> {: .heading}
+# Bitmap Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)              |

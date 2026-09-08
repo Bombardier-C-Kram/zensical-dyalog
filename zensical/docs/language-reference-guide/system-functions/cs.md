@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Change Space</span> <span class="command">\{R\}←\{X\}⎕CS Y</span> {: .heading}
+# Change Space
+
+```apl
+{R}←{X}⎕CS Y
+```
 
 
 
@@ -41,7 +45,7 @@ The names listed in `X` are temporarily *exported* to the namespace `Y`.  If obj
 Note that calling `⎕CS` with an empty argument `Y` obtains the namespace in which a function is currently executing.
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 This simple example illustrates how `⎕CS` may be used to avoid typing long pathnames when building a tree of GUI objects.  Note that the objects `NEW` and `OPEN` are created as children of the `FILE` menu as a result of using `⎕CS` to change into the `F.MB.FILE` namespace.
@@ -67,7 +71,7 @@ This simple example illustrates how `⎕CS` may be used to avoid typing long pat
 ```
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 Suppose a form `F1` contains buttons `B1` and `B2`. Each button maintains a count of the number of times it has been pressed, and the form maintains a count of the total number of button presses. The single callback function `PRESS` and its subfunction `FMT` can reside in the form itself
@@ -100,7 +104,7 @@ Suppose a form `F1` contains buttons `B1` and `B2`. Each button maintains a coun
 ```
 
 
-<h2 class="example">Example</h2>
+## Example
 
 
 This example uses `⎕CS` to explore a namespace tree and display the structure.  Note that it must export its own name (tree) each time it changes space, because the name tree is global.

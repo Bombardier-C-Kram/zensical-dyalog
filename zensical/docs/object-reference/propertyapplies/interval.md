@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Interval Property</span> {: .heading}
+# Interval Property
 
 |----------------------------------------|----------------------------|------|
 |[ProgressBar](../objects/progressbar.md)|[Timer](../objects/timer.md)|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">APLK</span> {: .heading}
+# APLK
 
 **Classic Edition only.**
 

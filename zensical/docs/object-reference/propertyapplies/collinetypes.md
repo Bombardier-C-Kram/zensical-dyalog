@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColLineTypes Property</span> {: .heading}
+# ColLineTypes Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

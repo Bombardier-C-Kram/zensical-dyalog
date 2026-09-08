@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Edit Object</span> <span class="command">)ED nms</span> {: .heading}
+# Edit Object
+
+```apl
+)ED nms
+```
 
 `)ED` invokes the Dyalog editor and opens an Edit window for each of the objects specified in `nms`.
 
@@ -35,7 +39,7 @@ The first object named becomes the top window on the stack.
 See the *Dyalog for Microsoft Windows UI Guide* or the *Dyalog for UNIX UI Guide* for details.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       )ED MYFUNCTION

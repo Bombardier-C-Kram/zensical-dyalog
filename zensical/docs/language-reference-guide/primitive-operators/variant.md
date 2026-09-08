@@ -7,7 +7,11 @@ search:
   variant
 </div>
 
-# <span class="name">Variant</span> <span class="command">\{R\}←\{X\}(f⍠B)Y</span> {: .heading}
+# Variant
+
+```apl
+{R}←{X}(f⍠B)Y
+```
 
 !!! note "Classic Edition"
     The symbol `⍠` is not available in Classic Edition, and the Variant operator is instead represented by `⎕U2360`. Note too that `⍠` and `⎕OPT` are synonymous though only the latter is available in the Classic Edition.
@@ -26,7 +30,7 @@ For the operand function with right argument `Y` and optional left argument `X`,
 
 Option names and their values must be appropriate for the left operand function, otherwise `DOMAIN ERROR` (error code 11) will be reported.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
        tn←'Dick'(⎕FCREATE⍠'Z' 1)0

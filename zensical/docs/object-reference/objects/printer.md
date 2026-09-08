@@ -1,4 +1,6 @@
-# <span class="name">Printer</span> <span class="right">Object</span> {: .heading}
+# Printer
+
+Object
 
 
 
@@ -53,7 +55,7 @@ The Printer object five methods :
 |[Abort](../methodorevents/abort.md)                |103  |Aborts the print job              |
 |[RTFPrintSetup](../methodorevents/rtfprintsetup.md)|460  |Displays Printer Set-up dialog box|
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 Start a print job on the default printer

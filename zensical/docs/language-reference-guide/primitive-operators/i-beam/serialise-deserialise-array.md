@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Serialise/Deserialise Array</span> <span class="command">R←X(220⌶)Y</span> {: .heading}
+# Serialise/Deserialise Array
+
+```apl
+R←X(220⌶)Y
+```
 
 
 
@@ -47,7 +51,7 @@ The following identity holds true:
 ```
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       a←'ab'

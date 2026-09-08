@@ -1,4 +1,6 @@
-# <span class="name">ExitWindows</span> <span class="right">Event 131</span> {: .heading}
+# ExitWindows
+
+Event 131
 
 
 

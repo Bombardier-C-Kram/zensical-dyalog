@@ -1,4 +1,6 @@
-# <span class="name">TabSize</span> <span class="right">Property</span> {: .heading}
+# TabSize
+
+Property
 
 
 

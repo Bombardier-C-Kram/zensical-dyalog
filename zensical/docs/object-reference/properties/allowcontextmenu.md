@@ -1,4 +1,6 @@
-# <span class="name">AllowContextMenu</span> <span class="right">Property</span> {: .heading}
+# AllowContextMenu
+
+Property
 
 **Applies To:** [HTMLRenderer](../objects/htmlrenderer.md)
 

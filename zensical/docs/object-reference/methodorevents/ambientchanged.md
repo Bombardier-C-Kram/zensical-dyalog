@@ -1,4 +1,6 @@
-# <span class="name">AmbientChanged</span> <span class="right">Event 533</span> {: .heading}
+# AmbientChanged
+
+Event 533
 
 
 

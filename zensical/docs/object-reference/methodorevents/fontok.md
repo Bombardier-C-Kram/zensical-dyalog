@@ -1,4 +1,6 @@
-# <span class="name">FontOK</span> <span class="right">Event 241</span> {: .heading}
+# FontOK
+
+Event 241
 
 [**Applies To**](../methodoreventapplies/fontok.md)
 

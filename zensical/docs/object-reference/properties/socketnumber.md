@@ -1,4 +1,6 @@
-# <span class="name">SocketNumber</span> <span class="right">Property</span> {: .heading}
+# SocketNumber
+
+Property
 
 
 

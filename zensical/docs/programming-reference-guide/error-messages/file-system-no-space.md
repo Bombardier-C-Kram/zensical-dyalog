@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE SYSTEM NO SPACE</span> <span class="command">34</span> {: .heading}
+# FILE SYSTEM NO SPACE
+
+```apl
+34
+```
 
 
 

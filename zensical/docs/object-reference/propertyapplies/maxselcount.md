@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MaxSelCount Property</span> {: .heading}
+# MaxSelCount Property
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Index Of</span> <span class="command">R←X⍳Y</span> {: .heading}
+# Index Of
+
+```apl
+R←X⍳Y
+```
 
 
 
@@ -33,7 +37,7 @@ Elements of `X` and `Y` are considered the same if `X≡Y` returns 1 for those e
 `⎕IO`,  `⎕CT` and `⎕DCT` are implicit arguments of Index Of.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕IO←1
  

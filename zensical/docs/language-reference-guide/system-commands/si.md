@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">State Indicator</span> <span class="command">)SI \{n\} \{-tid=tn\}</span> {: .heading}
+# State Indicator
+
+```apl
+)SI {n} {-tid=tn}
+```
 
 
 
@@ -28,7 +32,7 @@ The list consists of a line for each suspended or pendent operation beginning wi
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )SI
 #.PLUS[2]*

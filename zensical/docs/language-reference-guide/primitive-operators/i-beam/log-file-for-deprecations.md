@@ -2,7 +2,11 @@
 search:
   boost: 2
 ---
-# <span class="name">Log File for Deprecations</span> <span class="command">\{R\}←\{X\} 109⌶Y</span> {: .heading}
+# Log File for Deprecations
+
+```apl
+{R}←{X} 109⌶Y
+```
 
 Manages the file used to log the use of deprecated features. For an overview of deprecated features and this I-beam's role in identifying them within your code, see [Deprecated functionality](../../../../programming-reference-guide/deprecated-functionality).
 
@@ -20,7 +24,7 @@ An error will be signalled if the specified file cannot be opened in append mode
 
 `X` must be omitted. The result `R` is a two element vector consisting of a numeric status code (`0` indicating no error) and a character vector containing text describing the error that was encountered (empty if no error).
 
-<h2 class="example">Example</h2>
+## Example
 
 ```apl
       ⊢'logfile.txt'(109⌶)0

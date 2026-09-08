@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Properties A-Z</span> {: .heading}
+# Properties A-Z
 
 |Property|Description|
 |---|---|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SM Parents</span> {: .heading}
+# SM Parents
 
 |--------------------------------|--------------------------------|------------------------------------------|
 |[Form](../objects/form.md)      |[Group](../objects/group.md)    |[PropertyPage](../objects/propertypage.md)|

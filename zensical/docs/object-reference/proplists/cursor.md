@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Cursor Properties</span> {: .heading}
+# Cursor Properties
 
 |-----------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)            |[File](../properties/file.md)              |[Bits](../properties/bits.md)              |

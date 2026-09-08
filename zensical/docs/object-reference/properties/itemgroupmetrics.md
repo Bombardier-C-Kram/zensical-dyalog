@@ -1,4 +1,6 @@
-# <span class="name">ItemGroupMetrics</span> <span class="right">Property</span> {: .heading}
+# ItemGroupMetrics
+
+Property
 
 
 

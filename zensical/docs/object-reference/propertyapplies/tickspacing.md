@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TickSpacing Property</span> {: .heading}
+# TickSpacing Property
 
 |----------------------------------|------|------|
 |[TrackBar](../objects/trackbar.md)|&nbsp;|&nbsp;|

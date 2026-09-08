@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Text Parents</span> {: .heading}
+# Text Parents
 
 |----------------------------------------------|--------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |[Bitmap](../objects/bitmap.md)          |

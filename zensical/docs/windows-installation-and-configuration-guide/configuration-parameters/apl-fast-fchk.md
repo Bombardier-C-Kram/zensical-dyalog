@@ -1,4 +1,4 @@
-# <span class="name">APL\_FAST\_FCHK</span> {: .heading}
+# APL\_FAST\_FCHK
 
 This parameter specifies whether Dyalog APL should optimise `⎕FCHK` by allowing it to reliably determine whether a component file had been properly untied and therefore does not need to be checked (this is overridable using the `⎕FCHK` option force).
 

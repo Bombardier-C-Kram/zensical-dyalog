@@ -1,4 +1,4 @@
-# <span class="name">Technical Details</span> {: .heading}
+# Technical Details
 
 ## Technical Reference
 
@@ -68,7 +68,7 @@ When one or more shared code files is attached, the following rules apply:
     - names in the active workspace that reference data in a shared code file are deleted (namespace references are not deleted).
 	- all remaining references to the shared code file are resolved by copying data from the shared code file to the active workspace as required.
 
-<h4 class="example">Example</h4>
+#### Example
 
 The active workspace MAIN is populated using the following assignments:
 ```apl

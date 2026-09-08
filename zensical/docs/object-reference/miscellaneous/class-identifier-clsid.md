@@ -1,4 +1,4 @@
-# <span class="name">Class Identifier (CLSID)</span> {: .heading}
+# Class Identifier (CLSID)
 
 
 

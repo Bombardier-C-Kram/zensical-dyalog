@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ComboEx Parents</span> {: .heading}
+# ComboEx Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)      |

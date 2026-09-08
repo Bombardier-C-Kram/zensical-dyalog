@@ -1,4 +1,4 @@
-# <span class="name">APL Errors</span> {: .heading}
+# APL Errors
 
 There follows a numerically sorted list of error messages emanating from a typical operating system and reported through Dyalog APL.
 

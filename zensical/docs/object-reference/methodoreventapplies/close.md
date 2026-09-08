@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Close Event</span> {: .heading}
+# Close Event
 
 |--------------------------------------------------|----------------------------------------------|--------------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |

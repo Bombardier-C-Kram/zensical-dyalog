@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CursorObj Property</span> {: .heading}
+# CursorObj Property
 
 |----------------------------------------------|------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Button](../objects/button.md)      |[ButtonEdit](../objects/buttonedit.md)  |

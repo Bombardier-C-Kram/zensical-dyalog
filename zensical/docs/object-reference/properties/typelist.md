@@ -1,4 +1,6 @@
-# <span class="name">TypeList</span> <span class="right">Property</span> {: .heading}
+# TypeList
+
+Property
 
 
 

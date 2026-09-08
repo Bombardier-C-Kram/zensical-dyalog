@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Loaded File Object Info</span> <span class="command">R←5179⌶Y</span> {: .heading}
+# Loaded File Object Info
+
+```apl
+R←5179⌶Y
+```
 
 
 
@@ -41,7 +45,7 @@ The editor may be used to edit Dyalog script files (*.dyalog* files) and general
 If an object occupies a file in its entirety, both *Start line* and *Line count* are 0.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       dyalog←2 ⎕NQ '.' 'GetEnvironment' 'DYALOG' 

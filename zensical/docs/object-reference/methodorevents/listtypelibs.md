@@ -1,4 +1,6 @@
-# <span class="name">ListTypeLibs</span> <span class="right">Method 520</span> {: .heading}
+# ListTypeLibs
+
+Method 520
 
 
 
@@ -18,7 +20,7 @@ The result is a nested vector with one element per loaded Type Library.
 
 Each element is a vector of 2-element characater vectors. The first is the name of the Type Library; the second is its class identifier or CLSID.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'EX'⎕WC'OLEClient' 'Excel.Application'
       ⍴ListTypeLibs

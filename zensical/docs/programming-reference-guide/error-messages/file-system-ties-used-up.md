@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE SYSTEM TIES USED UP</span> <span class="command">30</span> {: .heading}
+# FILE SYSTEM TIES USED UP
+
+```apl
+30
+```
 
 
 

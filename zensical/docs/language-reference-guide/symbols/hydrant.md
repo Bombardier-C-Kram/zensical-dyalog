@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Hydrant</span> <span class="command">⍎</span> {: .heading}
+# Hydrant
+
+```apl
+⍎
+```
 
 Monadic Hydrant means
 [Execute expression](../primitive-functions/execute.md)

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Roll</span> <span class="command">R←?Y</span> {: .heading}
+# Roll
+
+```apl
+R←?Y
+```
 
 
 
@@ -29,7 +33,7 @@ For each zero element of `Y`, the corresponding element of `R` is a pseudo-rando
 
 Note that different random number generators are available; see `⎕RL` for more information.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ?9 9 9

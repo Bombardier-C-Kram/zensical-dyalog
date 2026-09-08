@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Calendar Events</span> {: .heading}
+# Calendar Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

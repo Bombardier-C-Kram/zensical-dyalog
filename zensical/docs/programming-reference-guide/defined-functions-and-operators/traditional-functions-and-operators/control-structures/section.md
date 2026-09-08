@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Section Statement</span> <span class="command">:Section</span> {: .heading}
+# Section Statement
+
+```apl
+:Section
+```
 
 
 

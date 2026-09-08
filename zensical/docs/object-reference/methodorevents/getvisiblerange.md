@@ -1,4 +1,6 @@
-# <span class="name">GetVisibleRange</span> <span class="right">Method 262</span> {: .heading}
+# GetVisibleRange
+
+Method 262
 
 
 

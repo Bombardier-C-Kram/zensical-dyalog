@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Resize</span> <span class="command">\{R\}←X ⎕NRESIZE Y</span> {: .heading}
+# Native File Resize
+
+```apl
+{R}←X ⎕NRESIZE Y
+```
 
 
 

@@ -7,7 +7,11 @@ search:
   ⎕FMT FMT
 </div>
 
-# <span class="name">Format (Dyadic)</span> <span class="command">R←X ⎕FMT Y</span> {: .heading}
+# Format (Dyadic)
+
+```apl
+R←X ⎕FMT Y
+```
 
 `Y` must be a simple array of rank not exceeding two, or a non-simple scalar or vector whose items are simple arrays of rank not exceeding two.  The simple arrays in `Y` must be homogeneous, either character or numeric. All numeric values in `Y` must be simple; if `Y` contains any complex numbers, dyadic `⎕FMT` will generate a `DOMAIN ERROR`. `X` must be a simple character vector.  `R` is a simple character matrix.
 
@@ -70,7 +74,7 @@ The **format specification** consists of a series of control phrases, with adjac
 
 The surrounding affixture delimiters may be replaced by the alternative pairs described for Text Insertion.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 A vector is treated as a column:
 ```apl
@@ -184,7 +188,7 @@ A '9' digit selector causes a data digit to be copied to the result.
 
 A 'Z' digit selector causes a non-zero data digit to be copied to the result.  A zero data digit is copied if and only if digits appear on each side of it.  Otherwise a blank appears.  Similarly text between digit selectors appears only if digits appear on each side of the text.  Text appearing before the first digit selector or after the last will always appear in the result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'G⊂99/99/99⊃'⎕FMT 0 100 100 ⊥8 7 89
 08/07/89
@@ -229,7 +233,7 @@ It is permitted to specify more than one O-qualifier within a single phrase.
 
 The O-qualifier is `⎕CT` sensitive.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       'O<NIL>F7.2'⎕FMT 12.3 0 42.5

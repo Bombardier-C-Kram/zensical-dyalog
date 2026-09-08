@@ -1,4 +1,6 @@
-# <span class="name">Bitmap</span> <span class="right">Object</span> {: .heading}
+# Bitmap
+
+Object
 
 
 

@@ -1,4 +1,8 @@
-# <span class="name">Discard Source Information</span> <span class="command">R←5171⌶Y</span> {: .heading}
+# Discard Source Information
+
+```apl
+R←5171⌶Y
+```
 
 This function discards source code and file information for scripted objects, namespaces, classes, functions, and operators that is saved in the workspace. See also [Discard Source Code](discard-source-code.md).
 

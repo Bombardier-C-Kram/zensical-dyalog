@@ -1,4 +1,6 @@
-# <span class="name">FStyle</span> <span class="right">Property</span> {: .heading}
+# FStyle
+
+Property
 
 
 

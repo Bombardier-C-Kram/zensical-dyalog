@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPAccept Event</span> {: .heading}
+# TCPAccept Event
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

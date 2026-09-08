@@ -2,7 +2,11 @@
 
 
 
-# <span class="name">FILE NAME QUOTA USED UP</span> <span class="command">32</span> {: .heading}
+# FILE NAME QUOTA USED UP
+
+```apl
+32
+```
 
 
 

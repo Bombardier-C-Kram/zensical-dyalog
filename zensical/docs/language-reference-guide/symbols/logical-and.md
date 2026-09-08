@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Logical AND</span> <span class="command">∧</span> {: .heading}
+# Logical AND
+
+```apl
+∧
+```
 
 Monadic Logical AND is not defined.
 

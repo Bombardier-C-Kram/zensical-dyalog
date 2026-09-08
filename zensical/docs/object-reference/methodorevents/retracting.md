@@ -1,4 +1,6 @@
-# <span class="name">Retracting</span> <span class="right">Event 304</span> {: .heading}
+# Retracting
+
+Event 304
 
 
 

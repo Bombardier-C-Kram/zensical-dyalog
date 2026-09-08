@@ -1,4 +1,4 @@
-# <span class="name">Language Bar</span> {: .heading}
+# Language Bar
 
 The Language Bar is an optional window which is initially docked to the Session Window, to make it easy to pick APL symbols without using the keyboard.
 

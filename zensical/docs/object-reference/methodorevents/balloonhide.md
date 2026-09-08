@@ -1,4 +1,6 @@
-# <span class="name">BalloonHide</span> <span class="right">Event 862</span> {: .heading}
+# BalloonHide
+
+Event 862
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">LockRows Method</span> {: .heading}
+# LockRows Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

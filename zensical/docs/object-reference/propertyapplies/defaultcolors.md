@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DefaultColors Property</span> {: .heading}
+# DefaultColors Property
 
 |----------------------------------------|------|------|
 |[ColorButton](../objects/colorbutton.md)|&nbsp;|&nbsp;|

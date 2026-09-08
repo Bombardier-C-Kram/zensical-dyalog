@@ -1,4 +1,4 @@
-# <span class="name">PropertyArguments Class</span> {: .heading}
+# PropertyArguments Class
 
 Where appropriate, APL supplies the PropertyGet and PropertySet functions with an argument that is an instance of the internal class `PropertyArguments`.
 

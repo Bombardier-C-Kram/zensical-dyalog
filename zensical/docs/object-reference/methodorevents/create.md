@@ -1,4 +1,6 @@
-# <span class="name">Create</span> <span class="right">Event 34</span> {: .heading}
+# Create
+
+Event 34
 
 [**Applies To**](../methodoreventapplies/create.md)
 

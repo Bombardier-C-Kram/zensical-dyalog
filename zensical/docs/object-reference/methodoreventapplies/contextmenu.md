@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ContextMenu Event</span> {: .heading}
+# ContextMenu Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)          |

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">This Space</span> <span class="command">R←⎕THIS</span> {: .heading}
+# This Space
+
+```apl
+R←⎕THIS
+```
 
 
 
@@ -26,7 +30,7 @@ If `NC9` is a reference to any object whose name-class is `9`, then:
 ```
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕THIS
 #

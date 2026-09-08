@@ -7,7 +7,11 @@ search:
   reduce
 </div>
 
-# <span class="name">Reduce N-Wise</span> <span class="command">R←Xf/\[K\]Y</span> {: .heading}
+# Reduce N-Wise
+
+```apl
+R←Xf/[K]Y
+```
 
 `f` must be a dyadic function. `X` must be a simple scalar or one-item integer array. `Y` may be any array whose sub-arrays along the `K`th axis are appropriate to function `f`.
 
@@ -21,7 +25,7 @@ If `X` is zero, the result is a `(⍴Y)+(-⍴⍴Y)↑1` array of identity elemen
 
 If `X` is negative, each sub-vector is reversed before being reduced.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       ⍳4

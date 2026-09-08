@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ItemGroups Property</span> {: .heading}
+# ItemGroups Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Up Tack</span> <span class="command">⊥</span> {: .heading}
+# Up Tack
+
+```apl
+⊥
+```
 
 Monadic Up Tack is not defined
 

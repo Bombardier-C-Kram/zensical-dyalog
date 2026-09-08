@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellSet Property</span> {: .heading}
+# CellSet Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

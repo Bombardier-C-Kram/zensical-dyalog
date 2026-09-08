@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPReady Event</span> {: .heading}
+# TCPReady Event
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

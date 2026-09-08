@@ -1,4 +1,6 @@
-# <span class="name">EndSplit</span> <span class="right">Event 282</span> {: .heading}
+# EndSplit
+
+Event 282
 
 
 

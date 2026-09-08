@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RadiusMode Property</span> {: .heading}
+# RadiusMode Property
 
 |------------------------------|--------------------------|------|
 |[Circle](../objects/circle.md)|[Root](../objects/root.md)|&nbsp;|

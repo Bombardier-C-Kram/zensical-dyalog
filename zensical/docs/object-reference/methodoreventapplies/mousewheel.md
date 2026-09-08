@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MouseWheel Event</span> {: .heading}
+# MouseWheel Event
 
 |----------------------------------------------|----------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |[Button](../objects/button.md)                |

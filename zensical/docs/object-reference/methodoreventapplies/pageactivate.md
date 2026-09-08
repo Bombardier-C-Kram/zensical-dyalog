@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageActivate Event</span> {: .heading}
+# PageActivate Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

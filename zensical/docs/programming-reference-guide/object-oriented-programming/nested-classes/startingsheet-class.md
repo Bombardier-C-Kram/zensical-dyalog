@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StartingSheet Class</span> {: .heading}
+# StartingSheet Class
 
 ```apl
 

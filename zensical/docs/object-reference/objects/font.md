@@ -1,4 +1,6 @@
-# <span class="name">Font</span> <span class="right">Object</span> {: .heading}
+# Font
+
+Object
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">Radius</span> <span class="right">Property</span> {: .heading}
+# Radius
+
+Property
 
 
 

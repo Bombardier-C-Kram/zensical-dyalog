@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBand Children</span> {: .heading}
+# CoolBand Children
 
 |--------------------------------------|------------------------------------|----------------------------------------|
 |[Bitmap](../objects/bitmap.md)        |[BrowseBox](../objects/browsebox.md)|[Button](../objects/button.md)          |

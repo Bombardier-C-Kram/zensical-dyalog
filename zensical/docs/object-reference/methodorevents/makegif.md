@@ -1,4 +1,6 @@
-# <span class="name">MakeGIF</span> <span class="right">Method 261</span> {: .heading}
+# MakeGIF
+
+Method 261
 
 
 
@@ -15,7 +17,7 @@ The MakeGIF method is niladic.
 
 The result is an integer vector containing the encoded GIF image.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍴GIF←BM.MakeGIF
 19620

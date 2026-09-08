@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Event Property</span> {: .heading}
+# Event Property
 
 |--------------------------------------------------|----------------------------------------------|------------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |

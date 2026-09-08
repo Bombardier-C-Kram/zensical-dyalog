@@ -1,4 +1,4 @@
-# <span class="name">Registry Sub-Folders</span> {: .heading}
+# Registry Sub-Folders
 
 A large amount of configuration information is maintained in the Windows Registry in sub-folders of the main folder identified by **inifile**.
 

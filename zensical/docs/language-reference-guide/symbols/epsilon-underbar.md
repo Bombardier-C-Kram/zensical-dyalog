@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Epsilon Underbar</span> <span class="command">⍷</span> {: .heading}
+# Epsilon Underbar
+
+```apl
+⍷
+```
 
 Monadic Epsilon Underbar is not defined
 

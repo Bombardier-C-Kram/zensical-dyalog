@@ -1,4 +1,6 @@
-# <span class="name">CEFVersion</span> <span class="right">Property</span> {: .heading}
+# CEFVersion
+
+Property
 
 
 

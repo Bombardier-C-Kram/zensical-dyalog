@@ -1,4 +1,6 @@
-# <span class="name">Mask</span> <span class="right">Property</span> {: .heading}
+# Mask
+
+Property
 
 
 

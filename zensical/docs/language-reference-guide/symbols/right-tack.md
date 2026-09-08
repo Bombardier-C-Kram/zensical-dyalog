@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Right Tack</span> <span class="command">⊢</span> {: .heading}
+# Right Tack
+
+```apl
+⊢
+```
 
 Monadic Right Tack means
 [Same](../primitive-functions/same.md)

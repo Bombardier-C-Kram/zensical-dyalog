@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColorButton Properties</span> {: .heading}
+# ColorButton Properties
 
 |---------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Type](../properties/type.md)                |[Caption](../properties/caption.md)          |[Posn](../properties/posn.md)                  |

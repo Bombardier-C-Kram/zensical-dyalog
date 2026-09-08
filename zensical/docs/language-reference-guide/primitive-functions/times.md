@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Times</span> <span class="command">R←X×Y</span> {: .heading}
+# Times
+
+```apl
+R←X×Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 This function is also known as Multiply.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       3 2 1 0 × 2 4 9 6
 6 8 9 0

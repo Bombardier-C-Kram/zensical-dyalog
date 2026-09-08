@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CharSet Property</span> {: .heading}
+# CharSet Property
 
 |--------------------------|------|------|
 |[Font](../objects/font.md)|&nbsp;|&nbsp;|

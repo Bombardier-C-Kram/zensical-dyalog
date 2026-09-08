@@ -1,4 +1,6 @@
-# <span class="name">ColChange</span> <span class="right">Method 159</span> {: .heading}
+# ColChange
+
+Method 159
 
 
 

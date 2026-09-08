@@ -1,4 +1,6 @@
-# <span class="name">EditLabels</span> <span class="right">Property</span> {: .heading}
+# EditLabels
+
+Property
 
 
 

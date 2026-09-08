@@ -1,4 +1,6 @@
-# <span class="name">AddComment</span> <span class="right">Method 220</span> {: .heading}
+# AddComment
+
+Method 220
 
 
 

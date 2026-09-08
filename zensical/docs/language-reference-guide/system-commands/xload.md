@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Load without Latent Expression</span> <span class="command">)XLOAD \{ws\}</span> {: .heading}
+# Load without Latent Expression
+
+```apl
+)XLOAD {ws}
+```
 
 
 

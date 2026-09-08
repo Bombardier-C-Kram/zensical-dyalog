@@ -1,4 +1,6 @@
-# <span class="name">FileBoxCancel</span> <span class="right">Event 72</span> {: .heading}
+# FileBoxCancel
+
+Event 72
 
 
 

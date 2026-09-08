@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Type Property</span> {: .heading}
+# Type Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

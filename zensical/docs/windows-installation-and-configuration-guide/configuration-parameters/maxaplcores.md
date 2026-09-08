@@ -1,4 +1,4 @@
-# <span class="name">MaxAplCores</span> {: .heading}
+# MaxAplCores
 
 This parameter is used in conjunction with the **AplCoreName** parameter to control the maximum number of*aplcore* files that are saved. It applies when the string specified by **AplCoreName** ends with an asterisk (*). If so, when saving an *aplcore* file, Dyalog performs the following steps:
 

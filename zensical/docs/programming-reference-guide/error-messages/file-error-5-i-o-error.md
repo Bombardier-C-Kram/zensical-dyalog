@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 5 I O error</span> <span class="command">105</span> {: .heading}
+# FILE ERROR 5 I O error
+
+```apl
+105
+```
 
 
 

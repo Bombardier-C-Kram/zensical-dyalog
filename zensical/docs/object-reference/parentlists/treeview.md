@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TreeView Parents</span> {: .heading}
+# TreeView Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)      |

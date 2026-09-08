@@ -1,4 +1,6 @@
-# <span class="name">TabBar</span> <span class="right">Object</span> {: .heading}
+# TabBar
+
+Object
 
 
 

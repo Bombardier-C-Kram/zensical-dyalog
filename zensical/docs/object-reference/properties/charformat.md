@@ -1,4 +1,6 @@
-# <span class="name">CharFormat</span> <span class="right">Property</span> {: .heading}
+# CharFormat
+
+Property
 
 
 

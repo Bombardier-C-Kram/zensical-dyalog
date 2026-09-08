@@ -1,4 +1,8 @@
-# <span class="name">IsLoading</span> <span class="command">Property</span> {: .heading}
+# IsLoading
+
+```apl
+Property
+```
 
 |-----------|--------------------------------------------------------------|
 |Applies To:|[HTMLRenderer](https://help.dyalog.com/19.0/index.htm#GUI/Objects/HTMLRenderer.htm)|

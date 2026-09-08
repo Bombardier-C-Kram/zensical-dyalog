@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Circle Backslash</span> <span class="command">⍉</span> {: .heading}
+# Circle Backslash
+
+```apl
+⍉
+```
 
 Monadic Circle Backslash means
 [Transpose](../primitive-functions/transpose.md)

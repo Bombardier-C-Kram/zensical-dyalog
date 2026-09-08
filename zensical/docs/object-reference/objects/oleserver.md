@@ -1,4 +1,6 @@
-# <span class="name">OLEServer</span> <span class="right">Object</span> {: .heading}
+# OLEServer
+
+Object
 
 
 

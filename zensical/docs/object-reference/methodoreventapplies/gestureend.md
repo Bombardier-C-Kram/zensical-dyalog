@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GestureEnd Event</span> {: .heading}
+# GestureEnd Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

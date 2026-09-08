@@ -1,4 +1,6 @@
-# <span class="name">ContextMenu</span> <span class="right">Event 410</span> {: .heading}
+# ContextMenu
+
+Event 410
 
 [**Applies To**](../methodoreventapplies/contextmenu.md)
 

@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Exponential</span> <span class="command">R←\*Y</span> {: .heading}
+# Exponential
+
+```apl
+R←*Y
+```
 
 
 
 `Y` must be numeric. `R` is numeric and is the `Y`th power of *e*, the base of natural logarithms.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       *1 0
 2.718281828 1

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Spinner Children</span> {: .heading}
+# Spinner Children
 
 |------------------------------|--------------------------------|--------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Font](../objects/font.md)|

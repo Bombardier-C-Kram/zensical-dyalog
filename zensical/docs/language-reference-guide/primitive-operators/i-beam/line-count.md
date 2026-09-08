@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Line Count</span> <span class="command">R←50100⌶Y</span> {: .heading}
+# Line Count
+
+```apl
+R←50100⌶Y
+```
 
 
 
@@ -25,7 +29,7 @@ This function is a compact version of the system function `⎕LC`. If an express
 
 The result R is the same as `⎕LC`, but truncated to the number of stack levels specified by `Y`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
           ∇ Foo
 [1]    :If 4=⍴⎕LC

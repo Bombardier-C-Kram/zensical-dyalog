@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">UpperCase Property</span> {: .heading}
+# UpperCase Property
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

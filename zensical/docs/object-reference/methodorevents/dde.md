@@ -1,4 +1,6 @@
-# <span class="name">DDE</span> <span class="right">Event 50</span> {: .heading}
+# DDE
+
+Event 50
 
 **Applies To:** [Root](../objects/root.md)
 

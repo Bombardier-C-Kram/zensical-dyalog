@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Minus</span> <span class="command">R←X-Y</span> {: .heading}
+# Minus
+
+```apl
+R←X-Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 This function is also known as Subtract.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       3 ¯2 4 0 - 2 1 ¯2 4
 1 ¯3 6 ¯4

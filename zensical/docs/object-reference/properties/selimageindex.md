@@ -1,4 +1,6 @@
-# <span class="name">SelImageIndex</span> <span class="right">Property</span> {: .heading}
+# SelImageIndex
+
+Property
 
 
 

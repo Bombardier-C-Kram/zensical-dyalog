@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetWizard Method</span> {: .heading}
+# SetWizard Method
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

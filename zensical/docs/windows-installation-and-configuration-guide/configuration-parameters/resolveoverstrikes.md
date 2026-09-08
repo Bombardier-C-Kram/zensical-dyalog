@@ -1,4 +1,4 @@
-# <span class="name">ResolveOverstrikes</span> {: .heading}
+# ResolveOverstrikes
 
 **Unicode Edition only.**
 

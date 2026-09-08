@@ -1,4 +1,6 @@
-# <span class="name">Underline</span> <span class="right">Property</span> {: .heading}
+# Underline
+
+Property
 
 
 

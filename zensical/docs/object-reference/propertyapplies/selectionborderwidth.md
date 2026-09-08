@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelectionBorderWidth Property</span> {: .heading}
+# SelectionBorderWidth Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

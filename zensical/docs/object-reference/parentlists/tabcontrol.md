@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabControl Parents</span> {: .heading}
+# TabControl Parents
 
 |----------------------------------------------|----------------------------------|--------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)|

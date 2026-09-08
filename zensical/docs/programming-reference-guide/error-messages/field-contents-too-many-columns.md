@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FIELD CONTENTS TOO MANY COLUMNS</span> <span class="command">53</span> {: .heading}
+# FIELD CONTENTS TOO MANY COLUMNS
+
+```apl
+53
+```
 
 
 

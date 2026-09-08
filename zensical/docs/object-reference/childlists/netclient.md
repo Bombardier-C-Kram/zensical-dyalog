@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">NetClient Children</span> {: .heading}
+# NetClient Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

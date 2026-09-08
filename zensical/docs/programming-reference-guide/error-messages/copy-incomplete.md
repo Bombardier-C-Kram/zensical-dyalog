@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">copy incomplete</span> {: .heading}
+# copy incomplete
 
 
 

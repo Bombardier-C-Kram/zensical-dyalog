@@ -1,4 +1,6 @@
-# <span class="name">GetFocus</span> <span class="right">Method 511</span> {: .heading}
+# GetFocus
+
+Method 511
 
 [**Applies To**](../methodoreventapplies/getfocus.md)
 

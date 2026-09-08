@@ -1,4 +1,6 @@
-# <span class="name">Collate</span> <span class="right">Property</span> {: .heading}
+# Collate
+
+Property
 
 
 

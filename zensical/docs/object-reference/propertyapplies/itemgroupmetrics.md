@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ItemGroupMetrics Property</span> {: .heading}
+# ItemGroupMetrics Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">SetFnInfo</span> <span class="right">Method 545</span> {: .heading}
+# SetFnInfo
+
+Method 545
 
 
 

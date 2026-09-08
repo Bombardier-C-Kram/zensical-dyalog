@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MsgBox Parents</span> {: .heading}
+# MsgBox Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Calendar](../objects/calendar.md)        |[CoolBand](../objects/coolband.md)          |

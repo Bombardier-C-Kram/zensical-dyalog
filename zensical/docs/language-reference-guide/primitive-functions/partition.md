@@ -7,7 +7,11 @@ search:
    ⊆ partition
 </div>
 
-# <span class="name">Partition</span> <span class="command">R←X⊆\[K\]Y</span> {: .heading}
+# Partition
+
+```apl
+R←X⊆[K]Y
+```
 
 !!! note "Classic Edition"
     The symbol `⊆` (Left Shoe Underbar) is not available in Classic Edition, and Partition is instead represented by `⎕U2286`.
@@ -24,7 +28,7 @@ A new partition is started in the result whenever the corresponding element in `
 
 Note that if `⎕ML≥3`, the symbol `⊂` means the same as `⊆`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕ML←3
  

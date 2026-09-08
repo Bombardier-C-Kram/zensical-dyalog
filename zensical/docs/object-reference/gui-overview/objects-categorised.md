@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Objects Categorised</span> {: .heading}
+# Objects Categorised
 
 [Objects: A-Z](objects-a-z.md)
 

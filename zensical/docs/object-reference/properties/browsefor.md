@@ -1,4 +1,6 @@
-# <span class="name">BrowseFor</span> <span class="right">Property</span> {: .heading}
+# BrowseFor
+
+Property
 
 
 

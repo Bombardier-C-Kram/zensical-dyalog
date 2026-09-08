@@ -1,4 +1,6 @@
-# <span class="name">PageActivate</span> <span class="right">Event 360</span> {: .heading}
+# PageActivate
+
+Event 360
 
 
 

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Shared Variable Offer</span> <span class="command">⎕SVO</span> {: .heading}
+# Shared Variable Offer
+
+```apl
+⎕SVO
+```
 
 
 ## Dyadic `⎕SVO` means

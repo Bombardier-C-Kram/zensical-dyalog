@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBand Parents</span> {: .heading}
+# CoolBand Parents
 
 |--------------------------------|------|------|
 |[CoolBar](../objects/coolbar.md)|&nbsp;|&nbsp;|

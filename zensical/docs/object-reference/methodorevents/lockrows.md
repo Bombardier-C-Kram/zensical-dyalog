@@ -1,4 +1,6 @@
-# <span class="name">LockRows</span> <span class="right">Method 226</span> {: .heading}
+# LockRows
+
+Method 226
 
 
 
@@ -31,7 +33,7 @@ default and may be omitted. If the *Lock flag* is 0, the corresponding rows
 are unlocked.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       F.G.LockRows 3         ⍝Lock 3rd row
       F.G.LockRows 3 0       ⍝Unlock 3rd row

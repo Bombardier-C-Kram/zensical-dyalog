@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Screen Map</span> <span class="command">⎕SM</span> {: .heading}
+# Screen Map
+
+```apl
+⎕SM
+```
 
 
 

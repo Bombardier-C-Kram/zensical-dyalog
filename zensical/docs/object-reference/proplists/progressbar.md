@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ProgressBar Properties</span> {: .heading}
+# ProgressBar Properties
 
 |-------------------------------------------|-------------------------------------------|-----------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)                  |

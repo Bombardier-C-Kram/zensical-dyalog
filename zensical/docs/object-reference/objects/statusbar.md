@@ -1,4 +1,6 @@
-# <span class="name">StatusBar</span> <span class="right">Object</span> {: .heading}
+# StatusBar
+
+Object
 
 
 

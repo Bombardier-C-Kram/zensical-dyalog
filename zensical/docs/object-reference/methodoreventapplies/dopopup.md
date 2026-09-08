@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DoPopup Event</span> {: .heading}
+# DoPopup Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

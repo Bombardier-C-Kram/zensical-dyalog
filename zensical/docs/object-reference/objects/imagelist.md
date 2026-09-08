@@ -1,4 +1,6 @@
-# <span class="name">ImageList</span> <span class="right">Object</span> {: .heading}
+# ImageList
+
+Object
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">LStyle</span> <span class="right">Property</span> {: .heading}
+# LStyle
+
+Property
 
 
 

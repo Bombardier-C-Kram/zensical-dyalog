@@ -1,4 +1,6 @@
-# <span class="name">RichEdit</span> <span class="right">Object</span> {: .heading}
+# RichEdit
+
+Object
 
 
 

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Display Form</span> <span class="command">\{R\}←⎕DF Y</span> {: .heading}
+# Display Form
+
+```apl
+{R}←⎕DF Y
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 The result `R` is the previous value of the Display Form which initially is `⎕NULL`.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       'F'⎕WC'Form'

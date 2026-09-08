@@ -1,4 +1,6 @@
-# <span class="name">Bits</span> <span class="right">Property</span> {: .heading}
+# Bits
+
+Property
 
 
 

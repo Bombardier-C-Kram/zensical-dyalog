@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">LocalPort Property</span> {: .heading}
+# LocalPort Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

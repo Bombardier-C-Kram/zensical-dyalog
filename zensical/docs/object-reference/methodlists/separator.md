@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Separator Methods</span> {: .heading}
+# Separator Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

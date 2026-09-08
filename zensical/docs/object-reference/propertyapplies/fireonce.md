@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FireOnce Property</span> {: .heading}
+# FireOnce Property
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

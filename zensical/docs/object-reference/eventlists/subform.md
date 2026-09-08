@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SubForm Events</span> {: .heading}
+# SubForm Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

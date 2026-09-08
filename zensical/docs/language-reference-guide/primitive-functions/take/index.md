@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Take</span> <span class="command">R←X↑Y</span> {: .heading}
+# Take
+
+```apl
+R←X↑Y
+```
 
 
 
@@ -27,7 +31,7 @@ If `Y` is a scalar, it is treated as a one-element array of shape `(⍴,X)⍴1`.
 If more elements are taken than exist on axis `I`, the extra positions in `R` are filled with the fill element of `Y` (`⊂∊⊃Y` with `⎕ML←0`).
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       5↑'ABCDEF'
 ABCDE

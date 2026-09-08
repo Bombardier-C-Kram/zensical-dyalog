@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Temporary Directory</span> <span class="command">R←739⌶Y</span> {: .heading}
+# Temporary Directory
+
+```apl
+R←739⌶Y
+```
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RemotePortName Property</span> {: .heading}
+# RemotePortName Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

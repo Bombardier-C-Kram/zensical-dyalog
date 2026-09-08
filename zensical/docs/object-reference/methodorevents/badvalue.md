@@ -1,4 +1,6 @@
-# <span class="name">BadValue</span> <span class="right">Event 180</span> {: .heading}
+# BadValue
+
+Event 180
 
 
 

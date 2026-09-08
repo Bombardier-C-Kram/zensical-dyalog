@@ -1,4 +1,6 @@
-# <span class="name">AutoExpand</span> <span class="right">Property</span> {: .heading}
+# AutoExpand
+
+Property
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">APL Fonts</span> {: .heading}
+# APL Fonts
 
 ## Unicode Edition
 

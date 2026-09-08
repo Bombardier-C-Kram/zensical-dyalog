@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 27 File too large</span> <span class="command">127</span> {: .heading}
+# FILE ERROR 27 File too large
+
+```apl
+127
+```
 
 
 

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Unique Mask</span> <span class="command">R←≠Y</span> {: .heading}
+# Unique Mask
+
+```apl
+R←≠Y
+```
 
 
 
@@ -24,7 +28,7 @@ in `Y`. For each major cell of `Y`, the corresponding element of  `R` is 1 if it
 
 `⎕CT` and `⎕DCT` are  implicit arguments of Unique.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ≠22 10 22 22 21 10 5 10
 1 1 0 0 1 0 1 0

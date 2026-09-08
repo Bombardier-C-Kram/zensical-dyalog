@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Select Event</span> {: .heading}
+# Select Event
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Bitmap](../objects/bitmap.md)                |[Button](../objects/button.md)          |

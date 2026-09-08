@@ -1,4 +1,6 @@
-# <span class="name">OLEDeleteEventSink</span> <span class="right">Method 541</span> {: .heading}
+# OLEDeleteEventSink
+
+Method 541
 
 
 

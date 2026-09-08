@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Circle Events</span> {: .heading}
+# Circle Events
 
 |---------------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)  |[DragDrop](../methodorevents/dragdrop.md)  |

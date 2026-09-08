@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Ellipse Methods</span> {: .heading}
+# Ellipse Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

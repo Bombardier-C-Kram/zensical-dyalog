@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MenuBar Parents</span> {: .heading}
+# MenuBar Parents
 
 |----------------------------------------------|--------------------------|--------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)|[SubForm](../objects/subform.md)|

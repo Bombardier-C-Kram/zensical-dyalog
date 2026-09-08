@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Clipboard Properties</span> {: .heading}
+# Clipboard Properties
 
 |-----------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)            |[Event](../properties/event.md)            |[Data](../properties/data.md)              |

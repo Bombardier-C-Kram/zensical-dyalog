@@ -1,4 +1,6 @@
-# <span class="name">Cancel</span> <span class="right">Property</span> {: .heading}
+# Cancel
+
+Property
 
 
 

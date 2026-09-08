@@ -1,4 +1,4 @@
-# <span class="name">Dyalog and IIS</span> {: .heading}
+# Dyalog and IIS
 
 Microsoft Internet Information Services (IIS) is a comprehensive web server software package that allows you to publish information on your intranet or the internet. IIS is included with Professional and Server versions of all recent Microsoft Windows operating systems (all you need to add is a network connection to run your own website).
 
@@ -21,7 +21,7 @@ IIS supports the concept of an _application_. An application is a logically-sepa
 
 The **[DYALOG]\Samples\asp.net** directory and its sub-directories contain sample applications. When installing Dyalog, these are automatically registered as IIS virtual directories, under a common root that has the name  **dyalog.net.&lt;version>.&lt;edition>.&lt;width>**. For example, the 64‑bit Unicode edition of Dyalog version 18.0 will have the common root **dyalog.net.18.0.unicode.64**. This common root is referred to in this documentation as **dyalog.net**.
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     Prior to Dyalog v11.0, virtual directories were created in the **apl.net** directory.
 
 IIS applications run in _application pools_. An application pool is a group of one or more URLs that are served by the same worker process (or set of worker processes) which are separate from the worker process that services another application pool. This mechanism isolates applications from one another, providing resilience should any one application fail.

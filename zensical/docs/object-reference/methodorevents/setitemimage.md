@@ -1,4 +1,6 @@
-# <span class="name">SetItemImage</span> <span class="right">Method 315</span> {: .heading}
+# SetItemImage
+
+Method 315
 
 
 

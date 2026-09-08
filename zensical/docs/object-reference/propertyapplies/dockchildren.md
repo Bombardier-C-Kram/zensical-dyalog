@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DockChildren Property</span> {: .heading}
+# DockChildren Property
 
 |--------------------------------|--------------------------|--------------------------------|
 |[CoolBar](../objects/coolbar.md)|[Form](../objects/form.md)|[SubForm](../objects/subform.md)|

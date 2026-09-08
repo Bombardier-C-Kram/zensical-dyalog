@@ -1,4 +1,6 @@
-# <span class="name">OCXClass</span> <span class="right">Object</span> {: .heading}
+# OCXClass
+
+Object
 
 [Parents](../parentlists/ocxclass.md), [Properties](../proplists/ocxclass.md), [Methods](../methodlists/ocxclass.md), [Events](../eventlists/ocxclass.md)
 

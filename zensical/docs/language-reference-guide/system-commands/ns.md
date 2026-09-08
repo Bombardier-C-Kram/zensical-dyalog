@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Create Namespace</span> <span class="command">)NS \{nm\}</span> {: .heading}
+# Create Namespace
+
+```apl
+)NS {nm}
+```
 
 
 
@@ -25,7 +29,7 @@ If `name` is an existing namespace, no change occurs.
 `)NS` with no `nm` specification displays the current namespace.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )NS
 #

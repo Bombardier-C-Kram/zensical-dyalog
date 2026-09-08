@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileBox Children</span> {: .heading}
+# FileBox Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

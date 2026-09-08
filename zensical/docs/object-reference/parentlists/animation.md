@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Animation Parents</span> {: .heading}
+# Animation Parents
 
 |----------------------------------------------|--------------------------------|----------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)      |[Group](../objects/group.md)|

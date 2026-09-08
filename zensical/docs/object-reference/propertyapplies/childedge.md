@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ChildEdge Property</span> {: .heading}
+# ChildEdge Property
 
 |----------------------------------|------|------|
 |[CoolBand](../objects/coolband.md)|&nbsp;|&nbsp;|

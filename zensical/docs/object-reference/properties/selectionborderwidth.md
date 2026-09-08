@@ -1,4 +1,6 @@
-# <span class="name">SelectionBorderWidth</span> <span class="right">Property</span> {: .heading}
+# SelectionBorderWidth
+
+Property
 
 
 

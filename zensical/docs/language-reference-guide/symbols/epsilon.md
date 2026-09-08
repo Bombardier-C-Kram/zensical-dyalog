@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Epsilon</span> <span class="command">∊</span> {: .heading}
+# Epsilon
+
+```apl
+∊
+```
 
 Monadic Epsilon means
 

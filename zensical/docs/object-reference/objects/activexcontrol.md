@@ -1,4 +1,6 @@
-# <span class="name">ActiveXControl</span> <span class="right">Object</span> {: .heading}
+# ActiveXControl
+
+Object
 
 
 

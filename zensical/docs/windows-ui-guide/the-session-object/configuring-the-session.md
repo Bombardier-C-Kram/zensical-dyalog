@@ -1,4 +1,4 @@
-# <span class="name">Configuring the Session</span> {: .heading}
+# Configuring the Session
 
 As supplied, your default session will have a menu bar, a tool bar and a status bar. There are many ways in which you may configure this set-up, including the following:
 

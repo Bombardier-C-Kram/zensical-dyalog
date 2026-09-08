@@ -1,4 +1,6 @@
-# <span class="name">List</span> <span class="right">Object</span> {: .heading}
+# List
+
+Object
 
 
 

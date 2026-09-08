@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PropertyPage Events</span> {: .heading}
+# PropertyPage Events
 
 |---------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)                          |[DragDrop](../methodorevents/dragdrop.md)                    |

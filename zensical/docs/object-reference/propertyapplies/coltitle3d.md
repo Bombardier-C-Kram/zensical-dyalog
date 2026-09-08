@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColTitle3D Property</span> {: .heading}
+# ColTitle3D Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

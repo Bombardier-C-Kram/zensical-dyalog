@@ -8,7 +8,11 @@ search:
   2023⌶
 </div>
 
-# <span class="name">Close All Windows</span> <span class="command">R←2023⌶Y</span> {: .heading}
+# Close All Windows
+
+```apl
+R←2023⌶Y
+```
 
 Under Windows the option, *Windows -> Close All Windows* allows the user to close all open Editor and Tracer Windows, but does not reset the *state indicator*.
 
@@ -16,7 +20,7 @@ This I-beam mimics this behaviour, thus allowing the user to write code which ca
 
 Under non-Windows operating systems this is the only mechanism for closing all such windows. This I-beam is effective in Ride too.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       2023⌶0    
 ```

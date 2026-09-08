@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ExitWindows Event</span> {: .heading}
+# ExitWindows Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Untie</span> <span class="command">\{R\}←⎕FUNTIE Y</span> {: .heading}
+# File Untie
+
+```apl
+{R}←⎕FUNTIE Y
+```
 
 
 
@@ -24,7 +28,7 @@ If `Y` is empty, no files are untied, but all the interpreter's internal file bu
 
 The shy result of `⎕FUNTIE` is a vector of tie numbers of the files **actually untied**.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕FUNTIE ⎕FNUMS ⍝ Unties all tied files
  

@@ -1,4 +1,6 @@
-# <span class="name">RowLineTypes</span> <span class="right">Property</span> {: .heading}
+# RowLineTypes
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetItemImage Method</span> {: .heading}
+# SetItemImage Method
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabControl Properties</span> {: .heading}
+# TabControl Properties
 
 |-------------------------------------------------|-------------------------------------------------|-----------------------------------------|
 |[Type](../properties/type.md)                    |[Posn](../properties/posn.md)                    |[Size](../properties/size.md)            |

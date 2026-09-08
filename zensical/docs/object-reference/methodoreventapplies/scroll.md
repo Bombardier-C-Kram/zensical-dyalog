@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Scroll Event</span> {: .heading}
+# Scroll Event
 
 |------------------------------|----------------------------------|------|
 |[Scroll](../objects/scroll.md)|[TrackBar](../objects/trackbar.md)|&nbsp;|

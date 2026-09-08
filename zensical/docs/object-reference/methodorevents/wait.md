@@ -1,4 +1,6 @@
-# <span class="name">Wait</span> <span class="right">Method 147</span> {: .heading}
+# Wait
+
+Method 147
 
 [**Applies To**](../methodoreventapplies/wait.md)
 

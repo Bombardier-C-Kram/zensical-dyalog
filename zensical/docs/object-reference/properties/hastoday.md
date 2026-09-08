@@ -1,4 +1,6 @@
-# <span class="name">HasToday</span> <span class="right">Property</span> {: .heading}
+# HasToday
+
+Property
 
 
 

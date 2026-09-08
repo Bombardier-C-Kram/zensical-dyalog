@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">defn error</span> {: .heading}
+# defn error
 
 
 
@@ -14,7 +14,7 @@ This report is given when either:
 - The header line of a function is replaced or edited in definition mode with a line whose syntax is incompatible with that of a header line.  The original header line is re-displayed by the system editor with the cursor placed at the end of the line.  Back-spacing to the beginning of the line followed by line-feed restores the original header line.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       X←1
       ∇X

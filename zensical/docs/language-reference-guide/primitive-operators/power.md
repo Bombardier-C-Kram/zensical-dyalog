@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Power</span> <span class="command">\{R\}←\{X\}(f⍣g)Y</span> {: .heading}
+# Power
+
+```apl
+{R}←{X}(f⍣g)Y
+```
 
 
 
@@ -40,10 +44,10 @@ A *negative* right operand `g` applies the *inverse* of the operand function `f`
 
 If the function does not have an inverse, a negative argument `g` generates `DOMAIN ERROR`.
 
-!!! Hint "Hints and Recommendations"
+!!! tip "Hints and Recommendations"
     Dyalog Ltd recommends that the use of inverses in production code is limited to `⊥`, `⍸`, `+\`, `≠\`, `+⍀`, and `≠⍀`, and functions derived from these, for example, `2∘⊥` and `≠\[1]`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
  
     (,∘⊂∘,⍣(1=≡,vec))vec    ⍝ ravel-enclose if simple.
@@ -106,7 +110,7 @@ If the function does not have an inverse, a negative argument `g` generates `DOM
 
 One can ensure that weak interrupts and `⎕TKILL` can interrupt by packaging the `⍣` within the dop `{⍺←⊢ ⋄ ⍺ (⍺⍺{⍺←⊢ ⋄ ⍺ ⍺⍺ ⍵}⍣⍵⍵) ⍵}`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       PowOp←{⍺←⊢ ⋄ ⍺ (⍺⍺{⍺←⊢ ⋄ ⍺ ⍺⍺ ⍵}⍣⍵⍵) ⍵}
       tnum←!PowOp-&1 ⍝ using naked ⍣ will freeze APL

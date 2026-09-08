@@ -1,4 +1,4 @@
-# <span class="name">AutoComplete/Rows</span> {: .heading}
+# AutoComplete/Rows
 
 This parameter specifies the maximum number of rows (height) in the Auto Complete pop-up suggestions box.
 

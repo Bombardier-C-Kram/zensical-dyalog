@@ -1,4 +1,4 @@
-# <span class="name">Defining Classes</span> {: .heading}
+# Defining Classes
 
 A Class is defined by a script that may be entered and changed using the editor. A class script may also be constructed from a vector of character vectors, and fixed using `⎕FIX`.
 

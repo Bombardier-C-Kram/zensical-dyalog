@@ -1,4 +1,6 @@
-# <span class="name">SelectionColor</span> <span class="right">Property</span> {: .heading}
+# SelectionColor
+
+Property
 
 **Applies To:** [Grid](../objects/grid.md)
 

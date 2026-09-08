@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StartIn Property</span> {: .heading}
+# StartIn Property
 
 |------------------------------------|------|------|
 |[BrowseBox](../objects/browsebox.md)|&nbsp;|&nbsp;|

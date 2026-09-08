@@ -1,4 +1,6 @@
-# <span class="name">ColumnClick</span> <span class="right">Event 320</span> {: .heading}
+# ColumnClick
+
+Event 320
 
 
 

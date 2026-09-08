@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Query Access Control</span> <span class="command">R←⎕SVC Y</span> {: .heading}
+# Query Access Control
+
+```apl
+R←⎕SVC Y
+```
 
 
 
@@ -27,7 +31,7 @@ If `Y` specifies a single name, the result `R` is a Boolean vector containing th
 
 For further information, see the preceding section on setting the access control vector.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕SVC 'X'
 0 0 0 0

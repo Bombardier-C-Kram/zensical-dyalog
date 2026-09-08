@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WorkspaceLoaded Event</span> {: .heading}
+# WorkspaceLoaded Event
 
 |----------------------------------------------------------------------|------|------|
 |[Session](../../../windows-ui-guide/the-session-object/session-object)|&nbsp;|&nbsp;|

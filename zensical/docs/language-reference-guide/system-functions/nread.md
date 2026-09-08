@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Read</span> <span class="command">R←⎕NREAD Y</span> {: .heading}
+# Native File Read
+
+```apl
+R←⎕NREAD Y
+```
 
 
 
@@ -59,7 +63,7 @@ Table: Unicode Edition: Conversion Codes
 |1287   |16 `×` count        |128 bits decimal |count       |
 |1289   |16 `×` count        |128 bits complex |count       |
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     Conversion code 82 is permitted in the Unicode edition for backwards compatibility purposes and causes 1-byte data on file to be translated (according to [⎕NXLATE](./nxlate.md)) from [⎕AV](./av.md) indices into normal (Unicode) characters of type 80, 160 or 320.
 
 
@@ -78,7 +82,7 @@ Table: Classic Edition: Conversion Codes
 |1289 |16 `×` count        |128 bits complex|count       |
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       DATA←⎕NREAD ¯1 160 (0.5×⎕NSIZE ¯1) 0 ⍝ Unicode

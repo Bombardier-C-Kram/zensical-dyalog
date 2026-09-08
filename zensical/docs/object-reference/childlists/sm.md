@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SM Children</span> {: .heading}
+# SM Children
 
 |------------------------------|----------------------------|------|
 |[Cursor](../objects/cursor.md)|[Timer](../objects/timer.md)|&nbsp;|

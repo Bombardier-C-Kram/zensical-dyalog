@@ -7,7 +7,11 @@ search:
   ⎕CSV CSV
 </div>
 
-# <span class="name">Comma Separated Values</span> <span class="command">\{R\}←\{X\} ⎕CSV Y</span> {: .heading}
+# Comma Separated Values
+
+```apl
+{R}←{X} ⎕CSV Y
+```
 
 This function imports and exports Comma Separated Value (CSV) data.
 
@@ -119,7 +123,7 @@ If `Y[4]` does specify that the data contains a header then `R` is a 2-element v
 - `R[1]` is the imported data excluding the header.
 - `R[2]` is a vector of character vectors containing the header record.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ![csv_excel](../img/csv-excel.png)
 ```apl
@@ -292,7 +296,7 @@ If `Y` specifies that the CSV data is written to a file then `R` is the number o
 
 Otherwise, `R` is the CSV data in the format specified in Y, and is not shy.
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
        CSVFile←'c:\Dyalog16.0\sales.csv'
        ⎕←DATA HDR←⎕CSV CSVFile''(1 2)1

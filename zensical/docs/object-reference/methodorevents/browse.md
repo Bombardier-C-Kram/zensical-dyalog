@@ -1,4 +1,6 @@
-# <span class="name">Browse</span> <span class="right">Method 585</span> {: .heading}
+# Browse
+
+Method 585
 
 
 

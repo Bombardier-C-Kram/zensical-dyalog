@@ -1,4 +1,6 @@
-# <span class="name">GridLineFCol</span> <span class="right">Property</span> {: .heading}
+# GridLineFCol
+
+Property
 
 
 

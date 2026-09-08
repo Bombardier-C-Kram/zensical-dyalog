@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Hold Statement</span> <span class="command">:Hold tkns</span> {: .heading}
+# Hold Statement
+
+```apl
+:Hold tkns
+```
 
 
 
@@ -91,7 +95,7 @@ Note that token acquisition for any particular `:Hold` is atomic, that is, eithe
 |-----------------------------------------------------------------------------------|------------------------------------------------------|
 |<pre><code>:Hold 'red'<br/>     ...<br/>     :Hold 'green'<br/>         ...<br/>     :EndHold<br/> :EndHold</code></pre>|<pre><code>:Hold 'green' 'red'<br/>     ...<br/>     :EndHold</code></pre>|
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 `:Hold` could be used for example, during the update of a complex data structure that might take several lines of code. In this case, an appropriate value for the token would be the name of the data structure variable itself, although this is just a programming convention: the interpreter does not associate the token value with the data variable.

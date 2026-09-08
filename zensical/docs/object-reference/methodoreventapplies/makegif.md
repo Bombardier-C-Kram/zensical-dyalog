@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MakeGIF Method</span> {: .heading}
+# MakeGIF Method
 
 |------------------------------|------|------|
 |[Bitmap](../objects/bitmap.md)|&nbsp;|&nbsp;|

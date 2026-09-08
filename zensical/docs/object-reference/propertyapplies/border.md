@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Border Property</span> {: .heading}
+# Border Property
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Button](../objects/button.md)          |

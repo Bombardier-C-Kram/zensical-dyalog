@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Encoding Property</span> {: .heading}
+# Encoding Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

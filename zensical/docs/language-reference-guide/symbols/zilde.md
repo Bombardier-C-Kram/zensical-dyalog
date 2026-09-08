@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Zilde</span> <span class="command">⍬</span> {: .heading}
+# Zilde
+
+```apl
+⍬
+```
 
 Niladic Zilde is
 [Zilde](../other-syntax/zilde.md)

@@ -1,4 +1,6 @@
-# <span class="name">SetRowSize</span> <span class="right">Event 175</span> {: .heading}
+# SetRowSize
+
+Event 175
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RichEdit Children</span> {: .heading}
+# RichEdit Children
 
 |--------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)  |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

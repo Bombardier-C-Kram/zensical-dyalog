@@ -1,4 +1,6 @@
-# <span class="name">FileRead</span> <span class="right">Method 90</span> {: .heading}
+# FileRead
+
+Method 90
 
 
 

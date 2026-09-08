@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Continue Statement</span> <span class="command">:Continue</span> {: .heading}
+# Continue Statement
+
+```apl
+:Continue
+```
 
 
 

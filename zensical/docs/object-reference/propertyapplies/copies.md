@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Copies Property</span> {: .heading}
+# Copies Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

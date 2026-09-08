@@ -1,4 +1,6 @@
-# <span class="name">ReadOnly</span> <span class="right">Property</span> {: .heading}
+# ReadOnly
+
+Property
 
 
 

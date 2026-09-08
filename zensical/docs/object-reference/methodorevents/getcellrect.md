@@ -1,4 +1,6 @@
-# <span class="name">GetCellRect</span> <span class="right">Method 201</span> {: .heading}
+# GetCellRect
+
+Method 201
 
 
 

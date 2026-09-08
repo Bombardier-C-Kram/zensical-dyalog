@@ -1,4 +1,6 @@
-# <span class="name">FirstDay</span> <span class="right">Property</span> {: .heading}
+# FirstDay
+
+Property
 
 
 

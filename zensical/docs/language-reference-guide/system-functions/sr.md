@@ -8,7 +8,11 @@ search:
 </div>
 
 
-# <span class="name">Screen Read</span> <span class="command">R←\{X\}⎕SR Y</span> {: .heading}
+# Screen Read
+
+```apl
+R←{X}⎕SR Y
+```
 
 `⎕SR` is a system function that allows the user to edit or otherwise interact with the form defined by `⎕SM`.
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ThumbDrag Event</span> {: .heading}
+# ThumbDrag Event
 
 |------------------------------|----------------------------------|------|
 |[Scroll](../objects/scroll.md)|[TrackBar](../objects/trackbar.md)|&nbsp;|

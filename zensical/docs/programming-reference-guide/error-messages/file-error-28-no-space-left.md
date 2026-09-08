@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">FILE ERROR 28 No space left</span> {: .heading}
+# FILE ERROR 28 No space left
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">TCPAccept</span> <span class="right">Event 371</span> {: .heading}
+# TCPAccept
+
+Event 371
 
 
 

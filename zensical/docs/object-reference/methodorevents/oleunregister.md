@@ -1,4 +1,6 @@
-# <span class="name">OLEUnregister</span> <span class="right">Method 531</span> {: .heading}
+# OLEUnregister
+
+Method 531
 
 
 

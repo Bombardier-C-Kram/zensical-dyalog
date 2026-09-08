@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabControl Children</span> {: .heading}
+# TabControl Children
 
 |------------------------------------|--------------------------------|------------------------------------|
 |[ImageList](../objects/imagelist.md)|[SubForm](../objects/subform.md)|[TabButton](../objects/tabbutton.md)|

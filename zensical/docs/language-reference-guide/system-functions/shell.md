@@ -7,7 +7,11 @@ search:
   ⎕SHELL SHELL
 </div>
 
-# <span class="name">Execute External Program</span> <span class="command">R←⎕SHELL Y</span> {: .heading}
+# Execute External Program
+
+```apl
+R←⎕SHELL Y
+```
 
 `⎕SHELL` executes an external program, either directly or using the operating system's shell.
 
@@ -92,7 +96,7 @@ The  reasons why a call to `⎕SHELL` ends are described in the table below. `Ex
 | 2 | `⎕SHELL` timed out before the child process exited (see the [`Timeout`](#timeout) option). | The constant `¯1006`. |
 | 3 | `⎕SHELL` was interrupted by a weak interrupt in the IDE. | The constant `¯1002`. |
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     `ExitReason` cannot be 1 on Microsoft Windows.
 
 Returning the exit code (instead of `⎕SHELL` producing some trappable error) makes it possible to access the other parts of the result, such as the error messages that were printed on the standard error stream. However, it is possible to turn non-successful exits into trappable errors using the [`ExitCheck`](#exitcheck) variant.
@@ -288,7 +292,7 @@ The default depends on the operating-system:
 - Linux, macOS, AIX: the numeric value of `SIGTERM` which is the signal that asks the child process to shut itself down.
 
 ### Window
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     This option only has an effect on Windows.
 
 The `Window` variant option specifies the initial window mode. The value must be a character vector containing one of the initial window parameters described on [`⎕CMD`](execute-windows-command.md#starting-a-windows-program).
@@ -310,5 +314,5 @@ The default for the input stream is
 - `(0 'Null')`: Provide no data on standard input.
 
 
-!!! unix "Dyalog on AIX"
+!!! info "Dyalog on AIX"
     The performance of `⎕SHELL` on AIX can be improved using the [`DYALOG_SHELL_SUBPROCESS`](../../../unix-installation-and-configuration-guide/configuration-parameters/environment-variables/#_table-4) configuration parameter; this configuration parameter is active by default.

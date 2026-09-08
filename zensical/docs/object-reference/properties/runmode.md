@@ -1,4 +1,6 @@
-# <span class="name">RunMode</span> <span class="right">Property</span> {: .heading}
+# RunMode
+
+Property
 
 
 

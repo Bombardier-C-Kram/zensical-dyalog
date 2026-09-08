@@ -1,4 +1,6 @@
-# <span class="name">PageNext</span> <span class="right">Event 354</span> {: .heading}
+# PageNext
+
+Event 354
 
 
 

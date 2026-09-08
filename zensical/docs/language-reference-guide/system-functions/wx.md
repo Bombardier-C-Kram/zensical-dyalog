@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Window Expose</span> <span class="command">⎕WX</span> {: .heading}
+# Window Expose
+
+```apl
+⎕WX
+```
 
 
 

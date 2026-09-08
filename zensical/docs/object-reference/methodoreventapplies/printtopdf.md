@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PrintToPDF Method</span> {: .heading}
+# PrintToPDF Method
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

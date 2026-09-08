@@ -1,4 +1,4 @@
-# <span class="name">Installation</span> {: .heading}
+# Installation
 
 ## Pre-requisites
 
@@ -31,7 +31,7 @@ If you decide not to install .NET in the default directory, then you need to set
 
 On Raspberry Pi Bookworm, do not use the Microsoft-supplied <code class="language-nonAPL">dotnet-install.sh</code> script as the resulting .NET installation cannot be used.
 
-<h4 class="example">Example</h4>
+#### Example
 
 This example shows the steps taken on Linux to download the runtime to **/tmp/dotnet-runtime-8.0.0-linux-x64.tar.gz** – following these instructions it should not be necessary to define DOTNET_ROOT.
 ```nonAPL

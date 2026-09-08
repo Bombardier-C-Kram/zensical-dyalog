@@ -1,4 +1,6 @@
-# <span class="name">Cursor</span> <span class="right">Object</span> {: .heading}
+# Cursor
+
+Object
 
 [Parents](../parentlists/cursor.md), [Children](../childlists/cursor.md), [Properties](../proplists/cursor.md), [Methods](../methodlists/cursor.md), [Events](../eventlists/cursor.md)
 

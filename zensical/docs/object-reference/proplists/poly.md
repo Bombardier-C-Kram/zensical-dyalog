@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Poly Properties</span> {: .heading}
+# Poly Properties
 
 |---------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)          |[Points](../properties/points.md)          |[FCol](../properties/fcol.md)              |

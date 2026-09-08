@@ -1,4 +1,4 @@
-# <span class="name">Example Usage</span> {: .heading}
+# Example Usage
 
 ## Directory and File Manipulation
 
@@ -56,7 +56,7 @@ C:\...\...Unicode\bridge190-64_unicode.dll   08/02/2024 20:47:36
 
 The .NET namespace <code class="language-nonAPL">System.Net.Mail</code> provides objects for handing email. You can create a new email message as an instance of the <code class="language-nonAPL">MailMessage</code> class, set its various properties and then send it using the <code class="language-nonAPL">SmtpClient</code> class.
 
-<h4 class="example">Example</h4>
+#### Example
 
 This example will only work if your computer is configured to allow you to send email.
 ```apl

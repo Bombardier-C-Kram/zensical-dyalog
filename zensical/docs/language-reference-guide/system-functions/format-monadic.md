@@ -12,14 +12,18 @@ search:
 
 
 
-# <span class="name">Format (Monadic)</span> <span class="command">R←⎕FMT Y</span> {: .heading}
+# Format (Monadic)
+
+```apl
+R←⎕FMT Y
+```
 
 
 
 `Y` may be any array.  `R` is a simple character matrix which appears the same as the default display of `Y`.  If `Y` contains control characters from `⎕TC`, they will be resolved.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A←⎕FMT '∩' ,⎕TC[1],'∘'
  

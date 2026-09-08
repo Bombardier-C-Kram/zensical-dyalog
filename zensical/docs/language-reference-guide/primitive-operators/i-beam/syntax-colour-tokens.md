@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Syntax Colour Tokens</span> <span class="command">R←201⌶Y</span> {: .heading}
+# Syntax Colour Tokens
+
+```apl
+R←201⌶Y
+```
 
 
 
@@ -36,7 +40,7 @@ This function provides a description of the syntax colour tokens reported by `20
 
 The 4th column is intended for the benefit of non-Windows users using the tty interface and indicates the video/foreground/background colour index. These indices appear in the output translate tables found in `$DYALOG/apltrans`, and are used to define the colours used in the tty interface.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍴201⌶⍬
 207 4

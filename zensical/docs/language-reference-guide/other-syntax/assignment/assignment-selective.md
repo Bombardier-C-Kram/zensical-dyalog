@@ -7,7 +7,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment (Selective)</span> <span class="command">(EXP X)←Y</span> {: .heading}
+# Assignment (Selective)
+
+```apl
+(EXP X)←Y
+```
 
 `X` is the *name* of a variable in the workspace, possibly modified by the indexing function `(EXP X[I])←Y`, see [Assignment (Indexed)](assignment-indexed.md).  `EXP` is an expression that **selects** elements of `X`.  `Y` is an array expression. The result of the expression `Y` is allocated to the elements of `X` selected by `EXP`. Note that `X` may refer to a single name only.
 
@@ -31,7 +35,7 @@ Table: Functions for Selective Assignment {: #Selective_Assignment_Functions }
 
 Note: Mix and Split (monadic `↑` and `↓`), Type (monadic `∊` when `⎕ML<1`) and Membership (dyadic `∊`) may not be used in the selection expression.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A←'HELLO'
       ((A∊'AEIOU')/A)←'*'
@@ -68,7 +72,7 @@ H*LL*
 
 The functions listed in the table above may also be used with the Each Operator `¨`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A←'HELLO' 'WORLD'
       (2↑¨A)←'*'
@@ -90,7 +94,7 @@ The functions listed in the table above may also be used with the Each Operator 
 
 Bracket indexing may also be applied to the expression on the left of the assignment arrow.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       MAT←4 3⍴'Hello' 'World'
       (¯2↑¨MAT[;1 3])←'$'

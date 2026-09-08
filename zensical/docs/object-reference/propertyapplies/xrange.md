@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">XRange Property</span> {: .heading}
+# XRange Property
 
 |----------------------------------------------|------------------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Bitmap](../objects/bitmap.md)      |[Form](../objects/form.md)          |

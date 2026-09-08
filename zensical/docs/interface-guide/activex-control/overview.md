@@ -1,4 +1,4 @@
-# <span class="name">Overview</span> {: .heading}
+# Overview
 
 ## What is an ActiveX Control ?
 

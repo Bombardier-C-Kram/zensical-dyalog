@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">IndexChanged Event</span> {: .heading}
+# IndexChanged Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

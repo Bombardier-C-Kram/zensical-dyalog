@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CalendarUp Event</span> {: .heading}
+# CalendarUp Event
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

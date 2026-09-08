@@ -1,4 +1,4 @@
-# <span class="name">Example: The TemperatureConverterCtl2 Control</span> {: .heading}
+# Example: The TemperatureConverterCtl2 Control
 
 [Example: The TemperatureConverterCtl1 Control](example-the-temperatureconverterctl1-control.md) demonstrates how to compose an ASP.NET custom control from other standard controls. This example shows how you can, instead, generate standard form elements on the browser by rendering the HTML for them directly.
 

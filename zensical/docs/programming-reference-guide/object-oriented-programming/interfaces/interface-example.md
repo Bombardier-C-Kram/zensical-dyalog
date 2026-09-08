@@ -1,4 +1,4 @@
-# <span class="name">Penguin Class Example</span> {: .heading}
+# Penguin Class Example
 
 The Penguin Class example illustrates the use of Interfaces to implement *multiple inheritance*.
 

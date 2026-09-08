@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Same</span> <span class="command">R←⊣YR←⊢Y</span> {: .heading}
+# Same
+
+```apl
+R←⊣YR←⊢Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 The result `R` is the argument `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊣'abc' 1 2 3
  abc  1 2 3

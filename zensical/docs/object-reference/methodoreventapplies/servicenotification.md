@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ServiceNotification Event</span> {: .heading}
+# ServiceNotification Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

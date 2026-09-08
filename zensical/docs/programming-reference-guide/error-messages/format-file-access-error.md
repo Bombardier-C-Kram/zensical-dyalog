@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FORMAT FILE ACCESS ERROR</span> <span class="command">70</span> {: .heading}
+# FORMAT FILE ACCESS ERROR
+
+```apl
+70
+```
 
 
 

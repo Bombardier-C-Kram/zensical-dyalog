@@ -1,4 +1,4 @@
-# <span class="name">Session Initialisation</span> {: .heading}
+# Session Initialisation
 
 ## Introduction
 

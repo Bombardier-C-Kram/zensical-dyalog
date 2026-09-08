@@ -1,4 +1,8 @@
-# <span class="name">SetZoomLevel</span> <span class="command">Method</span> {: .heading}
+# SetZoomLevel
+
+```apl
+Method
+```
 
 |-----------|--------------------------------------------------------------|
 |Applies To:|[HTMLRenderer](https://help.dyalog.com/19.0/index.htm#GUI/Objects/HTMLRenderer.htm)|
@@ -12,7 +16,7 @@ The argument to SetZoomLevel is a single numeric value:
 |-----|---------|-------|
 |`[1]`|ZoomLevel|Numeric|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      ∇ hr Zoom level;lb;in
 [1]    hr.SetZoomLevel level

@@ -1,4 +1,6 @@
-# <span class="name">Setup</span> <span class="right">Method 101</span> {: .heading}
+# Setup
+
+Method 101
 
 
 

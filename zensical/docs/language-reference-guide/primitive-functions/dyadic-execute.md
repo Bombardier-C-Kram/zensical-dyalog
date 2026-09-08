@@ -6,7 +6,11 @@ search:
   ⍎ execute
 </div>
 
-# <span class="name">Dyadic Execute</span> <span class="command">R←X⍎Y</span> {: .heading}
+# Dyadic Execute
+
+```apl
+R←X⍎Y
+```
 
 !!! Warning "Warning"
     If the right argument to _dyadic execute_ could include user input, then there is a risk to data and systems. To reduce this risk, a system function might be more appropriate than the _dyadic execute_ function. For example:
@@ -29,7 +33,7 @@ If the expression is an empty vector or a vector containing only blanks or one t
 
 If `Y` contains a branch expression, the branch is effected in the environment from which the _dyadic execute_ was invoked, and `X⍎Y` does not return.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 Using a named namespace:
 ```apl
@@ -47,7 +51,7 @@ Using a reference:
 1 2 3 4 5 6
 ```
 
-!!! Hint "Hints and Recommendations"
+!!! tip "Hints and Recommendations"
     It is faster and (potentially) safer to use system functions instead of _dyadic execute_ in the above examples as follows:
     
     Using a named namespace:

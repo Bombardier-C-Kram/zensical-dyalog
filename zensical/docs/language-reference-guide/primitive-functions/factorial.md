@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Factorial</span> <span class="command">R←!Y</span> {: .heading}
+# Factorial
+
+```apl
+R←!Y
+```
 
 
 
 `Y` must be numeric excluding negative integers.  `R` is numeric.  `R` is the product of the first `Y` integers for positive integer values of `Y`. In general, `!Y` is gamma `Y+1`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       !1 2 3 4 5
 1 2 6 24 120

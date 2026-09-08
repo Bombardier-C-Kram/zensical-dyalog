@@ -1,4 +1,6 @@
-# <span class="name">DelComment</span> <span class="right">Method 221</span> {: .heading}
+# DelComment
+
+Method 221
 
 
 

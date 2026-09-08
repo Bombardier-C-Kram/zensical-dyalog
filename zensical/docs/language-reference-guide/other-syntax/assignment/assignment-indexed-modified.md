@@ -7,7 +7,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment (Indexed Modified)</span> <span class="command">\{R\}←X\[I\]f←Y</span> {: .heading}
+# Assignment (Indexed Modified)
+
+```apl
+{R}←X[I]f←Y
+```
 
 `f` may be any dyadic function which returns an explicit result.  `Y` may be any array whose items are appropriate to function `f`.  `X` must be the *name* of an existing array.  `I` must be a valid index specification.  The items of the indexed portion of `X` must be appropriate to function `f`.
 
@@ -17,7 +21,7 @@ The operator loops through the indices specified by `I` in ravel order. For each
 
 `R` is the "pass-through" value, that is, the value of `Y`.  If the result of the derived function is not assigned or used, there is no explicit result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A
 1 2 3 4 5
@@ -37,7 +41,7 @@ The operator loops through the indices specified by `I` in ravel order. For each
 
 As the operator performs a loop, if an index in `I` is repeated, function `f` will be applied that number of times and successively to the same item of `X`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       B←3 5⍴0
       B[1 1 3;1 3 3 5]+←1

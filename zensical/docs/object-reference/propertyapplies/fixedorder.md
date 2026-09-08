@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FixedOrder Property</span> {: .heading}
+# FixedOrder Property
 
 |--------------------------------|------|------|
 |[CoolBar](../objects/coolbar.md)|&nbsp;|&nbsp;|

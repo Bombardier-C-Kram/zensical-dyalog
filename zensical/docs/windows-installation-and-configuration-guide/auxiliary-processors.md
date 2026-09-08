@@ -1,4 +1,4 @@
-# <span class="name">Auxiliary Processors</span> {: .heading}
+# Auxiliary Processors
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Once established, an AP is used by making a reference to one of its external fun
 
 An AP is terminated when all the last of its external functions is expunged from the active workspace. This could occur with the use of `)CLEAR`, `)LOAD`, `)ERASE`, `⎕EX`, `)OFF`, `)CONTINUE` or `⎕OFF`.
 
-<h3 class="example">Example</h3>
+### Example
 
 Start an Auxiliary Processor called `EXAMPLE`. This fixes two external functions called `DATE_TO_IDN` and `IDN_TO_DATE` which deal with the conversion of International Day Numbers to Julian Dates.
 ```apl

@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Sample Probability Distribution</span> <span class="command">R←X(16808⌶)Y</span> {: .heading}
+# Sample Probability Distribution
+
+```apl
+R←X(16808⌶)Y
+```
 
 
 
@@ -65,7 +69,7 @@ The domain rules for the distributions currently  implemented are as follows:
 
 Each of those distributions has a corresponding Wikipedia entry with a description of its theoretical foundation and usually graphs of the probability density functions and cumulative distribution functions for interesting sets of parameter values.
 
-<h2 class="example">Example</h2>
+## Example
 
 
 The probability density function for the Beta distribution (see ) with the parameter vector (2 5) has an interesting shape.

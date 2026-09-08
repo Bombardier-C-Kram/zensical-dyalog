@@ -1,4 +1,6 @@
-# <span class="name">MinDate</span> <span class="right">Property</span> {: .heading}
+# MinDate
+
+Property
 
 
 

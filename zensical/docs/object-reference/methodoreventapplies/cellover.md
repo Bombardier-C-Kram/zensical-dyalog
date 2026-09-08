@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellOver Event</span> {: .heading}
+# CellOver Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

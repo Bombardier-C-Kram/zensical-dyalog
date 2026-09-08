@@ -1,4 +1,4 @@
-# <span class="name">Multi-line Session Input</span> {: .heading}
+# Multi-line Session Input
 
 The Session allows multi-line input. This feature is optional, and is controlled by the value of the **Dyalog_LineEditor_Mode** configuration parameter (default is `1`, meaning that multi-line input is enabled). To disable multi-line input, set **Dyalog_LineEditor_Mode** to `0`.
 

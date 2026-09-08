@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Change Space</span> <span class="command">)CS \{nm\}</span> {: .heading}
+# Change Space
+
+```apl
+)CS {nm}
+```
 
 
 
@@ -16,7 +20,7 @@ If no `nm` is given, the system changes to the top level (Root) namespace. If `n
 `name` may be either a simple name or a compound name separated by '`.`', including one of the special names `'#'` (Root) or `'##'` (Parent).
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )CS
 #

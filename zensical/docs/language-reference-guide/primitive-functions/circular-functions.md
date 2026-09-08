@@ -6,7 +6,11 @@ search:
   ○ circular
 </div>
 
-# <span class="name">Circular Functions</span> <span class="command">R←X○Y</span> {: .heading}
+# Circular Functions
+
+```apl
+R←X○Y
+```
 
 
 
@@ -33,7 +37,7 @@ search:
 |`*Y×0J1`|`12`|`θ`|
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       0 ¯1 ○ 1
 0 1.570796327

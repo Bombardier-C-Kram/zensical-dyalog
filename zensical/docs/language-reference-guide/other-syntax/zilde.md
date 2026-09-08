@@ -7,6 +7,10 @@ search:
   ⍬
 </div>
 
-# <span class="name">Zilde</span> <span class="command">R←⍬</span> {: .heading}
+# Zilde
+
+```apl
+R←⍬
+```
 
 The empty vector (`⍳0`) may be represented by the numeric constant `⍬` called ZILDE.

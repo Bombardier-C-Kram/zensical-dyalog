@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">NOT</span> <span class="command">R←~Y</span> {: .heading}
+# NOT
+
+```apl
+R←~Y
+```
 
 
 
 `Y` must be a Boolean array. `R` is Boolean. The value of `R` is 0 if `Y` is 1, and `R` is 1 if `Y` is 0.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ~0 1
 1 0

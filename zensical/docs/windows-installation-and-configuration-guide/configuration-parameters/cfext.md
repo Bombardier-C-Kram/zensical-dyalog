@@ -1,4 +1,4 @@
-# <span class="name">CFEXT</span> {: .heading}
+# CFEXT
 
 This parameter specifies component file filename extensions.
 

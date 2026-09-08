@@ -1,4 +1,4 @@
-# <span class="name">Interoperability</span> {: .heading}
+# Interoperability
 
 ## Introduction
 

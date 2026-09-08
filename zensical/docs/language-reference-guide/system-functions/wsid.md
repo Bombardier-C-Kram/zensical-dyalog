@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Workspace Identification</span> <span class="command">⎕WSID</span> {: .heading}
+# Workspace Identification
+
+```apl
+⎕WSID
+```
 
 
 
@@ -28,7 +32,7 @@ It is useful, though not essential, to associate workspaces with a specific dire
 The value of `⎕WSID` in a clear workspace is `'CLEAR WS'`. `⎕WSID` has workspace scope.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ⎕WSID

@@ -1,4 +1,6 @@
-# <span class="name">SplitObj1</span> <span class="right">Property</span> {: .heading}
+# SplitObj1
+
+Property
 
 
 

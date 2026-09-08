@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Down Shoe</span> <span class="command">∪</span> {: .heading}
+# Down Shoe
+
+```apl
+∪
+```
 
 Monadic Down Shoe means
 [Unique](../primitive-functions/unique.md)

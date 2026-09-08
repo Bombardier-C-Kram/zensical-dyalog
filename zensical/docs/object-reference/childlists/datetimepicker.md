@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DateTimePicker Children</span> {: .heading}
+# DateTimePicker Children
 
 |------------------------------|------------------------------------|----------------------------|
 |[Cursor](../objects/cursor.md)|[Font](../objects/font.md)          |[Menu](../objects/menu.md)  |

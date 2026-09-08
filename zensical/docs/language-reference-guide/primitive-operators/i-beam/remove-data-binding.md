@@ -8,7 +8,11 @@ search:
   2014⌶
 </div>
 
-# <span class="name">Remove Data Binding</span> <span class="command">R←2014⌶Y</span> {: .heading}
+# Remove Data Binding
+
+```apl
+R←2014⌶Y
+```
 
 !!! note
     **.NET Framework only**
@@ -24,7 +28,7 @@ If `Y` or an element of `Y` is a character vector that contains the name of a da
 
 The result `R` is always 1.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       2014⌶'txtSource'

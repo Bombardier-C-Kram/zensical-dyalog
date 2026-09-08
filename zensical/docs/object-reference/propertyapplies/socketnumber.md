@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SocketNumber Property</span> {: .heading}
+# SocketNumber Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">State of Object</span> <span class="command">R←⎕STATE Y</span> {: .heading}
+# State of Object
+
+```apl
+R←⎕STATE Y
+```
 
 
 
@@ -26,7 +30,7 @@ search:
 |`4⊃R`|Vector giving the contents of `Y` before it was shadowed at this level. Note: `(⍴4⊃R)=+/0≠3⊃R`                                                               |
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ⎕FMT∘⎕OR¨'FN1' 'FN2' 'FN3'

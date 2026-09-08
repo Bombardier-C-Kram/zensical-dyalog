@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Clipboard Events</span> {: .heading}
+# Clipboard Events
 
 |-------------------------------------|-------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)  |[Create](../methodorevents/create.md)|[ClipChange](../methodorevents/clipchange.md)|

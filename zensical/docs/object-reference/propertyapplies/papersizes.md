@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PaperSizes Property</span> {: .heading}
+# PaperSizes Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

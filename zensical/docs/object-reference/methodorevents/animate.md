@@ -1,4 +1,6 @@
-# <span class="name">Animate</span> <span class="right">Method 29</span> {: .heading}
+# Animate
+
+Method 29
 
 [**Applies To**](../methodoreventapplies/animate.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">Rotate</span> <span class="right">Property</span> {: .heading}
+# Rotate
+
+Property
 
 
 

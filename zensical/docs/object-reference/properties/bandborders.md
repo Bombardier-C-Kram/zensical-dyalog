@@ -1,4 +1,6 @@
-# <span class="name">BandBorders</span> <span class="right">Property</span> {: .heading}
+# BandBorders
+
+Property
 
 
 

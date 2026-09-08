@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Print Method</span> {: .heading}
+# Print Method
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

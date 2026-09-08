@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Program Function Key</span> <span class="command">R←\{X\}⎕PFKEY Y</span> {: .heading}
+# Program Function Key
+
+```apl
+R←{X}⎕PFKEY Y
+```
 
 
 
@@ -40,7 +44,7 @@ Note that key definitions can reference other function keys, such as "F1" or "F1
 
 The size of the buffer associated with `⎕PFKEY` is specified by the *pfkey_size* parameter.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
        (')FNS',⊂'ER')⎕PFKEY 1
 ┌─┬─┬─┬─┬──┐

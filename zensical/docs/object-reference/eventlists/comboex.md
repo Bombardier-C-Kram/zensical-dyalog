@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ComboEx Events</span> {: .heading}
+# ComboEx Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

@@ -7,7 +7,11 @@ search:
   ⎕NPUT NPUT
 </div>
 
-# <span class="name">Write Text File</span> <span class="command">\{R\}←X ⎕NPUT Y</span> {: .heading}
+# Write Text File
+
+```apl
+{R}←X ⎕NPUT Y
+```
 
 This function writes character data to a text file. See also [Read Text File](nget.md).
 
@@ -47,7 +51,7 @@ If both `encoding` and `newline` are omitted `X` specifies only `content` and ma
 
 The shy result `R` is the number of bytes written to the file.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       txt←'mene' 'mene' 'tekel' 'upharsin'
 

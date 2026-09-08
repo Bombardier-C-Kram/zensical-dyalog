@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ComboEx Children</span> {: .heading}
+# ComboEx Children
 
 |------------------------------|------------------------------|--------------------------------|
 |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|[Ellipse](../objects/ellipse.md)|

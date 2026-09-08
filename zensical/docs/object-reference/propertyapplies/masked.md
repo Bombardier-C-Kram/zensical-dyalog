@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Masked Property</span> {: .heading}
+# Masked Property
 
 |------------------------------------|------|------|
 |[ImageList](../objects/imagelist.md)|&nbsp;|&nbsp;|

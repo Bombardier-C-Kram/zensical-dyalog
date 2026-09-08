@@ -1,4 +1,6 @@
-# <span class="name">BtnPix</span> <span class="right">Property</span> {: .heading}
+# BtnPix
+
+Property
 
 
 

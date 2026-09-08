@@ -6,7 +6,11 @@ search:
   ⊂ enclose
 </div>
 
-# <span class="name">Enclose with Axes</span> <span class="command">R←⊂\[K\]Y</span> {: .heading}
+# Enclose with Axes
+
+```apl
+R←⊂[K]Y
+```
 
 
 `Y` may be any array.  `K` is a vector of zero or more axes of `Y`.  `R` is an array of the elements of `Y` enclosed along the axes `K`.  The shape of `R` is the shape of `Y` with the `K` axes removed:
@@ -21,7 +25,7 @@ The shape of each element of `R` is the shape of the `K`th axes of `Y`:
 ```
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ]Display A←2 3 4⍴'DUCKSWANBIRDWORMCAKESEED'
 ┌┌→───┐

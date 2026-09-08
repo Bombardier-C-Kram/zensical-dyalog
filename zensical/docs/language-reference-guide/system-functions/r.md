@@ -7,7 +7,11 @@ search:
   ⎕R
 </div>
 
-# <span class="name">Replace</span> <span class="command">R←\{X\}(A ⎕R B) Y</span> {: .heading}
+# Replace
+
+```apl
+R←{X}(A ⎕R B) Y
+```
 
 `⎕R` (Replace) and `⎕S` (Search) are system operators which take search pattern(s) as their left arguments and transformation rule(s) as their right arguments; the derived function operates on text data to perform either a **search**, or a search and **replace** operation.
 
@@ -222,7 +226,7 @@ The locations of the match within Block and subpatterns within Match are given a
 
 The value of `¯1` may appear in both the Offsets and Fields items (in corresponding positions). They indicate that the subpattern to which they refer did not appear in the match at all.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       {}('(A)|(B)'⎕R{⎕←⍵.(Offsets Lengths)⋄'x'})'ABC'
  0 0  1 1 
@@ -250,9 +254,9 @@ When set, case is ignored in searches.
 
 |---|-------------------------------|
 |`1`|Matches are not case sensitive.|
-|0 { .shaded } |Matches are case sensitive.|
+|`0` (default)|Matches are case sensitive.|
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ('[AEIOU]' ⎕R 'X' ⍠ 'IC' 1) 'ABCDE abcde'
 XBCDX XbcdX
@@ -265,11 +269,11 @@ XBCDX XbcdX
 Specifies whether the input document is interpreted in **line** mode, **document** mode or **mixed** mode.
 
 |---|---|
-|L { .shaded } |When line mode is set, the input document is split into separate lines (discarding the line ending characters themselves), and each line is processed separately. This means that the ML option applies per line, and the '^' and '$' anchors match the start and end respectively of each line. Because the document is split, searches can never match across multiple lines, nor can searches for line ending characters ever succeed. Setting line mode can result in significantly reduced memory requirements compared with the other modes.|
+|`L` (default)|When line mode is set, the input document is split into separate lines (discarding the line ending characters themselves), and each line is processed separately. This means that the ML option applies per line, and the '^' and '$' anchors match the start and end respectively of each line. Because the document is split, searches can never match across multiple lines, nor can searches for line ending characters ever succeed. Setting line mode can result in significantly reduced memory requirements compared with the other modes.|
 |`D`|When document mode is set, the entire input document is processed as a single block. The ML option applies to this entire block, and the '^' and '$' anchors match the start and end respectively of the block - not the lines within it. Searches can match across lines, and can match line ending characters.|
 |`M`|When mixed mode is set, the '^' and '$' anchors match the start and end respectively of each line, as if line mode is set, but in all other respects behaviour is as if document mode is set - the entire input document is processed in a single block.|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ('$' ⎕R '[Endline]' ⍠ 'Mode' 'L') 'ABC' 'DEF'
  ABC[Endline]  DEF[Endline] 
@@ -286,12 +290,12 @@ Specifies whether the input document is interpreted in **line** mode, **document
 Specifies whether the dot ('.') character in search patterns matches line ending characters
 
 |---|-----------------------------------------------------------------------------------|
-|0 { .shaded }   |The '.' character in search patterns matches most characters, but not line endings.|
+|`0` (default)|The '.' character in search patterns matches most characters, but not line endings.|
 |`1`|The '.' character in search patterns matches all characters.                       |
 
 This option is invalid in line mode, because line endings are stripped from the input document.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ('.' ⎕R 'X' ⍠'Mode' 'D') 'ABC' 'DEF'
  XXX  XXX 
@@ -306,7 +310,7 @@ Sets the line ending character which is implicitly present between character vec
 |----|-------------------------------------|
 |CR  |Carriage Return (U+000D)             |
 |LF  |Line Feed (U+000A)                   |
-|CRLF { .shaded } |Carriage Return followed by Line Feed|
+|`CRLF` (default)|Carriage Return followed by Line Feed|
 |VT  |Vertical Tab (U+000B)                |
 |NEL |New Line (U+0085)                    |
 |FF  |Form Feed (U+000C)                   |
@@ -315,7 +319,7 @@ Sets the line ending character which is implicitly present between character vec
 
 In the Classic Edition, setting a value which is not in `⎕AVU` may result in a `TRANSLATION ERROR`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ('\n' ⎕R'X' ⍠('Mode' 'D')('EOL' 'LF')) 'ABC' 'DEF'
  ABCXDEF
@@ -328,10 +332,10 @@ Here, the implied line ending between 'ABC' and 'DEF' is '\n', not the default '
 Specifies whether explicit line ending sequences in the input document are normalised by replacing them with the character specified using the EOL option.
 
 |---|--------------------------------|
-|0 { .shaded } |Line endings are not normalised.|
+|`0` (default)|Line endings are not normalised.|
 |1  |Line endings are normalised.    |
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       a←'ABC',(1↑2↓⎕AV),'DEF',(1↑3↓⎕AV),'GHI'
       ('\n'⎕S 0 ⍠ 'Mode' 'D' ⍠ 'NEOL' 1 ⍠ 'EOL' 'LF') a
@@ -346,10 +350,10 @@ Sets a limit to the number of processed pattern matches per line (line mode) or 
 
 |--------------------|----------------------------------------|
 |Positive value n    |Sets the limit to the first n matches.  |
-|0 { .shaded }       |Sets no limit.                          |
+|`0` (default)|Sets no limit.                          |
 |Negative value `¯` n|Sets the limit to exactly the nth match.|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ('.' ⎕R 'x' ⍠ 'ML' 2) 'ABC' 'DEF'
  xxC  xxF 
@@ -365,10 +369,10 @@ Sets a limit to the number of processed pattern matches per line (line mode) or 
 Controls whether patterns are "greedy" (and match the maximum input possible) or are not (and match the minimum). Within the pattern itself it is possible to specify greediness for individual elements of the pattern; this option sets the default.
 
 |---|----------------------|
-|1 { .shaded } |Greedy by default.    |
+|`1` (default)|Greedy by default.    |
 |0  |Not greedy by default.|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ('[A-Z].*[0-9]' ⎕R 'X' ⍠ 'Greedy' 1)'ABC123 DEF456'
 X
@@ -382,11 +386,11 @@ Specifies whether matches may overlap.
 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------|
 |1  |Searching continues for all patterns and then from the character following the *start* of the match, thus permitting overlapping matches.|
-|0 { .shaded } |Searching continues from the character following the *end* of the match.                                                                 |
+|`0` (default)|Searching continues from the character following the *end* of the match.                                                                 |
 
 This option may only be used with `⎕S`. With `⎕R` searching always continues from the character following the end of the match (the characters following the start of the match will have been changed).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ('[0-9]+' ⎕S '\0' ⍠ 'OM' 0) 'A 1234 5678 B'
  1234  5678 
@@ -405,7 +409,7 @@ This option specifies the encoding of the input stream when it cannot be determi
 When the stream is read from its start, and the start of the stream contains a recognised Byte Order Mark (BOM), the encoding is taken as that specified by the BOM and this option is ignored. Otherwise, the encoding is assumed to be as specified by this option.
 
 |------------|----------------------------------------------------------------------------------------------------------------------------------|
-|UTF-8 { .shaded } |The stream is processed as UTF-8 data. Note that ASCII is a subset of UTF-8, so this default is also suitable for ASCII data.     |
+|`UTF-8` (default)|The stream is processed as UTF-8 data. Note that ASCII is a subset of UTF-8, so this default is also suitable for ASCII data.     |
 |UTF-16      |The stream is processed as UTF16 little-endian data on little-ended systems, or as UTF16 big-endian data on big-endian systems.   |
 |UTF-16LE    |The stream is processed as UTF16 little-endian data.                                                                              |
 |UTF-16BE    |The stream is processed as UTF16 big-endian data.                                                                                 |
@@ -426,7 +430,7 @@ When the output is written to a stream, this option specifies how the data is to
 - a 256-element numeric vector that maps each possible byte value (0-255) to a  Unicode code point (1st element = Unicode code point corresponding to byte value 0, and so on). ¯1 indicates that the corresponding byte value is not mapped to any character. Apart from ¯1, no value may appear in the table more than once.
 
 |------------|-------------------------------------------------------------------------------------------------------------------------------|
-|Implied { .shaded }  |If input came from a stream then the encoding format is the same as the input stream, otherwise UTF-8                          |
+|`Implied` (default)|If input came from a stream then the encoding format is the same as the input stream, otherwise UTF-8                          |
 |UTF-8       |The data is written in UTF-8 format.                                                                                           |
 |UTF-16      |The data is written in UTF16 little-endian format on little-ended systems, or in UTF16 big-endian format on big-endian systems.|
 |UTF-16LE    |The data is written in UTF-16 little-endian format.                                                                            |
@@ -449,13 +453,13 @@ This option sets both InEnc and OutEnc simultaneously, with the same given value
 For `⎕R`, this option determines the format of the result.
 
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Implied { .shaded } |The output will either be a **character vector** or **a vector of character vectors** , dependent on the input document type.                   |
+|`Implied` (default)|The output will either be a **character vector** or **a vector of character vectors** , dependent on the input document type.                   |
 |Simple |The output will be a **character vector** . Any and all line endings in the output will be represented by line ending characters within the character vector.|
 |Nested |The output will be a **vector of character vectors** . Any and all line endings in the output document will be implied at the end of each character vector.  |
 
 This option may only be used with `⎕R`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕UCS ¨ ('A' ⎕R 'x') 'AB' 'CD'                
   120 66  67 68                    
@@ -470,11 +474,11 @@ This affects the way PCRE that processes \B, \b, \D, \d, \S, \s,  \W,
 
 |---|-----------------------------------------------------|
 |1  |Unicode  properties are  used to classify characters.|
-|0 { .shaded } |Only ASCII characters are recognized.                |
+|`0` (default)|Only ASCII characters are recognized.                |
 
 **Implementation Note**: this option is implemented by setting or not setting the PCRE_UCP option when calling pcre_compile(). More information can be found in the PCRE documentation.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 By default, the character ø (which is not an ASCII character) is considered to be a "non-word" character, so:
 ```apl
@@ -496,11 +500,11 @@ When UCP is set to 1, Unicode characters are matched as "word" characters (\w) t
 This option may be used to disable regular expression matching which is enabled by default. It is a singleton Boolean value that applies to both search and transformation patterns, or a 2-element vector of Boolean values that applies to them separately.
 
 |---|----------------------------------------|
-|1 { .shaded } |Regular expression matching is applied. |
+|`1` (default)|Regular expression matching is applied. |
 |0  |regular expression matching is disabled.|
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       STR
 The cat sat on the mat

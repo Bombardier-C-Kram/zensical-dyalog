@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Image Properties</span> {: .heading}
+# Image Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Points](../properties/points.md)          |[Coord](../properties/coord.md)            |

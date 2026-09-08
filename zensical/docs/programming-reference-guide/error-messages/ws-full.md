@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">WS FULL</span> <span class="command">1</span> {: .heading}
+# WS FULL
+
+```apl
+1
+```
 
 
 
@@ -12,7 +16,7 @@ This report is given when there is insufficient workspace in which to perform an
 
 The maximum workspace size allowed is defined by the environment variable `MAXWS`. See **maxws parameter** for details.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ⎕WA⍴1.2

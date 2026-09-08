@@ -1,4 +1,6 @@
-# <span class="name">CellDown</span> <span class="right">Event 161</span> {: .heading}
+# CellDown
+
+Event 161
 
 
 

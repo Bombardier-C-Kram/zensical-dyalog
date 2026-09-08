@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">With Statement</span> <span class="command">:With obj</span> {: .heading}
+# With Statement
+
+```apl
+:With obj
+```
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">COM data types</span> {: .heading}
+# COM data types
 
 
 

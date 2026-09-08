@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">KEY CODE RANK ERROR</span> <span class="command">62</span> {: .heading}
+# KEY CODE RANK ERROR
+
+```apl
+62
+```
 
 
 

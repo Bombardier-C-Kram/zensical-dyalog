@@ -7,7 +7,11 @@ search:
   ⎕FREPLACE FREPLACE
 </div>
 
-# <span class="name">File Replace Component</span> <span class="command">\{R\}←X ⎕FREPLACE Y</span> {: .heading}
+# File Replace Component
+
+```apl
+{R}←X ⎕FREPLACE Y
+```
 
 ## Access code 16
 
@@ -17,7 +21,7 @@ search:
 
 The shy result of `⎕FREPLACE` is the file index (component number of replaced record).
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       SALES←⎕FREAD 1 241
  

@@ -3,7 +3,11 @@ search:
   exclude: true
 ---
 
-# <span class="name">Date-time</span> <span class="command">R←X ⎕DT Y</span> {: .heading}
+# Date-time
+
+```apl
+R←X ⎕DT Y
+```
 
 This function validates date-times or converts date-times between one format and another.
 

@@ -1,4 +1,6 @@
-# <span class="name">GetParentItem</span> <span class="right">Method 312</span> {: .heading}
+# GetParentItem
+
+Method 312
 
 
 

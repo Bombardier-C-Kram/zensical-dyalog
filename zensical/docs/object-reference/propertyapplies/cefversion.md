@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CEFVersion Property</span> {: .heading}
+# CEFVersion Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

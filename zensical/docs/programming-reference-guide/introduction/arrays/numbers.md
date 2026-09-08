@@ -1,4 +1,4 @@
-# <span class="name">Numbers</span> {: .heading}
+# Numbers
 
 Dyalog APL supports both real numbers and complex numbers.
 
@@ -16,7 +16,7 @@ The scaled form consists of:
 
 The scale specifies the power of 10 by which the mantissa is to be multiplied.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       12 23.24 23.0 2.145E2
 12 23.24 23 214.5
@@ -24,7 +24,7 @@ The scale specifies the power of 10 by which the mantissa is to be multiplied.
 
 Negative numbers are preceded by the high minus (`¯`) symbol, not to be confused with the minus (`-`) function.  In scaled form, both the mantissa and the scale may be negative.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ¯22 2.145E¯2 ¯10.25
 ¯22 0.02145 ¯10.25
@@ -34,7 +34,7 @@ Negative numbers are preceded by the high minus (`¯`) symbol, not to be confuse
 
 Complex numbers use the J notation introduced in IBM APL2 and are written as `aJb` or `ajb` `(`without spaces) where the real and imaginary parts `a` and `b` are written as described above. The capital `J` is always used to display a value.
 
-<h4 class="example">Examples</h4>
+#### Examples
 ```apl
       2+¯1*.5
 2J1

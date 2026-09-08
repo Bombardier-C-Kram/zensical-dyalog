@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetTextSize Method</span> {: .heading}
+# GetTextSize Method
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Bitmap](../objects/bitmap.md)          |

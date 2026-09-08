@@ -1,4 +1,6 @@
-# <span class="name">SetSpinnerText</span> <span class="right">Event 421</span> {: .heading}
+# SetSpinnerText
+
+Event 421
 
 
 

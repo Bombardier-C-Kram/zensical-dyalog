@@ -1,4 +1,4 @@
-# <span class="name">Numbered Properties</span> {: .heading}
+# Numbered Properties
 
 A Numbered Property behaves like an array (conceptually a vector) which is only ever *partially* accessed and set (one element at a time) via indices.
 

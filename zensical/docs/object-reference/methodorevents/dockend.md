@@ -1,4 +1,6 @@
-# <span class="name">DockEnd</span> <span class="right">Event 484</span> {: .heading}
+# DockEnd
+
+Event 484
 
 
 

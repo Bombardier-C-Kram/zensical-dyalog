@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Calendar Properties</span> {: .heading}
+# Calendar Properties
 
 |-------------------------------------------|-------------------------------------------|---------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)                |

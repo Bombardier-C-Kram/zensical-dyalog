@@ -1,4 +1,4 @@
-# <span class="name">APL\_COMPLEX\_AS\_V12</span> {: .heading}
+# APL\_COMPLEX\_AS\_V12
 
 Support for Complex Numbers means that some functions produce different results from older Versions of Dyalog APL. If **APL_COMPLEX_AS_V12** is set to 1 the behaviour of code developed using Version 12.1 or earlier will be unchanged; in particular:
 

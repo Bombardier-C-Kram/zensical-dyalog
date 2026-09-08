@@ -1,4 +1,6 @@
-# <span class="name">SysColorChange</span> <span class="right">Event 134</span> {: .heading}
+# SysColorChange
+
+Event 134
 
 
 

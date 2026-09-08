@@ -1,4 +1,6 @@
-# <span class="name">PageFinish</span> <span class="right">Event 355</span> {: .heading}
+# PageFinish
+
+Event 355
 
 
 

@@ -6,13 +6,17 @@ search:
   ∊ type
 </div>
 
-# <span class="name">Type</span> <span class="command">(⎕ML&lt;1) R←∊Y</span> {: .heading}
+# Type
+
+```apl
+(⎕ML<1) R←∊Y
+```
 
 Migration level must be such that `⎕ML<1` (otherwise `∊` means Enlist. See [Enlist](enlist.md)).
 
 `Y` may be any array.  `R` is an array with the same shape and structure as `Y` in which a numeric value is replaced by 0 and a character value is replaced by `' '`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ∊(2 3⍴⍳6)(1 4⍴'TEXT')
  0 0 0

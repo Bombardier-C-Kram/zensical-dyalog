@@ -7,13 +7,17 @@ search:
   ⎕PATH PATH
 </div>
 
-# <span class="name">Search Path</span> <span class="command">⎕PATH</span> {: .heading}
+# Search Path
+
+```apl
+⎕PATH
+```
 
 `⎕PATH` is a simple character vector representing a blank-separated list of namespaces.  It is approximately analogous to the PATH variable in Windows or UNIX.
 
 The `⎕PATH` variable can be used to identify a namespace in which commonly used utility functions reside.  Functions or operators (**NOT** variables) which are copied into this namespace and *exported* (see [Export Object](export.md)) can then be used directly from anywhere in the workspace without giving their full path names. `⎕PATH` has Session scope.
 
-<h2 class="example">Example</h2>
+## Example
 
 To make the `DISPLAY` function available directly from within any namespace.
 ```apl
@@ -37,7 +41,7 @@ In other words, the search is conducted upwards through enclosing namespaces, em
 
 Note that the `⎕PATH` mechanism is used ONLY if the function reference cannot be satisfied in the current namespace.  This is analogous to the case when the Windows or UNIX PATH variable begins with a `'.'`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```other
    ⎕PATH               Search in ...
 

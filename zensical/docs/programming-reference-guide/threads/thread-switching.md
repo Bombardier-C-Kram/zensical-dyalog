@@ -1,4 +1,4 @@
-# <span class="name">Thread Switching</span> {: .heading}
+# Thread Switching
 
 !!! warning
     Programming with threads requires care!

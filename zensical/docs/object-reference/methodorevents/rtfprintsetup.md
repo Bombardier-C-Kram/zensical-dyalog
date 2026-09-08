@@ -1,4 +1,6 @@
-# <span class="name">RTFPrintSetup</span> <span class="right">Method 460</span> {: .heading}
+# RTFPrintSetup
+
+Method 460
 
 
 
@@ -54,7 +56,7 @@ If the user presses OK, the result is a 4-element vector containing the user's c
 |`[4]`|Collate         |0 or 1          |
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       F.T.RTFPrintSetup ('All' 1 1 'PR')
  IBM 4039 LaserPrinter PS   Pages  2 3 3  1 0

@@ -1,4 +1,6 @@
-# <span class="name">HotSpot</span> <span class="right">Property</span> {: .heading}
+# HotSpot
+
+Property
 
 
 

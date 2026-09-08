@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CurCell Property</span> {: .heading}
+# CurCell Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

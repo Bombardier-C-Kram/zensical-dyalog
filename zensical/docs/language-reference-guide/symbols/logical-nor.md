@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Logical NOR</span> <span class="command">⍱</span> {: .heading}
+# Logical NOR
+
+```apl
+⍱
+```
 
 Monadic Logical NOR is not defined
 

@@ -1,4 +1,6 @@
-# <span class="name">CharSet</span> <span class="right">Property</span> {: .heading}
+# CharSet
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">DockCancel</span> <span class="right">Event 485</span> {: .heading}
+# DockCancel
+
+Event 485
 
 
 

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Signal Event</span> <span class="command">\{R\}←\{X\}⎕SIGNAL Y</span> {: .heading}
+# Signal Event
+
+```apl
+{R}←{X}⎕SIGNAL Y
+```
 
 
 
@@ -52,7 +56,7 @@ The effect of the system function is to interrupt execution.  The state indicat
 
 An error interrupt may be trapped if the system variable `⎕TRAP` is set to intercept the event.  Otherwise, the standard system action is taken (which may involve cutting back the state indicator further if there are locked functions or operators in the state indicator).  The standard event message is replaced by the text given in `X`, if present.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕VR'DIVIDE'
      ∇ R←A DIVIDE B;⎕TRAP
@@ -85,7 +89,7 @@ If you are using the Microsoft .NET Framework, you may use `⎕SIGNAL` to throw 
 
 If `Y` is a simple integer with the value 0, `⎕SIGNAL` does not interrupt execution, but merely returns the value 0. The side effect of calling `⎕SIGNAL 0` is to reset the values of `⎕DM`, `⎕DMX`, `⎕EN` and `⎕EXCEPTION` to their default values. `⎕SIGNAL 0` is the only form of `⎕SIGNAL` which can be used to reset the aforementioned system constants; including a left argument or using a name/value pair right argument of `⎕SIGNAL` will result in a `DOMAIN ERROR`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ÷0

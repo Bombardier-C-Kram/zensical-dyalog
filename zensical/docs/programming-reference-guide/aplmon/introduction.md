@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 APLMON is a built-in Dyalog feature that, when enabled, monitors the execution of APL primitives and functions and writes the results to a CSV file. When not enabled (the default), it has no impact on execution.
 

@@ -1,4 +1,4 @@
-# <span class="name">Session Gutter</span> {: .heading}
+# Session Gutter
 
 The first column of the Session Window (the Session Gutter) is by default reserved to display the following information:
 

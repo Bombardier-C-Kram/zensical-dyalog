@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Trap Statement</span> <span class="command">:Trap ecode</span> {: .heading}
+# Trap Statement
+
+```apl
+:Trap ecode
+```
 
 
 
@@ -38,7 +42,7 @@ Note that the error trapping is in effect **only** during execution of the initi
 
 Note that the statement  `:Trap ⍬` results in no errors being trapped.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      ∇ lx
 [1]    :Trap 1000        ⍝ Cutback and exit on interrupt

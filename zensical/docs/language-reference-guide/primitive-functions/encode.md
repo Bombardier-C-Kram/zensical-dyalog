@@ -6,7 +6,11 @@ search:
   ⊤ encode
 </div>
 
-# <span class="name">Encode</span> <span class="command">R←X⊤Y</span> {: .heading}
+# Encode
+
+```apl
+R←X⊤Y
+```
 
 
 
@@ -22,7 +26,7 @@ If `X` is a vector or a scalar, the result for each element of `Y` is the value 
 This function is also known as Representation.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       10⊤5 15 125
 5 5 5
@@ -35,7 +39,7 @@ This function is also known as Representation.
 
 If `X` is a higher-rank array, each of the vectors along the first axis of `X` is used as the radix vector for each element of `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A
 2 0  0
@@ -64,7 +68,7 @@ This example shows binary, octal and hexadecimal representations of the decimal 
 1 3 11
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       0 1⊤1.25 10.5
 1    10

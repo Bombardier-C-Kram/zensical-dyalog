@@ -1,4 +1,6 @@
-# <span class="name">TabJustify</span> <span class="right">Property</span> {: .heading}
+# TabJustify
+
+Property
 
 
 

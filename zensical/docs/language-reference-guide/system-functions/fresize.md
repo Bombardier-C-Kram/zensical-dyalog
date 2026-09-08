@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Resize</span> <span class="command">\{R\}←\{X\}⎕FRESIZE Y</span> {: .heading}
+# File Resize
+
+```apl
+{R}←{X}⎕FRESIZE Y
+```
 
 
 ## Access code 1024
@@ -33,7 +37,7 @@ During compaction, the file is restructured by reordering the components and by 
 
 The shy result of `⎕FRESIZE` is the tie number of the file.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'test'⎕FCREATE 1 ⋄ ⎕FSIZE 1
 1 1 120 1.844674407E19

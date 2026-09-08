@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetItemState Method</span> {: .heading}
+# SetItemState Method
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">MenuItem</span> <span class="right">Object</span> {: .heading}
+# MenuItem
+
+Object
 
 
 

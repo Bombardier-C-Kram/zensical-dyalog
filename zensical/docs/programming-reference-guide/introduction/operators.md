@@ -1,4 +1,4 @@
-# <span class="name">Operators</span> {: .heading}
+# Operators
 
 An operator is an operation on one or two operands which produces a function called a DERIVED FUNCTION. An operand may be a function or an array.  Operators are not ambivalent.  They require either one or two operands as applicable to the particular operator.  However, the derived function may be ambivalent.  The derived function need not return a result.  Operators have higher precedence than functions.  Operators have long scope on the left.  That is, the left operand is the longest function or array expression on its left.  The left operand may be terminated by:
 
@@ -9,7 +9,7 @@ An operator is an operation on one or two operands which produces a function cal
 5. an array or function to the right of a monadic operator.
 6. A dyadic operator has short scope on the right.  That is, the right operand of an operator is the single function or array on its right. Right scope may be extended by enclosing an expression in parentheses.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍴¨X←'WILLIAM' 'MARY' 'BELLE'
  7  4  5
@@ -41,7 +41,7 @@ Operators may be defined with the system function `⎕FX`, or with the function 
 
 A defined operator may have one or two operands; and its derived function may have one or two arguments, and may or may not produce a result. The header syntax defines the operator name, its operand(s), the argument(s) to its derived function, and the result (if any) of its derived function. The names of the operator and its operand(s) are separated from the name(s) of the argument(s) to its derived function by parentheses.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ∇ R←A(F AND G)B
 [1]     R←(A F B)(A G B)

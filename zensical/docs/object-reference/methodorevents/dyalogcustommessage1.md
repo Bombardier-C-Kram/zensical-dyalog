@@ -1,4 +1,6 @@
-# <span class="name">DyalogCustomMessage1</span> <span class="right">Event 95</span> {: .heading}
+# DyalogCustomMessage1
+
+Event 95
 
 
 

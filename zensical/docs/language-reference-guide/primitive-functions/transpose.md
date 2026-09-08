@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Transpose (Monadic)</span> <span class="command">R←⍉Y</span> {: .heading}
+# Transpose (Monadic)
+
+```apl
+R←⍉Y
+```
 
 
 
 `Y` may be any array.  `R` is an array of shape `⌽⍴Y`, similar to `Y` with the order of the axes reversed.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       M
 1 2 3

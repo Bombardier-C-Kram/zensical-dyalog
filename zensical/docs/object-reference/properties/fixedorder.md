@@ -1,4 +1,6 @@
-# <span class="name">FixedOrder</span> <span class="right">Property</span> {: .heading}
+# FixedOrder
+
+Property
 
 
 

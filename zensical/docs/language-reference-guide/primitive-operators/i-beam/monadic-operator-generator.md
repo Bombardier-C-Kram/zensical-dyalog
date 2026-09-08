@@ -8,7 +8,11 @@ search:
   43⌶
 </div>
 
-# <span class="name">Monadic Operator Generator</span> <span class="command">R←43⌶Y</span> {: .heading}
+# Monadic Operator Generator
+
+```apl
+R←43⌶Y
+```
 
 Returns a monadic operator, with functionality determined by the value of `Y`.
 
@@ -33,7 +37,7 @@ As `R` is a monadic operator, Dyalog Ltd recommends that the evaluation of this 
 	
 The generics operator can create concrete versions of generic classes and execute generic methods. For more information, see [Generics (.NET)](../../../../net-interface-guide/dotnet-classes/advanced-techniques/#generics) or [Generics (.NET Framework)](../../../../net-framework-interface-guide/dotnet-classes/advanced-techniques/#generics).
 
-<h3 class="example">Example</h3>
+### Example
 
 ```apl
       ⎕USING←''

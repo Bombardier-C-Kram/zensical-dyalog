@@ -1,4 +1,6 @@
-# <span class="name">Index</span> <span class="right">Property</span> {: .heading}
+# Index
+
+Property
 
 [**Applies To**](../propertyapplies/index-property.md)
 

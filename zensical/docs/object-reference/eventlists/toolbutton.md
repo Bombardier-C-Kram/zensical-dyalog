@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolButton Events</span> {: .heading}
+# ToolButton Events
 
 |---------------------------------------------------|---------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)  |[Help](../methodorevents/help.md)          |

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">WorkspaceLoaded</span> <span class="command">Event 525</span> {: .heading}
+# WorkspaceLoaded
+
+```apl
+Event 525
+```
 
 
 

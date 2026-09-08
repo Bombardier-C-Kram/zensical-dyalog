@@ -1,4 +1,6 @@
-# <span class="name">FontObj</span> <span class="right">Property</span> {: .heading}
+# FontObj
+
+Property
 
 [**Applies To**](../propertyapplies/fontobj.md)
 

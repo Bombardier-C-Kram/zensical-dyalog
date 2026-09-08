@@ -7,7 +7,11 @@ search:
   each
 </div>
 
-# <span class="name">Each (with Monadic Operand)</span> <span class="command">\{R\}←f¨Y</span> {: .heading}
+# Each (with Monadic Operand)
+
+```apl
+{R}←f¨Y
+```
 
 `f` may be any monadic function.  `Y` may be any array, each of whose items are separately appropriate to function `f`.
 
@@ -18,7 +22,7 @@ The derived function applies function `f` separately to each item of `Y`.  The d
 If `Y` is empty, the prototype of `R` is determined by applying the operand function *once* to the prototype of `Y`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       G←('TOM' (⍳3))('DICK' (⍳4))('HARRY' (⍳5))
       ⍴G

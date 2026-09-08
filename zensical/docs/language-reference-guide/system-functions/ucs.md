@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Unicode Convert</span> <span class="command">R←\{X\} ⎕UCS Y</span> {: .heading}
+# Unicode Convert
+
+```apl
+R←{X} ⎕UCS Y
+```
 
 
 

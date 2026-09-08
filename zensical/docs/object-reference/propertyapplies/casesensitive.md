@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CaseSensitive Property</span> {: .heading}
+# CaseSensitive Property
 
 |--------------------------------|------|------|
 |[ComboEx](../objects/comboex.md)|&nbsp;|&nbsp;|

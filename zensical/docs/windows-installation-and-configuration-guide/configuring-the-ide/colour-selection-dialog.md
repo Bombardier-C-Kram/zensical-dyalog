@@ -1,4 +1,4 @@
-# <span class="name">Colour Selection Dialog</span> {: .heading}
+# Colour Selection Dialog
 
 ![colour selection dialog](../img/colour-selection-dialog.png)
 

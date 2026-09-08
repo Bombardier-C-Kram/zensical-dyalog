@@ -1,4 +1,6 @@
-# <span class="name">RowHiddenDepth</span> <span class="right">Property</span> {: .heading}
+# RowHiddenDepth
+
+Property
 
 
 
@@ -13,7 +15,7 @@ The RowHiddenDepth property is read-only and identifies which rows of a Grid are
 
 RowHiddenDepth is an integer vector with the same number of elements as there are rows in the Grid. The values in RowHiddenDepth indicate the current depth of the row in the visible hierarchy; that is, number of nodes that must be opened to display it. The value 0 means that the corresponding row is visible. The value 1 means that 1 node must be opened to display it; 2 means 2 nodes, and so forth.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'F'⎕WC'Form' 'Grid: RowHiddenDepth'     
        F.(Coord Size)←'Pixel'(163 306)         

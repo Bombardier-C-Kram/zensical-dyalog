@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">LastError Property</span> {: .heading}
+# LastError Property
 
 |----------------------------------------------|------------------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OLEClient](../objects/oleclient.md)|[OLEServer](../objects/oleserver.md)|

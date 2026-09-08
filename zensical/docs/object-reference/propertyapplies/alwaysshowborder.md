@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AlwaysShowBorder Property</span> {: .heading}
+# AlwaysShowBorder Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

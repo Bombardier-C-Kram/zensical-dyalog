@@ -1,4 +1,6 @@
-# <span class="name">CloseUp</span> <span class="right">Event 46</span> {: .heading}
+# CloseUp
+
+Event 46
 
 
 

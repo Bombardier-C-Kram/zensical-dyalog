@@ -1,4 +1,4 @@
-# <span class="name">Functions</span> {: .heading}
+# Functions
 
 A function is an operation which is performed on zero, one or two array arguments and may produce an array result.  Three forms are permitted:
 
@@ -14,7 +14,7 @@ Functions have long SCOPE on the right; that is, the right argument of the funct
 
 For some functions, the explicit result is suppressed if it would otherwise be displayed on completion of evaluation of the expression. This applies on assignment to a variable name.  It applies for certain system functions, and may also apply for defined functions.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       10×5-2×4
 ¯30
@@ -34,7 +34,7 @@ Functions may be defined with the system function `⎕FX`, or with the function 
 
 The header syntax identifies the function name, its (optional) result and its (optional) arguments. If a function is ambivalent, it is defined with two arguments but with the left argument within braces (`{}`).  If an ambivalent function is called monadically, the left argument has no value inside the function.  If the explicit result is to be suppressed for display purposes, the result is shown within braces.  A function need not produce an explicit result.  Refer to *Chapter 2* for further details.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
      ∇ R←{A} FOO B
 [1]    R←⊃'MONADIC' 'DYADIC'[⎕IO+0≠⎕NC'A']
@@ -53,7 +53,7 @@ Functions may also be created by using assignment (`←`).
 
 The result of a function-expression may be given a name.  This is known as FUNCTION ASSIGNMENT (see also [Dfns & Dops](../defined-functions-and-operators/dfns-and-dops/dynamic-functions-and-operators.md)).  If the result of a function-expression is not given a name, its value is displayed.  This is termed FUNCTION DISPLAY.
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
       PLUS←+
       PLUS
@@ -65,7 +65,7 @@ The result of a function-expression may be given a name.  This is known as FUNCT
 
 Function expressions may include defined functions and operators. These are displayed as a `∇` followed by their name.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       ∇ R←MEAN X    ⍝ Arithmetic mean
 [1]     R←(+/X)÷⍴X

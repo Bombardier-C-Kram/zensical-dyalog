@@ -1,4 +1,6 @@
-# <span class="name">Root</span> <span class="right">Object</span> {: .heading}
+# Root
+
+Object
 
 [Children](../childlists/root.md), [Properties](../proplists/root.md), [Methods](../methodlists/root.md), [Events](../eventlists/root.md)
 

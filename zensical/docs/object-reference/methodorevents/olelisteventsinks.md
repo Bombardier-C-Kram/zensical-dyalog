@@ -1,4 +1,6 @@
-# <span class="name">OLEListEventSinks</span> <span class="right">Method 542</span> {: .heading}
+# OLEListEventSinks
+
+Method 542
 
 
 

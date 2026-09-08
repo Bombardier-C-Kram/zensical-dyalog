@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Edit Parents</span> {: .heading}
+# Edit Parents
 
 |----------------------------------------------|----------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)                |

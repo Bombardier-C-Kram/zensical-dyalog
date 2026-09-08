@@ -1,4 +1,6 @@
-# <span class="name">ItemDblClick</span> <span class="right">Event 342</span> {: .heading}
+# ItemDblClick
+
+Event 342
 
 
 

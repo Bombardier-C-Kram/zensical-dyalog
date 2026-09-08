@@ -1,4 +1,4 @@
-# <span class="name">State and Access Control</span> {: .heading}
+# State and Access Control
 
 Earlier, we have seen how shared variable state and access controls are used to ensure effective communication between two APL tasks. How do these concepts apply in the DDE environment when APL is using shared variables to communicate via DDE with both other APL workspaces, and with non-APL applications?
 

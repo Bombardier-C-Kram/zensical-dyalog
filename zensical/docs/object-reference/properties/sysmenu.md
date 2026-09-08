@@ -1,4 +1,6 @@
-# <span class="name">SysMenu</span> <span class="right">Property</span> {: .heading}
+# SysMenu
+
+Property
 
 
 

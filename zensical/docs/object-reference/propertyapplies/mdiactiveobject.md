@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIActiveObject Property</span> {: .heading}
+# MDIActiveObject Property
 
 |------------------------------------|------|------|
 |[MDIClient](../objects/mdiclient.md)|&nbsp;|&nbsp;|

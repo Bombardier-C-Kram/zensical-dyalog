@@ -7,7 +7,11 @@ search:
   ⎕DR DR
 </div>
 
-# <span class="name">Data Representation (Dyadic)</span> <span class="command">R←X ⎕DR Y</span> {: .heading}
+# Data Representation (Dyadic)
+
+```apl
+R←X ⎕DR Y
+```
 
 Dyadic `⎕DR` converts the data type of its argument `Y` according to the type specification `X`. See [Data Representation (Monadic)](data-representation-monadic.md) for a list of data types but note that 1287 is not a permitted value in `X`.
 
@@ -26,7 +30,7 @@ The result `R` is a two element nested array comprised of:
 1. The converted elements or a fill element (0 or blank) where the conversion failed
 2. A Boolean array of the same shape indicating which elements were successfully converted.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       bits← 0 1 0 0 1 0 0 0 , 0 1 0 0 1 0 1 1

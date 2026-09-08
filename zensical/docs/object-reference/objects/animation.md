@@ -1,4 +1,6 @@
-# <span class="name">Animation</span> <span class="right">Object</span> {: .heading}
+# Animation
+
+Object
 
 
 

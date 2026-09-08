@@ -1,4 +1,4 @@
-# <span class="name">Operator Syntax</span> {: .heading}
+# Operator Syntax
 
 Operators take one or two operands.  An operator with one operand is monadic.  The operand of a monadic operator is to the left of the operator.  An operator with two operands is dyadic.  Both operands are required for a dyadic operator.
 
@@ -8,7 +8,7 @@ An operand may be an array, a primitive function, a system function, a defined f
 
 An operator with its operand(s) forms a derived function. The derived function may be monadic or dyadic and it may or may not return an explicit result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +/⍳5
 15
@@ -28,7 +28,7 @@ Like primitive functions, monadic operators can be:
 - enclosed within parentheses
 - displayed in the session
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
       ⎕ ← each ← (¨)      ⍝ name and display
 ¨
@@ -48,7 +48,7 @@ Like primitive functions, monadic operators can be:
 
 A dyadic operator may be bound or *curried* with its right operand to form a monadic operator:
 
-<h4 class="example">Examples</h4>
+#### Examples
 ```apl
       ⎕ ← inv ← ⍣¯1  ⍝ produces monadic inverse operator
 ⍣ ¯1

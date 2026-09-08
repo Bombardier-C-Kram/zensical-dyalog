@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Edit Children</span> {: .heading}
+# Edit Children
 
 |------------------------------|------------------------------|--------------------------------|
 |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|[Ellipse](../objects/ellipse.md)|

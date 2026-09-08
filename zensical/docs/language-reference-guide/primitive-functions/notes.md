@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# <span class="name">Notes</span> {: .heading}
+# Notes
 
 ## Conformability
 
@@ -16,7 +16,7 @@ The Disclose function (`⊃`) returns the first item of an array.  If the array 
 
 Primitive functions which may return an array including fill elements are Expand (`\` or `⍀`), Replicate (`/` or `⌿`), Reshape (`⍴`) and Take (`↑`).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ML←0
@@ -44,7 +44,7 @@ Primitive functions which may return an array including fill elements are Expand
 
 The axis operator may be applied to all scalar dyadic primitive functions and certain mixed primitive functions.  An integer axis identifies a specific axis along which the function is to be applied to one or both of its arguments.  If the primitive function is to be applied without an axis specification, a default axis is implied, either the first or last.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       1 0 1/[1] 3 2⍴⍳6
 1 2
@@ -58,7 +58,7 @@ The axis operator may be applied to all scalar dyadic primitive functions and ce
 
 Sometimes the axis value is fractional, indicating that a new axis or axes are to be created between the axes identified by the lower and upper integer bounds of the value (either of which might not exist).
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'NAMES',[0.5]'='
 NAMES

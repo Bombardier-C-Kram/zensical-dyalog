@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusBar Parents</span> {: .heading}
+# StatusBar Parents
 
 |----------------------------------------------|----------------------------------|--------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)|

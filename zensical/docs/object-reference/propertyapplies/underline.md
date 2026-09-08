@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Underline Property</span> {: .heading}
+# Underline Property
 
 |--------------------------|------|------|
 |[Font](../objects/font.md)|&nbsp;|&nbsp;|

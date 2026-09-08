@@ -1,4 +1,4 @@
-# <span class="name">Files and Directories</span> {: .heading}
+# Files and Directories
 
 ## Unicode and Classic Editions
 

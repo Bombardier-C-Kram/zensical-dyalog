@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Reverse</span> <span class="command">R←⌽\[K\]Y</span> {: .heading}
+# Reverse
+
+```apl
+R←⌽[K]Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 `R` is the array `Y` reversed on the `K`th or implied axis.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⌽1 2 3 4 5
 5 4 3 2 1

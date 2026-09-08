@@ -6,7 +6,11 @@ search:
   × direction
 </div>
 
-# <span class="name">Direction (Signum)</span> <span class="command">R←×Y</span> {: .heading}
+# Direction (Signum)
+
+```apl
+R←×Y
+```
 
 `Y` may be any numeric array.
 
@@ -15,7 +19,7 @@ Where an element of `Y` is real, the corresponding element of `R` is an integer 
 
 Where an element of `Y` is complex, the corresponding element of `R` is a number with the same phase but with magnitude (absolute value) 1. It is equivalent to `Y÷|Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ×¯15.3 0 101
 ¯1 0 1

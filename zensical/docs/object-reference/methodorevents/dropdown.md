@@ -1,4 +1,6 @@
-# <span class="name">DropDown</span> <span class="right">Event 45</span> {: .heading}
+# DropDown
+
+Event 45
 
 [**Applies To**](../methodoreventapplies/dropdown.md)
 

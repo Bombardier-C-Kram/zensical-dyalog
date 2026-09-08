@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowItem Method</span> {: .heading}
+# ShowItem Method
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CharFormat Property</span> {: .heading}
+# CharFormat Property
 
 |----------------------------------|------|------|
 |[RichEdit](../objects/richedit.md)|&nbsp;|&nbsp;|

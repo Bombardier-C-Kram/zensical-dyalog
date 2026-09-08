@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SM Events</span> {: .heading}
+# SM Events
 
 |---------------------------------------------|---------------------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)          |[Create](../methodorevents/create.md)              |[MouseDown](../methodorevents/mousedown.md)  |

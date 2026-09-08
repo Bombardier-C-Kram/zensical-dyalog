@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageActiveObject Property</span> {: .heading}
+# PageActiveObject Property
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

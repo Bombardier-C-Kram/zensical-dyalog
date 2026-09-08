@@ -8,7 +8,11 @@ search:
   1159⌶
 </div>
 
-# <span class="name">Update Function Time and User Stamp</span> <span class="command">\{R\}←X(1159⌶)Y</span> {: .heading}
+# Update Function Time and User Stamp
+
+```apl
+{R}←X(1159⌶)Y
+```
 
 
 
@@ -29,7 +33,7 @@ The shy result `R` is a vector of numeric items, one per each specified function
 
 Note that the last item of the function timestamp must be set to 0 otherwise `1159 ⌶` will generate a `DOMAIN ERROR`. Additionally, the timestamp must be greater than `1970 1 1 0 0 0 0`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ]Disp ⎕AT'Christmas'

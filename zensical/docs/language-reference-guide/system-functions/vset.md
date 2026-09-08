@@ -7,7 +7,11 @@ search:
   ⎕VSET VSET
 </div>
 
-# <span class="name">Value Set</span> <span class="command">\{R\}←\{X\}⎕VSET Y</span> {: .heading}
+# Value Set
+
+```apl
+{R}←{X}⎕VSET Y
+```
 
 `⎕VSET` enables values to be set for names in a target namespace or target namespaces.
 
@@ -89,7 +93,7 @@ Multiple names, with a single value:
 The `Trigger` variant option specifies whether any [triggers](../../../programming-reference-guide/triggers/triggers) should be run for the modified variables in the target namespace that have triggers attached.
 The value must be a Boolean scalar. The default is `1`, meaning that triggers are run.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
       ⎕VR 'trigger'
      ∇trigger arg

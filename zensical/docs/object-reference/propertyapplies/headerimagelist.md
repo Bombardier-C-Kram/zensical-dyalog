@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HeaderImageList Property</span> {: .heading}
+# HeaderImageList Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

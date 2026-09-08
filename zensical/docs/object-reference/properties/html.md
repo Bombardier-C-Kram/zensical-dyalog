@@ -1,4 +1,6 @@
-# <span class="name">HTML</span> <span class="right">Property</span> {: .heading}
+# HTML
+
+Property
 
 **Applies To:** [HTMLRenderer](../objects/htmlrenderer.md)
 

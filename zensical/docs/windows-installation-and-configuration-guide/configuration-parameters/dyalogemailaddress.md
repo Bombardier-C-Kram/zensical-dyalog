@@ -1,3 +1,3 @@
-# <span class="name">DyalogEmailAddress</span> {: .heading}
+# DyalogEmailAddress
 
 This parameter specifies the contact email address for Dyalog Limited.

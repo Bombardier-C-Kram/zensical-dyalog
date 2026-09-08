@@ -1,4 +1,4 @@
-# <span class="name">:Implements Statement</span> {: .heading}
+# :Implements Statement
 
 The `:Implements` statement identifies the function to be one of the following types.
 ```apl

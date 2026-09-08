@@ -3,7 +3,11 @@ search:
   boost: 2
 ---
 
-# <span class="name">Indexing</span> <span class="command">R←X\[Y\]</span> {: .heading}
+# Indexing
+
+```apl
+R←X[Y]
+```
 
 `X` may be  any array. `Y` must be a valid index specification. `R` is an array composed of elements indexed from `X` and the shape of `R` is determined by the index specification.
 
@@ -20,7 +24,7 @@ For vector `X`, `Y` is a simple integer array composed of items from the set `�
 
 `R` consists of elements selected according to index positions in `Y`. `R` has the same shape as `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A←10 20 30 40 50
  
@@ -38,7 +42,7 @@ For vector `X`, `Y` is a simple integer array composed of items from the set `�
 
 For matrix `X`, `Y` is composed of two simple integer arrays separated by the semicolon character (`;`). The arrays select indices from the rows and columns of `X` respectively.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +M←2 4⍴10×⍳8
 10 20 30 40
@@ -51,7 +55,7 @@ For matrix `X`, `Y` is composed of two simple integer arrays separated by the se
 
 For higher-rank array `X`, `Y` is composed of a simple integer array for each axis of `X` with adjacent arrays separated by a single semicolon character (`;`). The arrays select indices from the respective axes of `X`, taken in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊢A←2 3 4⍴10×⍳24
  10  20  30  40
@@ -73,7 +77,7 @@ For higher-rank array `X`, `Y` is composed of a simple integer array for each ax
 
 If an indexing array is omitted for the `K`th axis, the index vector `⍳(⍴X)[K]` is assumed for that axis.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A[;2;]
  50  60  70  80
@@ -99,7 +103,7 @@ If an indexing array is omitted for the `K`th axis, the index vector `⍳(⍴X)[
 
 The index specification `Y` is a non-simple array. Each item identifies a single element of `X` by a set of indices with one element per axis of `X` in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       M
 10 20 30 40
@@ -141,7 +145,7 @@ Simple and Choose indexing are indistinguishable for vector `X`:
 
 The index specification `Y` is a non-simple integer array, each of whose items reach down to a nested element of `X`. The items of an item of `Y` are simple vectors (or scalars) forming sets of indices that index arrays at successive levels of `X` starting at the top-most level. A set of indices has one element per axis at the respective level of nesting of `X` in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       G←('ABC' 1)('DEF' 2)('GHI' 3)('JKL' 4)
       G←2 3⍴G,('MNO' 5)('PQR' 6)
@@ -177,7 +181,7 @@ The index specification `Y` is a non-simple integer array, each of whose items r
 
 If `Y` is a ref to an instance of a Class with a Default property, indexing is applied to the Default property. Similarly, indexing applied to a .NET collection returns the appropriate item(s) of the collection.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ↑⎕SRC c
 :Class c                 

@@ -1,4 +1,6 @@
-# <span class="name">HasCheckBox</span> <span class="right">Property</span> {: .heading}
+# HasCheckBox
+
+Property
 
 
 

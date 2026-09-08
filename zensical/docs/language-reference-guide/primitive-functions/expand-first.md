@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Expand First</span> <span class="command">R←X⍀Y</span> {: .heading}
+# Expand First
+
+```apl
+R←X⍀Y
+```
 
 
 

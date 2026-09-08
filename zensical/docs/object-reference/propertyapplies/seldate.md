@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelDate Property</span> {: .heading}
+# SelDate Property
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

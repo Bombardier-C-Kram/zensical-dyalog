@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CheckBoxes Property</span> {: .heading}
+# CheckBoxes Property
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

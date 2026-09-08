@@ -1,4 +1,4 @@
-# <span class="name">Notes</span> {: .heading}
+# Notes
 
 ## Indexing
 
@@ -41,7 +41,7 @@ For indexed assignment, `A[I]←B`, the right argument will be `B`, and the left
 
 In an expression in which an operator  takes primitive operands, APLMON will report the time for the operator itself.   If one of the operands is non-primitive, APLMON will report the time used by the operands.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ∇ APLMON expr
 [1]    2 ⎕NQ'.' 'APLMON' 'c:\dyalog17.0\aplmon'

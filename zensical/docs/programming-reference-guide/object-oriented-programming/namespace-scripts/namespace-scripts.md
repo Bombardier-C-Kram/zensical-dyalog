@@ -1,4 +1,4 @@
-# <span class="name">Namespace Scripts</span> {: .heading}
+# Namespace Scripts
 
 A Namespace Script is a script that begins with a `:Namespace` statement and ends with a `:EndNamespace` statement. When a Namespace Script is fixed, it establishes an entire namespace that may contain other namespaces, functions, variables and classes.
 
@@ -74,7 +74,7 @@ If you were to edit both the script and the function, the Editor would show the 
 
 When you fix the script, the version of the function in the script will replace the one created using `⎕FX`.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
 :Namespace ns
     ∇ foo

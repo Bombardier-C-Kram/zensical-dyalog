@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">too many names</span> {: .heading}
+# too many names
 
 
 

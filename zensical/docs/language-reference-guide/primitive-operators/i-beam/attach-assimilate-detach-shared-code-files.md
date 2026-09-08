@@ -8,7 +8,11 @@ search:
   8666⌶
 </div>
 
-# <span class="name">Attach/Assimilate/Detach Shared Code Files</span> <span class="command">\{R\}←\{X\} (8666⌶) Y</span> {: .heading}
+# Attach/Assimilate/Detach Shared Code Files
+
+```apl
+{R}←{X} (8666⌶) Y
+```
 
 **Restriction**: 64-bit Unicode only
 
@@ -54,5 +58,5 @@ Before a shared code file is disconnected from the active workspace:
 - if a name that was brought into the active workspace when the shared code file was attached has not had its associated code/data changed, then the name is expunged from the active workspace.
 - if a name in the active workspace embeds references to objects residing in a shared code file, then the entire definitions of the referenced objects are copied (assimilated) into the active workspace. This includes (for example), tacit functions that are derived from functions in a shared code file and arrays that contain references to data in a shared code file. These objects must still be functional following the disconnect.
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     As shared code files are read-only, they cannot be updated while they are in use. Instead, if a shared code file needs to be updated, it must be rebuilt. When a new version of a shared code file becomes available, anyone using the old version should detach it and attach the new one instead as soon as is practical.

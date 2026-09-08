@@ -3,13 +3,17 @@
 
 
 
-# <span class="name">List Classes</span> <span class="command">)CLASSES</span> {: .heading}
+# List Classes
+
+```apl
+)CLASSES
+```
 
 
 
 This command lists the names of APL Classes in the active workspace.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )CLEAR
 clear ws

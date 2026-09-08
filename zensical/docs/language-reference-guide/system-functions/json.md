@@ -7,7 +7,11 @@ search:
   ⎕JSON JSON
 </div>
 
-# <span class="name">JSON Convert</span> <span class="command">R←\{X\}⎕JSON Y</span> {: .heading}
+# JSON Convert
+
+```apl
+R←{X}⎕JSON Y
+```
 
 This function imports and exports data in [JavaScript Object Notation](https://www.json.org/json-en.html) (JSON) data interchange format.
 
@@ -15,7 +19,7 @@ This function imports and exports data in [JavaScript Object Notation](https://w
 
 If `X` is specified (that is, `⎕JSON` is called dyadically), it must be a numeric scalar with the value `0` for import or `1` for export.
 
-<h3 class="example">Examples</h3>
+### Examples
 
 Importing a JSON document to APL:
 ```apl
@@ -28,7 +32,7 @@ Exporting APL data to JSON:
 [1,-2,3]
 ```
 
-!!! Hint "Hints and Recommendations"
+!!! tip "Hints and Recommendations"
     As a mnemonic, think of `X` as specifying the desired "JSON-ness": `0` means "no JSON", that is, converting away from JSON; `1` means "yes JSON", that is, converting towards JSON.
 
 If `X` is not specified (that is, `⎕JSON` is called monadically), its assumed value depends on `Y`:  If `Y` is a character array, `X` is assumed to be `0`; otherwise it is assumed to be `1`.
@@ -60,7 +64,7 @@ By default, `R` is APL data, possibly containing sub-arrays and/or sub-namespace
 
 The [JSON standard](https://www.rfc-editor.org/info/rfc8259/#section-4) states that members of a JSON object should have unique names and that implementations vary in how they treat duplicates. Dyalog does not error on duplicates, but their handling depends on the **Format** variant option.
 
-<h3 class="example">Example</h3>
+### Example
 
 ```apl
       0 ⎕JSON'[1,-2,3]'
@@ -79,7 +83,7 @@ If `X` is `1`, the APL data `Y` is converted to a corresponding JSON document `R
 
 Some JSON values lack a direct APL equivalent (<code class="language-nonAPL">true</code>, <code class="language-nonAPL">false</code>, <code class="language-nonAPL">null</code>, JavaScript fragments), and some APL representations of datasets do not correspond to common JSON practice. Such cases are handled by [wrappers](#wrappers).
 
-<h3 class="example">Example</h3>
+### Example
 
 ```apl
       1 ⎕JSON 1 ¯2 3
@@ -92,7 +96,7 @@ For details and more examples, see [Export from Data](#export-from-data) and [Ex
 
 When `⎕JSON` converts a JSON document to APL data and a member of a JSON object has a name that is not a valid APL name, the member is renamed using a name mangling algorithm. This results in a name that begins with `⍙`. Any characters that cannot be part of an APL name are replaced with their [decimal Unicode code point](ucs.md#monadic-ucs) surrounded by `⍙`s.
 
-<h3 class="example">Example</h3>
+### Example
 
 In this example, the JSON document describes an object containing two numeric items, one named `a` (which is a valid APL name) and the other named `2a` (which is not a valid APL name):
 ```json
@@ -112,7 +116,7 @@ When the namespace is exported, `⎕JSON` reverses the mangling:
 {"a":1,"2a":2}
 ```
 
-<h3 class="example">Example</h3>
+### Example
 
 This object has a member name with a character (`ý`; `⎕UCS 253`) that is not allowed in APL names:
 ```json
@@ -128,7 +132,7 @@ The `ý` is replaced with `⍙253⍙` ("253" is the Unicode decimal character co
 
 [`7162⌶`](../primitive-operators/i-beam/json-translate-name.md) provides direct access to the name mangling algorithm.
 
-<h3 class="example">Example</h3>
+### Example
 
 The above name translations are verified using `7162⌶`:
 ```apl
@@ -178,7 +182,7 @@ If **Format** is `'D'` (which stands for "Data", the default), the JSON document
 - If the JSON source contains object member names that are not valid APL names, they are converted to APL namespace members with [mangled names](#name-mangling). The original names can be obtained using [`7162⌶`](../primitive-operators/i-beam/json-translate-name.md).
 - If duplicate names are found, the last member encountered is used and all previous members with the same name are discarded.
 
-<h5 class="example">Examples</h5>
+##### Examples
 
 The following JSON document is stored as the character vector `json`:
 ```json
@@ -282,7 +286,7 @@ Note that:
 - Object member names are reported as specified in the JSON text; they are not mangled as when **Format** is `'D'`.
 - If duplicate names are found, all duplicate members are recorded in the result matrix.
 
-<h5 class="example">Example</h5>
+##### Example
 This example uses the character vector `json` from the previous example:
 
 ```apl
@@ -351,7 +355,7 @@ If **Format** is `'D'` (which stands for "Data"), the APL value `Y` is converted
 - Enclosed vectors whose leading element is a wrapper code are interpreted as [wrappers](#wrappers) (mechanisms for special handling).
 - If a namespace member name appears to be mangled (has a form that would have been produced by [name mangling](#name-mangling)), it is demangled.
 
-<h5 class="example">Example</h5>
+##### Example
 
 ```apl
       ns←(
@@ -407,7 +411,7 @@ The difference between JSON types `6` and `7` is that `7` allows any text but `6
 
 If there are any mismatches between the values in `Y[;3]` and the types in `Y[;4]`, `⎕JSON` will signal `DOMAIN ERROR` and report the first row where there is a mismatch (`⎕IO` sensitive) as illustrated in the following example.
 
-<h5 class="example">Example</h5>
+##### Example
 
 ```apl
       m←0(⎕JSON⍠'M')'{"values": [ 75, 300 ]}'
@@ -449,7 +453,7 @@ On import, all JSON5 extensions are accepted.
 
 On export, the result is shortened by usage of identifiers without quotes, single quotes (`'`), and character escapes `\v` and of the form `\xNN` (for values less than hexadecimal 100, that is, `⎕UCS 256`). If [**Compact**](#variant-option-compact) is `0`, a trailing comma (`,`) is added after the last array element and object member.
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 ```apl
       1 ⎕JSON(a:'é"')
@@ -484,7 +488,7 @@ The **Null** variant option selects how JSON <code class="language-nonAPL">null<
 - If **Null** is `⊂'null'`, `⎕NULL` causes `DOMAIN ERROR`.
 - If **Null** is `⎕NULL`, `⊂'null'` is still exported as <code class="language-nonAPL">null</code> because it is interpreted as [raw text](#raw-text-wrapper).
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 ```apl
       0 ⎕JSON'[null,null]'
@@ -515,7 +519,7 @@ If **Compact** is `0`:
 - A space is inserted after `:` separating member name and value
 - If [**Dialect**](#variant-option-dialect) is `'JSON5'`, a trailing comma (`,`) is added after the last array element and object member
 
-<h4 class="example">Example</h4>
+#### Example
 
 The following examples use this namespace as APL data:
 ```apl
@@ -574,7 +578,7 @@ Non-compact JSON takes more than twice as much space, but is more readable, and 
 
 The **Charset** variant option can be used to either allow Unicode in the generated JSON (`'Unicode'`, the default) or restrict the output to ASCII characters (`'ASCII'`). When necessary, characters are converted to the hexadecimal form `\uNNNN`. If [**Dialect**](#variant-option-dialect) is `'JSON5'`, the form `\xNN` is used for values up to hexadecimal `FF` (`⎕UCS 255`).
 
-<h4 class="example">Example</h4>
+#### Example
 
 ```apl
       ns←(dé:'DÉ')
@@ -590,7 +594,7 @@ DÉ
 
 If **HighRank** is `'Error'` (the default), `⎕JSON` will signal a `DOMAIN ERROR` upon encountering any arrays in `Y` of rank higher than 1. If **HighRank** is `'Split'`, `⎕JSON` will recursively split any such arrays as necessary; in addition, [datasets](#dataset-wrappers) as inverted tables can have text columns represented as matrices.
 
-<h4 class="example">Example</h4>
+#### Example
 
 ```apl
       d←[[1 2 ⋄ 'AB']['ABC' ⋄ 'DEF']
@@ -701,7 +705,7 @@ This feature can be used to inject any raw text, although unless it is valid JSO
     ["foo"]
     ```
 
-<h4 class="example">Example</h4>
+#### Example
 
 This example illustrates how JavaScript objects can be exported; the object contains a JavaScript function that is specified by the contents of an enclosed character vector:
 
@@ -731,7 +735,7 @@ Table: Wrapper codes { #wrapper-codes-table }
 
 For wrapper code `4`, if [**HighRank**](#variant-option-highrank) is `'Split'`, character columns can also be stored as character matrices rather than vectors of character vectors, providing even better performance, but `⎕JSON` will preserve trailing spaces.
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 The data arrays are defined as follows:
 
@@ -810,7 +814,7 @@ Table: Wrappers forms for selecting dataset subsets { #subset-table }
 | fields             | `⊂wrapperCode wrapperData(⊂⍬)fieldIndices`            |
 | records and fields | `⊂wrapperCode wrapperData recordIndices fieldIndices` |
 
-<h4 class="example">Examples</h4>
+#### Examples
 
 To select the second record (Fork):
 

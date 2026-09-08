@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetPropertyInfo Method</span> {: .heading}
+# GetPropertyInfo Method
 
 |----------------------------------|------------------------------------|------|
 |[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|&nbsp;|

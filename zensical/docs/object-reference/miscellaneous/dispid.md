@@ -1,4 +1,4 @@
-# <span class="name">DISPID (Dispatch ID)</span> {: .heading}
+# DISPID (Dispatch ID)
 
 
 

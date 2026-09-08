@@ -1,4 +1,4 @@
-# <span class="name">UnicodeToClipboard</span> {: .heading}
+# UnicodeToClipboard
 
 **Classic Edition only.**
 

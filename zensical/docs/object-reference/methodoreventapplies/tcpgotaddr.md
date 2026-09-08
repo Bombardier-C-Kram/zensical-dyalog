@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPGotAddr Event</span> {: .heading}
+# TCPGotAddr Event
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

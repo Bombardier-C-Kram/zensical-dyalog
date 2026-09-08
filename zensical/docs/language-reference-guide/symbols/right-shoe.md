@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Right Shoe</span> <span class="command">⊃</span> {: .heading}
+# Right Shoe
+
+```apl
+⊃
+```
 
 Monadic Right Shoe means
 

@@ -1,4 +1,6 @@
-# <span class="name">GridPaste</span> <span class="right">Event 192</span> {: .heading}
+# GridPaste
+
+Event 192
 
 
 

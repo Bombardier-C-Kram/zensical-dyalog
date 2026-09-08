@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Quad Equal</span> <span class="command">⌸</span> {: .heading}
+# Quad Equal
+
+```apl
+⌸
+```
 
 
 Quad Equal is a monadic operator with an ambivalent operand

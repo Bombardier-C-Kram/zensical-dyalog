@@ -1,4 +1,6 @@
-# <span class="name">ActivateApp</span> <span class="right">Event 139</span> {: .heading}
+# ActivateApp
+
+Event 139
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">Dragable</span> <span class="right">Property</span> {: .heading}
+# Dragable
+
+Property
 
 [**Applies To**](../propertyapplies/dragable.md)
 

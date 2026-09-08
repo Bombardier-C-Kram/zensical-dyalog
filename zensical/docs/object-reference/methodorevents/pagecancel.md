@@ -1,4 +1,6 @@
-# <span class="name">PageCancel</span> <span class="right">Event 351</span> {: .heading}
+# PageCancel
+
+Event 351
 
 
 

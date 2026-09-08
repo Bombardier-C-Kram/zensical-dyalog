@@ -1,4 +1,6 @@
-# <span class="name">RemoteAddrName</span> <span class="right">Property</span> {: .heading}
+# RemoteAddrName
+
+Property
 
 
 

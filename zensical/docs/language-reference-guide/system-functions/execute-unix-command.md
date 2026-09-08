@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Execute Unix Command</span> <span class="command">\{R\}←⎕SH Y</span> {: .heading}
+# Execute Unix Command
+
+```apl
+{R}←⎕SH Y
+```
 
 
 
@@ -29,7 +33,7 @@ The system commands [`)SH`](../system-commands/sh.md) and [`)CMD`](../system-com
 
 See also [`⎕SHELL`](shell.md).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕SH'ls'
 FILES WS temp

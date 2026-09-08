@@ -1,4 +1,6 @@
-# <span class="name">DragDrop</span> <span class="right">Event 11</span> {: .heading}
+# DragDrop
+
+Event 11
 
 [**Applies To**](../methodoreventapplies/dragdrop.md)
 

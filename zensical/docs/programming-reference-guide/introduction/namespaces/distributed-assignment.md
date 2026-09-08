@@ -1,8 +1,8 @@
-# <span class="name">Distributed Assignment</span> {: .heading}
+# Distributed Assignment
 
 Assignment pervades nested strands of names to the left of the arrow. The conformability rules are the same as for scalar (pervasive) dyadic primitive functions such as '`+`'. The mechanism can be viewed as a way of naming the parts of a structure.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       EMP.(FirstName Age)
   JOHN  43   PAUL  44

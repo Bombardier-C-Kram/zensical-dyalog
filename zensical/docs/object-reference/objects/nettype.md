@@ -1,4 +1,6 @@
-# <span class="name">NetType</span> <span class="right">Object</span> {: .heading}
+# NetType
+
+Object
 
 
 

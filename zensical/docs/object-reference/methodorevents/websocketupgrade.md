@@ -1,4 +1,6 @@
-# <span class="name">WebSocketUpgrade</span> <span class="right">Event 841</span> {: .heading}
+# WebSocketUpgrade
+
+Event 841
 
 
 
@@ -39,7 +41,7 @@ In both cases,  the WebSocket ID is subsequently required to send a message  by 
 
 Note that several WebSocket connections may be made concurrently.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 ┌→────────────────────────────────────────────────────────┐
 │      ┌→───────────────┐ ┌→──────────────┐ ┌→──────────┐ │

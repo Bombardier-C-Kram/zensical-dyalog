@@ -1,4 +1,4 @@
-# <span class="name">Arrays of Namespace References</span> {: .heading}
+# Arrays of Namespace References
 
 You can construct arrays of refs using strand notation, array notation, catenate (`,`), reshape (`⍴`) and other structural primitives, as well as certain system functions.
 ```apl
@@ -60,7 +60,7 @@ Note that the expression to the right of the '`.`' pervades a nested array of re
 
 Note also that with successive expansions `(u v).(x y z).` ..., the final number of "leaf" terms is the product of the number of refs at each level.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       (JOHN PAUL)←()()
       JOHN.Children←()()

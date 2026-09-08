@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">InterceptedURLs Property</span> {: .heading}
+# InterceptedURLs Property
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

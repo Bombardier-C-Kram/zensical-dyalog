@@ -1,4 +1,6 @@
-# <span class="name">CalendarCols</span> <span class="right">Property</span> {: .heading}
+# CalendarCols
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FrameContextMenu Event</span> {: .heading}
+# FrameContextMenu Event
 
 |--------------------------|--------------------------------|------|
 |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|&nbsp;|

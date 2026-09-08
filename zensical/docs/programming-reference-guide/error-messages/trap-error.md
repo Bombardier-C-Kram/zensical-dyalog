@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">TRAP ERROR</span> <span class="command">84</span> {: .heading}
+# TRAP ERROR
+
+```apl
+84
+```
 
 
 

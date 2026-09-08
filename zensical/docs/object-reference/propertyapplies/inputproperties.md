@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">InputProperties Property</span> {: .heading}
+# InputProperties Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

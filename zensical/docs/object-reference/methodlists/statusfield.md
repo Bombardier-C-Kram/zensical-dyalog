@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusField Methods</span> {: .heading}
+# StatusField Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

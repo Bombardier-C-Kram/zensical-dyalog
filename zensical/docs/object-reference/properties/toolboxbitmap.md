@@ -1,4 +1,6 @@
-# <span class="name">ToolboxBitmap</span> <span class="right">Property</span> {: .heading}
+# ToolboxBitmap
+
+Property
 
 
 

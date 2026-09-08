@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Arbitrary Output</span> <span class="command">\{R\}←X ⎕ARBOUT Y</span> {: .heading}
+# Arbitrary Output
+
+```apl
+{R}←X ⎕ARBOUT Y
+```
 
 
 
@@ -35,7 +39,7 @@ The operation will fail with a `DOMAIN ERROR` if  `Y` contains anything other th
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 Write ASCII digits `'123'` to  stream 9:

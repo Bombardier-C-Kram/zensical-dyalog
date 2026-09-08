@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Spinner Events</span> {: .heading}
+# Spinner Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

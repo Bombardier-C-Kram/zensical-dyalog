@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Erase Object</span> <span class="command">)ERASE nms</span> {: .heading}
+# Erase Object
+
+```apl
+)ERASE nms
+```
 
 
 
@@ -22,7 +26,7 @@ If an object is not erased for any reason, the system reports  `not found`  foll
 
 Erasing objects such as external functions may have other implications: see [Expunge Object](../system-functions/ex.md) for details.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )ERASE FOO A ⎕IO
 not found ⎕IO

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CancelToClose Method</span> {: .heading}
+# CancelToClose Method
 
 |--------------------------------------------|------|------|
 |[PropertySheet](../objects/propertysheet.md)|&nbsp;|&nbsp;|

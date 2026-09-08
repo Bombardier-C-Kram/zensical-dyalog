@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ImageListObj Property</span> {: .heading}
+# ImageListObj Property
 
 |----------------------------------------|----------------------------------|--------------------------------------|
 |[ButtonEdit](../objects/buttonedit.md)  |[ComboEx](../objects/comboex.md)  |[CoolBar](../objects/coolbar.md)      |

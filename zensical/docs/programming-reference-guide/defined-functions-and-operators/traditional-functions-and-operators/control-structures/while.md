@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">While Statement</span> <span class="command">:While bexp</span> {: .heading}
+# While Statement
+
+```apl
+:While bexp
+```
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColumnClick Event</span> {: .heading}
+# ColumnClick Event
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

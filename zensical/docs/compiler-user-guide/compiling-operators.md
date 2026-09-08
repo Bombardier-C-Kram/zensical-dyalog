@@ -1,4 +1,4 @@
-# <span class="name">Compiling Operators</span> {: .heading}
+# Compiling Operators
 
 When compiling a defined function or operator, the compiler needs to know the nameclass of every name that is used. This presents a problem for defined operators, because the nameclass of the operands is not known:
 ```apl

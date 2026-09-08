@@ -2,7 +2,11 @@
 search:
   boost: 2
 ---
-# <span class="name">Log Use of Deprecated Features</span> <span class="command">\{R\}←(13⌶)Y</span> {: .heading}
+# Log Use of Deprecated Features
+
+```apl
+{R}←(13⌶)Y
+```
 
 Controls which deprecated features are logged when logging is enabled. For an overview of deprecated features and this I-beam's role in identifying them within your code, see [Deprecated functionality](../../../../programming-reference-guide/deprecated-functionality).
 
@@ -34,7 +38,7 @@ Each log entry is a complete JSON5 object definition that includes the following
 * `WSID`: the name of the workspace in which the feature was used.
 * `Stack`: an array of strings indicating the SIstack at the point the feature was used.
 
-<h2 class="example">Example</h2>
+## Example
 
 ```apl
       13⌶'List'

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Expunge Object</span> <span class="command">\{R\}←⎕EX Y</span> {: .heading}
+# Expunge Object
+
+```apl
+{R}←⎕EX Y
+```
 
 
 
@@ -25,7 +29,7 @@ Each name in `Y` is disassociated from its value if the active referent for the 
 The value of an element of `R` is 1 if the corresponding name in `Y` is now available for use.  This does not necessarily mean that the existing value was erased for that name.  A value of  0 is returned for an ill-formed name or for a distinguished name in `Y`.  The result is suppressed if not used or assigned.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕EX'VAR'
       +⎕EX'FOO' '⎕IO' 'X' '123'
@@ -36,7 +40,7 @@ The value of an element of `R` is 1 if the corresponding name in `Y` is now avai
 
 If a named object is being executed the existing value will continue to be used until its execution is completed.  However, the name becomes available immediately for other use.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )SI
 #.FOO[1]*

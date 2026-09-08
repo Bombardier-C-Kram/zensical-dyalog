@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TrackBar Children</span> {: .heading}
+# TrackBar Children
 
 |--------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)  |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

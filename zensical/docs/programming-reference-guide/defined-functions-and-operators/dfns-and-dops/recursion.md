@@ -1,4 +1,4 @@
-# <span class="name">Recursion</span> {: .heading}
+# Recursion
 
 A recursive dfn can refer to itself using its name explicitly, but because we allow unnamed functions, we also need a special symbol for implicit self-reference: `'∇'`. For example:
 ```apl
@@ -18,7 +18,7 @@ Recursive dops refer to their derived functions, that is the operator bound with
       }
 ```
 
-<h2 class="example">Example</h2>
+## Example
 
 The following example shows a rather contrived use of the second form of (operator) self reference. The `exp` operator composes its function operand with itself on each recursive call. This gives the effect of an exponential application of the original operand function:
 ```apl
@@ -31,7 +31,7 @@ The following example shows a rather contrived use of the second form of (operat
 1024
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇pow←{ ⍝ Function power.
 [1]        ⍺=0:⍵ ⍝ Apply function operand ⍺ times.

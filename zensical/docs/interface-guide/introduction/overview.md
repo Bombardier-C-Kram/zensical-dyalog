@@ -1,4 +1,4 @@
-# <span class="name">Overview</span> {: .heading}
+# Overview
 
 This manual describes various interfaces between Dyalog APL and Windows.
 

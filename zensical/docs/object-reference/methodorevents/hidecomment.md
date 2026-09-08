@@ -1,4 +1,6 @@
-# <span class="name">HideComment</span> <span class="right">Event 224</span> {: .heading}
+# HideComment
+
+Event 224
 
 
 

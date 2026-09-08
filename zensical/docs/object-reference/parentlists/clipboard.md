@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Clipboard Parents</span> {: .heading}
+# Clipboard Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)                  |

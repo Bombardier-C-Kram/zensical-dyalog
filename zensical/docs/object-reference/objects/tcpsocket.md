@@ -1,4 +1,6 @@
-# <span class="name">TCPSocket</span> <span class="right">Object</span> {: .heading}
+# TCPSocket
+
+Object
 
 
 

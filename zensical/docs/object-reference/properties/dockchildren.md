@@ -1,4 +1,6 @@
-# <span class="name">DockChildren</span> <span class="right">Property</span> {: .heading}
+# DockChildren
+
+Property
 
 
 

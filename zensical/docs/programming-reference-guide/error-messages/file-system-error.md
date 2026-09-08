@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE SYSTEM ERROR</span> <span class="command">26</span> {: .heading}
+# FILE SYSTEM ERROR
+
+```apl
+26
+```
 
 
 

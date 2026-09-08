@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Index with Axes</span> <span class="command">R←\{X\}⌷\[K\]Y</span> {: .heading}
+# Index with Axes
+
+```apl
+R←{X}⌷[K]Y
+```
 
 
 
@@ -30,7 +34,7 @@ In general, the result `R` is similar to that obtained by square-bracket indexin
 Note that index with axis may be used with selective specification. `⎕IO` is an implicit argument of index with axis.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      ⎕IO←1
  

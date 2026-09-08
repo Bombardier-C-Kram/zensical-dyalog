@@ -1,4 +1,4 @@
-# <span class="name">Statements</span> {: .heading}
+# Statements
 
 A statement is a line of characters understood by APL.  It may be composed of:
 
@@ -11,7 +11,7 @@ Each of the four parts is optional, but if present they must occur in the given 
 
 Comments are not executed by APL. Expressions in a line separated by `⋄` are taken in left-to-right order as they occur in the line. For output display purposes, each separated expression is treated as a separate statement.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       5×10
 50

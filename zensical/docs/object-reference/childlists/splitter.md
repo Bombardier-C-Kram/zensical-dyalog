@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter Children</span> {: .heading}
+# Splitter Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

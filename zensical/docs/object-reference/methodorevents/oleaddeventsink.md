@@ -1,4 +1,6 @@
-# <span class="name">OLEAddEventSink</span> <span class="right">Method 540</span> {: .heading}
+# OLEAddEventSink
+
+Method 540
 
 
 

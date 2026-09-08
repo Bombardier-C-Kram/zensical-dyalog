@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Execute Expression</span> <span class="command">R←X(85⌶)Y</span> {: .heading}
+# Execute Expression
+
+```apl
+R←X(85⌶)Y
+```
 
 
 
@@ -34,7 +38,7 @@ If `X` is 1, and the expression in `Y` returns an explicit result, `R` is that r
 
 If `X` is 0, and the expression in `Y` returns an explicit result or a shy result, `R` is that result (but is no longer shy). If the expression in `Y` returns no result, the function signals `ERROR 85`.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       ⍎'a←42'

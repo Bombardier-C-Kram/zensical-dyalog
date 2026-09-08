@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Squad</span> <span class="command">⌷</span> {: .heading}
+# Squad
+
+```apl
+⌷
+```
 
 Squad means
 [Materialise](../primitive-functions/materialise.md)

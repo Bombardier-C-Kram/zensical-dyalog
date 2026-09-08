@@ -1,4 +1,6 @@
-# <span class="name">CustomFormat</span> <span class="right">Property</span> {: .heading}
+# CustomFormat
+
+Property
 
 **Applies To:** [DateTimePicker](../objects/datetimepicker.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">PropertySheet</span> <span class="right">Object</span> {: .heading}
+# PropertySheet
+
+Object
 
 
 

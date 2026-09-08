@@ -1,4 +1,6 @@
-# <span class="name">SingleClickExpand</span> <span class="right">Property</span> {: .heading}
+# SingleClickExpand
+
+Property
 
 
 

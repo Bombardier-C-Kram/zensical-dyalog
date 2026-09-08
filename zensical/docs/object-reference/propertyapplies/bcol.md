@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BCol Property</span> {: .heading}
+# BCol Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

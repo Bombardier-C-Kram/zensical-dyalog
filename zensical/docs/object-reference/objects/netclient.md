@@ -1,4 +1,6 @@
-# <span class="name">NetClient</span> <span class="right">Object</span> {: .heading}
+# NetClient
+
+Object
 
 [Parents](../parentlists/netclient.md), [Children](../childlists/netclient.md)
 

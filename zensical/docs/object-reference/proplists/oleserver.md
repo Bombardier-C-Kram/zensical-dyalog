@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEServer Properties</span> {: .heading}
+# OLEServer Properties
 
 |---------------------------------------------|-------------------------------------------|-----------------------------------------------|
 |[Type](../properties/type.md)                |[ClassName](../properties/classname.md)    |[Event](../properties/event.md)                |

@@ -1,4 +1,8 @@
-# <span class="name">SessionTrace</span><span class="command">Event 527</span> {: .heading}
+# SessionTrace
+
+```apl
+Event 527
+```
 
 Applies To: [Session](./session-object.md)
 

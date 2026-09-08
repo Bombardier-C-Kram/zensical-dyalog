@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Wrap Property</span> {: .heading}
+# Wrap Property
 
 |----------------------------------|----------------------------------------|--------------------------------|
 |[ListView](../objects/listview.md)|[ProgressBar](../objects/progressbar.md)|[Spinner](../objects/spinner.md)|

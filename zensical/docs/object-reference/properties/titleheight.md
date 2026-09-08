@@ -1,4 +1,6 @@
-# <span class="name">TitleHeight</span> <span class="right">Property</span> {: .heading}
+# TitleHeight
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">FileBox</span> <span class="right">Object</span> {: .heading}
+# FileBox
+
+Object
 
 
 

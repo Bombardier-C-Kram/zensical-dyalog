@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Handle Property</span> {: .heading}
+# Handle Property
 
 |----------------------------------------------|----------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Button](../objects/button.md)              |

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BeginEditLabel Event</span> {: .heading}
+# BeginEditLabel Event
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

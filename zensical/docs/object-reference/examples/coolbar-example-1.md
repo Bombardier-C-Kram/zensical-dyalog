@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBar</span> <span class="right">Example 1</span> {: .heading}
+# CoolBar
+
+Example 1
 
 
 ```apl

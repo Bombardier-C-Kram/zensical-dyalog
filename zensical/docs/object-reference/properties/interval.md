@@ -1,4 +1,6 @@
-# <span class="name">Interval</span> <span class="right">Property</span> {: .heading}
+# Interval
+
+Property
 
 
 

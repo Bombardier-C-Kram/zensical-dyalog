@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Marker Methods</span> {: .heading}
+# Marker Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

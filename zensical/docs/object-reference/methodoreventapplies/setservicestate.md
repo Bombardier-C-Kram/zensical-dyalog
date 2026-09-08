@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetServiceState Method</span> {: .heading}
+# SetServiceState Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

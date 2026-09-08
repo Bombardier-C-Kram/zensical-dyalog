@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SplitObj1 Property</span> {: .heading}
+# SplitObj1 Property
 
 |----------------------------------|------|------|
 |[Splitter](../objects/splitter.md)|&nbsp;|&nbsp;|

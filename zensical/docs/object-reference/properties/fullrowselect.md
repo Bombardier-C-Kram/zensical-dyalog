@@ -1,4 +1,6 @@
-# <span class="name">FullRowSelect</span> <span class="right">Property</span> {: .heading}
+# FullRowSelect
+
+Property
 
 
 

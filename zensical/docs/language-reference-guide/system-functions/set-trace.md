@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Set Trace</span> <span class="command">\{R\}←X ⎕TRACE Y</span> {: .heading}
+# Set Trace
+
+```apl
+{R}←X ⎕TRACE Y
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 `R` is a simple integer vector of non-negative elements indicating the lines in the function or operator on which a trace control has been placed.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       +(0,⍳10) ⎕TRACE'FOO'
 0 1
@@ -72,7 +76,7 @@ For each traced line, the output from `⎕TRACE` is displayed as a two element v
 - `→` followed by a line number.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕VR 'DSL'
      ∇ R←DSL SKIP;A;B;C;D

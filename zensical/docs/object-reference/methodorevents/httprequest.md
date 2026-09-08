@@ -1,4 +1,6 @@
-# <span class="name">HTTPRequest</span> <span class="right">Event 840</span> {: .heading}
+# HTTPRequest
+
+Event 840
 
 
 
@@ -65,7 +67,7 @@ For a complete list of media/MIME types, see:
 [https://www.iana.org/assignments/media-types/media-types.xhtml](https://www.iana.org/assignments/media-types/media-types.xhtml):
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 <!DOCTYPE html>
 <html>

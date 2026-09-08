@@ -1,4 +1,6 @@
-# <span class="name">GetMinSize</span> <span class="right">Method 275</span> {: .heading}
+# GetMinSize
+
+Method 275
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CoolBand Events</span> {: .heading}
+# CoolBand Events
 
 |-----------------------------------------|-----------------------------------------------|---------------------------------------------|
 |[Close](../methodorevents/close.md)      |[Create](../methodorevents/create.md)          |[DockStart](../methodorevents/dockstart.md)  |

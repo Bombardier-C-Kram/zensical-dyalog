@@ -1,4 +1,6 @@
-# <span class="name">WebSocketClose</span> <span class="right">Event 843</span> {: .heading}
+# WebSocketClose
+
+Event 843
 
 
 
@@ -23,7 +25,7 @@ The event message reported as the result of `⎕DQ`, or supplied as the right ar
 
 When called as a method, the result is 0.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
     hr.WebSocketClose '223d0f781e95113'
 

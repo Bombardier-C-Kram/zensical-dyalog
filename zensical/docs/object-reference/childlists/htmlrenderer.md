@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HTMLRenderer Children</span> {: .heading}
+# HTMLRenderer Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

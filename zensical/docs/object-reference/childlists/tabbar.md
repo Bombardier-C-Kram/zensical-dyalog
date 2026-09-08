@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabBar Children</span> {: .heading}
+# TabBar Children
 
 |------------------------------|--------------------------------|----------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Font](../objects/font.md)  |

@@ -1,4 +1,6 @@
-# <span class="name">EndEditLabel</span> <span class="right">Event 301</span> {: .heading}
+# EndEditLabel
+
+Event 301
 
 
 

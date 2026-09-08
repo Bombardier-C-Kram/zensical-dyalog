@@ -1,4 +1,6 @@
-# <span class="name">MetafileObj</span> <span class="right">Property</span> {: .heading}
+# MetafileObj
+
+Property
 
 
 

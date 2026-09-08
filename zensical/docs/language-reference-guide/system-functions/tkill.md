@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Kill Thread</span> <span class="command">\{R\}←\{X\}⎕TKILL Y</span> {: .heading}
+# Kill Thread
+
+```apl
+{R}←{X}⎕TKILL Y
+```
 
 
 
@@ -25,7 +29,7 @@ The shy result `R` is a vector of the numbers of all threads that have been term
 The **base thread** 0 is always excluded from the cull.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕TKILL 0            ⍝ Kill background threads.
  

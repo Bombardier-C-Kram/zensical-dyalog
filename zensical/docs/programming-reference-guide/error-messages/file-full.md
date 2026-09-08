@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE FULL</span> <span class="command">21</span> {: .heading}
+# FILE FULL
+
+```apl
+21
+```
 
 
 

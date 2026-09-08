@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MsgBtn1 Event</span> {: .heading}
+# MsgBtn1 Event
 
 |------------------------------|------|------|
 |[MsgBox](../objects/msgbox.md)|&nbsp;|&nbsp;|

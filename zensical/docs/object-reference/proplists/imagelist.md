@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ImageList Properties</span> {: .heading}
+# ImageList Properties
 
 |---------------------------------------|-------------------------------------------|-----------------------------------------|
 |[Type](../properties/type.md)          |[Size](../properties/size.md)              |[Event](../properties/event.md)          |

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">KEY CODE UNRECOGNISED</span> <span class="command">61</span> {: .heading}
+# KEY CODE UNRECOGNISED
+
+```apl
+61
+```
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileBox Properties</span> {: .heading}
+# FileBox Properties
 
 |-----------------------------------------|---------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)            |[Caption](../properties/caption.md)    |[Directory](../properties/directory.md)    |

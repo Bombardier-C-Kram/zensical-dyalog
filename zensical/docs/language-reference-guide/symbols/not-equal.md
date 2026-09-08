@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Not Equal</span> <span class="command">≠</span> {: .heading}
+# Not Equal
+
+```apl
+≠
+```
 
 Monadic Not Equal means
 [Unique Mask](../primitive-functions/unique-mask.md)

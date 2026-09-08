@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Cursor Children</span> {: .heading}
+# Cursor Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

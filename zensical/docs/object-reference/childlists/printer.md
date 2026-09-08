@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Printer Children</span> {: .heading}
+# Printer Children
 
 |------------------------------|----------------------------------|--------------------------------|
 |[Bitmap](../objects/bitmap.md)|[Circle](../objects/circle.md)    |[Ellipse](../objects/ellipse.md)|

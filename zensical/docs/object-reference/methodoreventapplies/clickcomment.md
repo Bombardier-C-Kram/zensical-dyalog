@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ClickComment Event</span> {: .heading}
+# ClickComment Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

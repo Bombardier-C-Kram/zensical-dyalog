@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AnimPlay Method</span> {: .heading}
+# AnimPlay Method
 
 |------------------------------------|------|------|
 |[Animation](../objects/animation.md)|&nbsp;|&nbsp;|

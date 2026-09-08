@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Orientation Property</span> {: .heading}
+# Orientation Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

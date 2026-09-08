@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Penguin Class</span> {: .heading}
+# Penguin Class
 
 ```apl
 :Class Penguin: Animal,BirdBehaviour,FishBehaviour

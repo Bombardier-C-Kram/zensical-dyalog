@@ -1,4 +1,6 @@
-# <span class="name">ToolBar</span> <span class="right">Object</span> {: .heading}
+# ToolBar
+
+Object
 
 
 

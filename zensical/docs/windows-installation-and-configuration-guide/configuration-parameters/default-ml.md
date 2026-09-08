@@ -1,4 +1,4 @@
-# <span class="name">Default\_ML</span> {: .heading}
+# Default\_ML
 
 This parameter specifies the value of `⎕ML` in a clear workspace. Its default value is 1.
 

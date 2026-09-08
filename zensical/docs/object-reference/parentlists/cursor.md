@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Cursor Parents</span> {: .heading}
+# Cursor Parents
 
 |----------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Button](../objects/button.md)          |

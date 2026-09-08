@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowTitleDepth Property</span> {: .heading}
+# RowTitleDepth Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

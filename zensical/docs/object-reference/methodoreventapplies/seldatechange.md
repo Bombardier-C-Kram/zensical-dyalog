@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelDateChange Event</span> {: .heading}
+# SelDateChange Event
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

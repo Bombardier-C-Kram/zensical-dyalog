@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Iota Underbar</span> <span class="command">⍸</span> {: .heading}
+# Iota Underbar
+
+```apl
+⍸
+```
 
 Monadic Iota Underbar means
 [Where](../primitive-functions/where.md)

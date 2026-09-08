@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HelpFile Property</span> {: .heading}
+# HelpFile Property
 
 |----------------------------------------------|----------------------------------|------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|

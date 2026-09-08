@@ -8,7 +8,11 @@ search:
   8373⌶
 </div>
 
-# <span class="name">Shell Process Control</span> <span class="command">R←\{X\}(8373⌶)Y</span> {: .heading}
+# Shell Process Control
+
+```apl
+R←{X}(8373⌶)Y
+```
 
 This function provides a way to determine the process IDs of processes started by [`⎕SHELL`](../../system-functions/shell.md), as well as enabling the sending of signals to any of those processes.
 
@@ -43,5 +47,5 @@ If `Y` is `⍬`, then `R` is a numeric vector containing all the process IDs of 
 `R` is a Boolean scalar indicating whether the signal was successfully sent (`1`), as reported by the operating-system.
 
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
 	On Microsoft Windows, the only valid value for `X` is `9`, which makes the I-beam call `TerminateProcess()` on the child process.

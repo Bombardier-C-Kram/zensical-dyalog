@@ -1,4 +1,6 @@
-# <span class="name">TabObj</span> <span class="right">Property</span> {: .heading}
+# TabObj
+
+Property
 
 
 

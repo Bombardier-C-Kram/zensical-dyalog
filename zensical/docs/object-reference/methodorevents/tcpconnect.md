@@ -1,4 +1,6 @@
-# <span class="name">TCPConnect</span> <span class="right">Event 372</span> {: .heading}
+# TCPConnect
+
+Event 372
 
 
 

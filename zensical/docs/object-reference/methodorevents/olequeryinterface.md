@@ -1,4 +1,6 @@
-# <span class="name">OLEQueryInterface</span> <span class="right">Method 543</span> {: .heading}
+# OLEQueryInterface
+
+Method 543
 
 
 

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Star Diaeresis</span> <span class="command">⍣</span> {: .heading}
+# Star Diaeresis
+
+```apl
+⍣
+```
 
 Star Diaeresis is a dyadic operator with an ambivalent left operand and an integer or dyadic right operand
 

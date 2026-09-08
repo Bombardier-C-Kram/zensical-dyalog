@@ -1,4 +1,6 @@
-# <span class="name">GetTipText</span> <span class="right">Event 325</span> {: .heading}
+# GetTipText
+
+Event 325
 
 
 

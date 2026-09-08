@@ -1,4 +1,6 @@
-# <span class="name">Spin</span> <span class="right">Event 420</span> {: .heading}
+# Spin
+
+Event 420
 
 
 

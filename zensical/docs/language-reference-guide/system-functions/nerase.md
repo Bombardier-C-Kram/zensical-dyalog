@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Native File Erase</span> <span class="command">\{R\}←X ⎕NERASE Y</span> {: .heading}
+# Native File Erase
+
+```apl
+{R}←X ⎕NERASE Y
+```
 
 
 
@@ -22,7 +26,7 @@ This function erases (deletes) a tied native file.  `Y` is a negative integer ti
 
 The shy result of `⎕NERASE` is the tie number that the erased file had.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       file ⎕NERASE file ⎕NTIE 0
 ```

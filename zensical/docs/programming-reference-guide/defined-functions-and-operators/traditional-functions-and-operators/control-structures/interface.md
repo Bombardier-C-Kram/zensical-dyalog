@@ -1,4 +1,4 @@
-# <span class="name">:Interface Statement</span> {: .heading}
+# :Interface Statement
 
 ```apl
  :Interface <interface name>

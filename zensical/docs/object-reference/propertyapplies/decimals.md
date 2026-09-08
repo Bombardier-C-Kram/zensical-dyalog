@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Decimals Property</span> {: .heading}
+# Decimals Property
 
 |--------------------------------------|--------------------------|----------------------------|
 |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|[Label](../objects/label.md)|

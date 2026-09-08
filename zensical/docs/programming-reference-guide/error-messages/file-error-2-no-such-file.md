@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">FILE ERROR 2 No such file</span> {: .heading}
+# FILE ERROR 2 No such file
 
 
 

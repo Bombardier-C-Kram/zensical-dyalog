@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">PropertyShape Function</span> <span class="command">R←Shape \{ipa\}</span> {: .heading}
+# PropertyShape Function
+
+```apl
+R←Shape {ipa}
+```
 
 
 

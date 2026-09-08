@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActiveXControl Parents</span> {: .heading}
+# ActiveXControl Parents
 
 |--------------------------|------|------|
 |[Form](../objects/form.md)|&nbsp;|&nbsp;|

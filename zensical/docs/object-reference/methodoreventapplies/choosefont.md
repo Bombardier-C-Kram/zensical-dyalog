@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ChooseFont Method</span> {: .heading}
+# ChooseFont Method
 
 |----------------------------------------------|--------------------------------------------|--------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Button](../objects/button.md)              |[ButtonEdit](../objects/buttonedit.md)|

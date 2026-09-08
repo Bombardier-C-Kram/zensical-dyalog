@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Clear State Indicator</span> <span class="command">)SIC</span> {: .heading}
+# Clear State Indicator
+
+```apl
+)SIC
+```
 
 
 

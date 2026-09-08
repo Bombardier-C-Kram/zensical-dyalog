@@ -1,4 +1,6 @@
-# <span class="name">CellDblClick</span> <span class="right">Event 163</span> {: .heading}
+# CellDblClick
+
+Event 163
 
 
 

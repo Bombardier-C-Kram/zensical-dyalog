@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TreeView Properties</span> {: .heading}
+# TreeView Properties
 
 |-----------------------------------------------------------|---------------------------------------------|-----------------------------------------------|
 |[Type](../properties/type.md)                              |[Items](../properties/items.md)              |[Posn](../properties/posn.md)                  |

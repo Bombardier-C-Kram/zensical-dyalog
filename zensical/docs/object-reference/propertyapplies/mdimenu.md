@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIMenu Property</span> {: .heading}
+# MDIMenu Property
 
 |--------------------------------|------|------|
 |[MenuBar](../objects/menubar.md)|&nbsp;|&nbsp;|

@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Specify Workspace Available</span> <span class="command">R←2002⌶Y</span> {: .heading}
+# Specify Workspace Available
+
+```apl
+R←2002⌶Y
+```
 
 
 

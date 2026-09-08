@@ -1,4 +1,4 @@
-# <span class="name">Glyphs</span> {: .heading}
+# Glyphs
 
 ## Overview
 

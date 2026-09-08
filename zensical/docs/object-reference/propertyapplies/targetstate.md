@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TargetState Property</span> {: .heading}
+# TargetState Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

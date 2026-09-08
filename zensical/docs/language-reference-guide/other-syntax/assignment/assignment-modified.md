@@ -7,7 +7,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment (Modified)</span> <span class="command">\{R\}←Xf←Y</span> {: .heading}
+# Assignment (Modified)
+
+```apl
+{R}←Xf←Y
+```
 
 `f` may be any dyadic function which returns an explicit result.  `Y` may be any array  appropriate to function `f`.  `X` must be the *name* of an existing array appropriate to function `f`.
 
@@ -15,7 +19,7 @@ search:
 
 The effect of the derived function is to reset the value of the array named by `X` to the result of `XfY`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       A
 1 2 3 4 5

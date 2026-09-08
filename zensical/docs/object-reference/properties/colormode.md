@@ -1,4 +1,6 @@
-# <span class="name">ColorMode</span> <span class="right">Property</span> {: .heading}
+# ColorMode
+
+Property
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Key to Notation</span> {: .heading}
+# Key to Notation
 
 The following definitions and conventions apply throughout this section:
 

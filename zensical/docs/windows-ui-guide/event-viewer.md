@@ -1,4 +1,4 @@
-# <span class="name">The Event Viewer</span> {: .heading}
+# The Event Viewer
 
 The *Event Viewer* can be used to monitor events on Dyalog APL GUI objects. To display the *Event Viewer*, select *Event Viewer* from the *Session Tools* menu.
 

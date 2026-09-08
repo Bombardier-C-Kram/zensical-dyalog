@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Query Monitor</span> <span class="command">R←⎕MONITOR Y</span> {: .heading}
+# Query Monitor
+
+```apl
+R←⎕MONITOR Y
+```
 
 
 
@@ -36,7 +40,7 @@ Note that `⎕MONITOR` does not apply to  dfns or dops.
 The value of `0` in column one indicates that the monitor is set on the function or operator as a whole. `R` will be empty for dfns and dops.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ∇ FOO
 [1]   A←?25 25⍴100

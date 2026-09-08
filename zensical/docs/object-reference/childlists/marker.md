@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Marker Children</span> {: .heading}
+# Marker Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

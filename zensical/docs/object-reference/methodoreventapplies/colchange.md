@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColChange Method</span> {: .heading}
+# ColChange Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

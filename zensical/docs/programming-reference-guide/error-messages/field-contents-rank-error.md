@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FIELD CONTENTS RANK ERROR</span> <span class="command">52</span> {: .heading}
+# FIELD CONTENTS RANK ERROR
+
+```apl
+52
+```
 
 
 

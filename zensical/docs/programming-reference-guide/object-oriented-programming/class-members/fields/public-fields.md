@@ -1,4 +1,4 @@
-# <span class="name">Public Fields</span> {: .heading}
+# Public Fields
 
 A *Public* Field may be accessed from outside an Instance or a Class. Note that the default is *Private*.
 

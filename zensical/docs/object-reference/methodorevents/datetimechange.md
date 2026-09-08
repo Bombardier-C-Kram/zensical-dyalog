@@ -1,4 +1,6 @@
-# <span class="name">DateTimeChange</span> <span class="right">Event 267</span> {: .heading}
+# DateTimeChange
+
+Event 267
 
 
 

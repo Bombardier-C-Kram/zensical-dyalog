@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridSelect Event</span> {: .heading}
+# GridSelect Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

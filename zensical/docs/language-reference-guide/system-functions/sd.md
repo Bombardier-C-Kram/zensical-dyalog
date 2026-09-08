@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Screen Dimensions</span> <span class="command">R←⎕SD</span> {: .heading}
+# Screen Dimensions
+
+```apl
+R←⎕SD
+```
 
 
 

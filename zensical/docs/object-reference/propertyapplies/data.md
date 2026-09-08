@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Data Property</span> {: .heading}
+# Data Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

@@ -1,4 +1,6 @@
-# <span class="name">ShowCaptions</span> <span class="right">Property</span> {: .heading}
+# ShowCaptions
+
+Property
 
 
 

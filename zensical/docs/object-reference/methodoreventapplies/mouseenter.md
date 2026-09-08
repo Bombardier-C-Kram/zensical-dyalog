@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MouseEnter Event</span> {: .heading}
+# MouseEnter Event
 
 |----------------------------------------------|----------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |[Button](../objects/button.md)                |

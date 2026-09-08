@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Load Workspace</span> <span class="command">)LOAD \{ws\}</span> {: .heading}
+# Load Workspace
+
+```apl
+)LOAD {ws}
+```
 
 
 
@@ -28,7 +32,7 @@ Holding the Ctrl key down while entering a `)LOAD` command or selecting a worksp
 
 Holding the Shift key down while selecting a workspace from the session file menu will *prevent* execution of the latent expression.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       )LOAD dfns

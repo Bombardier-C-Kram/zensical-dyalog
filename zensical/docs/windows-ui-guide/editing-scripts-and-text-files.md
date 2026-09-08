@@ -1,4 +1,4 @@
-# <span class="name">Editing Scripts and Text Files</span> {: .heading}
+# Editing Scripts and Text Files
 
 The Editor may also be used to edit Dyalog script files (`.dyalog` files) and general text files.
 
@@ -6,7 +6,7 @@ There are two ways to choose the file to be edited. If the file exists, you can 
 
 Alternatively, type `)ED` followed by the pathname to the file. To identify the name given as a file, it must either contain a slash character ("\" or "/") or be preceded by one.
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       )ED c:\myfiles\myscript.dyalog

@@ -1,4 +1,6 @@
-# <span class="name">TCPReady</span> <span class="right">Event 379</span> {: .heading}
+# TCPReady
+
+Event 379
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Adding Calculate Buttons</span> {: .heading}
+# Adding Calculate Buttons
 
 Our Temperature Converter must work both ways; from Fahrenheit to Centigrade and vice versa. There are a number of different ways of making this happen.
 

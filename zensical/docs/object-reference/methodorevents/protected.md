@@ -1,4 +1,6 @@
-# <span class="name">Protected</span> <span class="right">Event 470</span> {: .heading}
+# Protected
+
+Event 470
 
 
 

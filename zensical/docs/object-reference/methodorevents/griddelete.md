@@ -1,4 +1,6 @@
-# <span class="name">GridDelete</span> <span class="right">Event 193</span> {: .heading}
+# GridDelete
+
+Event 193
 
 
 

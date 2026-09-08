@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabButton Properties</span> {: .heading}
+# TabButton Properties
 
 |-----------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)            |[Caption](../properties/caption.md)        |[Posn](../properties/posn.md)              |

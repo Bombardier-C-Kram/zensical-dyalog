@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIClient Methods</span> {: .heading}
+# MDIClient Methods
 
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |[Detach](../methodorevents/detach.md)        |[MDICascade](../methodorevents/mdicascade.md)  |[MDITile](../methodorevents/mditile.md)        |

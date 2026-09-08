@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ItemUp Event</span> {: .heading}
+# ItemUp Event
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

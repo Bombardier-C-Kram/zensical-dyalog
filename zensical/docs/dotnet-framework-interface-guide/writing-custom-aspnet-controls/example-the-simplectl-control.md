@@ -1,4 +1,4 @@
-# <span class="name">Example: The SimpleCtl Control</span> {: .heading}
+# Example: The SimpleCtl Control
 
 The `SimpleCtl` class is:
 ```apl

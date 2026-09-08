@@ -1,4 +1,6 @@
-# <span class="name">VariableHeight</span> <span class="right">Property</span> {: .heading}
+# VariableHeight
+
+Property
 
 
 

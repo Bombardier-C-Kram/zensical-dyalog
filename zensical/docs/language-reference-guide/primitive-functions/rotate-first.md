@@ -6,7 +6,11 @@ search:
   ⊖ rotate
 </div>
 
-# <span class="name">Rotate First</span> <span class="command">R←X⊖\[K\]Y</span> {: .heading}
+# Rotate First
+
+```apl
+R←X⊖[K]Y
+```
 
 The form `R←X⊖Y` implies rotation along the first axis.  See [Rotate](rotate.md).
 

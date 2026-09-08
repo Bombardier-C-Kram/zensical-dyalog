@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageChanged Event</span> {: .heading}
+# PageChanged Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

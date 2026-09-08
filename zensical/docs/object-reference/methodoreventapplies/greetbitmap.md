@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GreetBitmap Method</span> {: .heading}
+# GreetBitmap Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

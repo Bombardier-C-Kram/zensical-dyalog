@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Ellipse Parents</span> {: .heading}
+# Ellipse Parents
 
 |----------------------------------------------|--------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |[Bitmap](../objects/bitmap.md)          |

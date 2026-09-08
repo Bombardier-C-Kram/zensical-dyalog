@@ -1,4 +1,6 @@
-# <span class="name">Print</span> <span class="right">Method 100</span> {: .heading}
+# Print
+
+Method 100
 
 
 

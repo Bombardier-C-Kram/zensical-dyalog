@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AddCol Event</span> {: .heading}
+# AddCol Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

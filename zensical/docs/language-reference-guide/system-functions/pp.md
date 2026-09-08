@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Print Precision</span> <span class="command">⎕PP</span> {: .heading}
+# Print Precision
+
+```apl
+⎕PP
+```
 
 
 
@@ -22,7 +26,7 @@ search:
 `⎕PP` is used to format numbers displayed directly. It is an implicit argument of monadic function Format (`⍕`), monadic `⎕FMT` and for display of numbers via `⎕` and `⍞` output. `⎕PP` is ignored for the display of integers.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕PP←10

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Rect Children</span> {: .heading}
+# Rect Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

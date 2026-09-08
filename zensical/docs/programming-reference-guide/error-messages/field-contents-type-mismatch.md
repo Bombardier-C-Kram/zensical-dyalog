@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FIELD CONTENTS TYPE MISMATCH</span> <span class="command">56</span> {: .heading}
+# FIELD CONTENTS TYPE MISMATCH
+
+```apl
+56
+```
 
 
 

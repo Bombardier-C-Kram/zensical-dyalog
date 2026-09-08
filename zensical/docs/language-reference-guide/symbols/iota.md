@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Iota</span> <span class="command">⍳</span> {: .heading}
+# Iota
+
+```apl
+⍳
+```
 
 Monadic Iota means
 [Index Generator

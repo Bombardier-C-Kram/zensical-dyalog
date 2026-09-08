@@ -1,4 +1,4 @@
-# <span class="name">Appendix B</span> {: .heading}
+# Appendix B
 
 Keycodes, their common keystrokes, and the keystrokes specific to the PuTTY terminal emulator.
 

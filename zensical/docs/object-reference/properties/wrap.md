@@ -1,4 +1,6 @@
-# <span class="name">Wrap</span> <span class="right">Property</span> {: .heading}
+# Wrap
+
+Property
 
 
 

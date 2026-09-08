@@ -1,4 +1,6 @@
-# <span class="name">PageActive</span> <span class="right">Property</span> {: .heading}
+# PageActive
+
+Property
 
 
 

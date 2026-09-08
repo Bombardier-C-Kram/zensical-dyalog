@@ -1,4 +1,6 @@
-# <span class="name">URL</span> <span class="right">Property</span> {: .heading}
+# URL
+
+Property
 
 
 

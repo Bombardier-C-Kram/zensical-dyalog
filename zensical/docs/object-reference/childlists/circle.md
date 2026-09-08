@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Circle Children</span> {: .heading}
+# Circle Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

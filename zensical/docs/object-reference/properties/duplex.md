@@ -1,4 +1,6 @@
-# <span class="name">Duplex</span> <span class="right">Property</span> {: .heading}
+# Duplex
+
+Property
 
 
 

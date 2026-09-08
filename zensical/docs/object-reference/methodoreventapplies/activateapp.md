@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActivateApp Event</span> {: .heading}
+# ActivateApp Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

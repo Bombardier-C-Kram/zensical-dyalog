@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE TIED</span> <span class="command">24</span> {: .heading}
+# FILE TIED
+
+```apl
+24
+```
 
 
 

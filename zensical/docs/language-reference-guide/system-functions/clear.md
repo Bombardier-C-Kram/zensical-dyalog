@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Clear Workspace</span> <span class="command">⎕CLEAR</span> {: .heading}
+# Clear Workspace
+
+```apl
+⎕CLEAR
+```
 
 
 
@@ -21,7 +25,7 @@ A clear workspace is activated, having the name `CLEAR WS`.  The active workspac
 
 Apart from .NET objects, the contents of the session namespace `⎕SE` are not affected. .NET objects in `⎕SE` are disconnected from .NET because `⎕CLEAR` closes the current .NET AppDomain.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ⎕CLEAR

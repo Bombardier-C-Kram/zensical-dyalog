@@ -1,4 +1,6 @@
-# <span class="name">LWidth</span> <span class="right">Property</span> {: .heading}
+# LWidth
+
+Property
 
 
 

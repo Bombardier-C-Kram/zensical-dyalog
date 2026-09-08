@@ -1,4 +1,6 @@
-# <span class="name">VThumbDrag</span> <span class="right">Event 441</span> {: .heading}
+# VThumbDrag
+
+Event 441
 
 
 

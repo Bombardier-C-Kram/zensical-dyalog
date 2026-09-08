@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Thread Child Numbers</span> <span class="command">R←⎕TCNUMS Y</span> {: .heading}
+# Thread Child Numbers
+
+```apl
+R←⎕TCNUMS Y
+```
 
 
 
@@ -21,7 +25,7 @@ search:
 
 The result `R` is a simple integer vector of the child threads of each thread of `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕TCNUMS 0
 2 3

@@ -1,4 +1,6 @@
-# <span class="name">CBits</span> <span class="right">Property</span> {: .heading}
+# CBits
+
+Property
 
 
 

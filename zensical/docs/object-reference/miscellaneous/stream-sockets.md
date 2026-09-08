@@ -1,4 +1,4 @@
-# <span class="name">Stream Sockets</span> {: .heading}
+# Stream Sockets
 
 
 

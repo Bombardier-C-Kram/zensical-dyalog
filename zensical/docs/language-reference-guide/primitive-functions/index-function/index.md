@@ -6,7 +6,11 @@ search:
   ⌷ index squad
 </div>
 
-# <span class="name">Index</span> <span class="command">R←X⌷Y</span> {: .heading}
+# Index
+
+```apl
+R←X⌷Y
+```
 
 `X` must be a scalar or vector of depth `≤2` of integers each `≥⎕IO`. `Y` may be any array. In general, the result `R` is similar to that obtained by square-bracket indexing in that:
 ```apl
@@ -26,7 +30,7 @@ Note that index may be used with selective specification.
 
 `⎕IO` is an implicit argument of index.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕IO←1
  
@@ -73,7 +77,7 @@ Note that index may be used with selective specification.
 
 If `Y` is a ref to an instance of a Class with a Default property, `⌷` is applied to the Default property. Similarly, `⌷` applied to a COM or .NET collection returns the appropriate item(s) of the collection.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ↑⎕SRC c
 :Class c                 

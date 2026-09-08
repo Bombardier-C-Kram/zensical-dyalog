@@ -1,4 +1,6 @@
-# <span class="name">CancelToClose</span> <span class="right">Method 367</span> {: .heading}
+# CancelToClose
+
+Method 367
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Trace\_Offset\_X</span> {: .heading}
+# Trace\_Offset\_X
 
 This parameter specifies the number of characters by which a trace window is staggered horizontally from the previous one. This applies only if **ClassicMode** is 1 and **SingleTrace** is 0.
 

@@ -1,4 +1,6 @@
-# <span class="name">MouseDblClick</span> <span class="right">Event 5</span> {: .heading}
+# MouseDblClick
+
+Event 5
 
 [**Applies To**](../methodoreventapplies/mousedblclick.md)
 

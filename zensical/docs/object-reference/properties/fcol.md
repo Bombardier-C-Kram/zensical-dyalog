@@ -1,4 +1,6 @@
-# <span class="name">FCol</span> <span class="right">Property</span> {: .heading}
+# FCol
+
+Property
 
 [**Applies To**](../propertyapplies/fcol.md)
 

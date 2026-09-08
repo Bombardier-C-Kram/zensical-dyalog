@@ -1,4 +1,6 @@
-# <span class="name">WantsReturn</span> <span class="right">Property</span> {: .heading}
+# WantsReturn
+
+Property
 
 
 

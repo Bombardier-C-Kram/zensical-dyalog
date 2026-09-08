@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">LockColumns Method</span> {: .heading}
+# LockColumns Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">Advanced Techniques</span> {: .heading}
+# Advanced Techniques
 
 ## Shared Members
 
@@ -6,7 +6,7 @@ Certain .NET classes provide methods, fields, and properties that can be called 
 
 The methods <code class="language-nonAPL">Now</code> and <code class="language-nonAPL">IsLeapYear</code> exported by <code class="language-nonAPL">System.DateTime</code> fall into this category.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
      ⎕USING←,⊂'System'
 			 
@@ -21,7 +21,7 @@ The methods <code class="language-nonAPL">Now</code> and <code class="language-n
 
 .NET provides a set of standard operators (methods) that are supported by certain classes, for example, methods to add and subtract .NET objects and methods to compare two .NET objects.
 
-<h4 class="example">Example 1: DateTime – Adding and subtracting</h4>
+#### Example 1: DateTime – Adding and subtracting
 
 The <code class="language-nonAPL">op_Addition</code> and <code class="language-nonAPL">op_Subtraction</code> operators add and subtract <code class="language-nonAPL">TimeSpan</code> objects to <code class="language-nonAPL">DateTime</code> objects:
 ```apl
@@ -43,7 +43,7 @@ The <code class="language-nonAPL">op_Addition</code> and <code class="language-n
 15/02/2024 09:34:34
 ```
 
-<h4 class="example">Example 2: DateTime – Comparing</h4>
+#### Example 2: DateTime – Comparing
 
 The <code class="language-nonAPL">op_Equality</code> and <code class="language-nonAPL">op_Inequality</code> operators  compare two <code class="language-nonAPL">DateTime</code> objects:
 ```apl
@@ -110,7 +110,7 @@ If a .NET function is overloaded in terms of the types of arguments that it acce
 
 Occasionally it might be desirable to override this mechanism and explicitly specify which overload to use. This can be done by calling the function and specifying the _variant_ operator ([`⍠`](../../../language-reference-guide/primitive-operators/variant/)) with the `OverloadTypes` option. This takes an array of references to .NET types, of the same length as the number of parameters to the function.
 
-<h4 class="example">Example</h4>
+#### Example
 
 To force APL to call the double version of function <code class="language-nonAPL">foo()</code> irrespective of the type of the argument <code class="language-nonAPL">val</code>, enter:
 ```apl

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasTicks Property</span> {: .heading}
+# HasTicks Property
 
 |----------------------------------|------|------|
 |[TrackBar](../objects/trackbar.md)|&nbsp;|&nbsp;|

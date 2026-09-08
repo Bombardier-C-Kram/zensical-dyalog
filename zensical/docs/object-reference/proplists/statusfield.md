@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusField Properties</span> {: .heading}
+# StatusField Properties
 
 |-------------------------------------------|-------------------------------------------|-----------------------------------------|
 |[Type](../properties/type.md)              |[Caption](../properties/caption.md)        |[Text](../properties/text.md)            |

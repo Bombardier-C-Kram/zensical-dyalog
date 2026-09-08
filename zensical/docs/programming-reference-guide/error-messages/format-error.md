@@ -3,13 +3,17 @@
 
 
 
-# <span class="name">FORMAT ERROR</span> <span class="command">7</span> {: .heading}
+# FORMAT ERROR
+
+```apl
+7
+```
 
 
 
 This report is given when the format specification in the left argument of system function `⎕FMT` is ill-formed.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'A1,1X,I5'⎕FMT CODE NUMBER
 FORMAT ERROR

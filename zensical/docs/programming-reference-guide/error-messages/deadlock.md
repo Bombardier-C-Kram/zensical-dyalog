@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">DEADLOCK</span> <span class="command">1008</span> {: .heading}
+# DEADLOCK
+
+```apl
+1008
+```
 
 
 

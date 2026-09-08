@@ -6,7 +6,11 @@ search:
   ⊂
 </div>
 
-# <span class="name">Partitioned Enclose</span> <span class="command">(⎕ML&lt;3) R←X⊂\[K\]Y</span> {: .heading}
+# Partitioned Enclose
+
+```apl
+(⎕ML<3) R←X⊂[K]Y
+```
 
 `Y` may be any array.  `X` must be a simple integer scalar or vector. If `X` is a scalar it is extended to `(≢Y)⍴X`.
 
@@ -18,7 +22,7 @@ Each element of `X` specifies the number of dividers to insert before the corres
 
 The length of `R` is `+/X` (after possible extension).
 
-<h2 class="example">Examples</h2>
+## Examples
 
 ```apl
       0 0 1 0 0 1 0⊂'abcdefg'

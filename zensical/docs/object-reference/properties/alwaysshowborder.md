@@ -1,4 +1,6 @@
-# <span class="name">AlwaysShowBorder</span> <span class="right">Property</span> {: .heading}
+# AlwaysShowBorder
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">ExportedFns</span> <span class="right">Property</span> {: .heading}
+# ExportedFns
+
+Property
 
 
 

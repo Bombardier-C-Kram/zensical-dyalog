@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DelCol Method</span> {: .heading}
+# DelCol Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

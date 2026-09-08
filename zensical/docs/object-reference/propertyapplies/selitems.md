@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelItems Property</span> {: .heading}
+# SelItems Property
 
 |----------------------------|----------------------------------|----------------------------------|
 |[Combo](../objects/combo.md)|[ComboEx](../objects/comboex.md)  |[Grid](../objects/grid.md)        |

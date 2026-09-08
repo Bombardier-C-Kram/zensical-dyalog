@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Enqueue Event</span> <span class="command">\{R\}←\{X\}⎕NQ Y</span> {: .heading}
+# Enqueue Event
+
+```apl
+{R}←{X}⎕NQ Y
+```
 
 
 
@@ -71,7 +75,7 @@ If `⎕NQ` is used monadically, or with a left argument of 0, its (shy) result i
 
 If the left argument is 2, `⎕NQ` returns either the value 1 or a value that is appropriate.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍝ Send a keystroke ("A") to an Edit Field
       ⎕NQ TEST.ED 'KeyPress' 'A'

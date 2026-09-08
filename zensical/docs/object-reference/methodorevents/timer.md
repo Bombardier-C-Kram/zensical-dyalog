@@ -1,4 +1,6 @@
-# <span class="name">Timer</span> <span class="right">Event 140</span> {: .heading}
+# Timer
+
+Event 140
 
 
 

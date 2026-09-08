@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Separator Parents</span> {: .heading}
+# Separator Parents
 
 |--------------------------|--------------------------------|------|
 |[Menu](../objects/menu.md)|[MenuBar](../objects/menubar.md)|&nbsp;|

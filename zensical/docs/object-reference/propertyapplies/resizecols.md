@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ResizeCols Property</span> {: .heading}
+# ResizeCols Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Shared Variable Query</span> <span class="command">R←⎕SVQ Y</span> {: .heading}
+# Shared Variable Query
+
+```apl
+R←⎕SVQ Y
+```
 
 
 

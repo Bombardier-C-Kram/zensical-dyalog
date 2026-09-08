@@ -1,4 +1,6 @@
-# <span class="name">EdgeStyle</span> <span class="right">Property</span> {: .heading}
+# EdgeStyle
+
+Property
 
 [**Applies To**](../propertyapplies/edgestyle.md)
 

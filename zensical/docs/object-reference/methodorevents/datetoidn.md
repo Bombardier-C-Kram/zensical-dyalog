@@ -1,4 +1,6 @@
-# <span class="name">DateToIDN</span> <span class="right">Method 264</span> {: .heading}
+# DateToIDN
+
+Method 264
 
 
 
@@ -21,7 +23,7 @@ The argument to DateToIDN is a 3-element array as follows:
 
 DateToIDN will also accept a single enclosed argument containing these values. In either case, if you specify more than 3 numbers, excess elements they will be ignored.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       F.C.DateToIDN 1998 9 11
 36048

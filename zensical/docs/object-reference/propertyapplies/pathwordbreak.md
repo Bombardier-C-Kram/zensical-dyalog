@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PathWordBreak Property</span> {: .heading}
+# PathWordBreak Property
 
 |--------------------------------|------|------|
 |[ComboEx](../objects/comboex.md)|&nbsp;|&nbsp;|

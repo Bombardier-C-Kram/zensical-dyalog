@@ -7,7 +7,11 @@ search:
   ⎕NMOVE NMOVE
 </div>
 
-# <span class="name">Native File Move</span> <span class="command">\{R\}←X ⎕NMOVE Y</span> {: .heading}
+# Native File Move
+
+```apl
+{R}←X ⎕NMOVE Y
+```
 
 This function moves native files and directories from one or more sources specified by `Y` to a destination specified by  `X`. `⎕NMOVE` is similar to `⎕NCOPY` (see [Native File Copy ](ncopy.md)).
 
@@ -30,7 +34,7 @@ The shy result `R` contains count(s) of top-level items moved. If `Y` is a singl
 ## Wildcard Option (Boolean)
 
 |---|---|
-|0 { .shaded } |The name or names in `Y` identifies a specific file name.|
+|`0` (default)|The name or names in `Y` identifies a specific file name.|
 |`1`|The name or names in `Y` that specify the *base name* and *extension* (see [NParts](./nparts.md) ), may also contain the wildcard characters "?" and "*". An asterisk is a substitute for any 0 or more characters in a file name or extension; a question-mark is a substitute for any single character.|
 
 Note that when **Wildcard** is 1, element(s) of `R` can  be 0 or `>1`. If **Wildcard** is 0, elements of `R` are always 1.
@@ -41,7 +45,7 @@ The **IfExists** variant option determines what happens when a source file is to
 
 |Value   |Description                                                                                           |
 |--------|------------------------------------------------------------------------------------------------------|
-|'Error' { .shaded } |Existing files will not be overwritten and an error will be signalled.                                |
+|`'Error'` (default)|Existing files will not be overwritten and an error will be signalled.                                |
 |`'Skip'`|Existing files will not be overwritten but the corresponding copy operation will be skipped (ignored).|
 
 The following cases cause an error to be signalled  regardless of the value of the **IfExists** variant.
@@ -54,7 +58,7 @@ The following cases cause an error to be signalled  regardless of the value of t
 The **RenameOnly** option  determines what happens when it is not possible to rename the source.
 
 |---|--------------------------------------------------|
-|0 { .shaded }  |The source will be copied and the original deleted|
+|`0` (default)|The source will be copied and the original deleted|
 |`1`|The move will fail                                |
 
 ## Examples

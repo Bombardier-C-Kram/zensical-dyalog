@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">EndSplit Event</span> {: .heading}
+# EndSplit Event
 
 |----------------------------------|------|------|
 |[Splitter](../objects/splitter.md)|&nbsp;|&nbsp;|

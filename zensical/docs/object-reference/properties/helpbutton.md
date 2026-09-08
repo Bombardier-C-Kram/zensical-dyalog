@@ -1,4 +1,6 @@
-# <span class="name">HelpButton</span> <span class="right">Property</span> {: .heading}
+# HelpButton
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">ExportedVars</span> <span class="right">Property</span> {: .heading}
+# ExportedVars
+
+Property
 
 
 

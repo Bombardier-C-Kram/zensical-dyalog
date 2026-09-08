@@ -1,4 +1,6 @@
-# <span class="name">MsgBtn2</span> <span class="right">Event 62</span> {: .heading}
+# MsgBtn2
+
+Event 62
 
 
 

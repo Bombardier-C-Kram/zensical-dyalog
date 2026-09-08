@@ -1,4 +1,4 @@
-# <span class="name">OverstrikesPopup</span> {: .heading}
+# OverstrikesPopup
 
 **Unicode Edition only.**
 

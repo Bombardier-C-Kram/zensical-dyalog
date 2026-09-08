@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileWrite Method</span> {: .heading}
+# FileWrite Method
 
 |----------------------------------|----------------------------------|--------------------------|
 |[Bitmap](../objects/bitmap.md)    |[Cursor](../objects/cursor.md)    |[Icon](../objects/icon.md)|

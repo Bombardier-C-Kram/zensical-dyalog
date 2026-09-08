@@ -1,4 +1,6 @@
-# <span class="name">CellSelect</span> <span class="right">Property</span> {: .heading}
+# CellSelect
+
+Property
 
 **Applies To:** [Grid](../objects/grid.md)
 

@@ -1,4 +1,4 @@
-# <span class="name">Grid Comments</span> {: .heading}
+# Grid Comments
 
 ## Introduction
 

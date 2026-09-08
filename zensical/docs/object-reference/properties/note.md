@@ -1,4 +1,6 @@
-# <span class="name">Note</span> <span class="right">Property</span> {: .heading}
+# Note
+
+Property
 
 
 
@@ -12,7 +14,7 @@ The Note property applies only to a [Button](../objects/button.md) whose Style i
 
 It is a character vector (by default empty) that specifies text to be displayed below the [Caption](caption.md).
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 'F'⎕WC'Form' 'CommandLink Button'
 'F.clb'⎕WC'Button' 'Visit Us'('Style' 'CommandLink')  

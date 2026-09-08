@@ -7,7 +7,11 @@ search:
   ⎕FCHK FCHK
 </div>
 
-# <span class="name">File Check and Repair</span> <span class="command">R←\{X\} ⎕FCHK Y</span> {: .heading}
+# File Check and Repair
+
+```apl
+R←{X} ⎕FCHK Y
+```
 
 `⎕FCHK` validates and repairs component files, and validates files associated with external variables, following an abnormal termination of the APL process or operating system.
 
@@ -44,24 +48,22 @@ Using Variant, the options are as follows:
 ### Task
 
 |---------|----------------------------------------------------------------------------|
-|Scan { .shaded } |causes the file to be checked and optionally repaired (see `'Repair'` below)|
+|`Scan` (default)|causes the file to be checked and optionally repaired (see `'Repair'` below)|
 |`Rebuild`|causes the file to be unconditionally rebuilt                               |
 
 ### Repair (principle option)
 
 |---|-------------------------------------------------|
-|0 { .shaded }  |do not repair                                    |
+|`0` (default)|do not repair                                    |
 |`1`|causes the file to be repaired if damage is found|
 
 ### Force
 
 |---|-------------------------------------------------------------------|
-|0 { .shaded }   |do not validate the file if it appears to have been properly closed|
+|`0` (default)|do not validate the file if it appears to have been properly closed|
 |`1`|validate the file even if it appears to have been properly closed  |
 
-Default values are highlighted thus{ .shaded }  in the above tables.
-
-<h2 class="example">Examples</h2>
+## Examples
 
 To check a file and attempt to fix it if damage is found:
 ```apl

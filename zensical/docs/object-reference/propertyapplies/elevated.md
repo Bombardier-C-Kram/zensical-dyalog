@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Elevated Property</span> {: .heading}
+# Elevated Property
 
 |------------------------------|------|------|
 |[Button](../objects/button.md)|&nbsp;|&nbsp;|

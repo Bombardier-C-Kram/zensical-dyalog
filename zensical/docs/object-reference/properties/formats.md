@@ -1,4 +1,6 @@
-# <span class="name">Formats</span> <span class="right">Property</span> {: .heading}
+# Formats
+
+Property
 
 
 

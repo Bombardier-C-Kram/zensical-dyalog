@@ -1,4 +1,6 @@
-# <span class="name">StateChange</span> <span class="right">Event 35</span> {: .heading}
+# StateChange
+
+Event 35
 
 **Applies To:** [Form](../objects/form.md), [SubForm](../objects/subform.md)
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ImageCount Property</span> {: .heading}
+# ImageCount Property
 
 |------------------------------------|------|------|
 |[ImageList](../objects/imagelist.md)|&nbsp;|&nbsp;|

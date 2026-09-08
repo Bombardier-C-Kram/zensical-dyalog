@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:While Statement</span> {: .heading}
+# :While Statement
 
 ```
  

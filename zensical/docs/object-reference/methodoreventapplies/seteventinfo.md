@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetEventInfo Method</span> {: .heading}
+# SetEventInfo Method
 
 |----------------------------------------------|------------------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OLEServer](../objects/oleserver.md)|&nbsp;|

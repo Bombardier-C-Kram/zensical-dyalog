@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SysTrayItem Properties</span> {: .heading}
+# SysTrayItem Properties
 
 |---------------------------------------|-------------------------------------------|-----------------------------------------|
 |[Type](../properties/type.md)          |[Event](../properties/event.md)            |[IconObj](../properties/iconobj.md)      |

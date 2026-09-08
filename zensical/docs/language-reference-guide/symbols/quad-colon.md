@@ -2,11 +2,15 @@
 search:
   exclude: true
 ---
-# <span class="name">Quad Colon</span> <span class="command">⍠</span> {: .heading}
+# Quad Colon
+
+```apl
+⍠
+```
 
 The Variant operator specifies the value of an option to be used by its left operand function.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ('a' ⎕R 'x') 'ABC'           ⍝ 'a' replaced with 'x'
 ABC

@@ -1,4 +1,6 @@
-# <span class="name">SetZoomLevel</span> <span class="right">Method</span> {: .heading}
+# SetZoomLevel
+
+Method
 
 
 
@@ -16,7 +18,7 @@ The argument to SetZoomLevel is a single numeric value:
 |-----|---------|-------|
 |`[1]`|ZoomLevel|Numeric|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      ∇ hr Zoom level;lb;in
 [1]    hr.SetZoomLevel level

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetColSize Event</span> {: .heading}
+# SetColSize Event
 
 |--------------------------|----------------------------------|------|
 |[Grid](../objects/grid.md)|[ListView](../objects/listview.md)|&nbsp;|

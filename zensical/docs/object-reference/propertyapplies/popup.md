@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Popup Property</span> {: .heading}
+# Popup Property
 
 |----------------------------------------|--------------------------------------|------|
 |[SysTrayItem](../objects/systrayitem.md)|[ToolButton](../objects/toolbutton.md)|&nbsp;|

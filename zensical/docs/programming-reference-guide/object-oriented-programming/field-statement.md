@@ -1,4 +1,4 @@
-# <span class="name">:Field Statement</span> {: .heading}
+# :Field Statement
 
 ```apl
  :Field <Private|Public> <Instance|Shared> <ReadOnly>...
@@ -16,7 +16,7 @@ A `:Field` statement is a single statement whose elements are as follows:
 |`FieldName`|Specifies the name of the Field (mandatory).|
 |`← expr`|Specifies an initial value for the Field.|
 
-<h2 class="example">Examples</h2>
+## Examples
 
 The following statement defines a Field called `Name`. It is (by default), an Instance Field so every Instance of the Class has a separate value. It is a Public Field and so may be accessed (set or retrieved) from outside an Instance.
 ```apl

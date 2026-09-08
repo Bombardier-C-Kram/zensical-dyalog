@@ -1,4 +1,6 @@
-# <span class="name">KeepBits</span> <span class="right">Property</span> {: .heading}
+# KeepBits
+
+Property
 
 
 

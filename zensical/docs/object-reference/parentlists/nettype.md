@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">NetType Parents</span> {: .heading}
+# NetType Parents
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

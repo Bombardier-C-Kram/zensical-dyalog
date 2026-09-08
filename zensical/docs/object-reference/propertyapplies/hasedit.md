@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasEdit Property</span> {: .heading}
+# HasEdit Property
 
 |------------------------------------|------|------|
 |[BrowseBox](../objects/browsebox.md)|&nbsp;|&nbsp;|

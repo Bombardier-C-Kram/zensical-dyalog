@@ -7,7 +7,11 @@ search:
   atop
 </div>
 
-# <span class="name">Atop</span> <span class="command">\{R\}←\{X\}f⍤gY</span> {: .heading}
+# Atop
+
+```apl
+{R}←{X}f⍤gY
+```
 
 !!! Info "Information"
     The `⍤` glyph is not available in Classic Edition, and the _atop_ operator is instead represented by `⎕U2364`.
@@ -20,7 +24,7 @@ If `X` is omitted, `g` must be a monadic function. If `X` is specified, `g` must
 
 The derived function is equivalent to `fgY` or `fXgY` and need not return a result.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       -⍤÷ 4      ⍝ (  f⍤g y) ≡  f   g y

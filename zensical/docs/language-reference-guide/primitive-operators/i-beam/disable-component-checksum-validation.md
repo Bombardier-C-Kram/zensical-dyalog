@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Disable Component Checksum Validation</span> <span class="command">\{R\}←3002⌶Y</span> {: .heading}
+# Disable Component Checksum Validation
+
+```apl
+{R}←3002⌶Y
+```
 
 
 

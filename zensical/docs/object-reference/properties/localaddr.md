@@ -1,4 +1,6 @@
-# <span class="name">LocalAddr</span> <span class="right">Property</span> {: .heading}
+# LocalAddr
+
+Property
 
 
 

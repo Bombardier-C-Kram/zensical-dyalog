@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HAlign Property</span> {: .heading}
+# HAlign Property
 
 |--------------------------|------|------|
 |[Text](../objects/text.md)|&nbsp;|&nbsp;|

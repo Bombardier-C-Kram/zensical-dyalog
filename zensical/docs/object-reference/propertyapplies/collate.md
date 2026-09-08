@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Collate Property</span> {: .heading}
+# Collate Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

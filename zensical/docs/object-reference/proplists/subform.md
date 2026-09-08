@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SubForm Properties</span> {: .heading}
+# SubForm Properties
 
 |-----------------------------------------------|---------------------------------------------------|---------------------------------------------|
 |[Type](../properties/type.md)                  |[Caption](../properties/caption.md)                |[Posn](../properties/posn.md)                |

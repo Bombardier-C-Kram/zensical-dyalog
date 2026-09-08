@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter</span> <span class="right">Example 3</span> {: .heading}
+# Splitter
+
+Example 3
 
 
 ```apl

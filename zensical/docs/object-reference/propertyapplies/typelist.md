@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TypeList Property</span> {: .heading}
+# TypeList Property
 
 |----------------------------------|------------------------------------|------|
 |[OCXClass](../objects/ocxclass.md)|[OLEClient](../objects/oleclient.md)|&nbsp;|

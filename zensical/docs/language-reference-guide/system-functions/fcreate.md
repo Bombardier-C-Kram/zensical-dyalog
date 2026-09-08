@@ -13,14 +13,18 @@ search:
 
 
 
-# <span class="name">File Create</span> <span class="command">\{R\}←X ⎕FCREATE Y</span> {: .heading}
+# File Create
+
+```apl
+{R}←X ⎕FCREATE Y
+```
 
 `Y` must be a simple integer scalar or a 1 or 2 element vector:  
 
 - The first element is the *file tie number*. The *file tie number* must not be the tie number associated with another tied file.
 - The second element, if specified, must be `64`. 
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     The second element of `Y` sets the span of the file which in earlier versions of Dyalog could be `32` or `64`. Small-span (32-bit) component files can no longer be created; this element is retained for backwards compatibility purposes.
 
 `X` must be either:
@@ -60,7 +64,7 @@ to:
 ```
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       '..\BUDGET\SALES'    ⎕FCREATE 2    ⍝ Windows
@@ -97,7 +101,7 @@ See also: [File Properties ](fprops.md).
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'newfile' (⎕FCREATE⍠3) 0
 1

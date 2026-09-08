@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MonthDelta Property</span> {: .heading}
+# MonthDelta Property
 
 |----------------------------------|----------------------------------------------|------|
 |[Calendar](../objects/calendar.md)|[DateTimePicker](../objects/datetimepicker.md)|&nbsp;|

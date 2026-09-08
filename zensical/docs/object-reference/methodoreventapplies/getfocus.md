@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetFocus Method</span> {: .heading}
+# GetFocus Method
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)              |

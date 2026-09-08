@@ -1,4 +1,4 @@
-# <span class="name">Methods</span> {: .heading}
+# Methods
 
 ## Calling Methods
 

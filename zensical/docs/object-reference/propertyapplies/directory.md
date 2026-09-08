@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Directory Property</span> {: .heading}
+# Directory Property
 
 |--------------------------------|------|------|
 |[FileBox](../objects/filebox.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GesturePressAndTap Event</span> {: .heading}
+# GesturePressAndTap Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

@@ -1,4 +1,6 @@
-# <span class="name">AlwaysShowSelection</span> <span class="right">Property</span> {: .heading}
+# AlwaysShowSelection
+
+Property
 
 
 

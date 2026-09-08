@@ -1,4 +1,6 @@
-# <span class="name">Form</span> <span class="right">Object</span> {: .heading}
+# Form
+
+Object
 
 
 

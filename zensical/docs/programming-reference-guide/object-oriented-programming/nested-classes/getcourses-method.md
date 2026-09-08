@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetCourses Method</span> {: .heading}
+# GetCourses Method
 
 ```apl
 

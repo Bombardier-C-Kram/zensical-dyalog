@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">KeepOnClose Property</span> {: .heading}
+# KeepOnClose Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)    |

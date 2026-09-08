@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Left Shoe Underbar</span> <span class="command">⊆</span> {: .heading}
+# Left Shoe Underbar
+
+```apl
+⊆
+```
 
 
 Monadic Left Shoe Underbar means

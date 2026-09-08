@@ -1,8 +1,8 @@
-# <span class="name">Hints and Tips Combined</span> {: .heading}
+# Hints and Tips Combined
 
 There is no reason why you cannot provide Hints *and* Tips. The next example shows how an object, in this case a Combo, can have both defined.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'Test'⎕WC 'Form' 'Using Hints and Tips'
  

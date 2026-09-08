@@ -1,4 +1,6 @@
-# <span class="name">ShowDropDown</span> <span class="right">Property</span> {: .heading}
+# ShowDropDown
+
+Property
 
 
 

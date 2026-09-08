@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Clipboard Methods</span> {: .heading}
+# Clipboard Methods
 
 |-------------------------------------|---------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[Wait](../methodorevents/wait.md)|&nbsp;|

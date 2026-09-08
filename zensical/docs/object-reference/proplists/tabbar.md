@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabBar Properties</span> {: .heading}
+# TabBar Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)              |

@@ -1,4 +1,6 @@
-# <span class="name">WebSocketReceive</span> <span class="right">Event 842</span> {: .heading}
+# WebSocketReceive
+
+Event 842
 
 
 
@@ -24,7 +26,7 @@ The event message reported as the result of `⎕DQ`, or supplied as the right ar
 |`[5]`|FIN     |Boolean. 1 indicates that this is the last chunk; 0 that there is more to come.|
 |`[6]`|Datatype|1 = character, 2 - numeric values in the range ¯128 to 127.                    |
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 ┌→────────────────────────────────────────────────────────────┐
 │      ┌→───────────────┐ ┌→──────────────┐ ┌→──────────┐     │

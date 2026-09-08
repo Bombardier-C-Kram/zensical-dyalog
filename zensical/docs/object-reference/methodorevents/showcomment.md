@@ -1,4 +1,6 @@
-# <span class="name">ShowComment</span> <span class="right">Event 223</span> {: .heading}
+# ShowComment
+
+Event 223
 
 
 

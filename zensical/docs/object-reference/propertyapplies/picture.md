@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Picture Property</span> {: .heading}
+# Picture Property
 
 |----------------------------------------------|------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Button](../objects/button.md)      |[Clipboard](../objects/clipboard.md)    |

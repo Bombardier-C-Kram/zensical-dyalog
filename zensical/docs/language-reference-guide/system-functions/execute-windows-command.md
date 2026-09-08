@@ -7,7 +7,11 @@ search:
   ⎕CMD CMD
 </div>
 
-# <span class="name">Execute Windows Command</span> <span class="command">\{R\}←⎕CMD Y</span> {: .heading}
+# Execute Windows Command
+
+```apl
+{R}←⎕CMD Y
+```
 
 
 
@@ -25,7 +29,7 @@ See also [`⎕SHELL`](shell.md).
 
 If `Y` is a simple character vector, `⎕CMD` invokes the Windows Command Processor (normally `cmd.exe`) and passes the command specified by character vector `Y` to it for execution. The term command means here an instruction recognised by the Command Processor, or the pathname of a program (with optional parameters) to be executed by it. In either case, APL waits for the command to finish and then returns the result `R`,  a vector of character vectors containing its result. Each element in `R` corresponds to a line of output produced by the command.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       Z←⎕CMD'dir'
       ⍴Z
@@ -53,7 +57,7 @@ If the command specified in `Y` already contains the redirection symbol (`>`) th
 If this is done, APL detects the presence of a "`>`" in the command line, runs the command processor in a **visible** window, and does not direct output to the pipe.  If you fail to do this your system will appear to hang because there is no mechanism for you to receive or respond to the prompt.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕CMD 'DATE <CON >CON'
 ```
@@ -160,7 +164,7 @@ Note that `Y[1]` may contain the complete command line, including any suitable p
 
 There is no way to terminate an application started by `⎕CMD` from APL; it will run until it completes or is terminated by an external mechanism. Furthermore, if the window parameter is HIDDEN, the user is unaware of the application (unless it makes itself visible) and has no means to close it.
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
       Path←'c:\Program Files\Microsoft Office\Office\'
       ⎕←⎕CMD (Path,'excel.exe') ''

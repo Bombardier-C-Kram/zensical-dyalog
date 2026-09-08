@@ -1,4 +1,4 @@
-# <span class="name">Function Declaration Statements</span> {: .heading}
+# Function Declaration Statements
 
 Function Declaration statements are used to identify the characteristics of a function in some way.
 

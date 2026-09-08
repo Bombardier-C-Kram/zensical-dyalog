@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Window Set Property</span> <span class="command">\{R\}←\{X\}⎕WS Y</span> {: .heading}
+# Window Set Property
+
+```apl
+{R}←{X}⎕WS Y
+```
 
 
 
@@ -40,7 +44,7 @@ GUI objects are named **relative** to the current namespace.  A null value of `
       F1.B1.⎕WS 'Caption' '&Ok'
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'F1' ⎕WC 'Form'  ⍝ A default Form
  

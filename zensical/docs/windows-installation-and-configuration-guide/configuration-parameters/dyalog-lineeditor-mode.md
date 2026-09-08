@@ -1,4 +1,4 @@
-# <span class="name">Dyalog\_LineEditor\_Mode</span> {: .heading}
+# Dyalog\_LineEditor\_Mode
 
 This Boolean parameter specifies whether or not multi-line input is enabled in the Session.
 

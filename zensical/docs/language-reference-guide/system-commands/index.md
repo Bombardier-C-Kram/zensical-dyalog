@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 System commands are **not** executable APL expressions. They provide services or information associated with the workspace and the **external environment**.
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Static Properties</span> {: .heading}
+# Static Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Posn](../properties/posn.md)              |[Size](../properties/size.md)              |

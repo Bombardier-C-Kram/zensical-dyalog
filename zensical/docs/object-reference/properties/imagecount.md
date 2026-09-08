@@ -1,4 +1,6 @@
-# <span class="name">ImageCount</span> <span class="right">Property</span> {: .heading}
+# ImageCount
+
+Property
 
 
 

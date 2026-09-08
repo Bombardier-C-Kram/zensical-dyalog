@@ -1,4 +1,4 @@
-# <span class="name">Example Usage</span> {: .heading}
+# Example Usage
 
 ## Directory and File Manipulation
 
@@ -53,7 +53,7 @@ dyares32.dll	22/03/2004	12:13:40
 
 The .NET namespace <code class="language-nonAPL">System.Web.Mail</code> provides objects for handing email. You can create a new email message as an instance of the <code class="language-nonAPL">MailMessage</code> class, set its various properties and then send it using the <code class="language-nonAPL">SmtpMail</code> class.
 
-<h4 class="example">Example</h4>
+#### Example
 
 This example will only work if your computer is configured to allow you to send email in this way.
 ```apl

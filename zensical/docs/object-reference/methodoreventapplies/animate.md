@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Animate Method</span> {: .heading}
+# Animate Method
 
 |----------------------------------------------|------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)          |

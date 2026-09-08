@@ -7,7 +7,11 @@ search:
   ⎕DCT DCT
 </div>
 
-# <span class="name">Decimal Comparison Tolerance</span> <span class="command">⎕DCT</span> {: .heading}
+# Decimal Comparison Tolerance
+
+```apl
+⎕DCT
+```
 
 The value of `⎕DCT` determines the precision with which two numbers are judged to be equal when the value of `⎕FR` is 1287. If `⎕FR` is 645, the system uses `⎕CT`.
 
@@ -17,7 +21,7 @@ The value of `⎕DCT` determines the precision with which two numbers are judged
 
 For further information, see [Comparison Tolerance](ct.md).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕DCT←1E¯10
       1.00000000001 1.0000001 = 1

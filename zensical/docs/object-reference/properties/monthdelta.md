@@ -1,4 +1,6 @@
-# <span class="name">MonthDelta</span> <span class="right">Property</span> {: .heading}
+# MonthDelta
+
+Property
 
 
 

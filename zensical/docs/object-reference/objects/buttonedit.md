@@ -1,4 +1,6 @@
-# <span class="name">ButtonEdit</span> <span class="right">Object</span> {: .heading}
+# ButtonEdit
+
+Object
 
 
 

@@ -1,5 +1,9 @@
 
-# <span class="name">Axis (with Monadic Operand)</span> <span class="command">R←f\[B\]Y</span> {: .heading}
+# Axis (with Monadic Operand)
+
+```apl
+R←f[B]Y
+```
 
 
 `f` must be a monadic primitive mixed function taken from those shown in [](#MonadicMixed) below, or a function derived from the operators Reduction (`/`) or Scan (`\`). `B` must be a numeric scalar or vector. `Y` may be any array whose items are appropriate to function `f`.
@@ -26,7 +30,7 @@ For Ravel (`,`) and Enclose (`⊂`), `B` can be a **vector** of two or more axes
 
 `⎕IO` is an implicit argument of the derived function which determines the meaning of `B`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⌽[1]2 3⍴⍳6
 4 5 6

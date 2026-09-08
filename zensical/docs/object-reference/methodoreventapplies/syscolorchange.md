@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SysColorChange Event</span> {: .heading}
+# SysColorChange Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

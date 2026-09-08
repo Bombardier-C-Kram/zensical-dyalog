@@ -1,4 +1,4 @@
-# <span class="name">AutoComplete/History</span> {: .heading}
+# AutoComplete/History
 
 Specifies whether or not Auto Complete maintains a list of previous Auto Completions.
 

@@ -1,4 +1,8 @@
-# <span class="name">Access Statement</span> <span class="command">:Access</span> {: .heading}
+# Access Statement
+
+```apl
+:Access
+```
 
 ```apl
 :Access <Private|Public><Instance|Shared>

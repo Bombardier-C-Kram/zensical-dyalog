@@ -1,4 +1,6 @@
-# <span class="name">CalendarUp</span> <span class="right">Event 272</span> {: .heading}
+# CalendarUp
+
+Event 272
 
 
 

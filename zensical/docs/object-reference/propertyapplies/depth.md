@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Depth Property</span> {: .heading}
+# Depth Property
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

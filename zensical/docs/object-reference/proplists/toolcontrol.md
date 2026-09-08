@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolControl Properties</span> {: .heading}
+# ToolControl Properties
 
 |---------------------------------------------------------|-----------------------------------------------|---------------------------------------------|
 |[Type](../properties/type.md)                            |[Posn](../properties/posn.md)                  |[Size](../properties/size.md)                |

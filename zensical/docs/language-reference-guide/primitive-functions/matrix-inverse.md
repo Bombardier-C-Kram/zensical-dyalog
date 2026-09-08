@@ -6,7 +6,11 @@ search:
   ⌹
 </div>
 
-# <span class="name">Matrix Inverse</span> <span class="command">R←⌹Y</span> {: .heading}
+# Matrix Inverse
+
+```apl
+R←⌹Y
+```
 
 
 
@@ -19,7 +23,7 @@ search:
 The shape of `R` is `⌽⍴Y`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       M
 2 ¯3

@@ -1,4 +1,6 @@
-# <span class="name">ImageListObj</span> <span class="right">Property</span> {: .heading}
+# ImageListObj
+
+Property
 
 [**Applies To**](../propertyapplies/imagelistobj.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">ColSorted</span> <span class="right">Method 174</span> {: .heading}
+# ColSorted
+
+Method 174
 
 
 

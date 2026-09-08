@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">UpDown Events</span> {: .heading}
+# UpDown Events
 
 |-----------------------------------------------|-----------------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)            |[Create](../methodorevents/create.md)          |[DragDrop](../methodorevents/dragdrop.md)  |

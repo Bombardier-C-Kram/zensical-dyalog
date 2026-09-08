@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">External Variables</span> <span class="command">⎕XT</span> {: .heading}
+# External Variables
+
+```apl
+⎕XT
+```
 
 
 ## Dyadic `⎕XT` means

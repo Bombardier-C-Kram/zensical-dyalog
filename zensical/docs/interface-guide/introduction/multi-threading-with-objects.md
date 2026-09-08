@@ -1,4 +1,4 @@
-# <span class="name">Multi-Threading with Objects</span> {: .heading}
+# Multi-Threading with Objects
 
 The following rules apply when using threads and objects together.
 

@@ -1,4 +1,4 @@
-# <span class="name">Output Tab (Classic Edition Only)</span> {: .heading}
+# Output Tab (Classic Edition Only)
 
 ![configuration dialog output tab](../../img/configuration-dialog-output-tab.png)
 

@@ -1,4 +1,6 @@
-# <span class="name">InputProperties</span> <span class="right">Property</span> {: .heading}
+# InputProperties
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">HasEdit</span> <span class="right">Property</span> {: .heading}
+# HasEdit
+
+Property
 
 
 

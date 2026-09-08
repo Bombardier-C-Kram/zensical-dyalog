@@ -1,4 +1,6 @@
-# <span class="name">DeleteTypeLib</span> <span class="right">Method 521</span> {: .heading}
+# DeleteTypeLib
+
+Method 521
 
 
 

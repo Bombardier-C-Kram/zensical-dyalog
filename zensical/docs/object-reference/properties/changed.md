@@ -1,4 +1,6 @@
-# <span class="name">Changed</span> <span class="right">Property</span> {: .heading}
+# Changed
+
+Property
 
 
 

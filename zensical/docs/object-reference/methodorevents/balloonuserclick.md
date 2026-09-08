@@ -1,4 +1,6 @@
-# <span class="name">BalloonUserClick</span> <span class="right">Event 864</span> {: .heading}
+# BalloonUserClick
+
+Event 864
 
 
 

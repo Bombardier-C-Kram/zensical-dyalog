@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MDIArrange Method</span> {: .heading}
+# MDIArrange Method
 
 |------------------------------------|------|------|
 |[MDIClient](../objects/mdiclient.md)|&nbsp;|&nbsp;|

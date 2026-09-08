@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Greater Than Or Equal To</span> <span class="command">≥</span> {: .heading}
+# Greater Than Or Equal To
+
+```apl
+≥
+```
 
 Monadic Greater Than or Equal To is not defined
 

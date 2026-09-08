@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Greatest Common Divisor/OR</span> <span class="command">R←X∨Y</span> {: .heading}
+# Greatest Common Divisor/OR
+
+```apl
+R←X∨Y
+```
 
 
 ## Case 1: Greatest Common Divisor – `X` and `Y` are numeric (non-Boolean)
@@ -19,7 +23,7 @@ search:
 
 R is the Greatest Common Divisor of `X` and `Y`. Note that in this case, `⎕CT` and `⎕DCT` are implicit arguments.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       15 1 2 7 ∨ 35 1 4 0
 5 1 2 7
@@ -45,7 +49,7 @@ R is Boolean and is determined as follows:
              1   1     1
 ```
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       0 0 1 1 ∨ 0 1 0 1
 0 1 1 1

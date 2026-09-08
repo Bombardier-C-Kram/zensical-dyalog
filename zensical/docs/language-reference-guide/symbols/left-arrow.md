@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Left Arrow</span> <span class="command">←</span> {: .heading}
+# Left Arrow
+
+```apl
+←
+```
 
 Dyadic Left Arrow means
 [Naming      ](../other-syntax/assignment/index.md)

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MenuItem Parents</span> {: .heading}
+# MenuItem Parents
 
 |--------------------------|--------------------------------|------|
 |[Menu](../objects/menu.md)|[MenuBar](../objects/menubar.md)|&nbsp;|

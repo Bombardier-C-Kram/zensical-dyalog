@@ -1,4 +1,4 @@
-# <span class="name">mapchars</span> {: .heading}
+# mapchars
 
 **Classic Edition only.**
 

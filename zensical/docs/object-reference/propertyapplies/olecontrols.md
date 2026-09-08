@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEControls Property</span> {: .heading}
+# OLEControls Property
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">Rows</span> <span class="right">Property</span> {: .heading}
+# Rows
+
+Property
 
 
 

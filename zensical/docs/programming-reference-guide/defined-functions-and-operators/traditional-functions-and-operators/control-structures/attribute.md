@@ -8,7 +8,11 @@ search:
 
 
 
-# <span class="name">Attribute Statement</span> <span class="command">:Attribute</span> {: .heading}
+# Attribute Statement
+
+```apl
+:Attribute
+```
 
 
 

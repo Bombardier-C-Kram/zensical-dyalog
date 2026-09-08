@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowHiddenDepth Property</span> {: .heading}
+# RowHiddenDepth Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">CellWidths</span> <span class="right">Property</span> {: .heading}
+# CellWidths
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">EventList</span> <span class="right">Property</span> {: .heading}
+# EventList
+
+Property
 
 [**Applies To**](../propertyapplies/eventlist.md)
 

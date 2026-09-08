@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Allocate Token Range</span> <span class="command">\{R\}←\{X\} ⎕TALLOC Y</span> {: .heading}
+# Allocate Token Range
+
+```apl
+{R}←{X} ⎕TALLOC Y
+```
 
 
 
@@ -60,7 +64,7 @@ Descriptions that were not defined are returned as empty character vectors.
 `Y` is 2, `⎕TALLOC` returns a non-shy result `R` containing the list of tokens in the token pool that fall in the range specified by the left-argument `X`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
        ⎕←trg←⎕TALLOC 1 'cats'
 1

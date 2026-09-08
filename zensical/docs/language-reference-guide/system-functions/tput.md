@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Put Tokens</span> <span class="command">\{R\}←\{X\} ⎕TPUT Y</span> {: .heading}
+# Put Tokens
+
+```apl
+{R}←{X} ⎕TPUT Y
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 Shy result `R` is a vector of thread numbers (if any) unblocked by the `⎕TPUT`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
     ⎕TPUT 2 3 2       ⍝ put a 2-token, a 3-token and
                         another 2-token into the pool.

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Justify Property</span> {: .heading}
+# Justify Property
 
 |------------------------------|--------------------------------------|--------------------------------------|
 |[Button](../objects/button.md)|[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)            |

@@ -1,4 +1,6 @@
-# <span class="name">Filters</span> <span class="right">Property</span> {: .heading}
+# Filters
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">SysTrayItem</span> <span class="right">Object</span> {: .heading}
+# SysTrayItem
+
+Object
 
 
 

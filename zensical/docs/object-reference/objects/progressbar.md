@@ -1,4 +1,6 @@
-# <span class="name">ProgressBar</span> <span class="right">Object</span> {: .heading}
+# ProgressBar
+
+Object
 
 
 

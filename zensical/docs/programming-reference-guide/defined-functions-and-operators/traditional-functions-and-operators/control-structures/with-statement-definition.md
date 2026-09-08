@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">:With Statement</span> {: .heading}
+# :With Statement
 
 ```
        |

@@ -1,4 +1,6 @@
-# <span class="name">Group</span> <span class="right">Object</span> {: .heading}
+# Group
+
+Object
 
 
 

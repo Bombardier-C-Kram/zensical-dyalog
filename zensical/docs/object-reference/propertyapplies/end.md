@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">End Property</span> {: .heading}
+# End Property
 
 |------------------------------|--------------------------------|------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|&nbsp;|

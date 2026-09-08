@@ -1,4 +1,6 @@
-# <span class="name">ColTitleFCol</span> <span class="right">Property</span> {: .heading}
+# ColTitleFCol
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColSortImages Property</span> {: .heading}
+# ColSortImages Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Greater Than Or Equal To</span> <span class="command">R←X≥Y</span> {: .heading}
+# Greater Than Or Equal To
+
+```apl
+R←X≥Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 `⎕CT` and `⎕DCT` are  implicit arguments of Greater Than Or Equal To.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 2 3 4 5 ≥ 3
 0 0 1 1 1

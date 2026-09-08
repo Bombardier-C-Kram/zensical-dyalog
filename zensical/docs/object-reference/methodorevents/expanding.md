@@ -1,4 +1,6 @@
-# <span class="name">Expanding</span> <span class="right">Event 302</span> {: .heading}
+# Expanding
+
+Event 302
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">DrawMode</span> <span class="right">Property</span> {: .heading}
+# DrawMode
+
+Property
 
 
 

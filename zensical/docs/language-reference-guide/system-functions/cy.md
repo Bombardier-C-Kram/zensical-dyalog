@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Copy Workspace</span> <span class="command">\{R\}←\{X\}⎕CY Y</span> {: .heading}
+# Copy Workspace
+
+```apl
+{R}←{X}⎕CY Y
+```
 
 
 
@@ -49,7 +53,7 @@ When copying data between Classic and Unicode Editions, `⎕CY` will fail and a 
 
 A `WS FULL` is reported if the active workspace becomes full during the copying process.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕VR'FOO'
      ∇ R←FOO
@@ -65,7 +69,7 @@ A `WS FULL` is reported if the active workspace becomes full during the copying 
 
 System variables are copied if explicitly included in the left argument, but not if the left argument is omitted.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕LX
  
@@ -77,7 +81,7 @@ System variables are copied if explicitly included in the left argument, but not
 
 A copied object may have the same name as an object being executed.  If so, the name is disassociated from the existing object, but the existing object remains defined in the workspace until its execution is completed.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       )SI
 #.FOO[1]*

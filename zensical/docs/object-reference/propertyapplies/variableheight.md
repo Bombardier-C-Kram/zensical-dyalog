@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">VariableHeight Property</span> {: .heading}
+# VariableHeight Property
 
 |--------------------------------|------|------|
 |[CoolBar](../objects/coolbar.md)|&nbsp;|&nbsp;|

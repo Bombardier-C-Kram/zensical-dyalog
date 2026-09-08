@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Comparison Tolerance</span> <span class="command">⎕CT</span> {: .heading}
+# Comparison Tolerance
+
+```apl
+⎕CT
+```
 
 
 
@@ -30,7 +34,7 @@ If [`⎕FR`](fr.md) is 1287, the system uses `⎕DCT`. See [Decimal Comparison T
 
 `⎕CT` and `⎕DCT` are implicit arguments of the monadic primitive functions Ceiling (`⌈`), Floor (`⌊`) and Unique (`∪`), and of the dyadic functions Equal (`=`), Excluding (`~`), Find (`⍷`), Greater (`>`), Greater or Equal (`≥`), Greatest Common Divisor (`∨`), Index of (`⍳`), Intersection (`∩`), Less (`<`), Less or Equal (`≤`), Lowest Common Multiple (`∧`), Match (`≡`), Membership (`∊`), Not Match (`≢`), Not Equal (`≠`), Residue (`|`) and Union (`∪`), as well as `⎕FMT` O-format.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕CT←1E¯10
       1.00000000001 1.0000001 = 1

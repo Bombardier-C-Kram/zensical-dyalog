@@ -1,4 +1,6 @@
-# <span class="name">CellHeights</span> <span class="right">Property</span> {: .heading}
+# CellHeights
+
+Property
 
 
 

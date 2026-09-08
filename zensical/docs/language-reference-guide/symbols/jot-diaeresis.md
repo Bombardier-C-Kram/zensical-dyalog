@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Jot Diaeresis</span> <span class="command">⍤</span> {: .heading}
+# Jot Diaeresis
+
+```apl
+⍤
+```
 
 Jot Diaeresis is a dyadic operator with an ambivalent left operand
 

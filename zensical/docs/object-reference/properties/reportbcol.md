@@ -1,4 +1,6 @@
-# <span class="name">ReportBCol</span> <span class="right">Property</span> {: .heading}
+# ReportBCol
+
+Property
 
 
 

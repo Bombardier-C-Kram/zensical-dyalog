@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridCopy Event</span> {: .heading}
+# GridCopy Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

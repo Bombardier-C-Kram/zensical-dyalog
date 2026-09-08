@@ -1,4 +1,6 @@
-# <span class="name">CustomColors</span> <span class="right">Property</span> {: .heading}
+# CustomColors
+
+Property
 
 
 

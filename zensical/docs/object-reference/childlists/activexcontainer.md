@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActiveXContainer Children</span> {: .heading}
+# ActiveXContainer Children
 
 |----------------------------------------------|------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|&nbsp;|&nbsp;|

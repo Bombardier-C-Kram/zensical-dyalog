@@ -1,4 +1,6 @@
-# <span class="name">UpDown</span> <span class="right">Object</span> {: .heading}
+# UpDown
+
+Object
 
 
 

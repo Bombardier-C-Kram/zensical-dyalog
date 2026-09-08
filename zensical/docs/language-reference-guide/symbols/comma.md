@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Comma</span> <span class="command">,</span> {: .heading}
+# Comma
+
+```apl
+,
+```
 
 Monadic Comma means
 [Ravel](../primitive-functions/ravel/index.md)

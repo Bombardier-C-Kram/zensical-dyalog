@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetVisibleRange Method</span> {: .heading}
+# GetVisibleRange Method
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

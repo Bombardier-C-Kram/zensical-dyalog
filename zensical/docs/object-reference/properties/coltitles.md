@@ -1,4 +1,6 @@
-# <span class="name">ColTitles</span> <span class="right">Property</span> {: .heading}
+# ColTitles
+
+Property
 
 
 

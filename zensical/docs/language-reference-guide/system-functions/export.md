@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Export Object</span> <span class="command">\{R\}←\{X\}⎕EXPORT Y</span> {: .heading}
+# Export Object
+
+```apl
+{R}←{X}⎕EXPORT Y
+```
 
 
 

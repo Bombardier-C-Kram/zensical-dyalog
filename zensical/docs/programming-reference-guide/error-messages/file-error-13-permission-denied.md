@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 13 Permission denied</span> <span class="command">113</span> {: .heading}
+# FILE ERROR 13 Permission denied
+
+```apl
+113
+```
 
 
 

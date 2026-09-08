@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Shape</span> <span class="command">R←⍴Y</span> {: .heading}
+# Shape
+
+```apl
+R←⍴Y
+```
 
 
 
 `Y` may be any array.  `R` is a non-negative integer vector whose elements are the dimensions of `Y`.  If `Y` is a scalar, then `R` is an empty vector.  The rank of `Y` is given by `⍴⍴Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍴10
  

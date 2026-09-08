@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">List Methods</span> <span class="command">)METHODS</span> {: .heading}
+# List Methods
+
+```apl
+)METHODS
+```
 
 
 

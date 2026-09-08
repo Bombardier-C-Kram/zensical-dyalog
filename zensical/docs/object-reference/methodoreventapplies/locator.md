@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locator Event</span> {: .heading}
+# Locator Event
 
 |--------------------------------|------|------|
 |[Locator](../objects/locator.md)|&nbsp;|&nbsp;|

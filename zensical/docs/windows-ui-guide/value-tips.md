@@ -1,4 +1,4 @@
-# <span class="name">Value Tips</span> {: .heading}
+# Value Tips
 
 If you hover the mouse pointer over a name in the Session or Debugger window, APL will display a pop-up window containing the value of the symbol under the mouse pointer.
 

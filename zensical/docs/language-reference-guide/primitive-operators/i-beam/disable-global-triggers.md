@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Disable Global Triggers</span> <span class="command">R←2007⌶Y</span> {: .heading}
+# Disable Global Triggers
+
+```apl
+R←2007⌶Y
+```
 
 
 

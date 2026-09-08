@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BandBorders Property</span> {: .heading}
+# BandBorders Property
 
 |--------------------------------|------|------|
 |[CoolBar](../objects/coolbar.md)|&nbsp;|&nbsp;|

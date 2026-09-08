@@ -7,7 +7,11 @@ search:
   ⎕ATX ATX
 </div>
 
-# <span class="name">Extended Attributes</span> <span class="command">R←X ⎕ATX Y</span> {: .heading}
+# Extended Attributes
+
+```apl
+R←X ⎕ATX Y
+```
 
 This function provides information about a name in a workspace, including its usage, history, restrictions, role and origin.
 
@@ -58,7 +62,7 @@ This function provides information about a name in a workspace, including its us
 |_-                               -_|Vector of character scalars/vectors|Vector of requested values              |Outer shape from `⍴⍺` , inner shape from `⍴⍵`|
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       Att
 10 11 12 20 23 30 31 32 40 41 42 50 51 52 53 54 55

@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Dyadic Grade Up</span> <span class="command">R←X⍋Y</span> {: .heading}
+# Dyadic Grade Up
+
+```apl
+R←X⍋Y
+```
 
 
 
@@ -27,7 +31,7 @@ If `X` is a vector, the following identity holds:
 If `X` is a higher-rank array, each axis of `X` represents a grading attribute in increasing order of importance (the first axis is the least significant and the last axis is the most significant).  If a character is repeated in `X`, it is treated as though it were located at the position in the array determined by the lowest index in each axis for all occurrences of the character.  The character has the same weighting as the character located at the derived position in `X`.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       (2 2⍴'ABBA') ⍋ 'AB'[?5 2⍴2] ⍝ A and B are equivalent
 1 2 3 4 5

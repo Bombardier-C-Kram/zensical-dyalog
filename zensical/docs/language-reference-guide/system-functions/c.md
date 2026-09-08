@@ -7,7 +7,11 @@ search:
   ⎕C
 </div>
 
-# <span class="name">Case Convert</span> <span class="command">R←\{X\}⎕C Y</span> {: .heading}
+# Case Convert
+
+```apl
+R←{X}⎕C Y
+```
 
 `Y` is any array. `R` is an identical array except that character arrays within it are either folded for case-less comparison, or mapped to upper or lower case.
 
@@ -23,7 +27,7 @@ If `X` is specified, the following cases are supported:
 |`¯1`|`R` is a copy of `Y` with character arrays mapped to lower case.                                                |
 |`¯3`|`R` is a copy of `Y` with character arrays folded, for case-less comparison (this is equivalent to monadic use).|
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕C 42 'Pete' 'Πέτρος'
@@ -38,7 +42,7 @@ If `X` is specified, the following cases are supported:
 
 ```
 
-<h2 class="example">Example</h2>
+## Example
 
 
 Greek has two forms of lower-case Sigma, namely "σ" and "ς" but a single upper-case Sigma "Σ". Each lower-case form remains unchanged when mapped to lower-case, but both fold to "σ", while "Σ" is mapped to lower-case "σ" .

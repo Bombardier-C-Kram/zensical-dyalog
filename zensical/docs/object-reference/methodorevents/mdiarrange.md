@@ -1,4 +1,6 @@
-# <span class="name">MDIArrange</span> <span class="right">Method 112</span> {: .heading}
+# MDIArrange
+
+Method 112
 
 
 

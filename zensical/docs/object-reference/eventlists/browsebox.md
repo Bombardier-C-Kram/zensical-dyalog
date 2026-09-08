@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BrowseBox Events</span> {: .heading}
+# BrowseBox Events
 
 |---------------------------------------------------|-------------------------------------|-------------------------------------------|
 |[Close](../methodorevents/close.md)                |[Create](../methodorevents/create.md)|[FileBoxOK](../methodorevents/fileboxok.md)|

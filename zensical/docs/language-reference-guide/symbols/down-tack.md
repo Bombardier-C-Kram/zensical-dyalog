@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Down Tack</span> <span class="command">⊤</span> {: .heading}
+# Down Tack
+
+```apl
+⊤
+```
 
 Monadic Down Tack is not defined
 

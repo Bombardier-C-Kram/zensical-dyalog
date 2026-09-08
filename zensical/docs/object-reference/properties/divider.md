@@ -1,4 +1,6 @@
-# <span class="name">Divider</span> <span class="right">Property</span> {: .heading}
+# Divider
+
+Property
 
 
 

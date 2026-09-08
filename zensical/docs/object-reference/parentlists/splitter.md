@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter Parents</span> {: .heading}
+# Splitter Parents
 
 |----------------------------------------------|--------------------------------|----------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Form](../objects/form.md)      |[Group](../objects/group.md)|

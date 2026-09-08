@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Bits Property</span> {: .heading}
+# Bits Property
 
 |------------------------------|------------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)|[Clipboard](../objects/clipboard.md)|[Cursor](../objects/cursor.md)|

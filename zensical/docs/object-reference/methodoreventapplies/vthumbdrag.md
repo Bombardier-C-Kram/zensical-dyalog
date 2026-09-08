@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">VThumbDrag Event</span> {: .heading}
+# VThumbDrag Event
 
 |--------------------------|--------------------------------|------|
 |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|&nbsp;|

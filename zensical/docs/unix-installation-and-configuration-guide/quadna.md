@@ -1,4 +1,4 @@
-# <span class="name"><span class="command">⎕NA</span> under UNIX</span> {: .heading}
+# `⎕NA` under UNIX
 
 `⎕NA` is fully supported under UNIX; the Conga communications package for example is a shared library on all platforms.
 

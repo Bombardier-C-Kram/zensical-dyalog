@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RichEdit Properties</span> {: .heading}
+# RichEdit Properties
 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)              |[Text](../properties/text.md)              |[Posn](../properties/posn.md)              |

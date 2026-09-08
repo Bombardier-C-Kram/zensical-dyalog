@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Token Pool</span> <span class="command">R←⎕TPOOL</span> {: .heading}
+# Token Pool
+
+```apl
+R←⎕TPOOL
+```
 
 
 

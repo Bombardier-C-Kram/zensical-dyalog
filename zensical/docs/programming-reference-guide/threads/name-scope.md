@@ -1,4 +1,4 @@
-# <span class="name">Name Scope</span> {: .heading}
+# Name Scope
 
 APL's name scope rules apply whether a function call is synchronous or asynchronous. For example when a defined function is called, names in the calling environment are visible, unless explicitly shadowed in the function header.
 

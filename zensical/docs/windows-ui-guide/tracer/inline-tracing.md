@@ -1,4 +1,4 @@
-# <span class="name">Inline Tracing</span> {: .heading}
+# Inline Tracing
 
 *Inline Tracing* is an extension to the Tracer that allows you to step through the execution of individual primitives within expressions, examining intermediate results and arguments of sub-expressions. It enables an in-depth inspection of complex expressions typed directly into the session, and can be used in conjunction with the traditional tracing mode to skip over lines you're not interested in and step through primitive-by-primitive in complex expressions where required.
 
@@ -14,11 +14,11 @@ To start inline tracing, position the cursor within an expression and do one of 
 - enter the _Inline Trace_ command (**&lt;IT&gt;**) in the session.
 - select **Action > Trace Inline…** from the Session menu bar.
 - select **Action > Trace Inline…** from the Session window's context menu.
-- click the **Next Primitive** icon <span class="toolbar-icon" style="background-position: -432px 0"></span> in the Tracer toolbar.
+- click the **Next Primitive** icon ![Next Primitive toolbar button](../img/tbt-inline-trace.png) in the Tracer toolbar.
 
 The Tracer opens with primitive tracing activated.
 
-<h2 class="example">Example</h2>
+## Example
 
 In a Session, enter the expression `(+/÷≢)⍳10` and start inline tracing.
 

@@ -1,4 +1,6 @@
-# <span class="name">NetControl</span> <span class="right">Object</span> {: .heading}
+# NetControl
+
+Object
 
 
 

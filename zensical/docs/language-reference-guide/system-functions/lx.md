@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Latent Expression</span> <span class="command">⎕LX</span> {: .heading}
+# Latent Expression
+
+```apl
+⎕LX
+```
 
 
 
@@ -21,7 +25,7 @@ This may be a character vector or scalar representing an APL expression.  The ex
 
 The value of `⎕LX` in a clear workspace is `''`. `⎕LX` has workspace scope.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕LX←'''GOOD MORNING PETE'''
  

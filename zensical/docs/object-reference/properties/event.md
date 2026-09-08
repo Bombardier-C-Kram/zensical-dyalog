@@ -1,4 +1,6 @@
-# <span class="name">Event</span> <span class="right">Property</span> {: .heading}
+# Event
+
+Property
 
 [**Applies To**](../propertyapplies/event.md)
 
@@ -13,7 +15,7 @@ Two syntactic forms are allowed:
 - A 3 or 4-item vector containing the property name `'Event'`, followed by the Event Type(s), a value which determines the action to be taken, and an optional array that will be supplied as a left argument to the callback function
 - A composite vector whose first element contains the property name `'Event'`, followed by a series of 2 or 3-element vectors, each defining the action to be taken for a different Event Type (or types).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      'Event' 'MouseUp' 'foo' 88
      'Event' ('MouseUp' 'MouseDown') 'foo' 88
@@ -162,7 +164,7 @@ perform their default actions.
 To define the action to be taken for individual events, one by one, you use the *onEvent* syntax and make the assignment to the event
 name prefixed by the string `'on'`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       F1.onMouseDown ← 'FOO'
 ```
@@ -303,7 +305,7 @@ You may use any numbers not already defined, but it is strongly recommended that
 
 You can only **generate** user-defined events under program control with `⎕NQ`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
      ∇ foo m
 [1]    ⎕SE.UCMD'display m'
@@ -375,7 +377,7 @@ or
 
 If you use the *onEvent* syntax with *built-in* event numbers, the effect is the same as if you had used the event name. This does not apply to user-defined events.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
       'f'⎕WC'Form'
       f.on2←'foo'
@@ -452,7 +454,7 @@ When using regular event names, case is unimportant. For example, the system wil
 The event number 0 and the event name `'All'`,
 are convenient shorthands to associate a particular action (such as a callback) with **all** the built-in events supported by an object.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'f'⎕WC'Form' ('Event' 'All' 1)
       f.Event

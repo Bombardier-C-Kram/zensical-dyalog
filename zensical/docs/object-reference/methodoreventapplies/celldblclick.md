@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellDblClick Event</span> {: .heading}
+# CellDblClick Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -6,7 +6,11 @@ search:
   ↑ first
 </div>
 
-# <span class="name">First</span> <span class="command">(⎕ML) R←⊃Y or R←↑Y</span> {: .heading}
+# First
+
+```apl
+(⎕ML) R←⊃Y or R←↑Y
+```
 
 
 
@@ -25,7 +29,7 @@ If  `⎕ML≥2`, First is represented by the symbol: `↑`.
 First is the inverse of Enclose. The identity `R←→⊃⊂R` holds for all `R`.  First is also referred to as Disclose.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊃1
 1

@@ -1,4 +1,6 @@
-# <span class="name">DefaultColors</span> <span class="right">Property</span> {: .heading}
+# DefaultColors
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowComment Event</span> {: .heading}
+# ShowComment Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

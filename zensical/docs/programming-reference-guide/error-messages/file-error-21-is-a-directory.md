@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 21 Is a directory</span> <span class="command">121</span> {: .heading}
+# FILE ERROR 21 Is a directory
+
+```apl
+121
+```
 
 
 

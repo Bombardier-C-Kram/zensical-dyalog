@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Coord Property</span> {: .heading}
+# Coord Property
 
 |----------------------------------------------|----------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)          |[Bitmap](../objects/bitmap.md)              |

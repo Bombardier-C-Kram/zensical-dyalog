@@ -1,4 +1,6 @@
-# <span class="name">DockShowCaption</span> <span class="right">Property</span> {: .heading}
+# DockShowCaption
+
+Property
 
 
 

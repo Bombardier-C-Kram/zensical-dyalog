@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Table</span> <span class="command">R←⍪Y</span> {: .heading}
+# Table
+
+```apl
+R←⍪Y
+```
 
 
 
@@ -20,7 +24,7 @@ search:
 
 *Table* has been implemented according to the Extended APL Standard (*ISO/IEC 13751:2001).*
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ]Display {⍵ (⍴⍵)} ⍪'a'
 ┌→──────────┐

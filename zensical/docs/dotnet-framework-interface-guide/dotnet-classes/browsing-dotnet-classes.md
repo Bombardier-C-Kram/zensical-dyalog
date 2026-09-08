@@ -1,4 +1,4 @@
-# <span class="name">Browsing .NET Classes</span> {: .heading}
+# Browsing .NET Classes
 
 Microsoft supplies a tool for browsing .NET Class libraries called **Ildasm.exe** (this can be found in the .NET SDK and is distributed with Microsoft Visual Studio). Dyalog's Workspace Explorer has been extended to perform a similar task  to ILDSAM so that the information is available within the context of the APL environment.
 
@@ -19,7 +19,7 @@ Opening the **mscorlib.dll** assembly displays an extensive hierarchy; its compl
 - the **Properties** directory includes all the properties supported by the Class.
 - the **Methods** directory lists the methods supported by the Class.
 
-<h4 class="example">Example</h4>
+#### Example
 
 Within the tree structure of the **mscorlib.dll** Assembly, navigate to **Namespaces** > **System** > **Classes** > **System.DateTime**.
 

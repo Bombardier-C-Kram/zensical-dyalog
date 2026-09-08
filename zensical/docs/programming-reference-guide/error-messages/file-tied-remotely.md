@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE TIED REMOTELY</span> <span class="command">25</span> {: .heading}
+# FILE TIED REMOTELY
+
+```apl
+25
+```
 
 
 

@@ -1,8 +1,8 @@
-# <span class="name">Starting APL</span> {: .heading}
+# Starting APL
 
 By default, to start the non-GUI versions of Dyalog APL, run the mapl script which is in the installation directory of Dyalog APL.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 $ /opt/mdyalog/{{ version_majmin }}/64/unicode/mapl
 ```
@@ -45,7 +45,7 @@ Table: Parameters for the Dyalog interpreter:
 |ws|This is assumed to be a workspace which will be loaded once the interpreter has started. Unless the -x parameter is included on the command line, the latent expression will be run.|
 |-cef / -apl|See the Dyalog Version 17.0 Release Notes for more information|
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
 
 mapl dfns

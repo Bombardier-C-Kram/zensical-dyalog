@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Set External Variable</span> <span class="command">\{R\}←X ⎕XT Y</span> {: .heading}
+# Set External Variable
+
+```apl
+{R}←X ⎕XT Y
+```
 
 
 
@@ -25,7 +29,7 @@ If `Y` is the name of a defined function or operator, a label or a namespace in 
 Attempts to assign namespace references or the `⎕OR` of namespaces to an external array will result in a `DOMAIN ERROR`.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'EXT\ARRAY' ⎕XT 'V'
 ```
@@ -54,7 +58,7 @@ A value assigned to an external variable is stored in file space, not within the
 
 There are no specific restrictions placed on the use of external variables.  They must conform to the normal requirements when used as arguments of functions or as operands of operators.  The essential difference between a variable and an external variable is that an external variable requires only temporary workspace for an operation to accommodate (usually) a part of its value.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       V←⍳5
       +/V
@@ -72,7 +76,7 @@ There are no specific restrictions placed on the use of external variables.  The
 
 Assignment allows the structure or the value of an external variable to be changed without fully defining the external array in the workspace.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       V,←⊂2 4⍴⍳8
  
@@ -93,7 +97,7 @@ Assignment allows the structure or the value of an external variable to be chang
 
 An external array is (usually) preserved in file space when the name of the external variable is disassociated from the file.  It may be re-associated with any valid variable name.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕EX'V'
  
@@ -107,7 +111,7 @@ An external array is (usually) preserved in file space when the name of the exte
 
 In UNIX versions, if `X` is an empty vector, the external array is associated with a temporary file which is erased when the array is disassociated.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ''⎕XT'TEMP'
  

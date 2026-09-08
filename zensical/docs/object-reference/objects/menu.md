@@ -1,4 +1,6 @@
-# <span class="name">Menu</span> <span class="right">Object</span> {: .heading}
+# Menu
+
+Object
 
 
 

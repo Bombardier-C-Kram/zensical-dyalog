@@ -1,4 +1,6 @@
-# <span class="name">Locator</span> <span class="right">Event 80</span> {: .heading}
+# Locator
+
+Event 80
 
 
 

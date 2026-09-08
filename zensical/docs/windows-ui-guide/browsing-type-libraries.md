@@ -1,4 +1,4 @@
-# <span class="name">Browsing Type Libraries</span> {: .heading}
+# Browsing Type Libraries
 
 When the *View/Type Libraries* option is enabled, the *Workspace Explorer* allows you to:
 

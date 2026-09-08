@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Transparent Property</span> {: .heading}
+# Transparent Property
 
 |------------------------------------|--------------------------------------|----------------------------------------|
 |[Animation](../objects/animation.md)|[ButtonEdit](../objects/buttonedit.md)|[ToolControl](../objects/toolcontrol.md)|

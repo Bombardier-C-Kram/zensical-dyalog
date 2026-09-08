@@ -7,7 +7,11 @@ search:
   ⎕FPROPS FPROPS
 </div>
 
-# <span class="name">File Properties</span> <span class="command">R←X ⎕FPROPS Y</span> {: .heading}
+# File Properties
+
+```apl
+R←X ⎕FPROPS Y
+```
 
 ## Access Code 1 (to read) or 8192 (to change properties)
 
@@ -78,7 +82,7 @@ Enabling the checksum option on an existing non-empty component file will result
 
 Journaling and checksum settings may be changed at any time a file is exclusively tied.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       tn←'myfile64' ⎕FCREATE 0

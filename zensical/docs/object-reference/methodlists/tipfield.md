@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TipField Methods</span> {: .heading}
+# TipField Methods
 
 |-------------------------------------|---------------------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[ChooseFont](../methodorevents/choosefont.md)|&nbsp;|

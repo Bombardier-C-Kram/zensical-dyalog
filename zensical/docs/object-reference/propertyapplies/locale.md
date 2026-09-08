@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locale Property</span> {: .heading}
+# Locale Property
 
 |------------------------------------|------|------|
 |[OLEClient](../objects/oleclient.md)|&nbsp;|&nbsp;|

@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Verify .NET Interface</span> <span class="command">R←2250⌶Y</span> {: .heading}
+# Verify .NET Interface
+
+```apl
+R←2250⌶Y
+```
 
 
 

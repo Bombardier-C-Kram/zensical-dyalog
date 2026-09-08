@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Sign Off APL</span> <span class="command">)OFF</span> {: .heading}
+# Sign Off APL
+
+```apl
+)OFF
+```
 
 
 

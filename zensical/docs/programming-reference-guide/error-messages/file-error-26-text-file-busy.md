@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 26 Text file busy</span> <span class="command">126</span> {: .heading}
+# FILE ERROR 26 Text file busy
+
+```apl
+126
+```
 
 
 

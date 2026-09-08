@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">List Events</span> <span class="command">)EVENTS</span> {: .heading}
+# List Events
+
+```apl
+)EVENTS
+```
 
 
 

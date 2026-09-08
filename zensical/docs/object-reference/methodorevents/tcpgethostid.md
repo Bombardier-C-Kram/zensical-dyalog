@@ -1,4 +1,6 @@
-# <span class="name">TCPGetHostID</span> <span class="right">Method 376</span> {: .heading}
+# TCPGetHostID
+
+Method 376
 
 
 

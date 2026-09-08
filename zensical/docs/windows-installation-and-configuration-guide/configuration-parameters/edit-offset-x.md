@@ -1,4 +1,4 @@
-# <span class="name">Edit\_Offset\_X</span> {: .heading}
+# Edit\_Offset\_X
 
 This parameter specify the number of characters by which an edit window is staggered horizontally from the previous one.
 

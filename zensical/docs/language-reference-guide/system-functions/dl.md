@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Delay</span> <span class="command">\{R\}←⎕DL Y</span> {: .heading}
+# Delay
+
+```apl
+{R}←⎕DL Y
+```
 
 
 

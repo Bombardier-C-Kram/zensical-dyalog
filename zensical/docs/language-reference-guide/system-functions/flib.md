@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Component File Library</span> <span class="command">R←⎕FLIB Y</span> {: .heading}
+# Component File Library
+
+```apl
+R←⎕FLIB Y
+```
 
 
 
@@ -25,7 +29,7 @@ The result `R` is a character matrix containing the names of the component files
 
 If there are no APL component files accessible to the user in the directory in question, the result is an empty character matrix with 0 rows and 0 columns.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕FLIB ''

@@ -1,4 +1,6 @@
-# <span class="name">CalendarDblClick</span> <span class="right">Event 273</span> {: .heading}
+# CalendarDblClick
+
+Event 273
 
 
 

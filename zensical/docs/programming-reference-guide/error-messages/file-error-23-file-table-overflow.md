@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE ERROR 23 File table overflow</span> <span class="command">123</span> {: .heading}
+# FILE ERROR 23 File table overflow
+
+```apl
+123
+```
 
 
 

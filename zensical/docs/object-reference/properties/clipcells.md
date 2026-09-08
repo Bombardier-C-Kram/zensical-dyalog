@@ -1,4 +1,6 @@
-# <span class="name">ClipCells</span> <span class="right">Property</span> {: .heading}
+# ClipCells
+
+Property
 
 
 

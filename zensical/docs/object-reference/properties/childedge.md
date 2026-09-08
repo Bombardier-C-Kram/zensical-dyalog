@@ -1,4 +1,6 @@
-# <span class="name">ChildEdge</span> <span class="right">Property</span> {: .heading}
+# ChildEdge
+
+Property
 
 
 

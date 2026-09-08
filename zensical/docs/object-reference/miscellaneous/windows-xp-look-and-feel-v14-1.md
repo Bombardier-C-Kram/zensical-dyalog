@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Native Look and Feel</span> {: .heading}
+# Native Look and Feel
 
 
 

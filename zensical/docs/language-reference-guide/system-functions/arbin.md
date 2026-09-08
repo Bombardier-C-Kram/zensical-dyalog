@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Arbitrary Input</span> <span class="command">R←X ⎕ARBIN Y</span> {: .heading}
+# Arbitrary Input
+
+```apl
+R←X ⎕ARBIN Y
+```
 
 
 

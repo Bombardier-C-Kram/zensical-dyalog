@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AutoConf Property</span> {: .heading}
+# AutoConf Property
 
 |----------------------------------------------|------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)|[Button](../objects/button.md)          |

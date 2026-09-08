@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">File Property</span> {: .heading}
+# File Property
 
 |------------------------------------|------------------------------|----------------------------------|
 |[Animation](../objects/animation.md)|[Bitmap](../objects/bitmap.md)|[Cursor](../objects/cursor.md)    |

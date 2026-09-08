@@ -1,4 +1,6 @@
-# <span class="name">ComboEx</span> <span class="right">Object</span> {: .heading}
+# ComboEx
+
+Object
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Calendar Children</span> {: .heading}
+# Calendar Children
 
 |------------------------------|------------------------------------|----------------------------|
 |[Cursor](../objects/cursor.md)|[Font](../objects/font.md)          |[Menu](../objects/menu.md)  |

@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FIELD ATTRIBUTES LENGTH ERROR</span> <span class="command">59</span> {: .heading}
+# FIELD ATTRIBUTES LENGTH ERROR
+
+```apl
+59
+```
 
 
 

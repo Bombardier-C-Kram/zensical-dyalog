@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TCPConnect Event</span> {: .heading}
+# TCPConnect Event
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

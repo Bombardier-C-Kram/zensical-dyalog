@@ -7,7 +7,11 @@ search:
   behind
 </div>
 
-# <span class="name">Behind</span> <span class="command">\{R\}←\{X\}f⍛gY</span> {: .heading}
+# Behind
+
+```apl
+{R}←{X}f⍛gY
+```
 
 !!! Info "Information"
     The `⍛` glyph is not available in Classic Edition, and the _behind_ operator is instead represented by `⎕U235B`.
@@ -25,7 +29,7 @@ If `X` is omitted, `Y` must also be suitable as the right argument to the functi
 
 The derived function is equivalent to either `(f Y) g Y` or `(f X) g Y`, depending on whether `X` is specified or not.
 
-<h2 class="example">Examples: Monadic Application of Derived Function</h2>
+## Examples: Monadic Application of Derived Function
 
 Are numbers in a sequence identical to the first number in that sequence?
 ```apl
@@ -93,7 +97,7 @@ Find the mean value of a vector of numbers, identify the individual numbers in t
 4 5 9 6
 ```
 
-<h2 class="example">Examples: Dyadic Application of Derived Function</h2>
+## Examples: Dyadic Application of Derived Function
 
 Some functions require their left arguments to be enclosed to achieve the desired result. Without _behind_, the left argument needs to be parenthesised to enclose the left argument. With _behind_, a new function can be derived that achieves the required enclosure by including `⊂⍛` before the main function. For example:
 

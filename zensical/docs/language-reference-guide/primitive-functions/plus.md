@@ -11,13 +11,17 @@ search:
 
 
 
-# <span class="name">Plus</span> <span class="command">R←X+Y</span> {: .heading}
+# Plus
+
+```apl
+R←X+Y
+```
 
 
 
 `Y` must be numeric. `X` must be numeric. `R` is the arithmetic sum of `X` and `Y`. `R` is numeric. This function is also known as Add.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 2 + 3 4
 4 6

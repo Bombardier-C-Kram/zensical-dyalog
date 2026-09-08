@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DropDown Event</span> {: .heading}
+# DropDown Event
 
 |------------------------------|--------------------------------------|----------------------------------------------|
 |[Button](../objects/button.md)|[ButtonEdit](../objects/buttonedit.md)|[ColorButton](../objects/colorbutton.md)      |

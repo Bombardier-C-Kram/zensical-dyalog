@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AddComment Method</span> {: .heading}
+# AddComment Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

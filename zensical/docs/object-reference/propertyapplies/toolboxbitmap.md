@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolboxBitmap Property</span> {: .heading}
+# ToolboxBitmap Property
 
 |----------------------------------------------|----------------------------------|------|
 |[ActiveXControl](../objects/activexcontrol.md)|[OCXClass](../objects/ocxclass.md)|&nbsp;|

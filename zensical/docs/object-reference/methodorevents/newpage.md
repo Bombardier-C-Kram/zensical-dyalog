@@ -1,4 +1,6 @@
-# <span class="name">NewPage</span> <span class="right">Method 102</span> {: .heading}
+# NewPage
+
+Method 102
 
 
 

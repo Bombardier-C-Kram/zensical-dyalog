@@ -1,4 +1,4 @@
-# <span class="name">Creating an APL Source file</span> {: .heading}
+# Creating an APL Source file
 
 Conceptually, the simplest way to create an APL Source file is with Notepad, although you can use many other tools, for example, Microsoft Visual Studio.
 

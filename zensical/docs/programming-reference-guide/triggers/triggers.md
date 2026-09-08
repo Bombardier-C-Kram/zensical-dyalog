@@ -1,4 +1,4 @@
-# <span class="name">Triggers</span> {: .heading}
+# Triggers
 
 *Triggers* provide the ability to have a function called automatically whenever a variable or a Field is assigned. Triggers are actioned by all forms of assignment (`←`), but only by assignment.
 

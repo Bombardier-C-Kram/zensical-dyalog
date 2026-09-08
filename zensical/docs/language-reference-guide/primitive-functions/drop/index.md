@@ -6,7 +6,11 @@ search:
   ↓ drop
 </div>
 
-# <span class="name">Drop</span> <span class="command">R←X↓Y</span> {: .heading}
+# Drop
+
+```apl
+R←X↓Y
+```
 
 `Y` may be any array.  `X` must be a simple scalar or vector of integers. If `X` is a scalar, it is treated as a one-element vector.  If `Y` is a scalar, it is treated as an array whose shape is `(⍴X)⍴1`. After any scalar extensions, the shape of `X` must be less than or equal to the rank of `Y`. Any missing trailing items in `X` default to 0.
 
@@ -17,7 +21,7 @@ search:
 
 If the magnitude of `X[I]` exceeds the length of the `I`th axis, the result is an empty array with zero length along that axis.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       4↓'OVERBOARD'
 BOARD

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">NameFromHandle Method</span> {: .heading}
+# NameFromHandle Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Using (Microsoft .NET Search Path)</span> <span class="command">⎕USING</span> {: .heading}
+# Using (Microsoft .NET Search Path)
+
+```apl
+⎕USING
+```
 
 
 
@@ -47,7 +51,7 @@ Assigning a simple character vector to `⎕USING` is equivalent to setting it to
 - When a workspace containing .Net objects is saved, the names of the Net objects are saved with it but they are not automatically re-instantiated when the workspace is loaded or copied. A reference to such an orphaned object will report `(NULL)`. 
 - Some functionality might work with .NET Framework or .NET but not both, for example, SharpPlot requires the .NET Framework and does not work with .NET itself.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
   ⎕USING←'System'
   ]Display ⎕USING

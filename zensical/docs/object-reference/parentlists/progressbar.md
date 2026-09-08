@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ProgressBar Parents</span> {: .heading}
+# ProgressBar Parents
 
 |----------------------------------------------|------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)              |

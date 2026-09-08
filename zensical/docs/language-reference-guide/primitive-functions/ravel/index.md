@@ -6,11 +6,15 @@ search:
   , ravel
 </div>
 
-# <span class="name">Ravel</span> <span class="command">R←,Y</span> {: .heading}
+# Ravel
+
+```apl
+R←,Y
+```
 
 `Y` may be any array.  `R` is a vector of the elements of `Y` taken in row-major order.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       M
 1 2 3

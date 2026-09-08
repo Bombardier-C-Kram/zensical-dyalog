@@ -1,4 +1,6 @@
-# <span class="name">TickSpacing</span> <span class="right">Property</span> {: .heading}
+# TickSpacing
+
+Property
 
 
 

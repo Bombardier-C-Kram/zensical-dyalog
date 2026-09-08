@@ -1,4 +1,6 @@
-# <span class="name">PageHelp</span> <span class="right">Event 352</span> {: .heading}
+# PageHelp
+
+Event 352
 
 
 

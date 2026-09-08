@@ -1,4 +1,6 @@
-# <span class="name">ReportInfo</span> <span class="right">Property</span> {: .heading}
+# ReportInfo
+
+Property
 
 
 

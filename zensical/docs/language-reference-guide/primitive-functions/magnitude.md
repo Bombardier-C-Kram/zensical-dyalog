@@ -6,7 +6,11 @@ search:
   | magnitude
 </div>
 
-# <span class="name">Magnitude</span> <span class="command">R←|Y</span> {: .heading}
+# Magnitude
+
+```apl
+R←|Y
+```
 
 `Y` may be any numeric array. `R` is numeric composed of the absolute (unsigned) values of `Y`.
 
@@ -47,7 +51,7 @@ Note that the magnitude of a complex number <math xmlns="http://www.w3.org/1998/
   </msqrt>
 </math>
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       |2 ¯3.4 0 ¯2.7
 2 3.4 0 2.7

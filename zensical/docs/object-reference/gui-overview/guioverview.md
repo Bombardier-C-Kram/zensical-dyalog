@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GUI Overview</span> {: .heading}
+# GUI Overview
 
 
 The Dyalog GUI is based upon the concepts of *objects*, *properties*, *events* and *methods*.

@@ -1,4 +1,6 @@
-# <span class="name">CellFromPoint</span> <span class="right">Method 200</span> {: .heading}
+# CellFromPoint
+
+Method 200
 
 
 

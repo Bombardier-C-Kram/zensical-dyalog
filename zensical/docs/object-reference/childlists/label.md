@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Label Children</span> {: .heading}
+# Label Children
 
 |------------------------------|------------------------------|--------------------------------|
 |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|[Ellipse](../objects/ellipse.md)|

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Grade Down</span> <span class="command">⍒</span> {: .heading}
+# Grade Down
+
+```apl
+⍒
+```
 
 Monadic Grade Down means
 [Grade Down](../primitive-functions/grade-down.md)

@@ -1,4 +1,6 @@
-# <span class="name">RemotePortName</span> <span class="right">Property</span> {: .heading}
+# RemotePortName
+
+Property
 
 
 

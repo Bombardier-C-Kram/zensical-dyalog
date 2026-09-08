@@ -1,4 +1,6 @@
-# <span class="name">HasButtons</span> <span class="right">Property</span> {: .heading}
+# HasButtons
+
+Property
 
 
 

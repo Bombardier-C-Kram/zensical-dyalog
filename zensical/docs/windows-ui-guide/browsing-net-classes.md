@@ -1,4 +1,4 @@
-# <span class="name">Browsing .NET Classes</span> {: .heading}
+# Browsing .NET Classes
 
 Microsoft supplies a tool for browsing .NET Class libraries called `ILDASM.EXE`[^1].
 

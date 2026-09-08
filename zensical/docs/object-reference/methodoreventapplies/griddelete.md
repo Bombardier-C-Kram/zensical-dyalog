@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridDelete Event</span> {: .heading}
+# GridDelete Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

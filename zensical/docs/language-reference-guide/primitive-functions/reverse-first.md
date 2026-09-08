@@ -6,6 +6,10 @@ search:
   ⊖ reverse
 </div>
 
-# <span class="name">Reverse First</span> <span class="command">R←⊖\[K\]Y</span> {: .heading}
+# Reverse First
+
+```apl
+R←⊖[K]Y
+```
 
 The form `R←⊖Y` implies reversal along the first axis.  See [Reverse](reverse.md).

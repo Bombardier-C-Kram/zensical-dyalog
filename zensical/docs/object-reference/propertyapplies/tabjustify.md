@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabJustify Property</span> {: .heading}
+# TabJustify Property
 
 |--------------------------------------|------|------|
 |[TabControl](../objects/tabcontrol.md)|&nbsp;|&nbsp;|

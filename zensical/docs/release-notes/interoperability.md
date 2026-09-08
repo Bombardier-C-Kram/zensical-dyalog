@@ -11,7 +11,7 @@ With the exception of the Unicode restrictions described below, Dyalog provides 
 ## Code and Object Representations (`⎕OR`)
 Code that is saved in workspaces, or embedded within `⎕OR`s stored in component files, cannot be read by earlier versions of Dyalog than the version that saved them. An attempt to read a component containing a `⎕OR` that was created by a later version of Dyalog will generate `DOMAIN ERROR: Array is from a later version of APL`. This also applies to APL arrays passed using Conga, or arrays that have been serialised using `220⌶`.
 
-!!! Hint "Hints and Recommendations"
+!!! tip "Hints and Recommendations"
     Every time a `⎕OR` object is read by an interpreter that is either a different edition or a version later than that which created it, time is spent converting the internal representation into the latest form. Dyalog Ltd recommends that `⎕OR` should not be used as a mechanism for sharing code or objects between different versions of APL.
 
 In the case of workspaces, a load (or copy) into an older version would fail with the message `this WS requires a later version of the interpreter`.

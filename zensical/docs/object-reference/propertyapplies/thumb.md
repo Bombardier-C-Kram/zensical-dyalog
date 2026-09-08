@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Thumb Property</span> {: .heading}
+# Thumb Property
 
 |--------------------------------|----------------------------------------|----------------------------------|
 |[Form](../objects/form.md)      |[ProgressBar](../objects/progressbar.md)|[Scroll](../objects/scroll.md)    |

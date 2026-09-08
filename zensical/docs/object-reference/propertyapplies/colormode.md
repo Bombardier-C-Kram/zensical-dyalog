@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ColorMode Property</span> {: .heading}
+# ColorMode Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

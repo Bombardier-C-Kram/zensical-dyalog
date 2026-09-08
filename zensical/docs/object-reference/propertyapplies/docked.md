@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Docked Property</span> {: .heading}
+# Docked Property
 
 |--------------------------|--------------------------------|------|
 |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|&nbsp;|

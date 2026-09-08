@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Flush Method</span> {: .heading}
+# Flush Method
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

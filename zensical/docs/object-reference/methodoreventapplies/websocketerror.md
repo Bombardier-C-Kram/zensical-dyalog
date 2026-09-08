@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WebSocketError Event</span> {: .heading}
+# WebSocketError Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

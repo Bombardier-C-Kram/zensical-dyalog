@@ -1,4 +1,6 @@
-# <span class="name">SelItems</span> <span class="right">Property</span> {: .heading}
+# SelItems
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">MDIDeactivate</span> <span class="right">Event 43</span> {: .heading}
+# MDIDeactivate
+
+Event 43
 
 
 

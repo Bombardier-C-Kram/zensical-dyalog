@@ -1,4 +1,6 @@
-# <span class="name">PaperSources</span> <span class="right">Property</span> {: .heading}
+# PaperSources
+
+Property
 
 
 

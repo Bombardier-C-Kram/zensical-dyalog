@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FCol Property</span> {: .heading}
+# FCol Property
 
 |--------------------------------------------------|----------------------------------------------|----------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Button](../objects/button.md)          |

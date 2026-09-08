@@ -7,7 +7,11 @@ search:
   ⎕NA NA
 </div>
 
-# <span class="name">Name Association</span> <span class="command">\{R\}←\{X\}⎕NA Y</span> {: .heading}
+# Name Association
+
+```apl
+{R}←{X}⎕NA Y
+```
 
 `⎕NA` provides access from APL to compiled functions within a library. A library is implemented according to the Operating System as follows:
 
@@ -167,7 +171,7 @@ This means that where the C function indicates a *pointer type*, we must code th
 |`>`|indicates that C will use the address as an output variable. In this case, APL must allocate an output array over which C can write values. After the call, this array will be included in the nested result of the call to the external function.|
 |`=`|indicates that C will use the address for both input and output. In this case, APL duplicates the argument array into an output buffer whose address is passed to the external function. As in the case of an output only array, the newly modified copy will be included in the nested result of the call to the external function.|
 
-<h3 class="example">Examples</h3>
+### Examples
 
 |-----|-----------------------------------------------------------|
 |`<I2`|Pointer to 2-byte integer - *input* to external function   |
@@ -232,7 +236,7 @@ In the Unicode Edition, the default width is the width of a *wide character* acc
 
 Note that 32-bit versions can support 64-bit integer *arguments*, but not 64-bit integer *results*.
 
-<h3 class="example">Examples</h3>
+### Examples
 
 |-----|-----------------------------------------------------|
 |`I2` |16-bit integer                                       |
@@ -565,7 +569,7 @@ void *MEMCPY(     // copy memory
 
 `MEMCPY`'s versatility stems from being able to associate to it using many different type declarations.
 
-<h3 class="example">Example</h3>
+### Example
 
 Suppose a global buffer (at address: `addr`) contains (`numb`) double floating point numbers. To copy these to an APL array, we could define the association:
 ```apl
@@ -578,7 +582,7 @@ Notice that:
 - As the first argument to `doubles` is an output argument, we must supply the number of elements to reserve for the output data.
 - `MEMCPY` is defined to take the number of *bytes* to copy, so we must multiply the number of elements by the element size in bytes.
 
-<h3 class="example">Example</h3>
+### Example
 
 Suppose that a database application requires that we construct a record in global memory prior to writing it to file. The record structure might look like this:
 ```c
@@ -614,7 +618,7 @@ If the source string is shorter than `size`, a null character is appended to the
 
 If the source string (including its terminating null) is longer than `size`, only `size` characters are copied and the resulting destination string is not null-terminated
 
-<h3 class="example">Example</h3>
+### Example
 
 Suppose that a database application returns a pointer (`addr`) to a structure that contains two (max 20-char) null-terminated strings.
 ```c
@@ -660,7 +664,7 @@ size_t STRLEN(       // calculate length of string
     const char *s    // address of string
 );
 ```
-<h3 class="example">Example</h3>
+### Example
 
 Suppose that a database application returns a pointer (`addr`) to a null-terminated string and you do not know the upper bound on the length of the string.
 

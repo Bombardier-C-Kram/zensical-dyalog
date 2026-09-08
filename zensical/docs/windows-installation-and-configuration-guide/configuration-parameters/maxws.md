@@ -1,4 +1,4 @@
-# <span class="name">MaxWS</span> {: .heading}
+# MaxWS
 
 This parameter determines your workspace size and is the amount of memory allocated to the workspace at APL start-up. See [Specifying Size-related Parameters](./configuration-parameters.md) for further details about defining a valid value for this parameter.
 

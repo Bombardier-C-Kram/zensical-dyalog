@@ -1,4 +1,4 @@
-# <span class="name">Converting an Existing Workspace</span> {: .heading}
+# Converting an Existing Workspace
 
 The **actfns.dws** workspace used in this example is supplied in the **[DYALOG]\Samples\asp.net\actfns** directory.
 

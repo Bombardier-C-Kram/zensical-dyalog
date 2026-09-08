@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SelectCertificate Event</span> {: .heading}
+# SelectCertificate Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">Shared Fields</span> {: .heading}
+# Shared Fields
 
 If a Field is declared to be *Shared*, it has the same value for every Instance of the Class. Moreover, the Field may be accessed from the Class itself; an Instance is not required.
 

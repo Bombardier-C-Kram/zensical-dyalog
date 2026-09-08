@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">WorkspaceLoaded</span> <span class="right">Event 525</span> {: .heading}
+# WorkspaceLoaded
+
+Event 525
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Tutorial</span> {: .heading}
+# Tutorial
 
 All the examples in this tutorial are to be executed as simple console applications written in C#.
 
@@ -50,7 +50,7 @@ where:
 
 When the class is fixed, APL will try to find the .NET data types that have been specified for the result and for the parameters. If one or more of the data types are not recognised as available .NET types, then a warning will be displayed in the status window and APL will not fix the class. If you see such a warning, you might have entered an incorrect data type name, not set `:using` correctly, or some other syntax problem has been detected (for example, the function could be missing a terminating `∇`). In this example, the only data type used is <code class="language-nonAPL">System.Int32</code>; as `:using System` is included in the definition, <code class="language-nonAPL">Int32</code> is correctly located.
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     In earlier versions of Dyalog, the statements `:Returns` and `:ParameterList` were used instead of `:Signature`. They are still accepted for backwards compatibility reasons, but are considered deprecated.
 	
 ### aplclasses1

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Instances</span> <span class="command">R←⎕INSTANCES Y</span> {: .heading}
+# Instances
+
+```apl
+R←⎕INSTANCES Y
+```
 
 
 
@@ -26,7 +30,7 @@ If `Y` is a reference to a Class, `R` is a vector of references to all existing 
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 This example illustrates a simple inheritance tree or Class hierarchy. There are 3 Classes, namely:

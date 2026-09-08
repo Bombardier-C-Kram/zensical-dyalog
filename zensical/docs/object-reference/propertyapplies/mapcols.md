@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MapCols Property</span> {: .heading}
+# MapCols Property
 
 |------------------------------------|------|------|
 |[ImageList](../objects/imagelist.md)|&nbsp;|&nbsp;|

@@ -7,7 +7,11 @@ search:
   ⎕LC LC
 </div>
 
-# <span class="name">Line Count</span> <span class="command">R←⎕LC</span> {: .heading}
+# Line Count
+
+```apl
+R←⎕LC
+```
 
 This is a simple vector of line numbers drawn from the state indicator. The most recently activated line is shown first. If a value corresponds to a defined function in the state indicator, it represents the current line number where the function is either suspended or pendent.
 
@@ -15,7 +19,7 @@ The value of `⎕LC` changes immediately upon completion of the most recently ac
 
 The value of `⎕LC` in a clear workspace is the null vector.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )SI
 #.TASK1[5]*

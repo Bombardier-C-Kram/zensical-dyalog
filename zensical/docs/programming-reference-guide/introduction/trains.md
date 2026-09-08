@@ -1,4 +1,4 @@
-# <span class="name">Function Trains</span> {: .heading}
+# Function Trains
 
 ## Introduction
 
@@ -89,7 +89,7 @@ means the negation of the ravel of the reciprocal of 5.
 
 Function trains lend themselves to idiom recognition, a technique used to optimise the performance of certain expressions.
 
-<h3 class="example">Example</h3>
+### Example
 
 An expression to find the first position in a random integer vector `X` of a number greater than 999000 is:
 ```apl
@@ -119,7 +119,7 @@ e f g h i j k → e f(g h(i j k))     ⍝ fork(fork(fork))
 f g h i j k →   f(g h(i j k))       ⍝ atop(fork(fork))
 ```
 
-<h3 class="example">Examples</h3>
+### Examples
 ```apl
       6( +,-,×,÷)2     ⍝ fork:(6+2),((6-2),((6×2),(6÷2)))
 8 4 12 3
@@ -166,7 +166,7 @@ Was -trains=box
 
 The binding strength between the items of a train is less than that of operand-operator binding. In other words, operators bind first with their function (or array) operands to form derived functions, which may then participate as items in a train.
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       +⌿ ÷ ≢            ⍝ fork for mean value
 ┌─────┬─┬─┐

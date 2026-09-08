@@ -1,4 +1,4 @@
-# <span class="name">LX</span> {: .heading}
+# LX
 
 This parameter specifies an expression to be executed after Dyalog has started and loaded a workspace or a text file containing APL source code. Also see [ Load](load.md). This expression is run only on Dyalog start-up and overrides the workspace latent expression `⎕LX`.
 

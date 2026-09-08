@@ -1,4 +1,4 @@
-# <span class="name">Configuration Files</span> {: .heading}
+# Configuration Files
 
 ## Introduction
 
@@ -58,7 +58,7 @@ The top-level object defines an optional key named **Extend** and an optional ob
 
 The names and values correspond to configuration parameters, but names are not case sensitive. Any named values may be defined; an APL application may query the values using `+2⎕NQ'.' 'GetEnvironment' name`, or using the `]Config` user command. Note that `GetEnvironment` returns the value in use as defined by the precedence rules (see **Precedence above**).
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
       +2 ⎕NQ '.' 'GetEnvironment' ('MaxWS' 'Captions\Session')
 ┌────┬───────────────────────┐
@@ -85,7 +85,7 @@ whereas,
 
 `WSPATH: ["c:\Dyalog18.0"]` means  `c:Dyalog18.0`.
 
-<h4 class="example">Example</h4>
+#### Example
 ```apl
 {
   Extend: "my_default_configuration.dcfg",

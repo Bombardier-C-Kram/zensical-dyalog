@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Number of Threads</span> <span class="command">R←1111⌶Y</span> {: .heading}
+# Number of Threads
+
+```apl
+R←1111⌶Y
+```
 
 
 

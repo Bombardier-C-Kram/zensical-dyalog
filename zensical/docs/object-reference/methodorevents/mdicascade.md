@@ -1,4 +1,6 @@
-# <span class="name">MDICascade</span> <span class="right">Method 110</span> {: .heading}
+# MDICascade
+
+Method 110
 
 
 

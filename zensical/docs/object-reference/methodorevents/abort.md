@@ -1,4 +1,6 @@
-# <span class="name">Abort</span> <span class="right">Method 103</span> {: .heading}
+# Abort
+
+Method 103
 
 
 

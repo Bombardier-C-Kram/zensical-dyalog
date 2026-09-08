@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Setup Method</span> {: .heading}
+# Setup Method
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

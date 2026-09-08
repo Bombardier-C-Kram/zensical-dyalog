@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BalloonHide Event</span> {: .heading}
+# BalloonHide Event
 
 |----------------------------------------|------|------|
 |[SysTrayItem](../objects/systrayitem.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HasButtons Property</span> {: .heading}
+# HasButtons Property
 
 |----------------------------------|------|------|
 |[TreeView](../objects/treeview.md)|&nbsp;|&nbsp;|

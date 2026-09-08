@@ -1,4 +1,6 @@
-# <span class="name">ImageIndex</span> <span class="right">Property</span> {: .heading}
+# ImageIndex
+
+Property
 
 [**Applies To**](../propertyapplies/imageindex.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">Scroll</span> <span class="right">Object</span> {: .heading}
+# Scroll
+
+Object
 
 
 

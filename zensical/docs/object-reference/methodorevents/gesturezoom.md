@@ -1,4 +1,6 @@
-# <span class="name">GestureZoom</span> <span class="right">Event 493</span> {: .heading}
+# GestureZoom
+
+Event 493
 
 [**Applies To**](../methodoreventapplies/gesturezoom.md)
 

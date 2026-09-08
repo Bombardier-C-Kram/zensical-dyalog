@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">FileBox Methods</span> {: .heading}
+# FileBox Methods
 
 |-------------------------------------|---------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[Wait](../methodorevents/wait.md)|&nbsp;|

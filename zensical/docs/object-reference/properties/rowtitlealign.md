@@ -1,4 +1,6 @@
-# <span class="name">RowTitleAlign</span> <span class="right">Property</span> {: .heading}
+# RowTitleAlign
+
+Property
 
 
 

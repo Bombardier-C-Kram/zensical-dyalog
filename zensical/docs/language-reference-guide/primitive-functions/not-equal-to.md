@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Not Equal To</span> <span class="command">R←X≠Y</span> {: .heading}
+# Not Equal To
+
+```apl
+R←X≠Y
+```
 
 
 
@@ -32,7 +36,7 @@ For Boolean `X` and `Y`, the value of `R` is the exclusive or (XOR)  result, det
 `⎕CT` and `⎕DCT` are  implicit arguments of Not Equal To.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1 2 3 ≠ 1.1 2 3
 1 0 0

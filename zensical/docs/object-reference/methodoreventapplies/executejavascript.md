@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ExecuteJavaScript Method</span> {: .heading}
+# ExecuteJavaScript Method
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

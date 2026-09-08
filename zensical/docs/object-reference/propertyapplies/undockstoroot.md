@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">UndocksToRoot Property</span> {: .heading}
+# UndocksToRoot Property
 
 |----------------------------------------|--------------------------|--------------------------------|
 |[CoolBand](../objects/coolband.md)      |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|

@@ -1,4 +1,6 @@
-# <span class="name">Grid</span> <span class="right">Object</span> {: .heading}
+# Grid
+
+Object
 
 
 

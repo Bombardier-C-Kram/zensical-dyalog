@@ -1,4 +1,6 @@
-# <span class="name">Array</span> <span class="right">Property</span> {: .heading}
+# Array
+
+Property
 
 
 

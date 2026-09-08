@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLEServer Methods</span> {: .heading}
+# OLEServer Methods
 
 |-------------------------------------------|-----------------------------------------------|---------------------------------------------------|
 |[Detach](../methodorevents/detach.md)      |[OLERegister](../methodorevents/oleregister.md)|[OLEUnregister](../methodorevents/oleunregister.md)|

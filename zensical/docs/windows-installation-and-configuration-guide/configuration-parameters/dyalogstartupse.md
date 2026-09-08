@@ -1,4 +1,4 @@
-# <span class="name">DyalogStartupSE</span> {: .heading}
+# DyalogStartupSE
 
 This parameter specifies one or more *Session initialisation* directories that contain APL code to be installed in `⎕SE`.  If this parameter is not specified, the default is a directory named `StartupSession` located in three standard locations.
 

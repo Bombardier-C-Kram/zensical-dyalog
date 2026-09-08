@@ -1,4 +1,4 @@
-# <span class="name">Drag and Drop</span> {: .heading}
+# Drag and Drop
 
 Dyalog APL/W provides built-in support for drag/drop operations through the Dragable property. This applies to all objects for which drag/drop is appropriate.
 

@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Session Namespace</span> <span class="command">⎕SE</span> {: .heading}
+# Session Namespace
+
+```apl
+⎕SE
+```
 
 
 

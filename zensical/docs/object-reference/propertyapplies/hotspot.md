@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HotSpot Property</span> {: .heading}
+# HotSpot Property
 
 |------------------------------|------|------|
 |[Cursor](../objects/cursor.md)|&nbsp;|&nbsp;|

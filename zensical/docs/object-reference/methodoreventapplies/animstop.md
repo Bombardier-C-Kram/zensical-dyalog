@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AnimStop Method</span> {: .heading}
+# AnimStop Method
 
 |------------------------------------|------|------|
 |[Animation](../objects/animation.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ArcMode Property</span> {: .heading}
+# ArcMode Property
 
 |------------------------------|--------------------------------|------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|&nbsp;|

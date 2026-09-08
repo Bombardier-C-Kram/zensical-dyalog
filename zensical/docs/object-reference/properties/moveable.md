@@ -1,4 +1,6 @@
-# <span class="name">Moveable</span> <span class="right">Property</span> {: .heading}
+# Moveable
+
+Property
 
 
 

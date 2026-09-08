@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ToolButton Parents</span> {: .heading}
+# ToolButton Parents
 
 |----------------------------------------|------|------|
 |[ToolControl](../objects/toolcontrol.md)|&nbsp;|&nbsp;|

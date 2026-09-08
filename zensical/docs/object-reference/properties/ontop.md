@@ -1,4 +1,6 @@
-# <span class="name">OnTop</span> <span class="right">Property</span> {: .heading}
+# OnTop
+
+Property
 
 [**Applies To**](../propertyapplies/ontop.md)
 

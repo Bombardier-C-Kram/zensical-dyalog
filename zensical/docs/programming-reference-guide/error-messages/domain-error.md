@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">DOMAIN ERROR</span> <span class="command">11</span> {: .heading}
+# DOMAIN ERROR
+
+```apl
+11
+```
 
 
 
@@ -15,7 +19,7 @@ This report is given when either:
 - The result produced by a function includes numeric elements which cannot be fully represented.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       1÷0
 DOMAIN ERROR

@@ -1,4 +1,6 @@
-# <span class="name">Weight</span> <span class="right">Property</span> {: .heading}
+# Weight
+
+Property
 
 
 

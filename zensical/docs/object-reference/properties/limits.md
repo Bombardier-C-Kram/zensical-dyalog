@@ -1,4 +1,6 @@
-# <span class="name">Limits</span> <span class="right">Property</span> {: .heading}
+# Limits
+
+Property
 
 
 

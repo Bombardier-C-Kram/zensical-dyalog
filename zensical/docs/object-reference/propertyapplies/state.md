@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">State Property</span> {: .heading}
+# State Property
 
 |------------------------------------|--------------------------------------|--------------------------------|
 |[Button](../objects/button.md)      |[Form](../objects/form.md)            |[SubForm](../objects/subform.md)|

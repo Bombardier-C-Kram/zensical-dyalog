@@ -1,4 +1,4 @@
-# <span class="name">Drawing Lines</span> {: .heading}
+# Drawing Lines
 
 To draw a line you use the Poly object. The following example draws a line in a Form from the point (y=10, x=5) to the point (y=90, x=60) :
 ```apl

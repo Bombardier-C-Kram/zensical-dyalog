@@ -1,4 +1,6 @@
-# <span class="name">Checked</span> <span class="right">Property</span> {: .heading}
+# Checked
+
+Property
 
 
 

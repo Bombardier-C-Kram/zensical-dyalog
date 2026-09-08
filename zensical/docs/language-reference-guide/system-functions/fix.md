@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Fix Script</span> <span class="command">\{R\}←\{X\}⎕FIX Y</span> {: .heading}
+# Fix Script
+
+```apl
+{R}←{X}⎕FIX Y
+```
 
 
 
@@ -139,7 +143,7 @@ DOMAIN ERROR: There were errors processing the script
 
 ```
 
-!!! Legacy "Legacy"
+!!! note "Legacy"
     Before Dyalog v20.0, it was possible to define dfns with unmatched parentheses and brackets. These are now rejected. TradFns will continue to fix as before, but subtle differences in how the code behaves might not be backwards-compatible and could have unexpected results.
 
 ## Variant Options

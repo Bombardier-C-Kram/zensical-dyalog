@@ -1,4 +1,6 @@
-# <span class="name">Decimals</span> <span class="right">Property</span> {: .heading}
+# Decimals
+
+Property
 
 
 

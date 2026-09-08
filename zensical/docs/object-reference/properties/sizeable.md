@@ -1,4 +1,6 @@
-# <span class="name">Sizeable</span> <span class="right">Property</span> {: .heading}
+# Sizeable
+
+Property
 
 [**Applies To**](../propertyapplies/sizeable.md)
 

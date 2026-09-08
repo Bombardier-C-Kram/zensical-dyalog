@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OLERegister Method</span> {: .heading}
+# OLERegister Method
 
 |------------------------------------|------|------|
 |[OLEServer](../objects/oleserver.md)|&nbsp;|&nbsp;|

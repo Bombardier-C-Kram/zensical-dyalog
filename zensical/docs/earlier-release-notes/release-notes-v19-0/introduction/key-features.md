@@ -1,4 +1,4 @@
-# <span class="name">Key Features</span> {: .heading}
+# Key Features
 
 ## Upgrading from Version 17.1 to Version 19.0
 
@@ -75,7 +75,7 @@ The Caption property of the Session may be set dynamically to a character vector
 
 Table: Session Caption Fields
 
-<h3 class="example">Example</h3>
+### Example
 ```apl
      ⎕SE.Caption←'Pete: {WSID} {Product} {VER_A}.{VER_B}'
 ```

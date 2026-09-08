@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FULL SCREEN ERROR</span> <span class="command">60</span> {: .heading}
+# FULL SCREEN ERROR
+
+```apl
+60
+```
 
 
 

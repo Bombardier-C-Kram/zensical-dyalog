@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">OtherButton Property</span> {: .heading}
+# OtherButton Property
 
 |----------------------------------------|------|------|
 |[ColorButton](../objects/colorbutton.md)|&nbsp;|&nbsp;|

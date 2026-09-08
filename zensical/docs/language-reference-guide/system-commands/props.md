@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">List Properties</span> <span class="command">)PROPS</span> {: .heading}
+# List Properties
+
+```apl
+)PROPS
+```
 
 
 

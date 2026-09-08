@@ -1,4 +1,6 @@
-# <span class="name">Container</span> <span class="right">Property</span> {: .heading}
+# Container
+
+Property
 
 
 

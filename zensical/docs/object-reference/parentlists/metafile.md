@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Metafile Parents</span> {: .heading}
+# Metafile Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Bitmap](../objects/bitmap.md)            |[CoolBand](../objects/coolband.md)          |

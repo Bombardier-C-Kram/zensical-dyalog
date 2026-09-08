@@ -1,4 +1,4 @@
-# <span class="name">Debugging Threads</span> {: .heading}
+# Debugging Threads
 
 If a thread sustains an untrapped error, its execution is *suspended* in the normal way. If the *Pause on Error* option  is set, all other threads are *paused*. If *Pause on Error* option  is not set, other threads will continue running and it is possible for another thread to encounter an error and suspend (see the *Dyalog for Microsoft Windows Installation and Configuration Guide*).
 

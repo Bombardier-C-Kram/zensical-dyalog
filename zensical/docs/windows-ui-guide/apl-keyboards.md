@@ -1,4 +1,4 @@
-# <span class="name"> APL Keyboards</span> {: .heading}
+# APL Keyboards
 
 The Classic and Unicode Editions of Dyalog APL for Windows use different techniques for mapping keystrokes to APL characters and to special command shortcuts.
 

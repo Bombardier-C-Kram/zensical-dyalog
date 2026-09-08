@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Locator Events</span> {: .heading}
+# Locator Events
 
 |-------------------------------------|-------------------------------------|---------------------------------------|
 |[Close](../methodorevents/close.md)  |[Create](../methodorevents/create.md)|[Locator](../methodorevents/locator.md)|

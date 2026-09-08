@@ -1,4 +1,4 @@
-# <span class="name">New or Changed Configuration Parameters</span> {: .heading}
+# New or Changed Configuration Parameters
 
 The following table summarises  changes to configuration parameters in Version 19.0.
 

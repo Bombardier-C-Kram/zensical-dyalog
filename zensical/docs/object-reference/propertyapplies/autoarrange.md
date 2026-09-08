@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">AutoArrange Property</span> {: .heading}
+# AutoArrange Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

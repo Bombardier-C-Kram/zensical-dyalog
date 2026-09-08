@@ -7,7 +7,11 @@ search:
   ← gets
 </div>
 
-# <span class="name">Assignment (Selective Modified)</span> <span class="command">\{R\}←(EXP X)f←Y</span> {: .heading}
+# Assignment (Selective Modified)
+
+```apl
+{R}←(EXP X)f←Y
+```
 
 `f` may be any dyadic function which returns an explicit result.  `Y` may be any array whose items are appropriate to function `f`.  `X` must be the *name* of an existing array.  `EXP` is an expression that **selects** elements of `X`. (See [Assignment (Selective)](assignment-selective.md) for a list of allowed selection functions.)  The selected elements of `X` must be appropriate to function `f`.
 
@@ -17,7 +21,7 @@ The operator loops through the selected elements of `X` in ravel order. For each
 
 `R` is the "pass-through" value, that is, the value of `Y`.  If the result of the derived function is not assigned or used, there is no explicit result.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       A
 12 36 23 78 30

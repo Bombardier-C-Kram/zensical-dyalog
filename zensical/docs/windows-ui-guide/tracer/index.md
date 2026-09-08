@@ -1,4 +1,4 @@
-# <span class="name">The Tracer</span> {: .heading}
+# The Tracer
 
 The Tracer is a visual debugging aid that allows you to step through an application line by line. During a Trace you can track the path taken through your code, display variables in edit windows and watch them change, skip forwards and backwards in a function. You can cutback the stack to a calling function and use the Session and Editor to experiment with and correct your code. The Tracer may be invoked in several ways as discussed below.
 
@@ -72,25 +72,25 @@ The Tracer may be controlled from the keyboard, or by using the *Trace Tools* wh
 
 |Button|Name|Key Code|Keystroke|Description|
 |---|---|---|---|---|
-|<span class="toolbar-icon" style="background-position: -64px 0"></span>|Exec|**&lt;ER&gt;**|<kbd>Enter</kbd>|Execute expression|
-|<span class="toolbar-icon" style="background-position: -80px 0"></span>|Trace|**&lt;TC&gt;**|<kbd>Ctrl</kbd>+<kbd>Enter</kbd>|Trace expression|
-|<span class="toolbar-icon" style="background-position: -432px 0"></span>|Inline Trace|**&lt;IT&gt;**|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Enter</kbd>|Trace inline|
-|<span class="toolbar-icon" style="background-position: 0 0"></span>|Back|**&lt;BK&gt;**|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Bksp</kbd>|Go back one line|
-|<span class="toolbar-icon" style="background-position: -16px 0"></span>|Fwd|**&lt;FD&gt;**|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd>|Skip current line|
-|<span class="toolbar-icon" style="background-position: -96px 0"></span>|Continue|**&lt;BH&gt;**|&nbsp;|Stop on next line of calling function|
-|<span class="toolbar-icon" style="background-position: -112px 0"></span>|Restart|**&lt;RM&gt;**|`→⎕LC`|Continue execution of this thread|
-|<span class="toolbar-icon" style="background-position: -160px 0"></span>|Restart all|&nbsp;|&nbsp;|Continue execution of all threads|
-|<span class="toolbar-icon" style="background-position: -48px 0"></span>|Edit|**&lt;ED&gt;**|<kbd>Shift</kbd>+<kbd>Enter</kbd>|Edit name|
-|<span class="toolbar-icon" style="background-position: -32px 0"></span>|Exit|**&lt;EP&gt;**|<kbd>Esc</kbd>|Quit this function|
-|<span class="toolbar-icon" style="background-position: -128px 0"></span>|Intr|&nbsp;|<kbd>Ctrl</kbd>+<kbd>Pause</kbd>|Interrupt|
-|<span class="toolbar-icon" style="background-position: -144px 0"></span>|Reset|**&lt;CB&gt;**|&nbsp;|Clear trace/stop/monitor for this object|
-|<span class="toolbar-icon" style="background-position: -224px 0"></span>|&nbsp;|**&lt;LN&gt;**|&nbsp;|Toggle line numbers|
-|<span class="toolbar-icon" style="background-position: -256px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Search for next match|
-|<span class="toolbar-icon" style="background-position: -240px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Search for previous match|
-|<span class="toolbar-icon" style="background-position: -272px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Search hidden text|
-|<span class="toolbar-icon" style="background-position: -336px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Match case|
-|<span class="toolbar-icon" style="background-position: -352px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Match whole word|
-|<span class="toolbar-icon" style="background-position: -368px 0"></span>|&nbsp;|&nbsp;|&nbsp;|Use Regular Expressions|
+|![Exec toolbar button](../img/tbt-exec.png)|Exec|**&lt;ER&gt;**|<kbd>Enter</kbd>|Execute expression|
+|![Trace toolbar button](../img/tbt-trace.png)|Trace|**&lt;TC&gt;**|<kbd>Ctrl</kbd>+<kbd>Enter</kbd>|Trace expression|
+|![Inline Trace toolbar button](../img/tbt-inline-trace.png)|Inline Trace|**&lt;IT&gt;**|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Enter</kbd>|Trace inline|
+|![Back toolbar button](../img/tbt-back.png)|Back|**&lt;BK&gt;**|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Bksp</kbd>|Go back one line|
+|![Fwd toolbar button](../img/tbt-fwd.png)|Fwd|**&lt;FD&gt;**|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd>|Skip current line|
+|![Continue toolbar button](../img/tbt-continue.png)|Continue|**&lt;BH&gt;**|&nbsp;|Stop on next line of calling function|
+|![Restart toolbar button](../img/tbt-restart.png)|Restart|**&lt;RM&gt;**|`→⎕LC`|Continue execution of this thread|
+|![Restart all toolbar button](../img/tbt-restart-all.png)|Restart all|&nbsp;|&nbsp;|Continue execution of all threads|
+|![Edit toolbar button](../img/tbt-edit.png)|Edit|**&lt;ED&gt;**|<kbd>Shift</kbd>+<kbd>Enter</kbd>|Edit name|
+|![Exit toolbar button](../img/tbt-exit.png)|Exit|**&lt;EP&gt;**|<kbd>Esc</kbd>|Quit this function|
+|![Intr toolbar button](../img/tbt-intr.png)|Intr|&nbsp;|<kbd>Ctrl</kbd>+<kbd>Pause</kbd>|Interrupt|
+|![Reset toolbar button](../img/tbt-reset.png)|Reset|**&lt;CB&gt;**|&nbsp;|Clear trace/stop/monitor for this object|
+|![Toggle line numbers toolbar button](../img/tbt-toggle-line-numbers.png)|&nbsp;|**&lt;LN&gt;**|&nbsp;|Toggle line numbers|
+|![Search for next match toolbar button](../img/tbt-search-for-next-match.png)|&nbsp;|&nbsp;|&nbsp;|Search for next match|
+|![Search for previous match toolbar button](../img/tbt-search-for-previous-match.png)|&nbsp;|&nbsp;|&nbsp;|Search for previous match|
+|![Search hidden text toolbar button](../img/tbt-search-hidden-text.png)|&nbsp;|&nbsp;|&nbsp;|Search hidden text|
+|![Match case toolbar button](../img/tbt-match-case.png)|&nbsp;|&nbsp;|&nbsp;|Match case|
+|![Match whole word toolbar button](../img/tbt-match-whole-word.png)|&nbsp;|&nbsp;|&nbsp;|Match whole word|
+|![Use Regular Expressions toolbar button](../img/tbt-use-regular-expressions.png)|&nbsp;|&nbsp;|&nbsp;|Use Regular Expressions|
 
 Using the Trace Tools, you can **single-step** through the function or operator by clicking the *Exec* and/or *Trace* buttons. If you click *Exec* the current line of the function or operator is executed and the system halts at the next line. If you click *Trace*, the current line is executed but any defined functions or operators referenced on that line are themselves traced. After execution of the line the system again halts at the next one. Using the keyboard, the same effect can be achieved by pressing <kbd>Enter</kbd> or <kbd>Ctrl</kbd>+<kbd>Enter</kbd>.
 
@@ -152,7 +152,7 @@ Breakpoints are defined by `⎕STOP` and may be toggled on and off in an Edit or
 
 ## Clearing All Break-Points
 
-<span class="toolbar-icon" style="background-position: -144px 0"></span>
+![Clear all breakpoints toolbar button](../img/tbt-clear-all-breakpoints.png)
 
 You can clear all breakpoints by pressing the above button in the Trace Tools window. This in fact resets `⎕STOP` for all functions in the workspace.
 

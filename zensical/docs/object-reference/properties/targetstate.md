@@ -1,4 +1,6 @@
-# <span class="name">TargetState</span> <span class="right">Property</span> {: .heading}
+# TargetState
+
+Property
 
 **Applies To:** [TCPSocket](../objects/tcpsocket.md)
 

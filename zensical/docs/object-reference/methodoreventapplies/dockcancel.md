@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DockCancel Event</span> {: .heading}
+# DockCancel Event
 
 |----------------------------------|----------------------------------------|--------------------------|
 |[CoolBand](../objects/coolband.md)|[CoolBar](../objects/coolbar.md)        |[Form](../objects/form.md)|

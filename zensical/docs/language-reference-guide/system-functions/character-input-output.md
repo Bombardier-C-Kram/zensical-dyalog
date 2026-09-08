@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Character Input/Output</span> <span class="command">⍞</span> {: .heading}
+# Character Input/Output
+
+```apl
+⍞
+```
 
 
 
@@ -17,7 +21,7 @@ search:
 When `⍞` is assigned with a vector or a scalar, the array is displayed without the normal ending new-line character.  Successive assignments of vectors or scalars to `⍞` without any intervening input or output cause the arrays to be displayed on the same output line.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍞←'2+2' ⋄ ⍞←'=' ⋄ ⍞←4
 2+2=4
@@ -35,12 +39,12 @@ When `⍞` is referenced, terminal input is expected without any specific prompt
 
 If the `⍞` request was preceded by one or more assignments to `⍞` without any intervening input or output, the last (or only) line of the output characters are returned as part of the response.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       mat←↑⌽⍞⍞⍞⍞⍞
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍞←'OPTION : ' ⋄ R←⍞
 OPTION : INPUT

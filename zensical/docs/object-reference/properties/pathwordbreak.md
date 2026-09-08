@@ -1,4 +1,6 @@
-# <span class="name">PathWordBreak</span> <span class="right">Property</span> {: .heading}
+# PathWordBreak
+
+Property
 
 
 

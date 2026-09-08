@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">MakeBooking Method</span> {: .heading}
+# MakeBooking Method
 
 ```apl
     ∇ R←MakeBooking ARGS;CODE;COURSE;SLOT;TEETIME

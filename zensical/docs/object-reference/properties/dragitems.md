@@ -1,4 +1,6 @@
-# <span class="name">DragItems</span> <span class="right">Property</span> {: .heading}
+# DragItems
+
+Property
 
 
 

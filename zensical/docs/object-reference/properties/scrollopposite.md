@@ -1,4 +1,6 @@
-# <span class="name">ScrollOpposite</span> <span class="right">Property</span> {: .heading}
+# ScrollOpposite
+
+Property
 
 
 

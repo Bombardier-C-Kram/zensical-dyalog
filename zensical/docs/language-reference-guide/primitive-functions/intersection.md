@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Intersection</span> <span class="command">R←X∩Y</span> {: .heading}
+# Intersection
+
+```apl
+R←X∩Y
+```
 
 
 
@@ -23,7 +27,7 @@ Items in `X` and `Y` are considered the same if `X≡Y` returns 1 for those item
 
 `⎕CT` and `⎕DCT` are  implicit arguments of Intersection.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'ABRA'∩'CAR'
 ARA

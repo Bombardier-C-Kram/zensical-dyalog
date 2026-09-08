@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Set Monitor</span> <span class="command">\{R\}←X ⎕MONITOR Y</span> {: .heading}
+# Set Monitor
+
+```apl
+{R}←X ⎕MONITOR Y
+```
 
 
 
@@ -35,7 +39,7 @@ The effect of `⎕MONITOR` is to accumulate timing statistics for the lines for 
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       +(0,⍳10) ⎕MONITOR 'FOO'
 0 1 2 3 4 5

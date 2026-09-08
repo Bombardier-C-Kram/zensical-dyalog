@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ButtonEdit Properties</span> {: .heading}
+# ButtonEdit Properties
 
 |-------------------------------------------------|-------------------------------------------|---------------------------------------------------------|
 |[Type](../properties/type.md)                    |[Text](../properties/text.md)              |[Posn](../properties/posn.md)                            |

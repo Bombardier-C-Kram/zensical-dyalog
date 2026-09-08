@@ -6,7 +6,11 @@ search:
   ⍳ iota interval
 </div>
 
-# <span class="name">Index Generator</span> <span class="command">R←⍳Y</span> {: .heading}
+# Index Generator
+
+```apl
+R←⍳Y
+```
 
 
 
@@ -19,7 +23,7 @@ search:
 `⎕IO` is an implicit argument of Index Generator. This function is also known as Interval.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕IO
 1

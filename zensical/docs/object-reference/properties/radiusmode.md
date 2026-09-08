@@ -1,4 +1,6 @@
-# <span class="name">RadiusMode</span> <span class="right">Property</span> {: .heading}
+# RadiusMode
+
+Property
 
 
 

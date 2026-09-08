@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HThumbDrag Event</span> {: .heading}
+# HThumbDrag Event
 
 |--------------------------|--------------------------------|------|
 |[Form](../objects/form.md)|[SubForm](../objects/subform.md)|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DuplicateRow Method</span> {: .heading}
+# DuplicateRow Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

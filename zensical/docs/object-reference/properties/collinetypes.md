@@ -1,4 +1,6 @@
-# <span class="name">ColLineTypes</span> <span class="right">Property</span> {: .heading}
+# ColLineTypes
+
+Property
 
 
 

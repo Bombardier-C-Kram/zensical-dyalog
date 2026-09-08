@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageWidth Property</span> {: .heading}
+# PageWidth Property
 
 |----------------------------------|------|------|
 |[RichEdit](../objects/richedit.md)|&nbsp;|&nbsp;|

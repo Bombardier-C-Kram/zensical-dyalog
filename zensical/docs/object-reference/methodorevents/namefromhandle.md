@@ -1,4 +1,6 @@
-# <span class="name">NameFromHandle</span> <span class="right">Method 136</span> {: .heading}
+# NameFromHandle
+
+Method 136
 
 
 

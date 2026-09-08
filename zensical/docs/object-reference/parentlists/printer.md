@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Printer Parents</span> {: .heading}
+# Printer Parents
 
 |----------------------------------------------|------------------------------------------|--------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)        |[Form](../objects/form.md)                  |

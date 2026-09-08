@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DuplicateColumn Method</span> {: .heading}
+# DuplicateColumn Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

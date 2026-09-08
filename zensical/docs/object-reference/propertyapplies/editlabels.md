@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">EditLabels Property</span> {: .heading}
+# EditLabels Property
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

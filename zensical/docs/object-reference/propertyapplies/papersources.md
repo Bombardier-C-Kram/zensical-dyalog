@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PaperSources Property</span> {: .heading}
+# PaperSources Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

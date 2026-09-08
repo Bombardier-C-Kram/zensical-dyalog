@@ -1,4 +1,4 @@
-# <span class="name">Structuring of Arrays</span> {: .heading}
+# Structuring of Arrays
 
 Primitive functions that restructure arrays:
 
@@ -16,7 +16,7 @@ Primitive functions that restructure arrays:
 |`⊆` |[nest](../../../../language-reference-guide/primitive-functions/nest)|[partition](../../../../language-reference-guide/primitive-functions/partition)|
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⊢m←2 2⍴1 2 3 4                   ⍝ reshape
 1 2

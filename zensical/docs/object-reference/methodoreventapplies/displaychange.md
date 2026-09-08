@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DisplayChange Event</span> {: .heading}
+# DisplayChange Event
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

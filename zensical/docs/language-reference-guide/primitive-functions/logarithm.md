@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Logarithm</span> <span class="command">R←X⍟Y</span> {: .heading}
+# Logarithm
+
+```apl
+R←X⍟Y
+```
 
 
 
@@ -23,7 +27,7 @@ Note that Logarithm (dyadic `⍟`) is defined in terms of Natural Logarithm (mon
       X⍟Y←→(⍟Y)÷⍟X
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       10⍟100 2
 2 0.3010299957

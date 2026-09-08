@@ -1,4 +1,6 @@
-# <span class="name">DockStart</span> <span class="right">Event 480</span> {: .heading}
+# DockStart
+
+Event 480
 
 
 

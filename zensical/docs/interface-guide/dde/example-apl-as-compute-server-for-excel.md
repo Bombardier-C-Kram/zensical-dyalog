@@ -1,4 +1,4 @@
-# <span class="name">Example: APL as Compute Server for Excel</span> {: .heading}
+# Example: APL as Compute Server for Excel
 
 The following instructions illustrate how APL can act as a "compute server" for Microsoft Excel, using two shared variables. One variable is used to read the data from Excel; the other is used to pass back the result.
 

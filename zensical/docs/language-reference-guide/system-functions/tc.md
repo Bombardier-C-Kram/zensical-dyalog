@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Terminal Control</span> <span class="command">(⎕ML)</span> {: .heading}
+# Terminal Control
+
+```apl
+(⎕ML)
+```
 
 
 

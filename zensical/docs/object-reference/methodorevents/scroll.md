@@ -1,4 +1,6 @@
-# <span class="name">Scroll</span> <span class="right">Event 37</span> {: .heading}
+# Scroll
+
+Event 37
 
 
 

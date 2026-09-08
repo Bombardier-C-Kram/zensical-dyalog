@@ -1,4 +1,4 @@
-# <span class="name">Gestures</span> {: .heading}
+# Gestures
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# <span class="name">Running from Desktop</span> {: .heading}
+# Running from Desktop
 
 Now that we have a final working application, it would be nice to add it as a shortcut, so that the user can run it from the Start Menu or from the Desktop, like any other application.
 

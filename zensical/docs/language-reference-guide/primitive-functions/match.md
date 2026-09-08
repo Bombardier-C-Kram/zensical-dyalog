@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Match</span> <span class="command">R←X≡Y</span> {: .heading}
+# Match
+
+```apl
+R←X≡Y
+```
 
 
 
@@ -24,7 +28,7 @@ Non-empty arrays are identical if they have the same structure and the same valu
 `⎕CT` and `⎕DCT` are  implicit arguments of Match.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍬≡⍳0
 1

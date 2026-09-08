@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Tilde</span> <span class="command">~</span> {: .heading}
+# Tilde
+
+```apl
+~
+```
 
 Monadic Tilde means
 [NOT](../primitive-functions/not.md)

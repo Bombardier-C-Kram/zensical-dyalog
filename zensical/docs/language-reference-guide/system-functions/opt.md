@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Variant</span> <span class="command">\{R\}←\{X\}(f ⎕OPT B)Y</span> {: .heading}
+# Variant
+
+```apl
+{R}←{X}(f ⎕OPT B)Y
+```
 
 
 

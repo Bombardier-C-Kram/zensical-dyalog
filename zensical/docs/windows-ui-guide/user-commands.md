@@ -1,4 +1,4 @@
-# <span class="name">User Commands</span> {: .heading}
+# User Commands
 
 Dyalog includes a mechanism to define *User Commands*.
 

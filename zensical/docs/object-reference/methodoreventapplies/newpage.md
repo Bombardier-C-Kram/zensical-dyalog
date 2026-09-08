@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">NewPage Method</span> {: .heading}
+# NewPage Method
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

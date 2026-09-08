@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Minus</span> <span class="command">-</span> {: .heading}
+# Minus
+
+```apl
+-
+```
 
 Monadic Minus means
 [Negate](../primitive-functions/negate.md)

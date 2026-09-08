@@ -1,4 +1,6 @@
-# <span class="name">ValidIfEmpty</span> <span class="right">Property</span> {: .heading}
+# ValidIfEmpty
+
+Property
 
 
 

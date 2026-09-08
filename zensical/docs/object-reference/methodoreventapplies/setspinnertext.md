@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetSpinnerText Event</span> {: .heading}
+# SetSpinnerText Event
 
 |--------------------------------|------|------|
 |[Spinner](../objects/spinner.md)|&nbsp;|&nbsp;|

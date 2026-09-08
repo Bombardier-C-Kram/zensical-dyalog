@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Format</span> <span class="command">Event 821</span> {: .heading}
+# Format
+
+```apl
+Event 821
+```
 
 
 

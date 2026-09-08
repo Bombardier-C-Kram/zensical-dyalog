@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Verify &amp; Fix Input</span> <span class="command">R←\{X\}⎕VFI Y</span> {: .heading}
+# Verify &amp; Fix Input
+
+```apl
+R←{X}⎕VFI Y
+```
 
 
 
@@ -25,7 +29,7 @@ search:
 
 The length of the items of `R` is the same as the number of identifiable strings (or implied strings) in `Y` separated by blank or the value of `X`.  An element of the first item of `R` is 1 where the corresponding string in `Y` is a valid numeric representation, or 0 otherwise.  An element of the second item of `R` is the numeric value of the corresponding string in `Y` if it is a valid numeric representation, or 0 otherwise.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       ⎕VFI '2 -2 ¯2'

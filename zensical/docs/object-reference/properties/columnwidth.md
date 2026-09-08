@@ -1,4 +1,6 @@
-# <span class="name">ColumnWidth</span> <span class="right">Property</span> {: .heading}
+# ColumnWidth
+
+Property
 
 
 

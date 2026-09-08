@@ -1,4 +1,6 @@
-# <span class="name">SelRange</span> <span class="right">Property</span> {: .heading}
+# SelRange
+
+Property
 
 
 

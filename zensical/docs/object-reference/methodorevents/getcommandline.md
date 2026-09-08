@@ -1,4 +1,6 @@
-# <span class="name">GetCommandLine</span> <span class="right">Method 145</span> {: .heading}
+# GetCommandLine
+
+Method 145
 
 
 
@@ -15,7 +17,7 @@ The GetCommandLine method is niladic.
 
 The result is a character vector.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       GetCommandLine
 "C:\Program Files\Dyalog\Dyalog APL-64 13.2 Unicode\dyalog.exe"

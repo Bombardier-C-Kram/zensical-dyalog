@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WebSocketReceive Event</span> {: .heading}
+# WebSocketReceive Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

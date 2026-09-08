@@ -1,4 +1,4 @@
-# <span class="name">Locals Lines</span> {: .heading}
+# Locals Lines
 
 *Locals Lines* are lines in a defined function or operator that serve only to define local names.
 
@@ -6,7 +6,7 @@ A Locals Line may appear anywhere between line [0] and the first executable stat
 
 A Locals Line must be of the form `;name;name;name` where name is any valid APL name or  localisable system variable. The names are localised on entry to the function exactly as if they were specified as locals on line `[0]`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ∇ r←foo y;a;b       ⍝ some locals
                ;c;d       ⍝ some more locals  

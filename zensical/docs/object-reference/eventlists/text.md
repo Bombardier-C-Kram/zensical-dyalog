@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Text Events</span> {: .heading}
+# Text Events
 
 |---------------------------------------------|-------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)          |[Create](../methodorevents/create.md)      |[FontOK](../methodorevents/fontok.md)              |

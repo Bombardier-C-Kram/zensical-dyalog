@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">List Events</span> {: .heading}
+# List Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

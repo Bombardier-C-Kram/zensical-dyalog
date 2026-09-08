@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Checked Property</span> {: .heading}
+# Checked Property
 
 |----------------------------------|------|------|
 |[MenuItem](../objects/menuitem.md)|&nbsp;|&nbsp;|

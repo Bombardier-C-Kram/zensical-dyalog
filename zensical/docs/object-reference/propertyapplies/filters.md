@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Filters Property</span> {: .heading}
+# Filters Property
 
 |--------------------------------|------|------|
 |[FileBox](../objects/filebox.md)|&nbsp;|&nbsp;|

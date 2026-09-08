@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">XML Convert</span> <span class="command">R←\{X\} ⎕XML Y</span> {: .heading}
+# XML Convert
+
+```apl
+R←{X} ⎕XML Y
+```
 
 
 
@@ -50,7 +54,7 @@ The values in column 5  have the following meanings:
 
 These values are additive. For example, a value of 5 in column 5 means that the row contains both an element (value 1) and character data (value 4).
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       x←'<xml><document id="001">An introduction to XML'
       x,←'</document></xml>'
@@ -74,7 +78,7 @@ These values are additive. For example, a value of 5 in column 5 means that the 
 
 For conversion *to* XML, `Y` is a 3, 4 or 5 column matrix and the result `R` is a character vector. The columns of `Y` have the same meaning as those described above for the result of converting *from* XML.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕XML v
 <xml> 

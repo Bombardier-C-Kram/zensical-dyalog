@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Continue Autosave</span> <span class="command">\{R\}←2704⌶Y</span> {: .heading}
+# Continue Autosave
+
+```apl
+{R}←2704⌶Y
+```
 
 
 

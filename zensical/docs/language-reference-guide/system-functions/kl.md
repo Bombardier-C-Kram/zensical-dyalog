@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Key Label</span> <span class="command">R←⎕KL Y</span> {: .heading}
+# Key Label
+
+```apl
+R←⎕KL Y
+```
 
 
 
@@ -24,7 +28,7 @@ search:
 
 `⎕KL` provides the information required to build device-independent help messages into applications, particularly full-screen applications using `⎕SM` and `⎕SR`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕KL 'RC'
 Right
@@ -33,7 +37,7 @@ Right
   Enter  Esc  Shift+Esc  F1  Shift+F1
 ```
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     In the Unicode edition, `⎕KL` can also get the keystrokes to type APL glyphs:
     ```apl
           ⎕KL '⌸'

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ProgressBar Children</span> {: .heading}
+# ProgressBar Children
 
 |--------------------------------|------------------------------|------------------------------|
 |[Bitmap](../objects/bitmap.md)  |[Circle](../objects/circle.md)|[Cursor](../objects/cursor.md)|

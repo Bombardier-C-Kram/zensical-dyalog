@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">Fix</span> <span class="right">Event 820</span> {: .heading}
+# Fix
+
+Event 820
 
 
 

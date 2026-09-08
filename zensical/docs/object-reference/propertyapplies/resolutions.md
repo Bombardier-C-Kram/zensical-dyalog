@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Resolutions Property</span> {: .heading}
+# Resolutions Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

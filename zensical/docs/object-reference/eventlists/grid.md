@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Grid Events</span> {: .heading}
+# Grid Events
 
 |-----------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                  |[Create](../methodorevents/create.md)            |[FontOK](../methodorevents/fontok.md)              |

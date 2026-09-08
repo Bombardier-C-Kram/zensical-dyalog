@@ -1,4 +1,6 @@
-# <span class="name">FileMode</span> <span class="right">Property</span> {: .heading}
+# FileMode
+
+Property
 
 
 

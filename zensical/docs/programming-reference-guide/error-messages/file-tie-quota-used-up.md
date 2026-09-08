@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE TIE QUOTA USED UP</span> <span class="command">31</span> {: .heading}
+# FILE TIE QUOTA USED UP
+
+```apl
+31
+```
 
 
 

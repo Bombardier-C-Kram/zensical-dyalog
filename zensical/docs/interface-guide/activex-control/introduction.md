@@ -1,4 +1,4 @@
-# <span class="name">Introduction</span> {: .heading}
+# Introduction
 
 An *ActiveX Control* is basically a user-defined control that may be included in GUI applications and Web Browsers.
 

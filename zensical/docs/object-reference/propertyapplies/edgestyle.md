@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">EdgeStyle Property</span> {: .heading}
+# EdgeStyle Property
 
 |----------------------------------------------|------------------------------------------|----------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)                |

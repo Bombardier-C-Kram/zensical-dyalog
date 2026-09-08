@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Slash Bar</span> <span class="command">⌿</span> {: .heading}
+# Slash Bar
+
+```apl
+⌿
+```
 
 # Used as a Function
 

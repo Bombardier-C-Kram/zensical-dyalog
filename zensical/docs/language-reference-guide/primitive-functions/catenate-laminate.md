@@ -6,7 +6,11 @@ search:
   , catenate
 </div>
 
-# <span class="name">Catenate/Laminate</span> <span class="command">R←X,\[K\]Y</span> {: .heading}
+# Catenate/Laminate
+
+```apl
+R←X,[K]Y
+```
 
 
 
@@ -27,7 +31,7 @@ Two cases of the function catenate  are permitted:
 
 The arrays `X` and `Y` are joined along the required axis to form array `R`.  A scalar is extended to the shape of the other argument except that the required axis is restricted to a unit dimension.  `X` and `Y` must have the same shape (after extension) except along the required axis, or one of the arguments may have rank one less than the other, provided that their shapes conform to the prior rule after augmenting the array of lower rank to have a unit dimension along the required axis. The rank of `R` is the greater of the ranks of the arguments, but not less than 1.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'FUR','LONG'
 FURLONG
@@ -57,7 +61,7 @@ The arrays `X` and `Y` are joined along a new axis created before the `⌈K`th a
 
 The rank of `R` is one plus the greater of the ranks of `X` and `Y`.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       'HEADING',[0.5]'-'
 HEADING

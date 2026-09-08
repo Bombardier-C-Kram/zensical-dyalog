@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ExportedVars Property</span> {: .heading}
+# ExportedVars Property
 
 |------------------------------------|------|------|
 |[OLEServer](../objects/oleserver.md)|&nbsp;|&nbsp;|

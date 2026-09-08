@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetTipText Event</span> {: .heading}
+# GetTipText Event
 
 |----------------------------------|----------------------------------|------|
 |[ListView](../objects/listview.md)|[TreeView](../objects/treeview.md)|&nbsp;|

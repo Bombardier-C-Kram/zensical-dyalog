@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CalendarDblClick Event</span> {: .heading}
+# CalendarDblClick Event
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

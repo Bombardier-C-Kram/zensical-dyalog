@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">Workspace Identification</span> <span class="command">)WSID \{ws\}</span> {: .heading}
+# Workspace Identification
+
+```apl
+)WSID {ws}
+```
 
 
 
@@ -16,7 +20,7 @@ If a workspace name is not specified, `)WSID` reports the name of the current ac
 If a workspace name is given, the current active workspace is renamed accordingly.  The previous name of the active workspace (excluding directory references) is reported.  See [Programmer's Guide: "Workspaces"](../../../programming-reference-guide/introduction/workspaces) for the rules for specifying a workspace name.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       )LOAD WS/TEMP
 WS/TEMP saved Thu Sep 17 10:32:19 1998

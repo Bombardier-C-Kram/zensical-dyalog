@@ -1,4 +1,4 @@
-# <span class="name">Configuration Parameters</span> {: .heading}
+# Configuration Parameters
 
 ## Introduction
 

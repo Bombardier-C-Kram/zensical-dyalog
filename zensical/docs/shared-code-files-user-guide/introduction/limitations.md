@@ -1,4 +1,4 @@
-# <span class="name">Limitations</span> {: .heading}
+# Limitations
 
 ## Fundamental Limitations
 

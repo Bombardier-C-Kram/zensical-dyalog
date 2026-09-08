@@ -1,4 +1,6 @@
-# <span class="name">Italic</span> <span class="right">Property</span> {: .heading}
+# Italic
+
+Property
 
 
 

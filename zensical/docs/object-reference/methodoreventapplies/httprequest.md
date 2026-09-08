@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HTTPRequest Event</span> {: .heading}
+# HTTPRequest Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">Trademarks</span> {: .heading}
+# Trademarks
 
 "Dyalog APL" is a UK registered trademark of Dyalog Limited (number 1192130).
 

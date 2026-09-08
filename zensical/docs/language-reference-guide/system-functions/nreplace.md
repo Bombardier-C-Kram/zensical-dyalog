@@ -7,7 +7,11 @@ search:
   ⎕NREPLACE NREPLACE
 </div>
 
-# <span class="name">Native File Replace</span> <span class="command">\{R\}←X ⎕NREPLACE Y</span> {: .heading}
+# Native File Replace
+
+```apl
+{R}←X ⎕NREPLACE Y
+```
 
 `⎕NREPLACE` is used to write data to a native file, replacing data which is already there.
 
@@ -39,7 +43,7 @@ If the data will not fit into the specified character width (bytes) `⎕NREPLACE
 
 As a consequence of these two rules, you must specify the data type (either 160 or 320) in order to write Unicode characters whose code-point is in the range 256-65535 and >65535 respectively.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       n←'test'⎕NTIE 0 ⍝ See "Example"

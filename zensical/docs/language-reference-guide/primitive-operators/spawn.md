@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Spawn</span> <span class="command">\{R\}←\{X\}f&amp;Y</span> {: .heading}
+# Spawn
+
+```apl
+{R}←{X}f&Y
+```
 
 
 
@@ -25,7 +29,7 @@ When function f terminates, its result (if any), the **thread result**, is retur
 Note that `&` can be used in conjunction with the **each** operator `¨` to launch many threads in parallel.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ÷&4         ⍝ Reciprocal in background
 0.25

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Duplex Property</span> {: .heading}
+# Duplex Property
 
 |--------------------------------|------|------|
 |[Printer](../objects/printer.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,6 @@
-# <span class="name">ProgressStep</span> <span class="right">Method 250</span> {: .heading}
+# ProgressStep
+
+Method 250
 
 
 

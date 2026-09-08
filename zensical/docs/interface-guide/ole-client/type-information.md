@@ -1,4 +1,4 @@
-# <span class="name">Type Information</span> {: .heading}
+# Type Information
 
 In general, it is a requirement that all COM objects provide *Type Information*. This is commonly provided in a type library file (extension .TLB) or is included in the object's .EXE or .DLL file. Type Information includes the names of the methods, events and properties exported by the object, together with descriptions of the arguments to each method and descriptions of the data types of each property. Type Information is necessary for the COM object to be properly recognised by object browsers and by application development systems.
 
@@ -30,7 +30,7 @@ The last resort is to rely on a secondary form of late binding[^1] in which APL 
 
 You can obtain the names of all the properties, methods, and events exposed by a COM object by executing the system function `⎕NL`, with the appropriate argument, inside the namespace that is associated with an instance of the object. Note that the result of `⎕NL` is a vector of character vectors. If Type Information is unobtainable, the list of items reported by `⎕NL` will be empty. See the section entitled *OLE Objects without Type Information* later in this Chapter.
 
-<h2 class="example">For example</h2>
+## For example
 ```apl
      DB←⎕NEW'OLEClient' (⊂'ClassName' 'DAO.DBEngine.120')
      DB.⎕NL ¯2 ⍝ Properties  
@@ -55,7 +55,7 @@ In previous versions of Dyalog APL, you could obtain this information from the P
 
 For backwards compatibility, these capabilities are retained when `⎕WX` is 0 or 1.
 
-<h2 class="example">For example</h2>
+## For example
 ```apl
       ⎕WX←1 
       'DB'⎕WC'OLEClient' 'DAO.DBEngine.120'

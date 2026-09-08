@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GripperMode Property</span> {: .heading}
+# GripperMode Property
 
 |----------------------------------|------|------|
 |[CoolBand](../objects/coolband.md)|&nbsp;|&nbsp;|

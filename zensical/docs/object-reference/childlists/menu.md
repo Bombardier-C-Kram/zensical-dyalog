@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Menu Children</span> {: .heading}
+# Menu Children
 
 |------------------------------------|----------------------------|----------------------------------|
 |[Bitmap](../objects/bitmap.md)      |[Menu](../objects/menu.md)  |[MenuItem](../objects/menuitem.md)|

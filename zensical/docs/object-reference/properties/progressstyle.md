@@ -1,4 +1,6 @@
-# <span class="name">ProgressStyle</span> <span class="right">Property</span> {: .heading}
+# ProgressStyle
+
+Property
 
 
 

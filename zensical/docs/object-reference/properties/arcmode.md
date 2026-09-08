@@ -1,4 +1,6 @@
-# <span class="name">ArcMode</span> <span class="right">Property</span> {: .heading}
+# ArcMode
+
+Property
 
 
 

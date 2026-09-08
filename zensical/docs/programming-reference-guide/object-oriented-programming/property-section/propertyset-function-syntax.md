@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">PropertySet Function</span> <span class="command">Set ipa</span> {: .heading}
+# PropertySet Function
+
+```apl
+Set ipa
+```
 
 
 

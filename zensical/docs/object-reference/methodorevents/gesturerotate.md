@@ -1,4 +1,6 @@
-# <span class="name">GestureRotate</span> <span class="right">Event 495</span> {: .heading}
+# GestureRotate
+
+Event 495
 
 [**Applies To**](../methodoreventapplies/gesturerotate.md)
 

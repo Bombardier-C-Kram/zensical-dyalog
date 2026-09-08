@@ -3,7 +3,9 @@ search:
   exclude: true
 ---
 
-# <span class="name">UpperCase</span> <span class="right">Property</span> {: .heading}
+# UpperCase
+
+Property
 
 
 

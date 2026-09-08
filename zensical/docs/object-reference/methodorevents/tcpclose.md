@@ -1,4 +1,6 @@
-# <span class="name">TCPClose</span> <span class="right">Event 374</span> {: .heading}
+# TCPClose
+
+Event 374
 
 
 

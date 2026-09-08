@@ -1,4 +1,6 @@
-# <span class="name">ShowThumb</span> <span class="right">Property</span> {: .heading}
+# ShowThumb
+
+Property
 
 
 

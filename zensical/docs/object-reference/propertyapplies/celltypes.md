@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellTypes Property</span> {: .heading}
+# CellTypes Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

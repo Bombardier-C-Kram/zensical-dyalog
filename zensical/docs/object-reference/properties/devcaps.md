@@ -1,4 +1,6 @@
-# <span class="name">DevCaps</span> <span class="right">Property</span> {: .heading}
+# DevCaps
+
+Property
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">InterceptedURLs</span> <span class="right">Property</span> {: .heading}
+# InterceptedURLs
+
+Property
 
 
 
@@ -45,7 +47,7 @@ Note that if code in the page creates a web socket intended for internal use, wi
 
 
 
-<h2 class="example">Examples</h2>
+## Examples
 
 
 The following will trigger an  event for all requested URLs.

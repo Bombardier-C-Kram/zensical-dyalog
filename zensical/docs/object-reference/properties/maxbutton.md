@@ -1,4 +1,6 @@
-# <span class="name">MaxButton</span> <span class="right">Property</span> {: .heading}
+# MaxButton
+
+Property
 
 
 

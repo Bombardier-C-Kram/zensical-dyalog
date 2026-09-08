@@ -1,4 +1,6 @@
-# <span class="name">Flush</span> <span class="right">Method 135</span> {: .heading}
+# Flush
+
+Method 135
 
 
 

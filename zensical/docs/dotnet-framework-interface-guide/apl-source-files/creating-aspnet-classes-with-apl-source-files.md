@@ -1,4 +1,4 @@
-# <span class="name">Creating ASP.NET Classes with APL Source Files</span> {: .heading}
+# Creating ASP.NET Classes with APL Source Files
 
 One of the purposes of APL Source files is to provide the ability to write ASP.NET web pages and web services in Dyalog; both these applications are based on script files.
 

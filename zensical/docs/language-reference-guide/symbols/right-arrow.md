@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Right Arrow</span> <span class="command">→</span> {: .heading}
+# Right Arrow
+
+```apl
+→
+```
 
 Monadic Right Arrow means
 [Branch](../other-syntax/branch.md)

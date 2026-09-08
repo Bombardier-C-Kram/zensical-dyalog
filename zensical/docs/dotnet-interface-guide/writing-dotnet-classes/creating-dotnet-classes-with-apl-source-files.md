@@ -1,4 +1,4 @@
-# <span class="name">Creating .NET Classes with APL Source Files</span> {: .heading}
+# Creating .NET Classes with APL Source Files
 
 New .NET classes can be defined and used within an APL Source file. This section provides a brief introduction to writing classes, aimed specifically at APL Source files – see the _Dyalog APL Programming Reference Guide_ for more information on writing classes in Dyalog.
 
@@ -43,7 +43,7 @@ Copyright Dyalog Ltd 2000-2024
 aplclasses6>
 ```
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     The image below shows a view of the resulting **aplclasses6.dll** using ILDASM.
 
     ![ILDASM view of aplclasses6.dll structure](../img/s-idslam-aplclasses6.png)
@@ -68,7 +68,7 @@ The accessor used to reference the value of the property is represented by a fun
 
 The `get` function is used to retrieve the value of the property and must be a niladic result returning function. The data type of its result determines the `Type` of the property. The `set` function is used to change the value of the property and must be a monadic function with no result. The argument to the function will have a data type `Type` specified by the `:Signature` statement. A property that contains a `get` function but no `set` function is effectively a read-only property.
 
-<h4 class="example">Example</h4>
+#### Example
 
 ```apl
 :Property Name
@@ -114,7 +114,7 @@ io←⎕IO
 :EndNamespace
 ```
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     The `ILDASM` view of the new **aplclasses7.dll**, showing the new `IndexOrigin` property, is shown below.
 
     ![ILDASM view of aplclasses7.dll structure](../img/s-idslam-aplclasses7.png)
@@ -145,5 +145,5 @@ Indexers are defined in the same way as properties, that is, between `:Property 
 !!! Info "Information"
     The `:Property Default` statement in Dyalog is closely modelled on the indexer feature in C# and employs similar syntax.
 
-!!! windows "Dyalog on Microsoft Windows"
+!!! info "Dyalog on Microsoft Windows"
     If you use <code class="language-nonAPL">ILDASM</code> to browse a .NET class containing an indexer, you will see the indexer as the _default property_ of that class, which is how it is implemented.

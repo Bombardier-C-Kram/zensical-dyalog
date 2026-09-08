@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RowTitleFCol Property</span> {: .heading}
+# RowTitleFCol Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

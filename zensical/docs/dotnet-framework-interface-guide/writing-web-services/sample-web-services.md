@@ -1,4 +1,4 @@
-# <span class="name">Sample Web Services</span> {: .heading}
+# Sample Web Services
 
 The relevant code is supplied in **[DYALOG]\Samples\asp.net**.
 

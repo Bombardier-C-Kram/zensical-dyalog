@@ -1,4 +1,4 @@
-# <span class="name">Prototypes and Fill Items</span> {: .heading}
+# Prototypes and Fill Items
 
 Every array has an associated *prototype* which is derived from the array's first item.
 
@@ -23,7 +23,7 @@ Otherwise (in the nested case, when the first item is other than a simple scalar
 
 Fill items for an overtake operation, are derived from the argument's prototype. For each `0` or `' '` in the prototype, there is a corresponding `0` or `' '` in the fill item and for each class reference in the prototype, there is a ref to a (newly constructed and distinct) instance of that class that is initialised by the niladic (default) constructor for that class, if defined.
 
-<h3 class="example">Examples</h3>
+### Examples
 
 ```apl
       4↑1 2

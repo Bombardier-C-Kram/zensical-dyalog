@@ -1,4 +1,6 @@
-# <span class="name">GetBuildID</span> <span class="right">Method 992</span> {: .heading}
+# GetBuildID
+
+Method 992
 
 
 
@@ -33,7 +35,7 @@ Note that although this method is designed to uniquely identify different
 versions of Dyalog by its checksum, it may be used to obtain a checksum
 for *any* arbitrary file.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       GetBuildID ⍬
 38091b76

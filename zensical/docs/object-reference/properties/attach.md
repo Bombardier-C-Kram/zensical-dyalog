@@ -1,4 +1,6 @@
-# <span class="name">Attach</span> <span class="right">Property</span> {: .heading}
+# Attach
+
+Property
 
 [**Applies To**](../propertyapplies/attach.md)
 

@@ -1,4 +1,6 @@
-# <span class="name">CellSet</span> <span class="right">Property</span> {: .heading}
+# CellSet
+
+Property
 
 
 

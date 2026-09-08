@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">TIMEOUT</span> <span class="command">1006</span> {: .heading}
+# TIMEOUT
+
+```apl
+1006
+```
 
 
 
@@ -15,7 +19,7 @@ It is also reported by `⎕FHOLD` if it times out.
 
 It is usual for this error to be trapped.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕RTL←5 ⋄ ⍞←'RESPOND WITHIN 5 SECONDS: ' ⋄ R←⍞
 RESPOND WITHIN 5 SECONDS:

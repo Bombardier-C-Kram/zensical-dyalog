@@ -1,4 +1,6 @@
-# <span class="name">Visible</span> <span class="right">Property</span> {: .heading}
+# Visible
+
+Property
 
 [**Applies To**](../propertyapplies/visible.md)
 

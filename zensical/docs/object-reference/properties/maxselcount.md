@@ -1,4 +1,6 @@
-# <span class="name">MaxSelCount</span> <span class="right">Property</span> {: .heading}
+# MaxSelCount
+
+Property
 
 
 

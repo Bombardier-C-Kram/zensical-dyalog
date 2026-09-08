@@ -1,4 +1,4 @@
-# <span class="name">Niladic Example</span> {: .heading}
+# Niladic Example
 
 In the following example, `DomesticParrot` is derived from `Parrot` which is derived from `Bird`. They all share the Field `Desc` (inherited from `Bird`). Each of the 3 Classes has its own *niladic* Constructor called `egg0`.
 ```apl

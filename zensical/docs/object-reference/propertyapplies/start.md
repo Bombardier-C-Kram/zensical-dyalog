@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Start Property</span> {: .heading}
+# Start Property
 
 |------------------------------|--------------------------------|------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|&nbsp;|

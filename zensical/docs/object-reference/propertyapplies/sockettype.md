@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SocketType Property</span> {: .heading}
+# SocketType Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

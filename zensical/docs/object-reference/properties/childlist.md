@@ -1,4 +1,6 @@
-# <span class="name">ChildList</span> <span class="right">Property</span> {: .heading}
+# ChildList
+
+Property
 
 [**Applies To**](../propertyapplies/childlist.md)
 

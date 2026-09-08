@@ -1,4 +1,6 @@
-# <span class="name">ItemGroups</span> <span class="right">Property</span> {: .heading}
+# ItemGroups
+
+Property
 
 **Applies To:** [ListView](../objects/listview.md)
 

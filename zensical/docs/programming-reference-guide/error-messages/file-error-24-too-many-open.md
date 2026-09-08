@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">FILE ERROR 24 Too many open</span> {: .heading}
+# FILE ERROR 24 Too many open
 
 
 

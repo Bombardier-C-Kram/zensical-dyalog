@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Discard Source Code</span> <span class="command">R←5172⌶Y</span> {: .heading}
+# Discard Source Code
+
+```apl
+R←5172⌶Y
+```
 
 
 

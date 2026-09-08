@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CornerTitleBCol Property</span> {: .heading}
+# CornerTitleBCol Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

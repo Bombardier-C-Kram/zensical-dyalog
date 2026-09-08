@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SetCellType Method</span> {: .heading}
+# SetCellType Method
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

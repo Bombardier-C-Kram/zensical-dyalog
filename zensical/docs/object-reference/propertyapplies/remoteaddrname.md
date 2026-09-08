@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">RemoteAddrName Property</span> {: .heading}
+# RemoteAddrName Property
 
 |------------------------------------|------|------|
 |[TCPSocket](../objects/tcpsocket.md)|&nbsp;|&nbsp;|

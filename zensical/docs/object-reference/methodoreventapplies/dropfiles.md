@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DropFiles Event</span> {: .heading}
+# DropFiles Event
 
 |----------------------------------------------|------------------------------------------|----------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)      |[Button](../objects/button.md)          |

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ActiveXContainer Methods</span> {: .heading}
+# ActiveXContainer Methods
 
 |-------------------------------------|-----------------------------------------------------------|------|
 |[Detach](../methodorevents/detach.md)|[OLEQueryInterface](../methodorevents/olequeryinterface.md)|&nbsp;|

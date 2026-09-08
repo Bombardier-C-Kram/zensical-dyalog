@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Jot</span> <span class="command">∘</span> {: .heading}
+# Jot
+
+```apl
+∘
+```
 
 Jot is a dyadic operator
 

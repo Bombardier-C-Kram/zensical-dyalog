@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Formats Property</span> {: .heading}
+# Formats Property
 
 |------------------------------------|------|------|
 |[Clipboard](../objects/clipboard.md)|&nbsp;|&nbsp;|

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">PageBack Event</span> {: .heading}
+# PageBack Event
 
 |------------------------------------------|------|------|
 |[PropertyPage](../objects/propertypage.md)|&nbsp;|&nbsp;|

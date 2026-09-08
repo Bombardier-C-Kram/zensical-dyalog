@@ -1,4 +1,6 @@
-# <span class="name">GridCopyError</span> <span class="right">Event 196</span> {: .heading}
+# GridCopyError
+
+Event 196
 
 
 

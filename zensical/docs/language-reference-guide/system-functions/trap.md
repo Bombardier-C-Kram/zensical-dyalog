@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Trap Event</span> <span class="command">⎕TRAP</span> {: .heading}
+# Trap Event
+
+```apl
+⎕TRAP
+```
 
 
 
@@ -114,7 +118,7 @@ Table: Trappable Event Codes {: #TrapEvents }
 
 See [Programmer's Guide: "Trap Statement"](../../../programming-reference-guide/defined-functions-and-operators/traditional-functions-and-operators/control-structures/trap) for an alternative 'control structured' error trapping mechanism.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕TRAP←⊂(3 4 5) 'E' 'ERROR' ⋄ ⍴⎕TRAP
 1
@@ -172,7 +176,7 @@ The 'cut-back' action is useful for returning control to a known point in the ap
 
 User-defined events may be signalled through the `⎕SIGNAL` system function.  A user-defined event (in the range 500-999) may be trapped explicitly or implicitly by the event code 0.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕TRAP←500 'E' '''USER EVENT 500 - TRAPPED'''
  

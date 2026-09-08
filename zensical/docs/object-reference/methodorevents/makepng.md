@@ -1,4 +1,6 @@
-# <span class="name">MakePNG</span> <span class="right">Method 260</span> {: .heading}
+# MakePNG
+
+Method 260
 
 
 

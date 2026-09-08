@@ -1,4 +1,6 @@
-# <span class="name">GreetBitmap</span> <span class="right">Method 138</span> {: .heading}
+# GreetBitmap
+
+Method 138
 
 
 

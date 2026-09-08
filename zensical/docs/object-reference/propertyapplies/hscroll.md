@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">HScroll Property</span> {: .heading}
+# HScroll Property
 
 |----------------------------------|--------------------------------|------------------------------------|
 |[Combo](../objects/combo.md)      |[ComboEx](../objects/comboex.md)|[Edit](../objects/edit.md)          |

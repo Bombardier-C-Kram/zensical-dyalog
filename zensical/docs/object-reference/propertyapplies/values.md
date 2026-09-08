@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Values Property</span> {: .heading}
+# Values Property
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">Source as Typed</span> {: .heading}
+# Source as Typed
 
 ## Historical Introduction
 

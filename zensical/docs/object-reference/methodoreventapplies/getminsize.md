@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GetMinSize Method</span> {: .heading}
+# GetMinSize Method
 
 |----------------------------------|------|------|
 |[Calendar](../objects/calendar.md)|&nbsp;|&nbsp;|

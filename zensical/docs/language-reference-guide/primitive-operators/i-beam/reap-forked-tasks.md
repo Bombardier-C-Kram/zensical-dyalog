@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Reap Forked Tasks</span> <span class="command">R←4002⌶Y</span> {: .heading}
+# Reap Forked Tasks
+
+```apl
+R←4002⌶Y
+```
 
 
 
@@ -68,7 +72,7 @@ struct rusage {
 
 `4002⌶` may return the PID of an abnormally terminated Auxiliary Processor; APL code should check that the list of processes that have been reaped is a superset of the list of processes that have been started.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ tryforks;pid;fpid;rpid
 [1]    rpids←fpids←⍬

@@ -7,11 +7,15 @@ search:
   ⎕EN EN
 </div>
 
-# <span class="name">Event Number</span> <span class="command">R←⎕EN</span> {: .heading}
+# Event Number
+
+```apl
+R←⎕EN
+```
 
 This simple integer scalar reports the identification number for the most recent event which occurred, caused by an APL action or by an interrupt or by the `⎕SIGNAL` system function.  Its value in a clear workspace is `0`.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ÷0
 DOMAIN ERROR: Divide by zero

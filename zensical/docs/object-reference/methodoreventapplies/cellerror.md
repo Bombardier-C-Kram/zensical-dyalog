@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">CellError Event</span> {: .heading}
+# CellError Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

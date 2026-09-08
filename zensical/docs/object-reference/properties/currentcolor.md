@@ -1,4 +1,6 @@
-# <span class="name">CurrentColor</span> <span class="right">Property</span> {: .heading}
+# CurrentColor
+
+Property
 
 
 

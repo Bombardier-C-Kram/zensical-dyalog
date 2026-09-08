@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Load Workspace</span> <span class="command">⎕LOAD Y</span> {: .heading}
+# Load Workspace
+
+```apl
+⎕LOAD Y
+```
 
 
 

@@ -2,7 +2,11 @@
 search:
   exclude: true
 ---
-# <span class="name">Plus</span> <span class="command">+</span> {: .heading}
+# Plus
+
+```apl
++
+```
 
 Monadic Plus means
 [Conjugate](../primitive-functions/conjugate.md)

@@ -1,4 +1,4 @@
-# <span class="name">Methods</span> {: .heading}
+# Methods
 
 When you create an instance of a COM object, the methods and the properties are directly accessible from the corresponding namespace.
 

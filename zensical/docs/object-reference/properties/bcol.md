@@ -1,4 +1,6 @@
-# <span class="name">BCol</span> <span class="right">Property</span> {: .heading}
+# BCol
+
+Property
 
 [**Applies To**](../propertyapplies/bcol.md)
 

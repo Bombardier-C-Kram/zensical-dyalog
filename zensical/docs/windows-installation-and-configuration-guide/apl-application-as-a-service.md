@@ -1,4 +1,4 @@
-# <span class="name">APL Application as a Service</span> {: .heading}
+# APL Application as a Service
 
 ## Introduction
 

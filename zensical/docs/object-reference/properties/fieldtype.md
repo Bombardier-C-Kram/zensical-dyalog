@@ -1,4 +1,6 @@
-# <span class="name">FieldType</span> <span class="right">Property</span> {: .heading}
+# FieldType
+
+Property
 
 
 

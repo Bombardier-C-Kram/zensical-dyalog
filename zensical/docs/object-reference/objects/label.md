@@ -1,4 +1,6 @@
-# <span class="name">Label</span> <span class="right">Object</span> {: .heading}
+# Label
+
+Object
 
 
 

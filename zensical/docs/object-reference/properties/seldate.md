@@ -1,4 +1,6 @@
-# <span class="name">SelDate</span> <span class="right">Property</span> {: .heading}
+# SelDate
+
+Property
 
 
 

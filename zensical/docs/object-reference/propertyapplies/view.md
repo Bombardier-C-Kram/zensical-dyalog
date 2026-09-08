@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">View Property</span> {: .heading}
+# View Property
 
 |----------------------------------|------|------|
 |[ListView](../objects/listview.md)|&nbsp;|&nbsp;|

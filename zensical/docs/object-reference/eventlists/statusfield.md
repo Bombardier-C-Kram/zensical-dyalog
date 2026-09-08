@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">StatusField Events</span> {: .heading}
+# StatusField Events
 
 |-------------------------------------------|---------------------------------------------------|-----------------------------------------------|
 |[Close](../methodorevents/close.md)        |[Create](../methodorevents/create.md)              |[DropObjects](../methodorevents/dropobjects.md)|

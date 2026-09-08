@@ -1,4 +1,6 @@
-# <span class="name">RealSize</span> <span class="right">Property</span> {: .heading}
+# RealSize
+
+Property
 
 
 

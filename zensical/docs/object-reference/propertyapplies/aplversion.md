@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">APLVersion Property</span> {: .heading}
+# APLVersion Property
 
 |--------------------------|------|------|
 |[Root](../objects/root.md)|&nbsp;|&nbsp;|

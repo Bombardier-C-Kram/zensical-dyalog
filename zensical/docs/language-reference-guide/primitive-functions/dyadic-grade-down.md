@@ -6,7 +6,11 @@ search:
   ⍒ grade
 </div>
 
-# <span class="name">Dyadic Grade Down</span> <span class="command">R←X⍒Y</span> {: .heading}
+# Dyadic Grade Down
+
+```apl
+R←X⍒Y
+```
 
 `Y` must be a simple character array of rank greater than 0. `X` must be a simple character array of rank 1 or greater. `R` is a simple integer vector of shape `1↑⍴Y` containing the permutation of `⍳1↑⍴Y` that places the sub-arrays of `Y` along the first axis in descending order according to the collation sequence `X`. The indices of any set of identical sub-arrays in `Y` occur in `R` in ascending order.
 
@@ -66,7 +70,7 @@ That is, the order of rows is 4 2 1 3 which corresponds to a descending row sort
         Aa              4
 ```
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍴S1
 2 27

@@ -8,6 +8,10 @@ search:
   scan first
 </div>
 
-# <span class="name">Scan First</span> <span class="command">R←f⍀Y</span> {: .heading}
+# Scan First
+
+```apl
+R←f⍀Y
+```
 
 The form `R←f⍀Y` implies scan along the first axis of `Y`.  See [Scan](scan.md).

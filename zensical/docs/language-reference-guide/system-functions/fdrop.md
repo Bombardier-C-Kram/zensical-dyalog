@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">File Drop Component</span> <span class="command">\{R\}←⎕FDROP Y</span> {: .heading}
+# File Drop Component
+
+```apl
+{R}←⎕FDROP Y
+```
 
 
 ## Access code 32

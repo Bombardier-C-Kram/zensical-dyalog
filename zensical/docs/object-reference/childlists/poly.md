@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Poly Children</span> {: .heading}
+# Poly Children
 
 |----------------------------|------|------|
 |[Timer](../objects/timer.md)|&nbsp;|&nbsp;|

@@ -1,4 +1,4 @@
-# <span class="name">:Property Section</span> {: .heading}
+# :Property Section
 
 A Property is defined by a `:Property ... :EndProperty` section in a Class Script. The syntax of the :Property Statement, and its optional `:Access` statement is as follows:
 ```apl

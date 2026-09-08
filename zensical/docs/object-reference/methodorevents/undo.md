@@ -1,4 +1,6 @@
-# <span class="name">Undo</span> <span class="right">Method 170</span> {: .heading}
+# Undo
+
+Method 170
 
 
 

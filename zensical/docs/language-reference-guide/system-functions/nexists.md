@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Exists</span> <span class="command">R←⎕NEXISTS Y</span> {: .heading}
+# Native File Exists
+
+```apl
+R←⎕NEXISTS Y
+```
 
 
 
@@ -42,7 +46,7 @@ If `Y` specifies a single name, the result `R` is a scalar 1 if a file or direct
 If the Wildcard option is 1, `R` indicates whether or not one or more matches to the corresponding pattern in `Y` exist.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
       ⎕←⎕MKDIR'/Users/Pete/Documents/temp/t1/t2'

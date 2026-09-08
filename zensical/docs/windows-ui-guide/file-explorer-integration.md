@@ -1,4 +1,4 @@
-# <span class="name">File Explorer Integration</span> {: .heading}
+# File Explorer Integration
 
 ## File Associations
 

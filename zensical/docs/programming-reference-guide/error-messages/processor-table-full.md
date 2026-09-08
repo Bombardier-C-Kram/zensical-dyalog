@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">PROCESSOR TABLE FULL</span> <span class="command">76</span> {: .heading}
+# PROCESSOR TABLE FULL
+
+```apl
+76
+```
 
 
 
@@ -15,7 +19,7 @@ This report is given when the limit on the number of processes (tasks) that the 
 
 It is necessary to wait until active processes are completed before the required task may proceed.  If the condition should occur frequently, the solution is to increase the limit on the number of processes for the computer system.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       'prefect' ⎕SH 'prefect'
 PROCESSOR TABLE FULL

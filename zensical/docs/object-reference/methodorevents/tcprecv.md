@@ -1,4 +1,6 @@
-# <span class="name">TCPRecv</span> <span class="right">Event 373</span> {: .heading}
+# TCPRecv
+
+Event 373
 
 
 

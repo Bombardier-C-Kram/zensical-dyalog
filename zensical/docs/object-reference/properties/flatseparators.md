@@ -1,4 +1,6 @@
-# <span class="name">FlatSeparators</span> <span class="right">Property</span> {: .heading}
+# FlatSeparators
+
+Property
 
 
 

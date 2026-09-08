@@ -1,4 +1,6 @@
-# <span class="name">View</span> <span class="right">Property</span> {: .heading}
+# View
+
+Property
 
 
 

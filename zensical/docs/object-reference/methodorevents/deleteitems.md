@@ -1,4 +1,6 @@
-# <span class="name">DeleteItems</span> <span class="right">Method 309</span> {: .heading}
+# DeleteItems
+
+Method 309
 
 
 

@@ -1,4 +1,6 @@
-# <span class="name">PrintRange</span> <span class="right">Property</span> {: .heading}
+# PrintRange
+
+Property
 
 
 

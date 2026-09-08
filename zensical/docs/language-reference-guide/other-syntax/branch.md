@@ -8,7 +8,11 @@ search:
 </div>
 
 
-# <span class="name">Branch</span> <span class="command">→Y</span> {: .heading}
+# Branch
+
+```apl
+→Y
+```
 
 `Y` may be a scalar or vector which, if not empty, has a simple numeric scalar as its first element.  The function has no explicit result.  It is used to modify the normal sequence of execution of expressions or to resume execution after a statement has been interrupted. Branch is not in the function domain of operators.
 
@@ -31,7 +35,7 @@ If `Y` is empty, the branch function has no effect.  The next expression is exec
 
 The `:GoTo` statement may be used in place of Branch in a defined function.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ TEST
 [1]    1
@@ -48,7 +52,7 @@ The `:GoTo` statement may be used in place of Branch in a defined function.
 
 In general it is better to branch to a LABEL than to a line number.  A label occurs in a statement followed by a colon and is assigned the value of the statement line number when the function is defined.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ TEST
 [1]    1
@@ -92,7 +96,7 @@ In this example, the expressions `'A←A+1'` and `'→END'` are executed only if
 
 In immediate execution mode, the branch function permits execution to be continued within the most recently suspended function, if any, in the state indicator.  If the state indicator is empty, or if the argument `Y` is the empty vector, the branch expression has no effect.  If a statement line is specified which does not exist, the function is terminated.  Otherwise, execution is restarted from the beginning of the specified statement line in the most recently suspended function.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
      ∇ F
 [1]   1

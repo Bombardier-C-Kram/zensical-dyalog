@@ -1,4 +1,6 @@
-# <span class="name">FillCol</span> <span class="right">Property</span> {: .heading}
+# FillCol
+
+Property
 
 
 

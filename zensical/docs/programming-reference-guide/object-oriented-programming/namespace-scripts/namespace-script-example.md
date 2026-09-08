@@ -1,4 +1,4 @@
-# <span class="name">Namespace Script Example</span> {: .heading}
+# Namespace Script Example
 
 The [DiaryStuff](diarystuff-example-namespace.md) example illustrates the manner in which classes may be defined and used in a Namespace script.
 

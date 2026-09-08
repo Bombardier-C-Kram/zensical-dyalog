@@ -1,3 +1,3 @@
-# <span class="name">DyalogWebSite</span> {: .heading}
+# DyalogWebSite
 
 This parameter specifies the URL for the Dyalog web site.

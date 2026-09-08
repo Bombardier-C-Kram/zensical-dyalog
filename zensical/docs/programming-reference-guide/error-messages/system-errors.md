@@ -1,4 +1,4 @@
-# <span class="name">System Errors</span> {: .heading}
+# System Errors
 
 ## Introduction
 

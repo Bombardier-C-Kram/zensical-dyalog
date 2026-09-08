@@ -1,4 +1,6 @@
-# <span class="name">CellChanged</span> <span class="right">Event 164</span> {: .heading}
+# CellChanged
+
+Event 164
 
 
 

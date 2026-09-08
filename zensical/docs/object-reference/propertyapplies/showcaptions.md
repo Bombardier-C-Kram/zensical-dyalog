@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ShowCaptions Property</span> {: .heading}
+# ShowCaptions Property
 
 |----------------------------------------|------|------|
 |[ToolControl](../objects/toolcontrol.md)|&nbsp;|&nbsp;|

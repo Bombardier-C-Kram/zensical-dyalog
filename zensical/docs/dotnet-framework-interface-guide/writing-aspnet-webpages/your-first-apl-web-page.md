@@ -1,4 +1,4 @@
-# <span class="name">Your First APL Web Page</span> {: .heading}
+# Your First APL Web Page
 
 !!! Info "Information"
     This example includes an outline description of ASP.NET technology. For further information, see the [Microsoft .NET Framework documentation](https://learn.microsoft.com/en-us/dotnet/framework/) and _Beginning ASP.NET using VB.NET_ (Wrox Press Ltd, ISBN 1861005040).

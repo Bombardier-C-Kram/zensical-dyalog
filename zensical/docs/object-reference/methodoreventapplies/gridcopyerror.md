@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">GridCopyError Event</span> {: .heading}
+# GridCopyError Event
 
 |--------------------------|------|------|
 |[Grid](../objects/grid.md)|&nbsp;|&nbsp;|

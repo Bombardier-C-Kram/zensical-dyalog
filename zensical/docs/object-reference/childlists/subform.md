@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">SubForm Children</span> {: .heading}
+# SubForm Children
 
 |--------------------------------------------|------------------------------------------|----------------------------------------------|
 |[Animation](../objects/animation.md)        |[Bitmap](../objects/bitmap.md)            |[BrowseBox](../objects/browsebox.md)          |

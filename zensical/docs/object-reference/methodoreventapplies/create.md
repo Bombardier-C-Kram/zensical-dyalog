@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Create Event</span> {: .heading}
+# Create Event
 
 |--------------------------------------------------|----------------------------------------------|--------------------------------------------|
 |[ActiveXContainer](../objects/activexcontainer.md)|[ActiveXControl](../objects/activexcontrol.md)|[Animation](../objects/animation.md)        |

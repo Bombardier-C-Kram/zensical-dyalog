@@ -1,4 +1,6 @@
-# <span class="name">Splitting</span> <span class="right">Event 281</span> {: .heading}
+# Splitting
+
+Event 281
 
 
 

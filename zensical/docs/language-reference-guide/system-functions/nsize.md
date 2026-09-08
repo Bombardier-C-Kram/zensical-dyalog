@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Native File Size</span> <span class="command">R←⎕NSIZE Y</span> {: .heading}
+# Native File Size
+
+```apl
+R←⎕NSIZE Y
+```
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Group Events</span> {: .heading}
+# Group Events
 
 |---------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 |[Close](../methodorevents/close.md)                            |[Create](../methodorevents/create.md)                        |[FontOK](../methodorevents/fontok.md)              |

@@ -1,4 +1,6 @@
-# <span class="name">IconObj</span> <span class="right">Property</span> {: .heading}
+# IconObj
+
+Property
 
 [**Applies To**](../propertyapplies/iconobj.md)
 

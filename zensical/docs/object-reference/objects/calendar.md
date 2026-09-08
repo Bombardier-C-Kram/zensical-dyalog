@@ -1,4 +1,6 @@
-# <span class="name">Calendar</span> <span class="right">Object</span> {: .heading}
+# Calendar
+
+Object
 
 
 

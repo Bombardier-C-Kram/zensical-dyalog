@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">WebSocketUpgrade Event</span> {: .heading}
+# WebSocketUpgrade Event
 
 |------------------------------------------|------|------|
 |[HTMLRenderer](../objects/htmlrenderer.md)|&nbsp;|&nbsp;|

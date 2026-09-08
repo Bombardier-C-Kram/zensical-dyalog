@@ -1,4 +1,6 @@
-# <span class="name">SelectCertificate</span> <span class="right">Event 848</span> {: .heading}
+# SelectCertificate
+
+Event 848
 
 
 
@@ -53,7 +55,7 @@ The **Subject** and **Issuer** namespaces contain the following variables:
 
 The application should respond to this event by selecting a certficate from the list of available certificates reported by the 7th element of the event message. This is done by having a callback function that sets the 3rd element of the event message (Index) to the 0-origin index in Certificates and returns the event message as its result.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
 
      ∇ arg←cb arg

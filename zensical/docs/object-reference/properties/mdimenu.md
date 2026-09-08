@@ -1,4 +1,6 @@
-# <span class="name">MDIMenu</span> <span class="right">Property</span> {: .heading}
+# MDIMenu
+
+Property
 
 
 

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Spinner Parents</span> {: .heading}
+# Spinner Parents
 
 |----------------------------------------------|----------------------------------|------------------------------------------|
 |[ActiveXControl](../objects/activexcontrol.md)|[CoolBand](../objects/coolband.md)|[Form](../objects/form.md)                |

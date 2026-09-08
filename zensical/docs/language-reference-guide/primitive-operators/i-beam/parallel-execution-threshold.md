@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Parallel Execution Threshold</span> <span class="command">R←1112⌶Y</span> {: .heading}
+# Parallel Execution Threshold
+
+```apl
+R←1112⌶Y
+```
 
 
 

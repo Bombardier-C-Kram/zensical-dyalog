@@ -3,7 +3,11 @@
 
 
 
-# <span class="name">FILE SYSTEM NOT AVAILABLE</span> <span class="command">28</span> {: .heading}
+# FILE SYSTEM NOT AVAILABLE
+
+```apl
+28
+```
 
 
 

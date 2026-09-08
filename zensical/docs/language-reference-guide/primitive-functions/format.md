@@ -11,14 +11,18 @@ search:
 
 
 
-# <span class="name">Format</span> <span class="command">R←⍕Y</span> {: .heading}
+# Format
+
+```apl
+R←⍕Y
+```
 
 
 
 `Y` may be any array. `R` is a simple character array which will display identically to the display produced by `Y`. The result is independent of `⎕PW`.  If `Y` is a simple character array, then `R` is `Y`.
 
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       +B←⍕A←2 6⍴'HELLO PEOPLE'
 HELLO
@@ -31,7 +35,7 @@ PEOPLE
 
 If `Y` is a simple numeric scalar, then `R` is a vector containing the formatted number without any spaces.  A floating point number is formatted according to the system variable `⎕PP`.  `⎕PP` is ignored when formatting integers.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⎕PP←5
  
@@ -60,7 +64,7 @@ If `Y` is a simple numeric scalar, then `R` is a vector containing the formatted
 
 Scaled notation is used if the magnitude of the non-integer number is too large to represent with `⎕PP` significant digits or if the number requires more than five leading zeroes after the decimal point.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍕123456.7
 1.2346E5
@@ -72,7 +76,7 @@ Scaled notation is used if the magnitude of the non-integer number is too large 
 
 If `Y` is a simple numeric vector, then `R` is a character vector in which each element of `Y` is independently formatted with a single separating space between formatted elements.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⍴C←⍕¯123456 1 22.5 ¯0.000000667 5.00001
 27
@@ -92,7 +96,7 @@ If `Y` is a simple numeric array rank higher than one, `R` is a character array 
 5. the exponent values in scaled formats are left-adjusted to remove any blanks.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       C←22 ¯0.000000123 2.34 ¯212 123456 6.00002 0
  
@@ -110,7 +114,7 @@ If `Y` is a simple numeric array rank higher than one, `R` is a character array 
 
 If `Y` is non-simple, and all items of `Y` at any depth are scalars or vectors, then `R` is a vector.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       B←⍕A←'ABC' 100 (1 2 (3 4 5)) 10
  
@@ -140,7 +144,7 @@ By replacing spaces with `^`, it is clearer to see how the result of `⍕` is fo
 
 If `Y` is non-simple, and all items of `Y` at any depth are not scalars, then `R` is a matrix.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       D←⍕C←1 'AB' (2 2⍴1+⍳4) (2 2 3⍴'CDEFGHIJKLMN')
  

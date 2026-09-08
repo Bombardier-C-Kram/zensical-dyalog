@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabButton Parents</span> {: .heading}
+# TabButton Parents
 
 |--------------------------------------|------|------|
 |[TabControl](../objects/tabcontrol.md)|&nbsp;|&nbsp;|

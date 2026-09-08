@@ -8,7 +8,11 @@ search:
   3502⌶
 </div>
 
-# <span class="name">Manage Ride Connections</span> <span class="command">R←3502⌶Y</span> {: .heading}
+# Manage Ride Connections
+
+```apl
+R←3502⌶Y
+```
 
 `3502⌶` gives control over Ride connections to the interpreter. More details about Ride can be found in the [Ride User Guide](https://dyalog.github.io/ride).
 

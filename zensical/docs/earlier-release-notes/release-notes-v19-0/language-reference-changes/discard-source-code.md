@@ -1,4 +1,8 @@
-# <span class="name">Discard Source Code</span> <span class="command">R←5172⌶Y</span> {: .heading}
+# Discard Source Code
+
+```apl
+R←5172⌶Y
+```
 
 This specifies whether source code is discarded for functions and operators when they are created by the editor or by `⎕FIX`. See also [Discard Source Information](discard-source-information.md).
 

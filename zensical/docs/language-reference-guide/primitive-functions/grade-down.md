@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Grade Down</span> <span class="command">R←⍒Y</span> {: .heading}
+# Grade Down
+
+```apl
+R←⍒Y
+```
 
 
 
@@ -21,7 +25,7 @@ search:
 `⎕IO` is an implicit argument of Grade Down.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       ⍒22.5 1 15 3 ¯4
 1 3 4 2 5

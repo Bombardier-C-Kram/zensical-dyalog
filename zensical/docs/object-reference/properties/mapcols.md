@@ -1,4 +1,6 @@
-# <span class="name">MapCols</span> <span class="right">Property</span> {: .heading}
+# MapCols
+
+Property
 
 
 

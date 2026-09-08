@@ -2,7 +2,11 @@
 search:
   boost: 2
 ---
-# <span class="name">Unicode Normalisation</span> <span class="command">R←X(5581⌶)Y</span> {: .heading}
+# Unicode Normalisation
+
+```apl
+R←X(5581⌶)Y
+```
 
 Converts characters in an array to one of four Unicode Normal Forms.
 
@@ -40,7 +44,7 @@ Unicode normalisation is used to transform all equivalent text to a single repre
 
 For a full explanation of the different normalisation forms, see [Unicode Standard Annex #15](https://unicode.org/reports/tr15/).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       COMBINING_CEDILLA←⎕UCS 807

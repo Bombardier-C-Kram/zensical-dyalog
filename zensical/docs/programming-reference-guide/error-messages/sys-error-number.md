@@ -3,7 +3,7 @@
 
 
 
-# <span class="name">sys error number</span> {: .heading}
+# sys error number
 
 
 

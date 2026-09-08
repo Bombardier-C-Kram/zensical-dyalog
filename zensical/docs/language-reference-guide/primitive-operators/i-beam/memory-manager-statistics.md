@@ -13,7 +13,11 @@ search:
 
 
 
-# <span class="name">Memory Manager Statistics</span> <span class="command">R←\{X\}(2000⌶)Y</span> {: .heading}
+# Memory Manager Statistics
+
+```apl
+R←{X}(2000⌶)Y
+```
 
 
 
@@ -54,7 +58,7 @@ Note: While all other operations are relatively fast, the operation to count the
 
 See also [Specify Workspace Available](specify-workspace-available.md).
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2000⌶0
 55414796
@@ -86,7 +90,7 @@ If `X` is specified, it must be either a simple integer scalar, or a vector of t
 - Limiting the minimum workspace allocation can avoid repeatedly committing and releasing memory to the Operating System when memory usage is fluctuating.
 
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
       2000⌶2 3
 6 0 33216252

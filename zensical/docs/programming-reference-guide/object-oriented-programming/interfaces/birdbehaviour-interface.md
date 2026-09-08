@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">BirdBehaviour Interface</span> {: .heading}
+# BirdBehaviour Interface
 
 ```apl
 :Interface BirdBehaviour

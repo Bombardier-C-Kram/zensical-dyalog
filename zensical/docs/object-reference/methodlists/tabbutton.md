@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">TabButton Methods</span> {: .heading}
+# TabButton Methods
 
 |-------------------------------------|------|------|
 |[Detach](../methodorevents/detach.md)|&nbsp;|&nbsp;|

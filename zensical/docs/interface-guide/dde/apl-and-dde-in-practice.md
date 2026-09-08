@@ -1,4 +1,4 @@
-# <span class="name">APL and DDE in Practice</span> {: .heading}
+# APL and DDE in Practice
 
 The interface between Dyalog APL/W and DDE is provided by Shared Variables which are implemented as closely as possible in accordance with the APL Standard. There are however some conflicts between Shared Variables and the way in which DDE works. These impose certain restrictions.
 

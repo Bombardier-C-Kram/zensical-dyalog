@@ -1,4 +1,4 @@
-# <span class="name">Log\_File</span> {: .heading}
+# Log\_File
 
 This parameter specifies the path (absolute or relative to the working directory) and name of the Session log file.
 

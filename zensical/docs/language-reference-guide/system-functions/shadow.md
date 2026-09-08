@@ -12,7 +12,11 @@ search:
 
 
 
-# <span class="name">Shadow Name</span> <span class="command">\{R\}←⎕SHADOW Y</span> {: .heading}
+# Shadow Name
+
+```apl
+{R}←⎕SHADOW Y
+```
 
 
 
@@ -31,7 +35,7 @@ If a name is ill-formed, or if it is the name of a system constant or system fun
 
 If the name of a top-level GUI object is shadowed, it is made inactive.
 
-<h2 class="example">Example</h2>
+## Example
 ```apl
       ⎕VR'RUN'
      ∇ NAME RUN FN

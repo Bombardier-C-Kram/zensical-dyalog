@@ -1,4 +1,4 @@
-# <span class="name">Unicode Edition Keyboard</span> {: .heading}
+# Unicode Edition Keyboard
 
 ## Introduction
 

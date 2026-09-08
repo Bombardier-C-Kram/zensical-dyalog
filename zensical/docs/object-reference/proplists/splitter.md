@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">Splitter Properties</span> {: .heading}
+# Splitter Properties
 
 |-----------------------------------------|---------------------------------------|-------------------------------------------|
 |[Type](../properties/type.md)            |[SplitObj1](../properties/splitobj1.md)|[SplitObj2](../properties/splitobj2.md)    |

@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# <span class="name">Primitive Functions</span> {: .heading}
+# Primitive Functions
 
 |Glyph|Glyph Name|Monadic Function|Dyadic Function|
 |---|---|---|---|

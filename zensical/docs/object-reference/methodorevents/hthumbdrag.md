@@ -1,4 +1,6 @@
-# <span class="name">HThumbDrag</span> <span class="right">Event 442</span> {: .heading}
+# HThumbDrag
+
+Event 442
 
 
 

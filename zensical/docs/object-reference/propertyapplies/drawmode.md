@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">DrawMode Property</span> {: .heading}
+# DrawMode Property
 
 |------------------------------|--------------------------------|------------------------------|
 |[Circle](../objects/circle.md)|[Ellipse](../objects/ellipse.md)|[Marker](../objects/marker.md)|

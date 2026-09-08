@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ScrollOpposite Property</span> {: .heading}
+# ScrollOpposite Property
 
 |--------------------------------------|------|------|
 |[TabControl](../objects/tabcontrol.md)|&nbsp;|&nbsp;|

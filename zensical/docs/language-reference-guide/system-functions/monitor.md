@@ -7,7 +7,11 @@ search:
 
 
 
-# <span class="name">Monitor Controls</span> <span class="command">⎕MONITOR</span> {: .heading}
+# Monitor Controls
+
+```apl
+⎕MONITOR
+```
 
 
 ## Dyadic `⎕MONITOR` means

@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span class="name">ReadOnly Property</span> {: .heading}
+# ReadOnly Property
 
 |--------------------------------|--------------------------------------|--------------------------|
 |[Button](../objects/button.md)  |[ButtonEdit](../objects/buttonedit.md)|[Edit](../objects/edit.md)|

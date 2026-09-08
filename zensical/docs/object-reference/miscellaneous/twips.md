@@ -1,4 +1,4 @@
-# <span class="name">Twips</span> {: .heading}
+# Twips
 
 
 

@@ -1,4 +1,4 @@
-# <span class="name">Some Concepts</span> {: .heading}
+# Some Concepts
 
 ## Objects
 

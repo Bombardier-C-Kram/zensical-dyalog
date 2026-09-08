@@ -11,7 +11,11 @@ search:
 
 
 
-# <span class="name">Get Tokens</span> <span class="command">\{R\}←\{X\} ⎕TGET Y</span> {: .heading}
+# Get Tokens
+
+```apl
+{R}←{X} ⎕TGET Y
+```
 
 
 

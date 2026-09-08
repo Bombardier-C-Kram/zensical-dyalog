@@ -1,4 +1,6 @@
-# <span class="name">ServiceNotification</span> <span class="right">Event 94</span> {: .heading}
+# ServiceNotification
+
+Event 94
 
 
 

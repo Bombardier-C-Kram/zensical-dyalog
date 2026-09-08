@@ -12,13 +12,17 @@ search:
 
 
 
-# <span class="name">File Numbers</span> <span class="command">R←⎕FNUMS</span> {: .heading}
+# File Numbers
+
+```apl
+R←⎕FNUMS
+```
 
 
 
 The result is an integer vector of the *file tie number* of all tied files.  If no files are tied, the result is empty.  The elements of the result are in the order in which the files were tied.
 
-<h2 class="example">Examples</h2>
+## Examples
 ```apl
 
       '/home/pete/SALESFILE' ⎕FSTIE 16
